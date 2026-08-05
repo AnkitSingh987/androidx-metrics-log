@@ -1,0 +1,286 @@
+{
+  "Title": "India's Crumbling Infrastructure: A Nation Built to Fall",
+  "Content": "In September 2020, the Bhiwandi Municipal Corporation in Maharashtra placed the Kohinoor building on its **'danger' list** around the same time the Jilani building **collapsed** a few kilometres away, killing 41 people. Six years on, and hours after officials **declared** the Kohinoor to be unsafe again and **evacuated** around 40 residents, it **collapsed**, killing 10 more. The owners had **refused** to vacate the property and instead undertook **unauthorized** repairs in the half-decade in between. While the fall of the Jilani building, which was old but not on a 'dangerous' list, was a failure of **anticipation**, that of the Kohinoor building, which was on such a list and fell mid-repairs, implies a failure of **enforcement**. Yet, the State responded similarly in both instances, by **suspending** officials in 2020 and filing a criminal case against the **contractor** now.\n\nBhiwandi, one of India's largest powerloom hubs, has a large low-income **migrant** population living in small houses in **densely** packed neighbourhoods. With hundreds of buildings on the 'danger' list and no transit camps or temporary housing, residents often choose unsafe homes over **homelessness**, while owners continue collecting rent. Evacuation orders are also hard to **enforce** without police support, while allowing the corporation to claim that legal **liability** has been **discharged** on paper; **demolitions** are politically **fraught**. That both buildings collapsed during the monsoons is also not **coincidental**.\n\nIndia treats infrastructure as an asset requiring a one-time investment. The post-2000s construction **boom** only **outpaced** maintenance work and administrative **oversight**, with the latter having **fragmented** further since. In mid-2024, roofs and canopies collapsed at airports in Delhi, Jabalpur, and Rajkot, while Bihar witnessed a spate of collapsing bridges through 2024-26. Roads have frequently caved in and basements have flooded in tier-I cities, including in the Rajinder Nagar tragedy. This year, similar collapses have also been reported in Kolkata and Pune.\n\nDespite the availability of technologies to continuously **monitor** structures and issue early warnings, **urbanisation** has **outrun** municipal capacity, with most of the resulting failures involving a known **hazard**. The **apparent** rise in the frequency of these incidents indicates a lack of attention to construction quality as much as greater media coverage and there being more infrastructure to fail. But in place of the state's almost **instinctive** responses in the form of legal and **disciplinary** action, inquiries and promises of audits, and victim **compensation**, India's buildings need **widespread** **rehabilitation** work. Nothing short of an urban **renewal** would suffice to prevent further tragedies.\n\nExperts argue that the real crisis lies not in the absence of building codes but in their weak **implementation**. Municipal bodies remain understaffed and underfunded, unable to conduct regular **structural** audits across thousands of ageing properties. Meanwhile, the political costs of ordering mass demolitions or **resettlement** often outweigh the perceived benefits for local administrations, leading to a cycle of **negligence** dressed up as bureaucratic process. Until India shifts from reactive damage control to **proactive** maintenance culture, its **dilapidated** urban landscape will remain a **ticking** hazard, one monsoon away from the next headline.",
+  "Vocabulary": [
+    {
+      "Word": "collapsed",
+      "EnglishMeaning": "Fell down suddenly, often due to structural failure.",
+      "HindiMeaning": "ढह गया",
+      "Synonyms": ["crumbled", "caved in", "toppled", "fell"],
+      "Antonyms": ["stood", "rose", "remained", "held"]
+    },
+    {
+      "Word": "declared",
+      "EnglishMeaning": "Announced officially or clearly.",
+      "HindiMeaning": "घोषित किया",
+      "Synonyms": ["announced", "proclaimed", "stated", "affirmed"],
+      "Antonyms": ["concealed", "withheld", "hid", "denied"]
+    },
+    {
+      "Word": "evacuated",
+      "EnglishMeaning": "Moved people out of a dangerous place.",
+      "HindiMeaning": "खाली कराया",
+      "Synonyms": ["cleared", "removed", "shifted", "withdrew"],
+      "Antonyms": ["occupied", "stayed", "remained", "settled"]
+    },
+    {
+      "Word": "refused",
+      "EnglishMeaning": "Declined to do or accept something.",
+      "HindiMeaning": "इनकार किया",
+      "Synonyms": ["declined", "rejected", "denied", "spurned"],
+      "Antonyms": ["accepted", "agreed", "consented", "allowed"]
+    },
+    {
+      "Word": "unauthorized",
+      "EnglishMeaning": "Done without official permission.",
+      "HindiMeaning": "अनधिकृत",
+      "Synonyms": ["illegal", "unsanctioned", "unofficial", "unlicensed"],
+      "Antonyms": ["authorized", "sanctioned", "legal", "official"]
+    },
+    {
+      "Word": "anticipation",
+      "EnglishMeaning": "Expectation or forewarning of something.",
+      "HindiMeaning": "पूर्वानुमान",
+      "Synonyms": ["expectation", "foresight", "prediction", "expectancy"],
+      "Antonyms": ["surprise", "ignorance", "unawareness", "unpredictability"]
+    },
+    {
+      "Word": "enforcement",
+      "EnglishMeaning": "The act of making sure laws or rules are obeyed.",
+      "HindiMeaning": "सख्ती से लागू करना",
+      "Synonyms": ["implementation", "execution", "administration", "regulation"],
+      "Antonyms": ["neglect", "disobedience", "violation", "noncompliance"]
+    },
+    {
+      "Word": "suspending",
+      "EnglishMeaning": "Temporarily stopping someone from their duties or position.",
+      "HindiMeaning": "निलंबित करना",
+      "Synonyms": ["debarring", "expelling temporarily", "halting", "postponing"],
+      "Antonyms": ["reinstating", "continuing", "resuming", "confirming"]
+    },
+    {
+      "Word": "contractor",
+      "EnglishMeaning": "A person or firm that undertakes construction or repair work.",
+      "HindiMeaning": "ठेकेदार",
+      "Synonyms": ["builder", "constructor", "supplier", "vendor"],
+      "Antonyms": ["client", "employer", "owner"]
+    },
+    {
+      "Word": "migrant",
+      "EnglishMeaning": "A person who moves from one place to another, often for work.",
+      "HindiMeaning": "प्रवासी",
+      "Synonyms": ["immigrant", "traveller", "wanderer", "émigré"],
+      "Antonyms": ["native", "resident", "settler", "local"]
+    },
+    {
+      "Word": "densely",
+      "EnglishMeaning": "In a crowded or closely packed way.",
+      "HindiMeaning": "घनी तरह से",
+      "Synonyms": ["thickly", "closely", "compactly", "tightly"],
+      "Antonyms": ["sparsely", "loosely", "thinly", "widely"]
+    },
+    {
+      "Word": "homelessness",
+      "EnglishMeaning": "The state of having no home or permanent residence.",
+      "HindiMeaning": "बेघर होने की स्थिति",
+      "Synonyms": ["destitution", "vagrancy", "displacement"],
+      "Antonyms": ["shelter", "residence", "housing", "settlement"]
+    },
+    {
+      "Word": "enforce",
+      "EnglishMeaning": "To compel observance of or compliance with a law or rule.",
+      "HindiMeaning": "लागू करना",
+      "Synonyms": ["impose", "implement", "execute", "compel"],
+      "Antonyms": ["ignore", "abandon", "waive", "neglect"]
+    },
+    {
+      "Word": "liability",
+      "EnglishMeaning": "Legal responsibility for something, especially damage or loss.",
+      "HindiMeaning": "उत्तरदायित्व",
+      "Synonyms": ["responsibility", "accountability", "obligation", "culpability"],
+      "Antonyms": ["immunity", "exemption", "irresponsibility"]
+    },
+    {
+      "Word": "discharged",
+      "EnglishMeaning": "Released, fulfilled, or let go of an obligation.",
+      "HindiMeaning": "मुक्त किया, पूरा किया",
+      "Synonyms": ["released", "dismissed", "fulfilled", "freed"],
+      "Antonyms": ["retained", "kept", "held", "admitted"]
+    },
+    {
+      "Word": "demolitions",
+      "EnglishMeaning": "The act of tearing down buildings or structures.",
+      "HindiMeaning": "तोड़फोड़",
+      "Synonyms": ["destruction", "razing", "dismantling", "wrecking"],
+      "Antonyms": ["construction", "erection", "restoration"]
+    },
+    {
+      "Word": "fraught",
+      "EnglishMeaning": "Full of difficulty, danger, or risk.",
+      "HindiMeaning": "जोखिम भरा",
+      "Synonyms": ["troubled", "risky", "problematic", "tense"],
+      "Antonyms": ["easy", "safe", "calm", "smooth"]
+    },
+    {
+      "Word": "coincidental",
+      "EnglishMeaning": "Happening by chance rather than design.",
+      "HindiMeaning": "संयोगवश",
+      "Synonyms": ["accidental", "chance", "random", "incidental"],
+      "Antonyms": ["planned", "intentional", "deliberate", "purposeful"]
+    },
+    {
+      "Word": "boom",
+      "EnglishMeaning": "A period of rapid growth or economic prosperity.",
+      "HindiMeaning": "उछाल",
+      "Synonyms": ["growth", "surge", "expansion", "upswing"],
+      "Antonyms": ["decline", "slowdown", "recession", "fall"]
+    },
+    {
+      "Word": "outpaced",
+      "EnglishMeaning": "Grew or moved faster than something else.",
+      "HindiMeaning": "आगे निकल गया",
+      "Synonyms": ["exceeded", "surpassed", "overtook", "outstripped"],
+      "Antonyms": ["lagged behind", "trailed", "followed", "matched"]
+    },
+    {
+      "Word": "oversight",
+      "EnglishMeaning": "Supervision or careful monitoring of a process.",
+      "HindiMeaning": "निगरानी",
+      "Synonyms": ["supervision", "monitoring", "control", "management"],
+      "Antonyms": ["neglect", "carelessness", "ignorance", "disregard"]
+    },
+    {
+      "Word": "fragmented",
+      "EnglishMeaning": "Broken into disconnected pieces or divided.",
+      "HindiMeaning": "खंडित",
+      "Synonyms": ["divided", "split", "scattered", "broken"],
+      "Antonyms": ["united", "integrated", "consolidated", "whole"]
+    },
+    {
+      "Word": "monitor",
+      "EnglishMeaning": "To watch closely for changes over time.",
+      "HindiMeaning": "निगरानी रखना",
+      "Synonyms": ["observe", "track", "supervise", "watch"],
+      "Antonyms": ["ignore", "neglect", "overlook", "disregard"]
+    },
+    {
+      "Word": "urbanisation",
+      "EnglishMeaning": "The process of an area becoming more urban or city-like.",
+      "HindiMeaning": "शहरीकरण",
+      "Synonyms": ["urban development", "city growth", "modernization"],
+      "Antonyms": ["ruralization", "deurbanization"]
+    },
+    {
+      "Word": "outrun",
+      "EnglishMeaning": "To move or grow faster than something, leaving it behind.",
+      "HindiMeaning": "पीछे छोड़ देना",
+      "Synonyms": ["surpass", "exceed", "outpace", "beat"],
+      "Antonyms": ["lag", "trail", "fall behind", "slow down"]
+    },
+    {
+      "Word": "hazard",
+      "EnglishMeaning": "A source of danger or risk.",
+      "HindiMeaning": "खतरा",
+      "Synonyms": ["danger", "peril", "threat", "risk"],
+      "Antonyms": ["safety", "security", "protection", "harmlessness"]
+    },
+    {
+      "Word": "apparent",
+      "EnglishMeaning": "Clearly visible or seemingly true.",
+      "HindiMeaning": "स्पष्ट",
+      "Synonyms": ["obvious", "clear", "evident", "visible"],
+      "Antonyms": ["hidden", "unclear", "doubtful", "obscure"]
+    },
+    {
+      "Word": "instinctive",
+      "EnglishMeaning": "Done naturally without conscious thought.",
+      "HindiMeaning": "सहज, स्वाभाविक",
+      "Synonyms": ["natural", "automatic", "intuitive", "reflexive"],
+      "Antonyms": ["deliberate", "controlled", "calculated", "learned"]
+    },
+    {
+      "Word": "disciplinary",
+      "EnglishMeaning": "Related to punishment or enforcement of rules.",
+      "HindiMeaning": "अनुशासनात्मक",
+      "Synonyms": ["corrective", "punitive", "regulatory", "penal"],
+      "Antonyms": ["permissive", "lenient", "indulgent", "tolerant"]
+    },
+    {
+      "Word": "compensation",
+      "EnglishMeaning": "Payment given in recognition of loss, suffering, or injury.",
+      "HindiMeaning": "मुआवजा",
+      "Synonyms": ["reparation", "remuneration", "restitution", "payment"],
+      "Antonyms": ["penalty", "deprivation", "loss"]
+    },
+    {
+      "Word": "widespread",
+      "EnglishMeaning": "Present or occurring in many places or among many people.",
+      "HindiMeaning": "व्यापक",
+      "Synonyms": ["extensive", "common", "broad", "prevalent"],
+      "Antonyms": ["limited", "rare", "localized", "narrow"]
+    },
+    {
+      "Word": "rehabilitation",
+      "EnglishMeaning": "The process of repairing, restoring, or renewing something.",
+      "HindiMeaning": "पुनर्वास",
+      "Synonyms": ["restoration", "repair", "renewal", "renovation"],
+      "Antonyms": ["destruction", "damage", "neglect", "deterioration"]
+    },
+    {
+      "Word": "renewal",
+      "EnglishMeaning": "The act of resuming or restoring something to a good condition.",
+      "HindiMeaning": "नवीनीकरण",
+      "Synonyms": ["revival", "restoration", "regeneration", "renovation"],
+      "Antonyms": ["decline", "deterioration", "decay", "expiration"]
+    },
+    {
+      "Word": "implementation",
+      "EnglishMeaning": "The process of putting a plan or decision into effect.",
+      "HindiMeaning": "क्रियान्वयन",
+      "Synonyms": ["execution", "enforcement", "application", "fulfilment"],
+      "Antonyms": ["neglect", "abandonment", "omission"]
+    },
+    {
+      "Word": "structural",
+      "EnglishMeaning": "Relating to the physical framework or construction of a building.",
+      "HindiMeaning": "संरचनात्मक",
+      "Synonyms": ["architectural", "constructional", "framework-related"],
+      "Antonyms": ["superficial", "cosmetic"]
+    },
+    {
+      "Word": "resettlement",
+      "EnglishMeaning": "The process of settling people in a new place after displacement.",
+      "HindiMeaning": "पुनर्वास",
+      "Synonyms": ["relocation", "rehousing", "displacement"],
+      "Antonyms": ["settlement", "permanence"]
+    },
+    {
+      "Word": "negligence",
+      "EnglishMeaning": "Failure to take proper care in doing something.",
+      "HindiMeaning": "लापरवाही",
+      "Synonyms": ["carelessness", "neglect", "oversight", "laxity"],
+      "Antonyms": ["diligence", "attentiveness", "care", "caution"]
+    },
+    {
+      "Word": "proactive",
+      "EnglishMeaning": "Taking action in advance to deal with an expected difficulty.",
+      "HindiMeaning": "सक्रिय, पूर्व-सक्रिय",
+      "Synonyms": ["anticipatory", "preventive", "forward-looking"],
+      "Antonyms": ["reactive", "passive", "negligent"]
+    },
+    {
+      "Word": "dilapidated",
+      "EnglishMeaning": "In a state of disrepair due to age or neglect.",
+      "HindiMeaning": "जर्जर",
+      "Synonyms": ["rundown", "decrepit", "crumbling", "ramshackle"],
+      "Antonyms": ["sturdy", "well-maintained", "renovated", "sound"]
+    },
+    {
+      "Word": "ticking",
+      "EnglishMeaning": "Constantly present and about to cause harm imminently (as in 'ticking time bomb').",
+      "HindiMeaning": "आसन्न खतरे वाला",
+      "Synonyms": ["imminent", "looming", "impending"],
+      "Antonyms": ["distant", "unlikely", "remote"]
+    }
+  ]
+}

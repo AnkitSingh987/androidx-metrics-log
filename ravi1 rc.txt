@@ -1,0 +1,153 @@
+{
+  "Title": "India's Nutritional Paradox: From Deficiency to Excess",
+  "Content": "India, which has a long history of addressing the challenges of **undernutrition**, has to **pivot** to attack the **curious** phenomenon of overnutrition that evolving lifestyles have now laid at its door. The recent National Family Health Survey data showed that in India, while **stunting** and undernutrition continue to be cause for **concern**, despite some gains, the sharp rise in adult overweight and **obesity**, besides diet-related **metabolic** conditions, cannot be ignored any more. Two unrelated developments have advanced the question of unhealthy diets in very pointed suggestions that would **nudge** consumers to make the right choices.\n\nFirst, a Parliamentary Standing Committee has recommended **mandatory** front-of-pack nutrition labelling indicating whether packaged food products are high in sugar, and second, a national **consortium** has advised the government to **levy** a health tax on high fat, salt and sugar foods, and **enforce** stricter regulations on their advertisements. The Standing Committee on Consumer Affairs, Food and Public Distribution also made a recommendation to include the sugar content in baby foods, attacking the **excess** sugar consumption issue right where it begins.\n\nThe consortium on adolescent nutrition, which goes by the practical name Let's Fix Our Food, is led by the Indian Council of Medical Research-National Institute of Nutrition (ICMR-NIN), and comprising several other **prominent** institutions in India and abroad, has **recommended** that the government **ensure** a healthier school food environment, stricter **regulation** of marketing of unhealthy food, and front-of-pack nutrition labelling. These efforts will be among the steps to **tackle** the rising burden of obesity and diet-related non communicable diseases that require a **comprehensive** strategy **helmed** by the government.\n\nAccording to the World Health Organization, since 2017, at least 133 countries have increased or introduced a new health tax. A \"junk food law\" came into force in Colombia in 2023, to tackle the high consumption of packaged foods. An additional tax on such foods began at 10%, rose to 15% the next year and touched 20% the subsequent year. Norway, Hungary, Denmark, Bermuda, Dominica, St. Vincent and the Grenadines, and the Navajo Nation (U.S.), have also specifically implemented taxes on **unprocessed** sugar and sugar-added foods.\n\nWith the ICMR-NIN report indicating that over 17 million children and adolescents are affected by obesity, and that this number can cross 27 million by 2030, there cannot be a better time to act on these suggestions that will go a long way in educating the consumer to make healthy food choices.",
+  "Vocabulary": [
+    {
+      "Word": "Pivot",
+      "EnglishMeaning": "To change direction or strategy.",
+      "HindiMeaning": "मुड़ना / बदलना",
+      "Synonyms": ["shift", "turn", "change", "redirect"],
+      "Antonyms": ["continue", "persist", "remain", "stay"]
+    },
+    {
+      "Word": "Curious",
+      "EnglishMeaning": "Unusual or strange.",
+      "HindiMeaning": "अजीब",
+      "Synonyms": ["strange", "odd", "unusual", "peculiar"],
+      "Antonyms": ["normal", "ordinary", "typical", "familiar"]
+    },
+    {
+      "Word": "Undernutrition",
+      "EnglishMeaning": "Insufficient intake of nutrients.",
+      "HindiMeaning": "कुपोषण / पोषण की कमी",
+      "Synonyms": ["malnutrition", "deficiency"],
+      "Antonyms": ["overnutrition", "adequate nutrition"]
+    },
+    {
+      "Word": "Stunting",
+      "EnglishMeaning": "Failure of normal growth, especially in children.",
+      "HindiMeaning": "विकास रुकना",
+      "Synonyms": ["undergrowth", "retardation"],
+      "Antonyms": ["development", "flourishing", "growth"]
+    },
+    {
+      "Word": "Concern",
+      "EnglishMeaning": "Worry or matter of importance.",
+      "HindiMeaning": "चिंता",
+      "Synonyms": ["worry", "anxiety", "issue", "problem"],
+      "Antonyms": ["confidence", "calm", "comfort", "relief"]
+    },
+    {
+      "Word": "Obesity",
+      "EnglishMeaning": "Excessive body fat.",
+      "HindiMeaning": "मोटापा",
+      "Synonyms": ["corpulence", "overweight", "fatness", "adiposity"],
+      "Antonyms": ["thinness", "leanness", "underweight", "fitness"]
+    },
+    {
+      "Word": "Metabolic",
+      "EnglishMeaning": "Related to the body's chemical processes.",
+      "HindiMeaning": "चयापचय संबंधी",
+      "Synonyms": ["biochemical", "physiological"],
+      "Antonyms": ["nonmetabolic", "external", "inert"]
+    },
+    {
+      "Word": "Nudge",
+      "EnglishMeaning": "Gently encourage.",
+      "HindiMeaning": "प्रेरित करना",
+      "Synonyms": ["encourage", "prompt", "persuade", "steer"],
+      "Antonyms": ["discourage", "deter", "block", "prevent"]
+    },
+    {
+      "Word": "Mandatory",
+      "EnglishMeaning": "Required by law or rule; compulsory.",
+      "HindiMeaning": "अनिवार्य",
+      "Synonyms": ["compulsory", "obligatory"],
+      "Antonyms": ["optional", "voluntary"]
+    },
+    {
+      "Word": "Consortium",
+      "EnglishMeaning": "A group of organizations working together.",
+      "HindiMeaning": "गठबंधन",
+      "Synonyms": ["alliance", "coalition", "partnership", "association"],
+      "Antonyms": ["rivalry", "division", "isolation", "individualism"]
+    },
+    {
+      "Word": "Levy",
+      "EnglishMeaning": "Impose or charge officially.",
+      "HindiMeaning": "अधिरोपित करना",
+      "Synonyms": ["impose", "charge", "assess"],
+      "Antonyms": ["remove", "waive", "cancel", "lift"]
+    },
+    {
+      "Word": "Enforce",
+      "EnglishMeaning": "Make sure a law/rule is obeyed.",
+      "HindiMeaning": "लागू करना",
+      "Synonyms": ["implement", "uphold", "apply", "administer"],
+      "Antonyms": ["ignore", "neglect", "overlook", "violate"]
+    },
+    {
+      "Word": "Excess",
+      "EnglishMeaning": "Too much.",
+      "HindiMeaning": "अतिरिक्त",
+      "Synonyms": ["surplus", "overabundance", "extra"],
+      "Antonyms": ["shortage", "lack", "deficiency", "insufficiency"]
+    },
+    {
+      "Word": "Prominent",
+      "EnglishMeaning": "Important, well-known, or noticeable.",
+      "HindiMeaning": "प्रमुख / विख्यात",
+      "Synonyms": ["notable", "distinguished", "famous", "leading"],
+      "Antonyms": ["obscure", "minor", "unknown", "insignificant"]
+    },
+    {
+      "Word": "Recommend",
+      "EnglishMeaning": "Suggest as suitable or advisable.",
+      "HindiMeaning": "सिफारिश करना",
+      "Synonyms": ["suggest", "advise", "propose", "endorse"],
+      "Antonyms": ["discourage", "oppose", "reject", "disapprove"]
+    },
+    {
+      "Word": "Ensure",
+      "EnglishMeaning": "Make certain.",
+      "HindiMeaning": "सुनिश्चित करना",
+      "Synonyms": ["guarantee", "secure", "confirm"],
+      "Antonyms": ["risk", "jeopardize", "neglect", "ignore"]
+    },
+    {
+      "Word": "Regulation",
+      "EnglishMeaning": "Official rule or control.",
+      "HindiMeaning": "नियम",
+      "Synonyms": ["rule", "control", "guideline", "statute"],
+      "Antonyms": ["disorder", "freedom", "exemption", "chaos"]
+    },
+    {
+      "Word": "Tackle",
+      "EnglishMeaning": "Deal with a problem firmly.",
+      "HindiMeaning": "समाधान करना",
+      "Synonyms": ["address", "confront", "handle", "combat"],
+      "Antonyms": ["avoid", "ignore", "evade", "neglect"]
+    },
+    {
+      "Word": "Comprehensive",
+      "EnglishMeaning": "Complete and covering many parts.",
+      "HindiMeaning": "व्यापक",
+      "Synonyms": ["complete", "thorough", "extensive"],
+      "Antonyms": ["partial", "limited", "incomplete", "narrow"]
+    },
+    {
+      "Word": "Helmed",
+      "EnglishMeaning": "Led by.",
+      "HindiMeaning": "नेतृत्व किया",
+      "Synonyms": ["lead", "head", "direct", "guide"],
+      "Antonyms": ["follow", "trail", "obey", "submit"]
+    },
+    {
+      "Word": "Unprocessed",
+      "EnglishMeaning": "Not treated or refined.",
+      "HindiMeaning": "बिना प्रसंस्करण वाला",
+      "Synonyms": ["raw", "natural", "untreated", "original"],
+      "Antonyms": ["processed", "refined", "treated", "prepared"]
+    }
+  ]
+}
