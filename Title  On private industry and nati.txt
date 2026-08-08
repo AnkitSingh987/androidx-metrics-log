@@ -1,0 +1,64 @@
+Title:  On private industry and national research spending & On the ‘digital arrest’ menace
+Category: Editorial 
+
+
+the Supreme Court of India’s order of August 4 on the “digital arrest” menace is notable for not
+being lured into complacency. After all, the Indian Cybercrime Coordination Centre’s status
+report showed that complaints on the National Cyber Crime Reporting Portal fell from 1,23,672
+in 2024 to 58,249 in 2025, and stood at 16,377 in the first six months of 2026. The Court
+called the figures “certainly encouraging” and directed the Reserve Bank of India to circulate a
+standard operating procedure for temporary debit holds on mule accounts, States to notify cybercrime
+coordination centres and operationalise e-Zero FIRs, and an inter-departmental committee to examine a
+victim compensation framework. Thanks to advisories from banks, telecom operators and the police,
+fewer senior citizens and others are getting victimised by these scams, which have succeeded due to
+older victims’ deference to authority and fear of legal trouble. Yet, scammers find it easy to target youth
+and professionals, and senior citizens the advisories have not reached. And there have been very few
+convictions despite scrutiny and investigation, which suggests that law enforcement must move faster in
+tackling these scams.
+The digital scammers have proved nimble in their modus operandi. They route calls through SIM boxes
+to mask their origin, making them appear as Indian numbers, and use multiple mule accounts across
+many States to move funds swiftly. They are now known to deploy deepfakes on video calls to dupe
+victims and remain untraceable by investigators. In effect, the fraudsters always seem to be a step
+ahead of those pursuing them. The Court’s insistence on restoring money — completed in 36,290 cases
+involving ₹18.05 crore — and on the swift disposing of account-freeze cases, alongside detection
+systems such as MuleHunter.AI, used in over 20 banks, will help limit the damage even when
+perpetrators are not caught or convicted. But convictions are rare as many of these fraud and extortion
+schemes are run from overseas “scam compounds” in Myanmar, the wider Golden Triangle, and
+Cambodia. In Myanmar, scam centres proliferated through direct and indirect official patronage, even as
+recent scrutiny produced raids that were largely for show with these centres shifting to new areas in the
+conflict-ridden country. After Beijing’s crackdown, in 2023, on scam centres targeting Chinese victims,
+scammers shifted focus to other countries, with Indians also being trafficked and tortured to commit
+digital crimes against fellow citizens. New Delhi must use diplomatic pressure in coordination with China,
+the U.S. and ASEAN to compel Naypyidaw and Phnom Penh to act against the networks that host these
+compounds.
+
+
+the Department of Science and Technology’s latest figures on India’s research profile record a
+milestone. In 2023-24, private industry accounted for 51.8% of national research spending —
+a first in India’s history — overtaking all tiers of government combined for the first time.
+Moreover, industry now employs more core researchers than government institutions.
+Transport firms are the largest corporate investors, followed by pharmaceuticals,
+biotechnology and information technology (IT). The break from the past is sharp. Through the 2010s,
+private industry contributed a little over a third of national R&D, and the ratio moved slowly. Then,
+between 2020-21 and 2021-22, private spending nearly doubled — from ₹46,388 crore to ₹82,975 crore
+— and total R&D jumped from ₹1.27 lakh crore to ₹1.95 lakh crore in a single year. R&D spends in the
+transport sector, which barely registered before 2020, has roughly tripled and leads the triumvirate that
+includes biotechnology and IT that are counted among India’s most research-intensive industries.
+Officials attribute this to a post-pandemic realisation that research is essential to competitiveness, and
+that may be part of the story. The purported investments for ‘23-’25 also look healthy, but a change
+concentrated in one year looks less like a shift in corporate behaviour and more like a change in what is
+counted. Mandatory sustainability disclosures for large listed firms, and tighter RBI norms on reporting
+research, took effect at the same moment. Spending that was always occurring — in the foreign
+subsidiaries of Indian companies, and in the captive centres of multinationals — is only now being fully
+captured. Some of the surge, in other words, reflects better measurement rather than more money.
+Genuinely new capital is flowing too — into artificial intelligence, chip design and semiconductor fabs —
+though much of that is still infrastructure building and may not yet belong in the R&D column. India’s
+R&D stands at 0.84% of GDP, against 2.58% for China, 3.45% for the U.S. and 4.94% for South Korea;
+it fields 354 researchers per million people where South Korea and Israel field several thousand. The
+private sector’s own priorities are a further reason for caution: more was spent on advertising than on
+research in 2023-24. The shift will prove worthwhile if it deepens India’s pool of specialised workers and
+its capacity for sophisticated manufacturing, carrying the economy beyond its long reliance on supplying
+low-cost services. [P] How many researchers [A]/ on how spending is [B]/ recorded than on [C]/ the
+country can train [D]/ that depends less [E]. The Anusandhan National Research Foundation, with a
+₹50,000-crore corpus largely to be raised from private sources, was created for precisely this purpose.
+Its promise now rests on delivery.
