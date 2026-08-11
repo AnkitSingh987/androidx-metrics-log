@@ -1,0 +1,74 @@
+﻿Title: The Helpful Colleague
+
+Category: Intermediate
+
+Julian had always been good with numbers. That was why he decided to study finance and become an accountant. He was very excited when he received a job offer from Harrison & Sons, a large and respected accounting firm in Chicago. It was his first real job after finishing university, and he wanted to prove that he was smart and capable.
+
+On his first Monday, Julian walked into the huge glass building. He was wearing a new grey suit and carrying a shiny leather briefcase. He felt like a true professional. The Human Resources manager gave him a tour of the office, introduced him to a few people, and finally showed him to his cubicle.
+
+"Welcome to the team, Julian," his new boss, Mr. Sterling, said. Mr. Sterling was a tall, serious man who always seemed to be in a hurry. "We are very busy right now because it is tax season. You will be working on the accounts for our smaller corporate clients. I expect you to learn quickly. We don't have time to hold your hand."
+
+"Of course, Mr. Sterling. I am ready to work hard," Julian replied, trying to sound confident.
+
+The first few days were mostly filled with reading manuals and watching training videos. Julian felt fine. But on Thursday morning, Mr. Sterling sent him a large folder full of documents.
+
+"I need you to enter all these expenses into our new accounting software, ClearLedger," Mr. Sterling told him. "Then, generate the monthly report and send it to me by tomorrow afternoon."
+
+Julian opened the software on his computer. ClearLedger was a customized program that Harrison & Sons had just bought. Julian had watched a one-hour video about it on his second day, but looking at the actual program was completely different. The screen was filled with dozens of small buttons, complex menus, and strange accounting codes.
+
+He picked up the first receipt from the folder. It was a restaurant bill for a client meeting. He tried to enter the amount, but a red error message popped up on the screen. 'Invalid Category Code,' it read.
+
+Julian frowned. He searched his training notes for the correct code, but he couldn't find it. He tried a different menu, but the screen froze. He clicked a few buttons, and suddenly, half of the data he had entered disappeared.
+
+Panic started to rise in his chest. He looked at the clock. It was already 11:00 AM, and he had not finished a single entry. He had hundreds of receipts left in the folder. If he couldn't do this simple task, Mr. Sterling would think he was an idiot. He might even lose his job in the first week.
+
+He thought about asking his boss for help, but he remembered Mr. Sterling's strict words: "We don't have time to hold your hand." Julian decided he had to figure it out himself.
+
+For the next two hours, Julian struggled. He read the online help pages, but they were written in confusing technical language. He typed numbers, deleted them, and typed them again. His head was aching, and he felt incredibly stressed. He stared blankly at his computer monitor, feeling totally defeated.
+
+"Hey, are you okay?" a soft voice asked.
+
+Julian jumped. He turned around and saw Sarah, the woman who worked in the cubicle next to his. She was holding a coffee mug and looking at him with concern. Sarah had been working at the firm for three years. She always seemed calm and organized.
+
+"Uh, yes. I am fine," Julian lied, quickly closing a window on his screen. "Just working on these expenses."
+
+Sarah took a sip of her coffee and smiled kindly. "Are you fighting with ClearLedger?" she asked.
+
+Julian sighed, realizing there was no point in hiding it. "Yes," he admitted, his voice quiet. "I watched the training video, but the real software is so complicated. I keep getting error messages, and I can't find the right codes. I am afraid I am going to mess everything up."
+
+Sarah pulled up a chair and sat next to him. "Don't worry," she said. "Everyone hates ClearLedger at first. When they introduced it last year, I cried in the bathroom twice."
+
+Julian laughed, feeling a bit of his stress melt away. "Really?"
+
+"Absolutely," Sarah said. "The training videos are useless. The only way to learn it is by actually doing it. Move over, let me show you a few tricks."
+
+For the next forty-five minutes, Sarah sat with Julian. She didn't just do the work for him; she patiently explained how the system worked. She showed him the most common category codes and explained how to search for them quickly.
+
+"You see this button here?" she pointed to a small icon in the corner. "The video doesn't mention it, but if you click this, it automatically saves your progress every two minutes. It will save your life."
+
+She also noticed that Julian was doing everything using the computer mouse, which was very slow. "Stop using the mouse," she told him. "In accounting, speed is everything. Let me show you the keyboard shortcuts."
+
+She wrote down a list of five keyboard shortcuts on a yellow sticky note and attached it to the side of Julian's monitor. Then, she watched as Julian tried to enter a few receipts using the new methods.
+
+When he made a mistake, she didn't get annoyed. She gently corrected him and explained why it happened. "See? You are getting it," she encouraged him. "It is just like learning a new language. It takes a little practice."
+
+"Thank you so much, Sarah," Julian said, feeling genuinely grateful. "I was terrified to ask Mr. Sterling for help. I didn't want him to think I was incompetent."
+
+"Mr. Sterling is tough, but he respects people who ask smart questions," Sarah advised. "However, for everyday software issues, it is usually better to ask a colleague first. We are a team here. We help each other out. If you ever get stuck, just knock on my wall."
+
+Sarah went back to her desk to finish her own work. Julian turned back to his computer. The screen didn't look so scary anymore. He looked at the sticky note, took a deep breath, and started entering the data.
+
+Using Sarah’s shortcuts, he moved much faster. By 5:00 PM, he had finished half of the folder. He stayed an hour late to finish the rest, feeling a sense of rhythm and confidence. The next morning, he generated the report perfectly and sent it to Mr. Sterling long before the afternoon deadline.
+
+Mr. Sterling replied with a short email: 'Good work. Accurate and on time.'
+
+Julian smiled and looked over at the cubicle next to him. He realized that technical skills were important, but having a helpful colleague was the real key to surviving a new job. He bought two expensive coffees from the cafe downstairs, walked over to Sarah's desk, and handed her one.
+
+"For the ClearLedger expert," he said.
+
+Sarah smiled and took the coffee. "Anytime, partner," she said.
+
+
+
+
+

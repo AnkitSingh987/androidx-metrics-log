@@ -1,0 +1,80 @@
+﻿Title: A Problem at the Office
+
+Category: Intermediate
+
+Maya was the office manager at a fast-growing software company called BlueTech. Her job was to make sure everything in the office ran perfectly. She ordered supplies, organized meetings, and solved problems. Most days, her job was quiet and predictable. But on a rainy Tuesday in November, Maya faced the biggest problem of her career.
+
+The company was preparing for a very important online presentation. The CEO, Mr. Davis, was going to show their new software to a group of international investors from Japan, Germany, and Brazil. This meeting was crucial. If the investors liked the software, they would give the company millions of dollars. The presentation was scheduled for 2:00 PM.
+
+At 1:00 PM, Maya was busy organizing the main conference room. She checked the camera, tested the microphone, and made sure there was fresh water and coffee on the table. Everything looked perfect. Mr. Davis walked in, wearing his best suit. He looked a little nervous, but he smiled at Maya.
+
+"Is everything ready, Maya?" he asked, opening his laptop.
+
+"Yes, Mr. Davis," Maya replied confidently. "The camera is focused, the microphone is clear, and the internet connection is very strong. You are ready to go."
+
+But at exactly 1:15 PM, the screens in the conference room suddenly went black. The small lights on the internet router changed from green to blinking red. Maya heard a collective groan from the open office outside the conference room.
+
+"What happened?" Mr. Davis asked, his voice rising in panic. "I lost my connection!"
+
+Maya's heart jumped, but she tried to stay calm. "Please don't worry, Mr. Davis," she said quickly. "It is probably just a small glitch. I will fix it right now."
+
+Maya ran out of the conference room and went straight to the IT department. Mark, the lead IT technician, was already typing furiously on his computer. He looked stressed.
+
+"Mark, what is going on?" Maya asked. "The internet is down, and Mr. Davis has his presentation with the investors in forty-five minutes!"
+
+Mark ran his hands through his hair. "I know, Maya! I am trying to figure it out. The whole building is offline. It is not just our office; the server room is completely disconnected from the outside network."
+
+Maya felt a cold sweat on her neck. "Have you called the internet provider?" she asked.
+
+"I am on hold with them right now," Mark said, pointing to his desk phone, which was playing terrible holding music.
+
+Minutes felt like hours. Maya walked back and forth, checking her watch. It was 1:25 PM. The office was in chaos. Employees were standing up, talking loudly, and complaining that they could not do their work. Maya knew she had to take control.
+
+"Everyone, please listen to me!" Maya shouted, clapping her hands loudly. The office became quiet. "We are experiencing a temporary network issue. Please use this time to organize your files or take an early coffee break. Do not panic."
+
+At 1:35 PM, Mark finally spoke to the internet provider. He hung up the phone and looked at Maya with wide eyes. "It is bad news," he said. "A construction crew working on the street outside accidentally cut the main fiber-optic cable. The provider is sending an emergency team, but they said it will take at least three hours to repair it."
+
+Three hours. The presentation was in twenty-five minutes.
+
+Mr. Davis came out of the conference room. His face was pale. "Maya, please tell me the internet is coming back," he said. "If I miss this meeting, we lose the investment. We cannot ask them to reschedule. They are in different time zones, and they are very busy people."
+
+Maya’s mind raced. She thought about all the possible solutions. Moving the meeting to a coffee shop was impossible because it was too noisy and unprofessional. Going to another office would take too much time in the city traffic. They needed internet in this exact room, right now.
+
+Then, she had an idea.
+
+"Mark," Maya said, her voice sharp and focused. "Do you have the company mobile phones that we bought for the sales team last month?"
+
+"Yes, they are locked in the cabinet," Mark replied, confused. "But they just have standard 5G data plans."
+
+"That is exactly what we need!" Maya explained quickly. "We can use the mobile phones as personal Wi-Fi hotspots. We can tether them to Mr. Davis's laptop and the conference room computer. The 5G connection should be fast enough for a video call if we disconnect everything else in the office."
+
+Mark's eyes lit up. "That might actually work," he said. "But we have to be careful. The connection might not be perfectly stable."
+
+"It is our only option," Maya said.
+
+It was 1:45 PM. They had fifteen minutes.
+
+Maya and Mark ran to the IT cabinet and grabbed two of the new mobile phones. They rushed back into the conference room. Maya quickly turned on the phones and activated the mobile hotspot feature. She named the network 'BlueTech_Emergency'.
+
+"Mr. Davis, connect your laptop to this network," Maya instructed.
+
+Mark connected the main room computer to the second phone to keep the video camera running. They carefully placed the phones near the window to get the strongest possible 5G signal.
+
+At 1:52 PM, the computer connected to the mobile network. The video conferencing software loaded. Maya did a quick speed test. The connection was not as fast as their fiber cable, but it was strong enough for high-quality video and audio.
+
+"Okay, Mr. Davis," Maya said, breathing heavily. "You are back online. We have asked all other employees to turn off their personal devices so they do not interrupt the signal. You are good to go."
+
+Mr. Davis looked at the screen, then looked at Maya. "Thank you, Maya. You are a lifesaver."
+
+At exactly 2:00 PM, the investors joined the call. The video quality was clear, and there was no delay in the sound. Mr. Davis began his presentation confidently. Maya stood in the corner of the room for the first ten minutes, watching the screen closely. The connection held steady.
+
+She finally stepped out of the room and leaned against the wall in the hallway. She felt exhausted but deeply relieved. Mark walked by and gave her a thumbs-up.
+
+Two hours later, Mr. Davis came out of the conference room with a huge smile on his face. "They loved it!" he announced to the office. "They are going to send over the investment papers tomorrow!"
+
+The office erupted in cheers. Maya smiled and went back to her desk. The internet was still down, and the construction workers were still digging a hole in the street, but Maya didn't care. She had faced a massive crisis, thought quickly under pressure, and saved the day. She knew that from now on, she could handle any problem the office threw at her.
+
+
+
+
+

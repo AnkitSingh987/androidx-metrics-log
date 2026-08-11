@@ -1,0 +1,94 @@
+﻿Title: A Difficult Purchase
+
+Category: Intermediate
+
+Leo stood outside the large glass doors of "Tech World," the biggest electronics store in the city. He took a deep breath, checked his wallet, and walked inside. The bright fluorescent lights and the noise of hundreds of screens playing different videos made him feel a little dizzy. He was there for one specific reason: he needed a new laptop.
+
+Leo had recently started a freelance graphic design business. For the first few months, he had been using his old university computer. However, that machine was six years old, slow, and often froze when he tried to edit large images. If he wanted to be successful, he needed professional equipment.
+
+He walked toward the computer section, looking at the rows of shiny laptops. There were so many options, brands, and specifications that his head began to ache. He understood design software, but he didn't know much about hardware.
+
+"Can I help you find something?" a voice asked.
+
+Leo turned around and saw a store employee wearing a blue polo shirt with a name tag that read "Maya." She had a friendly smile and carried a small digital tablet.
+
+"I hope so," Leo replied, running a hand through his hair. "I need a new laptop, but I have no idea which one to choose. I'm a graphic designer, so I need something that can handle heavy software, high-resolution images, and maybe some light video editing."
+
+Maya nodded immediately, tapping on her tablet. "I understand. For graphic design, you're going to need a strong processor and a good amount of RAM. At least 16 gigabytes, but 32 would be better if you're working with large files. You'll also need a dedicated graphics card. A standard laptop won't be powerful enough for your needs."
+
+Leo sighed. "That sounds expensive. My budget is around fifteen hundred dollars. Is that enough?"
+
+Maya thought for a moment and motioned for him to follow her. "It's a reasonable budget, but we will have to make a few compromises. We can definitely find something excellent."
+
+She led him to a display table in the middle of the store. There were three laptops on it, all looking sleek and professional. Maya pointed to a dark grey model.
+
+"This one is very popular among creative professionals," she explained. "It has the processor you need, an excellent high-definition screen for accurate colors, and a solid-state drive that will make everything load very quickly. It is currently on sale for fourteen hundred and ninety-nine dollars. It fits perfectly into your budget."
+
+Leo examined the laptop. It was surprisingly light, and the screen was beautiful. He typed a few words on the keyboard, and it felt comfortable.
+
+"What are the disadvantages?" Leo asked, wanting to be careful.
+
+"The battery life isn't incredible," Maya admitted honestly. "If you are using heavy design software without plugging it into a power source, it might only last about four or five hours. Also, it doesn't have many ports, so you might need to buy an adapter if you want to connect multiple external hard drives or monitors."
+
+Leo considered this. He usually worked from his home office, so the battery life wasn't a major problem. And he already owned a small adapter for his USB devices.
+
+"I think this is the one," Leo decided. "I'll take it."
+
+"Great choice," Maya said, picking up the box from a cabinet below the table. "If you'll follow me to the register, we can complete the transaction."
+
+Leo felt a sense of relief. The difficult part was over, or so he thought. He followed Maya to the checkout counter, where she scanned the barcode on the box.
+
+"That will be one thousand, six hundred and twenty-five dollars, including tax," Maya said.
+
+Leo pulled his main credit card from his wallet and inserted it into the payment machine. The screen displayed the message 'Processing... Please wait.' Leo waited. Maya waited. The machine seemed to be taking much longer than usual.
+
+Suddenly, the machine beeped loudly, and the screen flashed red. 'Transaction Declined,' it read.
+
+Leo frowned. "That's strange. I know I have enough credit on that card. Let me try it again."
+
+He pulled the card out and inserted it a second time. Once again, the machine beeped. 'Transaction Declined. Please contact your bank.'
+
+"I'm so sorry about this," Leo said, feeling his face turn warm with embarrassment. There was a small line of customers forming behind him.
+
+"It's completely fine," Maya said calmly. "This happens all the time with large purchases. Your bank's automated security system probably flagged the transaction because it's an unusually high amount. You'll just need to call them to authorize it."
+
+Leo moved to the side of the counter to let the next customer pay, and he pulled out his phone. He dialed the customer service number on the back of his credit card. A robotic voice answered, asking him to enter his account number and date of birth. After typing the numbers, the system placed him on hold. Awful, low-quality classical music played through his phone's speaker.
+
+He waited for ten minutes. The line behind him grew longer. Finally, a real person answered the phone.
+
+"Thank you for calling Global Bank. My name is Thomas. How can I help you today?"
+
+"Hi, Thomas. I'm trying to buy a computer at an electronics store, but my card was declined. I believe your security system blocked it."
+
+"I can certainly check that for you, sir," Thomas said. "Before we proceed, I need to verify your identity. Can you tell me your mother's maiden name?"
+
+Leo answered the security question.
+
+"Thank you," Thomas said. "Yes, I see a declined charge for one thousand, six hundred and twenty-five dollars at Tech World. Because this amount is significantly larger than your usual spending habits, our fraud prevention software placed a temporary block on your account to protect you."
+
+"I understand, but it's really me, and I need to make this purchase right now," Leo explained, feeling frustrated but trying to remain polite.
+
+"Of course, sir. I have removed the block from your card. You should be able to process the transaction again in about two minutes. Is there anything else I can assist you with today?"
+
+"No, that's everything. Thank you."
+
+Leo hung up the phone and waited exactly two minutes. He walked back up to Maya, who was finishing with another customer.
+
+"Did you get it sorted out?" she asked kindly.
+
+"I think so. The bank removed the security block. Let's try one more time."
+
+Maya pressed a button on her register, and the payment machine lit up again. Leo inserted his card. He held his breath as the screen read 'Processing...'
+
+A second later, a pleasant green checkmark appeared on the screen, and a receipt began to print from Maya's machine.
+
+"Approved," Maya smiled, tearing off the receipt and handing it to him. "Congratulations on the new laptop. I hope it helps your business grow."
+
+"Thank you for your patience," Leo said, picking up the heavy bag.
+
+Walking out of the store, Leo felt exhausted. Buying the laptop had been much more complicated than he expected, involving research, technical explanations, and a stressful phone call to the bank. However, as he felt the weight of the new computer in his bag, he knew the difficult purchase was worth it. He was finally ready to take his work to the next level.
+
+
+
+
+

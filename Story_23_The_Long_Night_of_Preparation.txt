@@ -1,0 +1,56 @@
+﻿Title: The Long Night of Preparation
+
+Category: Intermediate
+
+David was a young, ambitious architect who worked at one of the most competitive design firms in the city. He had been working there for three years, spending long hours at his desk and trying to prove his talent to the senior partners. Finally, his hard work had paid off. He had been chosen to lead the design for a massive new project: a modern public library located in the center of the city.
+
+Tomorrow morning at nine o'clock, David had to present his final design to the city council members. If they liked his presentation, his firm would win the million-dollar contract, and David would certainly receive a major promotion. This was the most important moment of his entire professional career. He had spent the last two months carefully perfecting every detail of the building, from the large glass windows to the environmentally friendly roof. 
+
+It was now five-thirty in the afternoon on the day before the presentation. Most of his colleagues were packing their bags, turning off their computers, and leaving the office to go home to their families. David remained at his desk, staring intensely at his two large monitors. He was making the final, tiny adjustments to the complex 3D model of the library. He just needed to render the final images and put them into his presentation slides. 
+
+"Almost done," he whispered to himself, clicking his mouse rapidly. "Just a few more minutes."
+
+Suddenly, his computer screen froze completely. David tried to move the mouse, but the little white arrow on the screen did not move. He pressed a few keys on the keyboard, but nothing happened. A cold feeling of dread started to spread in his chest. Then, without any warning, both monitors turned bright blue, displaying a terrifying error message filled with white text.
+
+"No, no, no," David said out loud, his voice rising in panic. "Please, not now."
+
+He reached down and forcefully pressed the power button on the computer, waiting for it to restart. When the system finally booted up again, David immediately opened his project folder. He clicked on the main file, but an error box popped up on the screen: 'File Corrupted. Cannot Open.'
+
+David's heart began to race. He quickly logged into the firm's cloud storage system to find the automatic backup. He searched for the file, but his stomach dropped when he saw the date. The last successful backup was from forty-eight hours ago. There had been a temporary network issue in the office two days ago, and the system had failed to sync his recent work. All the crucial changes he had made over the last two days—the improved lighting designs, the updated floor plans, and the finished presentation slides—were completely gone. 
+
+He frantically called the emergency IT support line. The technician on the phone was polite but unhelpful. "I'm sorry, David. If the local file is corrupted and the cloud didn't sync, we will have to send the hard drive to a data recovery specialist. The earliest they can look at it is tomorrow afternoon."
+
+"Tomorrow afternoon is too late!" David shouted, running his hands through his hair. "I have the presentation at nine o'clock tomorrow morning!"
+
+The technician apologized again, but there was nothing he could do. David hung up the phone and stared at the empty screen. He felt completely helpless. He could call his boss and explain the situation, but the firm would look extremely unprofessional, and they would definitely lose the contract. David's reputation would be ruined. 
+
+He realized he had only one choice. He had to stay at the office all night and recreate two days' worth of intense, complicated work in just fourteen hours. It seemed impossible, but he had to try.
+
+At seven o'clock, the office was completely empty and silent. David ordered a large pepperoni pizza and made a very strong pot of black coffee in the breakroom. He returned to his desk, opened the old, incomplete backup file, and took a deep breath. He had to remember every decision he had made over the last two days and rebuild the model from memory.
+
+By eleven o'clock at night, the only light in the large office came from David's desk lamp and the bright glow of his monitors. The city outside the window was dark and quiet. He was completely focused, his fingers flying across the keyboard. He redrew the complex structure of the library's roof, making sure the measurements were perfectly accurate. He added the trees and benches to the outside landscape area. He ate cold pizza slices with one hand while using his mouse with the other.
+
+At three o'clock in the morning, severe exhaustion hit him like a heavy wall. His eyes were burning, his vision was becoming blurry, and his hands were cramping from typing so much. He felt a strong desire to put his head down on the desk and go to sleep. To fight the fatigue, he stood up, walked to the breakroom, and splashed freezing cold water on his face. He did twenty pushups on the floor to get his blood moving. "You can sleep tomorrow," he told himself firmly in the mirror. "Right now, you have to work."
+
+He returned to his desk and started the rendering process for the final images. This required the computer to process complex lighting and shadows, which took a long time. While the computer worked, David started writing the text for his presentation slides. 
+
+By six o'clock in the morning, the sky outside the window slowly began to turn purple and pink as the sun rose over the city. The office air conditioning turned on, making a low humming sound. The final render finished processing on his screen. David looked at the image and smiled weakly. Because he was forced to rebuild the model, he had actually fixed a few small design errors that he had not noticed the first time. The new version looked even better than the original one.
+
+At seven-thirty, he finally finished arranging the presentation slides. He saved the file in three different places and emailed a copy to himself just to be safe. He walked into the large, empty conference room, turned on the projector, and practiced his speech. He spoke out loud to the empty chairs, practicing his timing and his tone of voice. He did this twice until he felt confident.
+
+At eight o'clock, David went down to the small gym in the basement of the office building. He took a quick, hot shower to wake himself up and shaved his face. He changed into the clean, professional suit that he always kept in his office closet for emergencies. When he looked in the mirror, his eyes were red and he looked incredibly tired, but he felt ready.
+
+By nine o'clock, the city council members had arrived and were sitting around the large wooden table in the conference room. David's boss, the senior partner of the firm, was also there. David stood at the front of the room, holding a small remote control for the projector. He was running entirely on adrenaline and caffeine, but his mind felt surprisingly sharp.
+
+He delivered the presentation perfectly. Because he had literally just spent the entire night rebuilding every single inch of the library model, he knew every detail of the design intimately. When the council members asked difficult, technical questions about the building materials or the budget, David answered them instantly and confidently. 
+
+When the presentation ended, the room was quiet for a moment. Then, the head of the city council smiled warmly. "This is an exceptional design, David. It is exactly what our city needs. We are very impressed."
+
+David's boss beamed with pride and shook David's hand. They had won the contract. 
+
+As David walked out of the building into the bright morning sunshine, all the energy suddenly left his body. His legs felt heavy, and his mind felt cloudy. The long night of preparation had been the most stressful experience of his life, but it had saved his career. He called a taxi, went straight back to his apartment, fell into his bed, and slept deeply for fourteen solid hours.
+
+
+
+
+
