@@ -1,0 +1,64 @@
+﻿Title: A Problem with My Account
+
+Category: Intermediate
+
+Clara was a freelance graphic designer who worked from her small, bright apartment in the city center. Because her income varied from month to month, she was usually very careful with her money. She kept a detailed spreadsheet on her computer, tracking every invoice she sent to her clients and every expense she paid. Every Friday morning, while drinking her first cup of coffee, she had a strict routine: she logged into her online banking portal to check her account balance and review her recent transactions.
+
+One rainy Friday morning in November, Clara sat down at her desk, wrapped her hands around her warm mug, and opened her laptop. She entered her password and waited for the banking dashboard to load. When the screen appeared, Clara frowned. Her account balance was significantly lower than she had expected. 
+
+According to her spreadsheet, she should have had over two thousand dollars in her current account. However, the screen clearly showed a balance of only one thousand, eight hundred, and fifty dollars. 
+
+"That can't be right," Clara muttered to herself. She put her coffee mug down and leaned closer to the screen. 
+
+She quickly clicked on the 'Recent Transactions' tab and began scrolling down the list. There was her rent payment, which was normal. There were her groceries from the local supermarket, her electricity bill, and a dinner she had paid for last weekend. Everything looked correct until she reached a transaction dated Tuesday. 
+
+It was a deduction of forty-five dollars, and the description simply said: "AUTO-RENEW SUB PRIME-FIT-CLUB." 
+
+Clara stared at the screen, trying to remember what that could possibly be. Then, she noticed something else. She filtered her transactions by name and searched for "PRIME-FIT-CLUB". Her eyes widened in surprise. For the past six months, this mysterious company had been taking forty-five dollars from her account every single month. She had lost almost three hundred dollars without even noticing!
+
+Panic started to bubble in her chest. Had her debit card information been stolen? Was a hacker stealing her hard-earned money? She grabbed her phone and immediately called the customer service number on the back of her bank card. 
+
+"Welcome to Metro Bank," an automated voice said. "Please press one for account balances. Press two to report a lost or stolen card. Press three to dispute a transaction."
+
+Clara pressed three and waited impatiently while terrible hold music played in her ear. After ten long minutes, a polite representative answered. 
+
+"Thank you for calling Metro Bank, my name is David. How can I assist you today?"
+
+"Hello, David," Clara said, trying to keep her voice calm. "I am looking at my online statement, and I have found several unauthorized charges on my account. A company has been taking forty-five dollars every month, and I don't know who they are. I think my card might be compromised."
+
+David asked Clara some security questions to verify her identity, and then he pulled up her account. "I see the transactions you are referring to, ma'am. They are for a company called Prime Fit Club. It appears to be a monthly membership subscription. Does that name sound familiar at all?"
+
+Clara closed her eyes and thought hard. Prime Fit Club. Suddenly, a memory flashed in her mind. Last April, she had visited a luxury gym across town with a friend. They were offering a 'free seven-day trial' for new members. She remembered filling out a form on an iPad and giving them her debit card details, just to secure the trial. She had gone to the gym twice, decided it was too far from her apartment, and never went back.
+
+"Oh no," Clara groaned, feeling extremely embarrassed. "I think I know what happened. I signed up for a free trial months ago, but I completely forgot to cancel it."
+
+"That happens very frequently," David said sympathetically. "Many companies require you to actively cancel the service before the trial period ends. If you don't, they automatically upgrade you to a paid monthly subscription."
+
+"Can you stop them from taking any more money?" Clara asked desperately. 
+
+"I can certainly block any future payments from that specific merchant," David explained. "However, getting your money back for the previous months might be complicated. Because you technically agreed to their terms and conditions when you signed up for the trial, the bank cannot simply reverse all the charges as fraud. You will need to contact Prime Fit Club directly to cancel the membership and request a refund."
+
+Clara thanked David for his help and hung up the phone. She felt angry with herself for being so careless. She quickly searched the internet for the gym's customer service number and called them. 
+
+The conversation with the gym was frustrating. The representative explained that their cancellation policy required a thirty-day notice, and they refused to refund the past six months because she had an 'active' account, even though she hadn't visited the facility. After a long argument, the manager finally agreed to cancel the membership immediately and refund the most recent forty-five dollar charge as a gesture of goodwill.
+
+Feeling exhausted, Clara realized she still needed to visit her local bank branch to make sure everything was completely resolved. She put on her raincoat, grabbed her umbrella, and walked to the Metro Bank down the street. 
+
+Inside, she met with the branch manager, Mr. Henderson. He was an older gentleman with a kind smile. She explained the entire embarrassing situation to him. 
+
+"Don't be too hard on yourself, Clara," Mr. Henderson said gently. "These subscription models are designed to be easily forgotten. It is a very common issue. David on the phone did the right thing by placing a block on the merchant. Let me double-check the system to ensure no further payments can be processed."
+
+He typed on his keyboard for a minute. "Yes, the block is active. The gym will not be able to charge this card again. Have they agreed to refund the latest payment?"
+
+"Yes, they said they will refund the charge from Tuesday," Clara replied. 
+
+"Excellent. It usually takes three to five business days for a refund to appear in your account," Mr. Henderson explained. "To prevent this from happening in the future, I recommend setting up automatic alerts on your mobile banking app. You can set it so your phone sends you a notification every time a transaction over twenty dollars is made. That way, you will immediately know if money is leaving your account."
+
+Clara thought this was a brilliant idea. Mr. Henderson helped her configure the settings on her phone before she left his office. 
+
+Walking back to her apartment in the rain, Clara felt much better. She hadn't recovered all her lost money, but she had learned a valuable lesson about personal finance. From that day forward, she promised herself she would read the small print before signing up for any 'free' trials, and she would check her bank statements even more carefully. The mysterious drain on her account was finally closed, and her budget was safe again.
+
+
+
+
+

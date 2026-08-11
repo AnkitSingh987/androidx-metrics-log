@@ -1,0 +1,70 @@
+﻿Title: The Customer Complaint
+
+Category: Intermediate
+
+Tom worked as the manager of a small electronics store called Tech World. He liked his job very much. He enjoyed talking to people and helping them find the right computers, phones, and televisions. Most of his days were quiet and pleasant. However, working in customer service can sometimes be difficult. Sometimes, customers are not happy.
+
+It was a rainy Tuesday morning. The store was quiet. Tom was drinking his coffee and organizing some new headphones on the shelf. Suddenly, the front door opened. A woman walked in. She looked about sixty years old, and she was carrying a large, heavy box. Her face was red, and she looked very angry. She walked straight to the main desk. She put the box on the counter with a loud noise.
+
+“Good morning,” Tom said with a polite smile. “How can I help you today?”
+
+“This is a piece of junk!” the woman said loudly. She pointed at the box. “I bought this laptop here last week, and it is completely useless!”
+
+Tom took a deep breath. He knew that it was important to stay calm when a customer was angry. “I am very sorry to hear that,” he said in a soft voice. “My name is Tom, and I am the manager. Can you tell me your name, please?”
+
+“My name is Mrs. Higgins,” she replied. Her voice was still loud, and a few other customers turned their heads to look at her.
+
+“Nice to meet you, Mrs. Higgins,” Tom said. “Let’s see what the problem is. Can you explain what is wrong with the laptop?”
+
+“Everything is wrong with it!” Mrs. Higgins said. She crossed her arms over her chest. “First, it takes ten minutes to turn on. Second, I cannot connect it to the internet. And third, the screen is too dark. I cannot see anything. The young man who sold this to me told me it was the best computer in the store. He lied to me!”
+
+Tom opened the box carefully. Inside was a silver laptop. It was a very good model, but sometimes even good computers have factory problems. Tom pressed the power button. The screen stayed black for a few seconds, and then it turned on. However, it was moving very slowly. Mrs. Higgins was right about the speed.
+
+“I see what you mean,” Tom said. He agreed with her because he wanted her to feel heard. “It is turning on very slowly. Let me check the internet connection.”
+
+Tom tried to connect the laptop to the store’s Wi-Fi network. It did not work. An error message appeared on the screen. Tom checked the settings. He quickly realized the problem. The laptop needed a major software update. Without this update, the computer could not connect to modern Wi-Fi networks and ran very slowly. Also, the screen brightness was turned all the way down in the settings.
+
+“Mrs. Higgins, I have good news,” Tom smiled gently. “The laptop is not broken. It just needs a few adjustments. Sometimes, new computers need a big software update before they work perfectly.”
+
+“An update?” Mrs. Higgins asked. She looked confused and still a little angry. “I do not know anything about updates. I just want to write emails to my grandchildren and read the news. I am not a computer expert.”
+
+“You do not need to be an expert,” Tom reassured her. “That is why we are here. If you have twenty minutes, I can fix all of these problems for you right now, for free. I will update the system, connect it to the internet, and make the screen bright and clear.”
+
+Mrs. Higgins looked at Tom. Her shoulders relaxed a little bit. “Twenty minutes? Are you sure it is not broken?”
+
+“I am absolutely sure,” Tom said. “Would you like a cup of tea or coffee while you wait? You can sit in our waiting area over there.”
+
+“A cup of tea would be nice,” she said softly. Her voice was much quieter now. “Thank you, Tom.”
+
+Tom asked his assistant to make a cup of tea for Mrs. Higgins. Then, he took the laptop to his work desk. First, he changed the screen brightness. The screen immediately became clear and colorful. Next, he used a special cable to connect the laptop directly to the internet. He started the software update. The computer downloaded the new files quickly. While he waited, Tom cleaned the screen and the keyboard so the laptop looked completely new again.
+
+After fifteen minutes, the laptop restarted. It turned on in just a few seconds. Tom checked the internet connection, and it worked perfectly. Everything was fast and smooth. He smiled. He loved solving problems.
+
+He carried the laptop back to the front counter. Mrs. Higgins was finishing her tea.
+
+“Mrs. Higgins, your laptop is ready,” Tom announced. He opened it in front of her. “Look how fast it turns on now.”
+
+She watched in surprise as the screen lit up instantly. “Oh, that is much better,” she said.
+
+“And look here,” Tom pointed to the screen. “I made the screen much brighter. Can you read the words easily?”
+
+“Yes, I can read everything clearly now,” she smiled. It was the first time she smiled since she walked into the store.
+
+“Finally, let’s check the internet,” Tom said. He opened a web browser and went to a news website. The page loaded immediately. “It is working perfectly. When you go home, you just need to click here to connect to your home internet.” Tom showed her exactly how to click the Wi-Fi icon and type her password. He even wrote the instructions down on a piece of paper for her.
+
+Mrs. Higgins looked at the piece of paper and then at Tom. Her face was completely different now. She looked embarrassed but happy.
+
+“Tom, I must apologize,” she said. “I was very rude to you when I came in. I was just so frustrated. I spent a lot of money on this computer, and I thought I wasted it.”
+
+“You do not need to apologize,” Tom replied kindly. “Technology can be very frustrating, especially when it is new. It is my job to help you. I am glad we could solve the problem.”
+
+“You are a very patient young man,” Mrs. Higgins said. She put the laptop back into the box carefully. “Thank you for your help. I will tell all my friends to come to this store.”
+
+“Thank you, Mrs. Higgins. Have a wonderful day,” Tom said, holding the door open for her.
+
+He watched her walk away with a smile on her face. The rain had stopped, and the sun was beginning to shine. Tom felt a warm feeling inside. He knew that the most important part of his job was not selling electronics. The most important part was listening to people, fixing their problems, and making their day a little bit better. It was a good lesson. A customer complaint does not have to be a bad thing. Sometimes, it is just an opportunity to provide excellent service and make a loyal friend for the business.
+
+
+
+
+

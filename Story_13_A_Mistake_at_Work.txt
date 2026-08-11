@@ -1,0 +1,63 @@
+﻿Title: A Mistake at Work
+
+Category: Intermediate
+
+David was a careful person. He worked as an account manager for a large logistics company called Global Freight Solutions. His job was to organize international shipping for important corporate clients. He dealt with schedules, customs documents, and large sums of money every single day. Because his job required so much attention to detail, David always checked his work twice. His colleagues often joked that David was more reliable than a computer. 
+
+However, even the most careful people can make mistakes when they are exhausted. 
+
+It was the second week of December, which was always the busiest time of the year for the logistics industry. Everyone was trying to ship their products before the winter holidays. For three weeks, David had been arriving at the office at seven in the morning and leaving long after the sun had gone down. He was drinking too much coffee and sleeping too little.
+
+On a rainy Thursday afternoon, David was working on an urgent shipment for his biggest client, a technology company called Apex Electronics. Apex needed to send three large shipping containers full of expensive laptop computers from their factory in Taiwan to their main distribution warehouse in Germany. The laptops had to arrive before a massive holiday sale. If they were late, Apex would lose millions of dollars.
+
+David was staring at his computer screen, trying to finish the final shipping documents. His phone was ringing constantly, and his email inbox was filling up with urgent messages from other clients. He felt overwhelmed.
+
+He opened his company’s software system to input the final delivery address in Germany. He typed "Apex Electronics - Warehouse" into the search bar. The system automatically suggested an address in Berlin. David was in such a hurry to finish the task that he quickly clicked on the suggestion, hit the "Confirm" button, and sent the final instructions to the shipping port in Taiwan. He sighed in relief, closed the file, and moved on to his next task.
+
+Two days later, David was enjoying a quiet Saturday morning at home when his mobile phone rang. It was his manager, Ms. Albright. David felt a sudden chill. Ms. Albright never called on the weekend unless there was a serious emergency.
+
+"Hello, Ms. Albright," David answered, sitting up straight on his sofa.
+"David, we have a massive problem," Ms. Albright said. Her voice was sharp and tight. "I just received a very angry phone call from the logistics director at Apex Electronics. The shipping containers from Taiwan have arrived in Europe, but they are not going to the correct warehouse."
+David’s heart dropped into his stomach. "What do you mean? I arranged the shipment for their main warehouse in Germany."
+"Did you check the exact address on the final document?" she asked coldly.
+David quickly opened his work laptop and logged into the system. He found the Apex file and opened the final shipping order. He stared at the address he had confirmed. 
+
+It said: *Apex Electronics - Warehouse, 14 Industrial Avenue, London, UK.*
+
+David stopped breathing for a moment. He suddenly remembered what had happened. Three years ago, Apex Electronics had a small warehouse in London, but they had closed it. The software system still had the old London address saved in its memory. When David typed "Apex Electronics - Warehouse," the system suggested the old London address, and because he was rushing, he didn't read it carefully. He had sent millions of dollars worth of laptops to an empty building in the wrong country.
+
+"Ms. Albright... I... I made a mistake," David stammered. His hands were shaking. "The system suggested the old London address, and I clicked confirm without checking the city. It is entirely my fault."
+
+There was a long silence on the phone. David prepared himself to be fired. He had made a careless mistake that was going to cost the company a huge amount of money.
+
+"Panicking will not fix this, David," Ms. Albright finally said. Her voice was calmer now, but still very serious. "We need a solution immediately. The ships have already arrived at the port in the Netherlands. We need to stop the containers before they are put on a train to London. I want you in the office in thirty minutes. We have to call the port authorities, arrange new transport, and calculate how much this mistake is going to cost us."
+
+"Yes, Ms. Albright. I am leaving right now," David said.
+
+When David arrived at the empty office, it was raining heavily. Ms. Albright was already there, drinking black tea and looking at a map on her screen. They spent the next four hours making frantic phone calls to the Netherlands. They had to speak to port managers, train operators, and truck drivers. David had to use all of his professional relationships to ask for favors and emergency changes. 
+
+It was a stressful, exhausting afternoon. They had to pay a heavy penalty fee to change the destination at the last minute, and they had to hire three private trucks to drive the containers from the Netherlands to the correct warehouse in Germany. 
+
+By six o'clock in the evening, the problem was finally solved. The trucks were on their way to Germany, and the laptops would arrive just in time for the holiday sale. 
+
+David sat back in his chair and wiped his forehead. He felt terrible. He looked across the desk at Ms. Albright.
+"Ms. Albright, I cannot apologize enough," David said quietly. "I know this mistake cost the company thousands of dollars in penalty fees. I will completely understand if you decide to let me go."
+
+Ms. Albright looked at him thoughtfully. She took a sip of her cold tea. 
+"David, you made a very careless error," she said directly. "You rushed, and you trusted the software instead of checking the facts. In our business, assuming things is dangerous."
+David looked down at his hands, feeling deeply ashamed.
+"However," she continued, "when you realized your mistake, you did not try to hide it. You took immediate responsibility, and you worked extremely hard today to fix the problem. You handled the crisis well."
+
+David looked up, surprised. 
+"Everyone makes mistakes, David. Even the most careful people," Ms. Albright said softly. "What matters is how we respond to those mistakes, and what we learn from them. I expect you to create a new checklist for confirming addresses, and I expect you to share it with the rest of the team on Monday so this never happens again."
+
+"I will do that immediately," David promised. 
+
+"Good. Now, go home and get some rest. Next week is going to be just as busy," she said, finally smiling a little.
+
+As David drove home in the rain, he felt a strange mixture of exhaustion and relief. He had made the biggest mistake of his career, but he had survived it. He learned a harsh but valuable lesson that day. He realized that speed is never more important than accuracy, and that honesty is always the best way to handle a failure. From that day forward, David never clicked a "Confirm" button without reading every single word twice.
+
+
+
+
+

@@ -1,0 +1,82 @@
+﻿Title: Talking to Customer Service
+
+Category: Intermediate
+
+Elena was a freelance photographer who traveled frequently for her work. She was used to packing her bags at the last minute and flying to different countries to photograph weddings, corporate events, and nature documentaries. Because she was always moving, she relied heavily on her bank's debit card. It was her primary tool for booking flights, paying for hotels, and buying food in foreign cities. 
+
+On a cold Wednesday evening, Elena was sitting in her living room in London, trying to organize her next trip. She had just secured a fantastic job in Tokyo, Japan, and she needed to book her flights immediately because the prices were rising every day. She found a good itinerary on an airline's website, entered her passport details, and finally arrived at the payment page. 
+
+The total cost was twelve hundred pounds. She confidently typed in her sixteen-digit card number, the expiration date, and the security code on the back. She clicked 'Confirm Purchase' and waited. 
+
+A small loading circle spun on the screen for a few seconds. Then, a red error message appeared: "Payment Declined. Please contact your bank or use a different payment method."
+
+Elena frowned. She knew she had enough money in her account to cover the flight. She tried to process the payment a second time, typing her details even more carefully. Again, the red error message flashed on the screen. Payment declined. 
+
+Suddenly, her mobile phone beeped. It was an automated text message from Global Trust Bank: "Suspicious activity detected on your card ending in 4092. A purchase of £1,200.00 was attempted. Reply YES if this was you, or NO if this was unauthorized. Your card has been temporarily blocked for your protection."
+
+Elena let out a sigh of frustration. The bank's automatic security system had flagged the transaction because it was a large amount spent with a foreign airline. It was supposed to protect her from fraud, but right now, it was just preventing her from doing her job. 
+
+She quickly replied "YES" to the text message, hoping that would instantly unblock her card. A minute later, she received another automated reply: "Thank you. To remove the block on your card and complete your purchase, you must speak with a customer service representative. Please call the number on the back of your card."
+
+Elena looked at the clock. It was nearly 9:00 PM. She grabbed her phone, turned on the speaker, and dialed the number. 
+
+"Welcome to Global Trust Bank," a robotic female voice announced. "Please be aware that wait times are currently longer than usual. To help us route your call, please say what you are calling about."
+
+"Blocked card," Elena said clearly.
+
+"I think you said, 'Lost card.' Is that correct?" the robot asked.
+
+"No!" Elena said loudly. "Blocked card. Fraud block."
+
+"Okay, I understand you are calling about a security block," the voice finally recognized. "Please enter your eight-digit account number, followed by the hash key."
+
+Elena typed the numbers on her keypad. She was then placed on hold. Smooth, relaxing jazz music began to play from the phone's speaker. Elena sat on her sofa, watching the flight prices on her laptop screen, terrified that the cheap tickets would sell out while she waited. 
+
+After fifteen minutes of repetitive jazz, the music abruptly stopped, and a human voice came on the line. 
+
+"Good evening, you are speaking with Mark at Global Trust Fraud and Security. How can I help you today?"
+
+"Hi Mark," Elena said, trying not to sound too impatient. "My name is Elena Rostova. I am trying to buy a flight to Tokyo, but my card was blocked. I replied to the text message confirming it was me, but it told me I still had to call you."
+
+"I am sorry for the inconvenience, Ms. Rostova," Mark said professionally. "Our automated system is very strict when it comes to large international purchases. Let's get this sorted out for you. Before we can proceed, I need to ask you a few security questions to verify your identity. Can you please confirm the first line of your home address?"
+
+"It is Flat 4B, 22 Wellington Street," Elena answered.
+
+"Thank you. And can you tell me the date and the amount of your last successful transaction?"
+
+Elena opened her banking app quickly. "Yes, it was earlier today at around 2:00 PM. I bought a coffee and a sandwich at Pret A Manger for eight pounds and fifty pence."
+
+"Perfect, thank you," Mark said. The sound of rapid typing came through the phone. "I am looking at your account now. I can see the blocked attempt for twelve hundred pounds to Japan Airlines. I just need to ask, is anyone else with you right now instructing you to make this payment?"
+
+Elena was surprised by the question. "No, I am alone in my apartment. I am a photographer, and I am booking this flight for work."
+
+"Thank you. We have to ask that question to ensure you are not being pressured by a scammer," Mark explained gently. "Okay, I have verified your identity and confirmed the purchase is genuine. I am removing the security block from your debit card right now."
+
+"Does that mean I can try to buy the flight again?" Elena asked, moving her mouse over the 'Confirm Purchase' button on her screen.
+
+"Yes. However, our system sometimes takes a moment to update. I recommend waiting about five minutes before you try the transaction again. Otherwise, the system might block it a second time, and we will have to start this process all over again."
+
+"Okay, I will wait five minutes," Elena promised. 
+
+"While I have you on the line, Ms. Rostova, will you be using this card while you are in Japan?" Mark asked. 
+
+"Yes, I will be there for three weeks," Elena replied. 
+
+"Excellent. I have placed a travel notice on your account for Japan for the next month. This tells our security system that you are overseas, so it shouldn't block your smaller, daily purchases while you are traveling."
+
+"Oh, that is incredibly helpful. Thank you, Mark," Elena said, genuinely relieved. 
+
+"You're very welcome. Is there anything else I can assist you with this evening?"
+
+"No, that is everything. Have a good night."
+
+Elena hung up the phone. She watched the clock on her computer, counting down exactly five minutes. When the time was up, she took a deep breath, crossed her fingers, and clicked the 'Confirm Purchase' button on the airline website one more time. 
+
+The loading circle spun, and then the screen changed to a bright green confirmation page. "Booking Successful." 
+
+Elena smiled. Dealing with customer service could be frustrating and time-consuming, but she had to admit, she felt glad knowing that the bank was watching her money so carefully. She closed her laptop, ready to start packing for Tokyo.
+
+
+
+
+

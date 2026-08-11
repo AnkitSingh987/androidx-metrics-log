@@ -1,0 +1,90 @@
+﻿Title: The Mistake in the Question
+
+Category: Intermediate
+
+Julian was the kind of student who noticed everything. If a picture on the classroom wall was slightly crooked, Julian would notice it. If the teacher wore a different pair of glasses, Julian was the first to see it. He liked things to be exact, logical, and orderly. That was why science was his favorite subject. In science, there was always a right answer and a wrong answer. There were rules, formulas, and laws of nature that made sense.
+
+It was a rainy Tuesday morning, and the students in Room 4B were taking their final science exam of the semester. The room was completely silent, except for the sound of rain hitting the windows and pencils scratching against paper.
+
+At the front of the room sat Ms. Davies. She was a strict but fair teacher. She walked between the desks slowly, making sure no one was looking at their neighbor’s paper. The exam was very important; it was worth forty percent of their final grade.
+
+Julian was feeling confident. He had studied all weekend. He moved through the first twenty questions smoothly. He knew the chemical formulas, he understood the laws of gravity, and he remembered the names of the planets. He felt relaxed.
+
+Then, he reached Question 24.
+
+It was a physics problem about a moving train. The question read: "A train leaves the station and travels north at a constant speed of 80 kilometers per hour. After two hours, it stops at a second station for thirty minutes. Then, it continues north at 100 kilometers per hour. According to the graph provided, what is the total distance the train has traveled after exactly 90 minutes?"
+
+Julian looked at the graph printed below the question. The graph showed time on the horizontal axis and distance on the vertical axis.
+
+Julian took his pencil and started to calculate. "Okay," he thought to himself. "Speed is 80 kilometers per hour. Time is 90 minutes, which is 1.5 hours. Distance equals speed multiplied by time. So, 80 multiplied by 1.5 equals 120 kilometers."
+
+He looked at the multiple-choice options below the question.
+A) 80 kilometers
+B) 100 kilometers
+C) 160 kilometers
+D) 200 kilometers
+
+Julian frowned. His answer, 120 kilometers, was not one of the options.
+
+He took a deep breath. "I must have made a simple mistake," he thought. He erased his calculations and started over. He read the question again, very slowly, word by word. He checked the graph. The line on the graph clearly showed that at 1.5 hours, the distance was 120 kilometers. His math was perfectly correct.
+
+He looked at the options again: A, B, C, D. None of them were 120.
+
+Julian looked around the room. His classmates were all writing quickly. His friend, Sam, who sat next to him, had already turned the page and was working on the next section. Sam had obviously chosen one of the answers and moved on.
+
+Julian felt a sudden rush of anxiety. Time was passing. He had only twenty minutes left to finish the rest of the exam. The smart thing to do would be to guess one of the answers, maybe C, and move to the next question. That is what most students would do. They would assume the teacher was right and they were wrong.
+
+But Julian couldn't do it. It went against his nature. The math was simple, and the options were clearly incorrect. There was a mistake, but the mistake was not on his scratch paper. The mistake was printed on the exam itself.
+
+His heart began to beat a little faster. He looked at Ms. Davies. She was sitting at her desk, marking some papers with a red pen. She did not like to be interrupted during exams. She always told them, "Read the questions carefully, and do not ask me for hints."
+
+Julian swallowed hard. He raised his hand.
+
+Ms. Davies didn't see him at first. He held his hand higher. Finally, she looked up, her expression serious. She stood up and walked quietly to his desk.
+
+"Is there a problem, Julian?" she whispered. "You know I cannot explain the questions to you."
+
+"I know, Ms. Davies," Julian whispered back, his voice shaking slightly. "But I think there is a mistake in Question 24."
+
+Several students sitting near Julian stopped writing and looked up. To challenge a test question during the actual exam was very unusual.
+
+Ms. Davies raised an eyebrow. "A mistake? Are you sure you are reading the graph correctly, Julian? These exams are checked very carefully."
+
+"I am sure," Julian said respectfully. "The question asks for the distance after 90 minutes, which is 1.5 hours. If the train travels at 80 kilometers per hour, the distance must be 120 kilometers. But 120 is not one of the options. I think the person who wrote the question meant to ask for the distance after two hours. If it was two hours, the answer would be 160 kilometers, which is option C."
+
+Ms. Davies looked at his paper. She leaned closer and read Question 24 silently. Then, she looked at the graph. She stood there for a full minute, her eyes moving back and forth between the text and the image. The silence in the classroom felt heavy.
+
+Julian held his breath. He wondered if he had made a terrible fool of himself in front of the whole class. What if there was some hidden trick in the question that he had missed?
+
+Suddenly, Ms. Davies sighed. She picked up Julian’s pencil and did a quick calculation on the corner of his paper. Then, she looked at Julian. To his great surprise, she smiled.
+
+"Well, Julian," she whispered. "It seems you are absolutely right."
+
+She stood up straight and turned to face the entire classroom. She clapped her hands together once to get everyone's attention.
+
+"Listen to me, please, everyone. Stop writing for a moment," Ms. Davies announced clearly.
+
+Thirty heads looked up.
+
+"There is an error on the exam," she explained. "Please look at Question 24. The question asks for the distance after 90 minutes. It should ask for the distance after two hours. Please cross out the words '90 minutes' and write 'two hours' next to it. Then you will find the correct answer in your options."
+
+A wave of quiet whispers filled the room as students quickly corrected their papers. Many of them had just guessed the answer and moved on, without realizing the numbers didn't make sense.
+
+Ms. Davies looked back down at Julian. "Excellent observation, Julian. It takes a lot of confidence to trust your own calculations when the paper tells you something different. Thank you for pointing that out to me."
+
+"You're welcome, Ms. Davies," Julian said. He felt his face grow warm, but he couldn't hide his wide smile.
+
+He picked up his pencil, chose option C, and moved on to Question 25. He finished the rest of the exam easily.
+
+When the bell rang and the students handed in their papers, Sam walked out of the classroom next to Julian.
+
+"Man, you are brave," Sam said, shaking his head. "I spent five minutes on Question 24. I knew 120 was the right answer, but it wasn't there. I thought I was going crazy, so I just guessed B and gave up."
+
+"I almost gave up too," Julian admitted as they walked down the hallway. "But in science, you have to trust the data. If the numbers don't lie, then the question has to be wrong."
+
+Julian felt a deep sense of satisfaction. He knew he would probably get a high score on the exam. But more importantly, he had learned something valuable about himself. He learned that authority is not always perfect, and printed words are not always right. Sometimes, it is necessary to ask questions, point out errors, and stand up for what you know is logically true. And that, he decided, was the most scientific thing a person could do.
+
+
+
+
+

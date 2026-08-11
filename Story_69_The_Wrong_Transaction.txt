@@ -1,0 +1,71 @@
+﻿Title: The Wrong Transaction
+
+Category: Intermediate
+
+David owned a small, independent bakery in the suburbs of Chicago. He loved his business, and his daily routine usually consisted of baking fresh bread, chatting with regular customers, and smelling the sweet scent of cinnamon and sugar. He was a fantastic baker, but he often admitted that he was not a great businessman. He disliked administrative tasks, and he found accounting very stressful.
+
+His bakery had recently become quite popular, and David needed to increase his production. He decided to buy a new, industrial-sized dough mixer. It was an expensive piece of equipment, costing nearly four thousand dollars. He found a reliable supplier online, negotiated a good price, and received an invoice via email. The supplier asked David to pay by a direct bank transfer before they would ship the machine.
+
+On Tuesday afternoon, during his lunch break, David sat in his tiny office at the back of the bakery. The office was messy, covered in flour and old receipts. He opened his laptop, logged into his business bank account, and clicked on the button to initiate a new transfer.
+
+He carefully typed in the name of the supplier: 'Midwest Kitchen Equipment.' Then, he looked at the invoice on his phone to copy the bank account number. The number was long, containing fourteen digits. David typed it in, double-checked the amount—exactly $3,850.00—and hit the 'Submit' button. The screen displayed a green checkmark, confirming that the transaction was processing. 
+
+David felt relieved. The hard part was over, and his new mixer would arrive by Friday. 
+
+However, Friday arrived, and no delivery truck appeared at the bakery. David called the supplier late in the afternoon. 
+
+"Hello, this is David from the Corner Bakery. I am calling to check on the delivery of my dough mixer. It was supposed to arrive today."
+
+The sales representative checked her computer. "I'm sorry, David, but we haven't shipped the mixer yet because we haven't received your payment. Our accounting department checked this morning, and your invoice is still showing as unpaid."
+
+David felt a cold sensation in his stomach. "That is impossible. I sent the money on Tuesday afternoon. It was a direct transfer. It shouldn't take more than one business day."
+
+"Could you please check your bank statement and send us a confirmation receipt?" the representative asked politely.
+
+David hung up the phone and immediately opened his laptop. He logged into his bank account and found the transaction from Tuesday. The money had definitely left his account. He clicked on the details of the transfer to download the receipt. As he read the information on the screen, his heart completely stopped.
+
+He looked closely at the destination account number. Then, he looked at the invoice from the supplier. They didn't match. 
+
+The supplier's account number ended in '...4589'. 
+The account number David had typed ended in '...4598'. 
+
+In his rush, David had switched the last two digits. He had sent almost four thousand dollars of his small business's money to a complete stranger. 
+
+Panic consumed him. He felt sick. Four thousand dollars was a huge amount of money for his bakery. If he couldn't get it back, he wouldn't be able to buy the mixer, and he might even struggle to pay his employees next week. 
+
+He didn't waste another second. He grabbed his phone and called his bank's emergency customer service line. After navigating a complicated automated menu, he was finally connected to a human agent named Robert. 
+
+"Robert, please help me. I have made a terrible mistake," David said, his voice shaking. "I tried to pay a supplier, but I typed the wrong account number. I sent almost four thousand dollars to the wrong person."
+
+"I understand this is very stressful, sir," Robert said calmly. "Let me pull up your account. Can you give me the date and the exact amount of the transaction?"
+
+David provided the details, and Robert found the transfer in the system. 
+
+"Okay, I see the transaction," Robert confirmed. "Because the transfer was initiated on Tuesday, the funds have already cleared and are sitting in the receiving account. The problem is that the account number you entered actually exists and belongs to another customer at a different bank."
+
+"Can't you just take the money back?" David pleaded. "It was an honest mistake!"
+
+"Unfortunately, it is not that simple," Robert explained. "Once the money has landed in another person's account, we do not have the legal authority to simply withdraw it without their permission. However, we can initiate a process called a 'payment recall' or a 'trace request.'"
+
+"What does that mean?"
+
+"It means my bank will officially contact the receiving bank. We will explain that the transfer was an error and request that they return the funds. The receiving bank will then contact their customer—the person who received your money—and ask for their authorization to reverse the transaction."
+
+"What if the person refuses? Or what if they have already spent the money?" David asked, imagining the worst-case scenario.
+
+"If they refuse, or if the money is gone, it becomes a civil legal matter, and you might have to involve the police or a lawyer," Robert said honestly. "But most people are honest. When they see a large, unexpected deposit, they usually expect the bank to correct it. I will start the recall process immediately. It can take up to ten business days to get a resolution."
+
+Ten days felt like a lifetime. David thanked Robert and hung up. He spent the next week in a state of high anxiety. He had to call the supplier and explain the embarrassing situation, asking them to hold the machine for him a little longer. He checked his banking app five times a day, hoping to see the money return.
+
+Finally, on the morning of the eighth day, David was opening the bakery when his phone vibrated with an email notification from the bank. The subject line read: 'Update on Payment Recall Request.'
+
+He opened the email with shaking hands. The message stated that the receiving bank had successfully contacted their customer. The customer acknowledged the error and authorized the return of the funds. The money was being reversed and would appear in David's account by the end of the day.
+
+David let out a massive sigh of relief and leaned heavily against the counter. He felt like a dark cloud had been lifted. When he checked his account that evening, the $3,850.00 was safely back in his balance. 
+
+The very next morning, David sat at his computer to try the payment again. This time, he didn't type the number manually. He carefully copied and pasted the account number directly from the digital invoice. He read the number out loud, digit by digit, checking it three times before he finally pressed 'Submit'. He had learned a terrifying, exhausting lesson about the importance of paying attention to the small details.
+
+
+
+
+
