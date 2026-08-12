@@ -4,8 +4,8 @@
 
 © 2026 Ankit Singh. All Rights Reserved.
 
-This repository contains proprietary content intended for use in the
-EnglishXtra application.
+This repository contains proprietary content intended 
+
 
 Unauthorized copying, downloading, reproduction, redistribution,
 republication, scraping, modification, or use of this content in
