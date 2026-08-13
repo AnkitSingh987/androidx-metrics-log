@@ -1,0 +1,135 @@
+{
+  "title": "Medical Consultation 397",
+  "category": "Medical",
+  "level": "Intermediate",
+  "dialogues": [
+    {
+      "speaker": "AI",
+      "text": "Hi! It's so great to see you. How have things been?"
+    },
+    {
+      "speaker": "User",
+      "text": "Hello! I'm doing alright, just a bit busy lately."
+    },
+    {
+      "speaker": "AI",
+      "text": "What seems to be the main problem you're experiencing today?"
+    },
+    {
+      "speaker": "User",
+      "text": "Yes, I have. But I have a few specific questions if you don't mind."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "I see where you're coming from. Have you considered any alternative options?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "I see where you're coming from. Have you considered any alternative options?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "I see where you're coming from. Have you considered any alternative options?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "I will send you a detailed email with all the instructions and next steps."
+    },
+    {
+      "speaker": "User",
+      "text": "Excellent! I feel much more confident about this now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Perfect. I will keep you updated. Take care and goodbye!"
+    },
+    {
+      "speaker": "User",
+      "text": "Thanks for everything! Goodbye and have a fantastic week!"
+    }
+  ]
+}
