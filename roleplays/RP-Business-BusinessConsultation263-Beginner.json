@@ -1,0 +1,119 @@
+{
+  "title": "Business Consultation 263",
+  "category": "Business",
+  "level": "Beginner",
+  "dialogues": [
+    {
+      "speaker": "AI",
+      "text": "Hello there! How are you doing today?"
+    },
+    {
+      "speaker": "User",
+      "text": "Hey there! I'm doing great. I actually came here because I need some assistance."
+    },
+    {
+      "speaker": "AI",
+      "text": "I wanted to discuss your recent performance report."
+    },
+    {
+      "speaker": "User",
+      "text": "To be honest, I'm a bit confused and could use some clarification."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "I see where you're coming from. Have you considered any alternative options?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "I will send you a detailed email with all the instructions and next steps."
+    },
+    {
+      "speaker": "User",
+      "text": "That makes sense. I'll wait for your email and follow the instructions."
+    },
+    {
+      "speaker": "AI",
+      "text": "My pleasure! Feel free to reach out anytime. See you later!"
+    },
+    {
+      "speaker": "User",
+      "text": "Thanks for everything! Goodbye and have a fantastic week!"
+    }
+  ]
+}
