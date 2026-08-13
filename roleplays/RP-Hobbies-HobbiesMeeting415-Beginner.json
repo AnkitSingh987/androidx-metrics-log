@@ -1,0 +1,119 @@
+{
+  "title": "Hobbies Meeting 415",
+  "category": "Hobbies",
+  "level": "Beginner",
+  "dialogues": [
+    {
+      "speaker": "AI",
+      "text": "Greetings! It is a pleasure to meet you. How are you?"
+    },
+    {
+      "speaker": "User",
+      "text": "Hi! I'm doing quite well, thank you. How about yourself?"
+    },
+    {
+      "speaker": "AI",
+      "text": "I heard you started playing the guitar. How is that going?"
+    },
+    {
+      "speaker": "User",
+      "text": "Yes, I have. But I have a few specific questions if you don't mind."
+    },
+    {
+      "speaker": "AI",
+      "text": "I see where you're coming from. Have you considered any alternative options?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's try a different method. If it doesn't work, we can always revert back."
+    },
+    {
+      "speaker": "User",
+      "text": "I'm willing to try that. Let's hope it works better this time."
+    },
+    {
+      "speaker": "AI",
+      "text": "Perfect. I will keep you updated. Take care and goodbye!"
+    },
+    {
+      "speaker": "User",
+      "text": "I will definitely reach out if I need more help. Take care!"
+    }
+  ]
+}
