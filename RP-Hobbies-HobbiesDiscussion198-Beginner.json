@@ -1,0 +1,119 @@
+{
+  "title": "Hobbies Discussion 198",
+  "category": "Hobbies",
+  "level": "Beginner",
+  "dialogues": [
+    {
+      "speaker": "AI",
+      "text": "Hey! Welcome. How can I help you today?"
+    },
+    {
+      "speaker": "User",
+      "text": "Good morning! I'm doing fantastic, thanks for asking."
+    },
+    {
+      "speaker": "AI",
+      "text": "I heard you started playing the guitar. How is that going?"
+    },
+    {
+      "speaker": "User",
+      "text": "I'm glad you brought that up. I've been thinking about it a lot."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "I see where you're coming from. Have you considered any alternative options?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "I will send you a detailed email with all the instructions and next steps."
+    },
+    {
+      "speaker": "User",
+      "text": "Excellent! I feel much more confident about this now."
+    },
+    {
+      "speaker": "AI",
+      "text": "My pleasure! Feel free to reach out anytime. See you later!"
+    },
+    {
+      "speaker": "User",
+      "text": "No, that's all for today. Thank you again, and goodbye!"
+    }
+  ]
+}
