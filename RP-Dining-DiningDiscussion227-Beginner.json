@@ -1,0 +1,119 @@
+{
+  "title": "Dining Discussion 227",
+  "category": "Dining",
+  "level": "Beginner",
+  "dialogues": [
+    {
+      "speaker": "AI",
+      "text": "Greetings! It is a pleasure to meet you. How are you?"
+    },
+    {
+      "speaker": "User",
+      "text": "Hi! I'm doing quite well, thank you. How about yourself?"
+    },
+    {
+      "speaker": "AI",
+      "text": "Is everything tasting alright so far?"
+    },
+    {
+      "speaker": "User",
+      "text": "Actually, yes. I wanted to get some more details about that."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "I think we need to completely rethink our approach and start from scratch."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "I will send you a detailed email with all the instructions and next steps."
+    },
+    {
+      "speaker": "User",
+      "text": "I'm willing to try that. Let's hope it works better this time."
+    },
+    {
+      "speaker": "AI",
+      "text": "It was great chatting with you. Let me know if you need any further help."
+    },
+    {
+      "speaker": "User",
+      "text": "Thanks for everything! Goodbye and have a fantastic week!"
+    }
+  ]
+}

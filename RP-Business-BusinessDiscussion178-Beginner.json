@@ -1,0 +1,119 @@
+{
+  "title": "Business Discussion 178",
+  "category": "Business",
+  "level": "Beginner",
+  "dialogues": [
+    {
+      "speaker": "AI",
+      "text": "Hello there! How are you doing today?"
+    },
+    {
+      "speaker": "User",
+      "text": "Good morning! I'm doing fantastic, thanks for asking."
+    },
+    {
+      "speaker": "AI",
+      "text": "I wanted to discuss your recent performance report."
+    },
+    {
+      "speaker": "User",
+      "text": "To be honest, I'm a bit confused and could use some clarification."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "That makes sense. How long has this been going on?"
+    },
+    {
+      "speaker": "User",
+      "text": "It's been happening for about three weeks now, and it's quite frustrating."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Interesting point. What do you think would be the best way to move forward?"
+    },
+    {
+      "speaker": "User",
+      "text": "Well, the main issue is that it requires a lot more time than I expected."
+    },
+    {
+      "speaker": "AI",
+      "text": "I understand. Can you give me a specific example of what you mean?"
+    },
+    {
+      "speaker": "User",
+      "text": "For instance, yesterday I tried to handle it, but I ran into a major roadblock."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's break it down. What exactly is the most challenging part for you?"
+    },
+    {
+      "speaker": "User",
+      "text": "I have considered alternatives, but none of them seem practical right now."
+    },
+    {
+      "speaker": "AI",
+      "text": "Let's try a different method. If it doesn't work, we can always revert back."
+    },
+    {
+      "speaker": "User",
+      "text": "That makes sense. I'll wait for your email and follow the instructions."
+    },
+    {
+      "speaker": "AI",
+      "text": "You're very welcome! Is there anything else I can assist you with today?"
+    },
+    {
+      "speaker": "User",
+      "text": "No, that's all for today. Thank you again, and goodbye!"
+    }
+  ]
+}
