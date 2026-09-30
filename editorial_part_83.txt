@@ -1,0 +1,68 @@
+Category: Editorial
+Title: editorial part 83
+
+Tighten the process: On the Election Commission of India, election processes 
+The ECI must address legitimate concerns about voter rolls and transparency 
+The Leader of the Opposition in the Lok Sabha, Rahul Gandhi, has raised troubling questions 
+about the conduct of elections based on what transpired in the 2024 Assembly elections in 
+Maharashtra. There are specific issues: the abnormal increase in voters listed in electoral 
+rolls between the general election and Assembly elections, higher turnout numbers after 5 
+p.m. on voting day, and the Centre amending the Conduct of Election Rules, 1961 to restrict 
+access to CCTV footage of the polling process. Mr. Gandhi has also questioned the process of 
+appointing Election Commissioners, with the Union government refusing to implement a 
+Supreme Court judgment in 2023 that recommended having the Chief Justice of India as a part of the 
+selection panel. While political parties, including the BJP and the Congress, have raised complaints 
+about Electronic Voting Machines in the past, many did not stand scrutiny considering the administrative 
+and technological safeguards. The Congress has now focused on the electoral process, raising more 
+fundamental issues that need to be unpacked separately. 
+A preliminary analysis by The Hindu of registered voters in States where the general election and 
+Assembly elections were proximate showed that there were precedents of sharp increases in the 
+electorate before Assembly elections. While the number of new voters added before the Assembly 
+elections was high - more than 39 lakh voters in just six months following the general election - similar 
+increases were observed in 2014 as well. The increase of nearly four million voters is a large number 
+and the ECI should proactively release machine-readable data on the rolls for verification. Regarding the 
+allegation that turnout increases were abnormal after 5 p.m, the argument does not hold water. This is 
+based on provisional turnout figures, and Election Commission of India (ECI) data show that there was 
+no significant increase in voting after 5 p.m. in Maharashtra. Provisional turnout figures shared via an 
+app by the ECI are not entirely accurate as these are dependent on the manual entry of numbers during 
+elections and may have discrepancies when compared to the accurate machine count. As final figures 
+via Form 17C data from each booth are released only after a lag, it would be incorrect to rely on 
+provisional turnout figures. However, there is another contention that merits the ECI's response: 
+retaining CCTV footage and providing parties and their nominees access to it to scrutinize complaints. 
+The process of updating electoral rolls must be more transparent and involve political parties for 
+scrutiny and verification. It is also incumbent upon parties to show alacrity during this process than cry 
+foul after the results are out. Ultimately, the onus lies on the ECI to enhance transparency in the 
+electoral process and, specifically, in providing electoral rolls and retaining CCTV footage for scrutiny.
+
+
+Crash and burn: On the Air India Ahmedabad plane crash and Indian aviation 
+India's aviation sector needs to address safety concerns 
+The first hull loss of the 'Dreamliner', one of aviation's most advanced twin-aisle aircraft, is one 
+that is unsettling, more so when there have been recent examples of survivability in modern 
+widebody jets. The tragic end to Air India flight AI171, on June 12, 2025 - there was one 
+surviving passenger - just minutes after its liftoff from Ahmedabad for London Gatwick, and it 
+touched a recorded barometric altitude of 625 feet, will be under much global scrutiny. That 
+the crew were faced with a sudden and sharp turn of events on the 11-plus-year-old Boeing 
+787-8, a plane with ample avionics redundancy, and reliable twin engines - the GEnx-
+1B67, rated at 67,000 lbs of thrust each - has led to much speculation about the cause. 
+Experts have suggested reasons such as issues with load planning, ambient air temperature 
+and engine performance, wing surface settings, and even a bird hit. Inducted by Air India 
+during its government-owned days, as part of a 68-aircraft deal signed with Boeing in 2006, the subfleet 
+of 787-8s has played a role in its medium to long-haul network expansion to Europe, the Far East and 
+Australia. The plane's global safety record has been strong in general, but it has also been an aircraft 
+type that has raised some concerns. These have included assembly-line quality control, 'whistle-blower' 
+statements, engine icing problems that resulted in a safety directive, a lithium aerospace battery-related 
+electrical system issue that led to extensive world-wide groundings, an emergency locator transmitter 
+battery fire that caused heat damage, and, in 2024, an in-flight upset that was linked to a feature in the 
+flight deck crew seat. 
+All eyes will be on how the airline's new owner, Tata Sons (with a 25.1% shareholding by Singapore 
+Airlines Limited), steers its operations and addresses safety concerns after an 'unprecedented' four-
+airline merger. The group is in the middle of executing Vihaan.AI, the airline's 'transformational roadmap 
+over five years', with the appointment of a 'head of group safety, security and quality' integral to this. In 
+parallel, the airline has also faced scrutiny by India's civil aviation regulatory body, the Directorate 
+General of Civil Aviation. With a formal investigation, that includes international participation, having 
+been initiated, in keeping with aviation protocols, the complexities that a first-time 787 crash analysis 
+could throw up should be ironed out. At the 81st International Air Transport Association annual general 
+meeting and World Air Transport Summit in New Delhi last week, India was recognised to be one of the 
+largest aviation markets. However, its rapidly expanding aviation sector needs to address the 
+challenges, which include safety, on the ground and in the air.
