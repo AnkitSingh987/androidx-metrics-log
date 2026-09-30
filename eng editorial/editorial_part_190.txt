@@ -1,0 +1,107 @@
+Category: Editorial
+Title: editorial part 190
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Meticulous 
+A. clear 
+2. Lesions 
+B. careful 
+3. Sentiment 
+C. complete 
+4. Sheer 
+D. wounds 
+5. Apparent 
+E. opinion 
+Answer: 
+1-B 
+2- D 
+3- E 
+4- C 
+5- A 
+
+            A brittle shell: On ISRO and transparency 
+ISRO should choose transparency to reinforce public confidence 
+ venerable institution, facing accusations of opacity, decided to stun its detractors with 
+some transparency. The Indian Space Research Organisation (ISRO) made public the 
+report of a technical committee, constituted to analyse why the NVS-02 satellite, which was 
+launched aboard a GSLV rocket on January 29, 2025, could not be placed in its intended 
+orbit. Until this week, there was no official explanation why this had happened. An 
+accompanying press statement - not a report it must be noted - surmised that an 'apex' committee 
+had concluded that a signal meant to activate a key valve in the engine's oxidiser line never reached it. 
+This valve is crucial for firing the engine to raise the spacecraft's orbit and this likely happened because 
+at least one connection in the electrical connector - in both the primary and backup lines - came 
+loose or failed, preventing the signal from getting through. All of this is useful information, but only for 
+ISRO to be cautious in future missions. In fact, the press statement continued, these learnings were 
+"successfully implemented" in a November 2, 2025 mission by the LVM-3 M5 launch vehicle that placed 
+the GSAT-7R, India's heaviest communication satellite, in its intended orbit. When the ISRO releases a 
+statement on an event from a year ago, it must strive to illuminate rather than be seen to declassify 
+under duress. It should have revealed whether the connection came loose because of an oversight; 
+whether multiple levels of personnel - or machines - who scrutinise every nut and screw on the 
+assembly line failed, or if a manufacturing anomaly had compounded over time in a way that would have 
+escaped detection even by the most vigilant overseers. 
+At the other end, doing so reinforces public confidence in the institution. It should be able to reveal such 
+information without blaming individuals or withholding proprietary or strategic information. Making such 
+'Failure Analysis' reports public, as they are called, used to be a routine affair. However, ISRO seems to 
+have retreated into a shell following the back-to-back failures of the Polar Satellite Launch Vehicles in 
+January and in May 2025. In fact, beyond the technical committees- another committee has been set 
+up to probe "systemic issues" underlying the failures of these rockets - ISRO should not choose 
+insularity at a time when traditional business models all over the world are being disrupted. 
+A
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Surmised 
+A. delicate 
+2. Brittle 
+B. respected 
+3. Illuminate 
+C. pressure 
+4. Duress 
+D. assumed 
+5. Venerable 
+E. clarify 
+Answer: 
+1-D 
+2- A 
+3- E 
+4- C 
+5- B 
+
+            Up in the air: On non-scheduled operators, aviation safety 
+Flights by non-scheduled operators need better enforcement 
+ series of flight incidents within a month - two crashes involving small aircraft, at 
+Baramati (Maharashtra) in January, and near Simaria (Jharkhand), and a helicopter 
+crashlanding in the Andamans - is a reminder that charter aviation in India cannot be 
+treated as a lightly regulated adjunct to commercial flying. The troubled charter aviation 
+sector is expanding and the need for oversight has become critical. The Directorate 
+General of Civil Aviation (DGCA) website lists 133 non-scheduled operators, or NSOs (updated till 
+September 30, 2025), using a mix of fixed-wing and rotary-wing aircraft. The meeting on February 24 
+that the DGCA held with all NSO permit holders was thus long overdue. The proposal to rank charter 
+operators based on safety performance and the requirement for NSOs to disclose critical safety 
+information on their websites, which covers aircraft age, maintenance history, and pilot experience, 
+could be the first steps towards basic transparency. Equally significant is the DGCA's line that 
+commercial considerations must not be allowed to affect safety, a pointer to pressures to prioritise VIP 
+schedules and even business commitments. The regulator's focus on maintenance standards, 
+particularly among operators with in-house maintenance, repair, and operation facilities, is another 
+critical, but late, intervention. Cockpit voice recorder audits, fuel records and ADS-B data scrutiny as 
+well as enforcement of flight duty time limitations are pivotal, though belated, steps. Most importantly, 
+holding senior management accountable for systemic failures is another corrective measure. 
+Adverse weather has been a contributory factor in several charter and non-scheduled flight accidents, 
+which includes the Bell 430 helicopter crash in Andhra Pradesh in 2009 and the Beechcraft C-90 King Air 
+accident in 2001 that claimed the lives of prominent political leaders. The DGCA has specified that 
+recurrent training of pilots must focus on 'weather awareness strategies and decision-making in 
+uncontrolled environments'. The rollout of safety audits, with a physical workshop on safety, may help 
+align all operators with the safety mandate. However, the fact is that there are some operators with poor 
+safety records. There are also gaps in pilot training and experience on type, scant simulator training 
+centres in India, a dearth of quality instructors and weak audits. It is acknowledged that the regulator 
+itself is short-staffed in certain safety critical departments. Earlier this month, the Civil Aviation Minister 
+spoke of conducting a "very thorough study" of flight operations by non-scheduled operators and to 
+uncontrolled airfields. But for such a safety drive to lock into place there has to be consistent 
+enforcement and committed transparency. 
+A
