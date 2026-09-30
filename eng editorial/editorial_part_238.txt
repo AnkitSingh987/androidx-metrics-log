@@ -1,0 +1,106 @@
+Category: Editorial
+Title: editorial part 238
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Tentalising 
+A. impending 
+2. Massive 
+B. tempting 
+3. Boom 
+C. distributed 
+4. Disbursed 
+D. surge 
+5. Looming 
+E. huge 
+Answer: 
+1-B 
+2- E 
+3- D 
+4- C 
+5- A 
+
+            Spreading wings: On the Vikram-1 launch 
+Vikram-1 is an engineering triumph seeking commercial viability 
+The launch of the Vikram-1 rocket built by Skyroot Aerospace from Sriharikota marked the 
+Indian private sector's first orbital flight. Vikram-1 is a four-stage launcher designed to provide 
+what Skyroot has called a "cab service" for satellites, letting customers pick their orbit and 
+launch schedule rather than accept the orbital slot and drop-off point presented by rideshares, 
+at a commensurate premium. Skyroot is targeting a price per launch below that of the PSLV 
+and above that of the SSLV (projected), to be achieved in part by basing the rocket on carbon-composite 
+structures. It also has plans for a more powerful Vikram-2 rocket. The company was founded in 2018 by 
+two former ISRO engineers and its path to orbit followed engine tests in 2020 and a suborbital flight in 
+2022. For roughly six decades, ISRO held a state monopoly over launch activities in India while private 
+firms were limited to being suppliers. Reforms since 2020 and the 2023 Space Policy opened the door 
+for commercial players and freed ISRO to focus on R&D and scientific missions. In 2024, up to 49% FDI 
+in launch vehicles was allowed by the automatic route. The push is also part of the government's 
+ambition of growing the national space economy to $44 billion by 2033 from around $8 billion alongside 
+satellite manufacturing, communications, navigation, and earth observation. 
+Orbital launch capability remains hard-won: India is now only the third country to host private enterprise 
+that has demonstrated it. But now that Skyroot has proved competence in engineering, its next 
+milestone is commercial viability, which may be harder. Specifically, the company has to demonstrate 
+repeatability and stable launch costs in an increasingly crowded suppliers' market that includes 
+established 'brands' such as SpaceX and Rocket Lab and a bevy of rapidly scaling Chinese firms. 
+Rideshares on larger rockets are still often cheaper per kilogram to orbit. The model Skyroot is betting 
+on, letting customers specify orbit and schedule in return for a premium over a rideshare launch, 
+depends on a market of uncertain size. The greater production scale will challenge the engineering, too, 
+as batch-to-batch variability becomes harder to control. India also lacks a Space Activities Act, leaving 
+liability to be governed by policy, contracts, existing law, and international commitments rather than 
+statute, maintaining long-term regulatory uncertainty, particularly in the event of a launch or orbital 
+mishap. The Vikram-1 launch is an engineering triumph. Whether it translates to commercial success, 
+which is the real national ambition, is now the question. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Triumph 
+A. steady 
+2. Demonstrated 
+B. group 
+3. Stable 
+C. showed 
+4. Bevy 
+D. calamity 
+5. Mishap 
+E. victory 
+Answer: 
+1-E 
+2- C 
+3- A 
+4- B 
+5- D 
+
+            Press and play: On the FIFA World Cup 2026 
+Spain smothered the opposition with possession and positional football 
+pain's second World Cup title, achieved after a narrow extra-time victory over Argentina in 
+the final, was a triumph of the collective. The Luis de la Fuente-coached outfit conceded just 
+one goal in eight matches, was unmatched in the centre of the pitch with playmaker and 
+Golden Ball winner Rodri completing a record 790 passes, and exhibited diffused excellence 
+up front by having seven different players score its 14 goals. So much so that even the 
+individual brilliance of the teenaged Lamine Yamal was astutely subsumed within the whole. In fact, de 
+la Fuente and Rodri had combined to deliver the 2024 European Championship too, with the latter 
+adjudged the world's best later that year. A second Ballon d'Or for the 30-year-old midfield metronome 
+appears a certainty. The win also cemented Spain's position as the pre-eminent footballing force of the 
+first quarter of this century. Starting 2008, the country has won two of the five World Cups and three of 
+the five Euros. Spain is the reigning women's World Champion, and the assembly line of coaches it 
+produces and players it exports make the nation a true powerhouse. Interestingly, after its maiden World 
+Cup win in 2010, Spain had not gone past the round of 16 at three subsequent editions. The success in 
+North America is thus a full-circle moment. 
+Another high point for the tournament was Lionel Messi's enduring genius. Argentina's quality in the 
+final was dire and the behaviour of its players petulant, but that should not detract from the 39-year-
+old's excellence in bringing his country to the cusp of defending its crown. Kylian Mbappe's experience 
+was bitter-sweet; he won the Golden Boot (10 goals) and became the all-time top-scorer in World Cups 
+(22) but remained a mute spectator as Spain subjugated his star-studded France in the semifinal. [P] 
+Jude Bellingham [A] performance England to third place, the best [B] inspired for the [C] nation since 
+[D] winning in 1966. But the summer sojourn laid bare the team's continued lack of cutting edge after 
+back-to-back runner-up finishes at Euro 2020 and 2024. The World Cup will also be etched in memory 
+for a plethora of missteps, which governing body FIFA unfortunately condoned. By arbitrarily invoking 
+immigration rules, and trying to interfere politically in on-field matters, the co-host U.S. pushed the 
+envelope in undesirable ways. Commercially driven hydration breaks and the half-time show in the final 
+were tedious and disruptive. Football should be allowed to flow freely, on and off the turf. 
+S
