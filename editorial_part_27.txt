@@ -1,0 +1,68 @@
+Category: Editorial
+Title: editorial part 27
+
+A pragmatic picture: On the Economic Survey 2024-25 
+The Economic Survey sets out challenges to India's growth 
+arliament's Budget session has begun amid a significantly changed backdrop. India's growth is 
+seen faltering after four years of healthy post-pandemic growth, the stock markets are 
+tumbling, the rupee is losing ground faster than expected, and the major drivers that have 
+been spurring the economy - domestic demand and public sector capex - are sputtering, 
+while private investments remain insipid. For context, the five years from 2019-20 to 2023-24 have seen 
+government capex increase at a compounded annual growth rate of 16%, household investments by 
+12%, while corporate outlays were up only 6%, despite a steep tax rate cut for them. A slowdown in the 
+well-moving economic levers is, thus, a cause for concern. That the new U.S. administration seems 
+determined to upend global trade and taxation arrangements, is also unsettling. The Economic Survey 
+2024-25, has warned that, with globalization in retreat, India must focus on domestic factors to spur 
+growth higher while becoming more competitive vis-à-vis rival markets looking to attract foreign 
+investors. 
+The Survey's prognosis that real GDP growth may be in the range of 6.3% to 6.8% in 2025-26, from the 
+6.4% pace estimated for this year, acknowledges that economic momentum may slip further in the face 
+of new headwinds. That the Survey's authors have posited that anything short of a growth pace of 
+around 8% over at least a decade would make it tough to realize India's aspiration to be a developed 
+nation by 2047, is significant, along with their warning that a 'business as usual' approach risks 
+fomenting economic stagnation. While lauding recent reforms, the Survey has cautioned they will not 
+deliver their desired goals without deregulation. The Survey has some refreshing plain speak in this 
+context, emphasizing it is critical for the government to 'get out of the way' of businesses by undoing 
+regulations that are tantamount to micro-management, and bridging the 'trust deficit' between authorities 
+and citizens, as well as within the nation's close-knit communities. Pushing for a refresh of the ease of 
+doing business drive, it has made an impassioned plea to minimize controls that distort markets and 
+adopt a 'minimum necessary, maximum feasible' approach to regulations, while seeking the same 
+accountability from regulators that they stipulate for their constituents. The pitch to empower small firms, 
+enhance economic freedom and ensure a level-playing field, holds weight too. For a government that 
+has been recently infatuated by a spate of 1970s'-style bad ideas such as import curbs, production-
+linked incentives and questionable taxation misadventures, this is pertinent advice. Whether the 
+government has bothered to listen, without prejudice, the Budget will tell. 
+P
+
+
+Averting Engels' pause: On the AI Action Summit in Paris 
+Energy sustainability and labour markets emerge as key priorities in AI Summit 
+rime Minister Narendra Modi highlighted India's stance on the evolving Artificial Intelligence 
+(AI) landscape at the AI Action Summit in Paris on February 11, stressing the need for 
+"governance and standards that uphold our shared values, address risks, and build trust". 
+This perspective is also reflected in the joint statement signed by India and over 50 other 
+countries. Commitments to trust, safety, and universal access align well with India's efforts to 
+advance AI technologies while mitigating risks. The nation's approach to AI will be crucial as 
+the technology progresses and costs decline. Innovations such as Chinese firm DeepSeek's 
+breakthrough reasoning models underscore the growing risks to labour markets. The IT and services 
+sector constitutes a significant portion of India's economy but employs a relatively smaller workforce. 
+AI-driven efficiency gains present an attractive business proposition, yet the potential for job losses or 
+stagnant wage growth in this sector poses serious risks. The Prime Minister rightly pointed out that 
+technological advancements historically create new employment opportunities. However, as noted in the 
+Economic Survey, there is a valid concern regarding an Engels' pause, a phase where firms reap the 
+benefits of new technology while real wages stagnate. India cannot afford even a brief period of such 
+economic strain, making proactive policy responses essential. 
+The summit's emphasis on sustainable AI growth and energy efficiency is equally timely, given global 
+climate imperatives. The United States produces more than twice the electricity of India, despite having 
+just a quarter of its population. A growing share of this energy is now consumed by data centres, which 
+power AI training and deployment. As AI-driven energy demand surges, ensuring that this growth is 
+powered by renewable sources is critical. Commercial AI success remains elusive, with substantial 
+investments flowing into top market players but offering limited financial returns. While India may not 
+replicate this high-investment, low-return model, developing foundational AI models that are tailored to 
+Indian needs is imperative. Leveraging emerging efficiencies and maximizing AI's potential must remain 
+central to India's strategy. The India AI Mission's initiatives, such as subsidized access to Graphics 
+Processing Unit (GPU) clusters and funding for promising projects, are encouraging steps toward this 
+goal. Looking ahead, integrating AI education and skills training at scale will be essential. Even if a 
+significant share of top AI talent moves abroad, India must ensure that its domestic industry retains 
+sufficient expertise to remain competitive. AI will undoubtedly reshape industries, and preparing a robust 
+talent pipeline will be key to ensuring that India not only adapts but also thrives in this transformation.
