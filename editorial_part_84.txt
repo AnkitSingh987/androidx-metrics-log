@@ -1,0 +1,66 @@
+Category: Editorial
+Title: editorial part 84
+
+Maximum Mumbai: On the city, its transportation needs 
+The city needs long term solutions to its transportation needs 
+The railways have proposed automatic sliding doors with ventilation louvres in all Mumbai 
+suburban trains by next year in response to the Mumbra train tragedy on Monday (June 9, 
+2025) - four people died and nearly a dozen others were injured. Sliding doors could 
+potentially force people inside and prevent footboard travel, a factor in the accident. They 
+could ensure that passengers do not get down at unscheduled stops and put themselves in 
+danger of being mowed down by passing trains. The proposed vestibules connecting the coaches may 
+also help to evenly distribute the crowds. As in Japan, each station may then need a few enforcers who 
+could shove the crowds in so that the doors could shut and the trains move. While footboard travel is 
+indeed a dangerous safety issue, it is only an outcome of the dangerous overcrowding in Mumbai trains. 
+For vast numbers of people, the trains offer the least expensive travel option. Not too long ago, the 
+dangers of overcrowding resulted in the infamous stampede at the Elphinstone Road station bridge in 
+2017. Multiple deaths are common along the three arteries that are the lifelines of Mumbai - the Central, 
+Harbour and Western railway lines. Many are hit by trains while crossing tracks instead of using roads or 
+bridges. While rail safety is an immediate issue that needs to be addressed, it is also time city leaders 
+engineer inexpensive, alternative travel options to the trains. 
+Mumbai's trains have been seen as an inevitable part of the extreme urbanisation that the city represents 
+and romanticized by literature. But they are simply not humane modes of transport. The suburban train 
+system has undergone little change over the decades though the city has boosted its roads and enabled 
+more vehicular traffic. Two-wheelers that were a rarity a few decades ago are now common. While the 
+Metro promises to decongest the city to an extent, these services price out the lower classes. Bus 
+services could be enhanced for routes connecting shorter distances. Along with doubling efforts to 
+change the structuring of the city from a north-south network with commuter movements dictated by 
+times, planners should consider expanding ferry transport - a cheaper and possibly more eco-friendly 
+mode of transport to a city bound by the sea. Broadly speaking though, stampedes such as the one in 
+Bengaluru, fire accidents in congested areas, and train tragedies such as the Mumbai one only highlight 
+how unprepared India is to handle the consequences of urbanisation and the thrust to overturn the 
+engagement of the vast majority of the people with agriculture. 
+T
+
+
+A good fix: On the IRCTC and ticket booking 
+The measures to curb agent and bot booking on IRCTC will benefit passengers 
+The e-ticketing system of the Indian Railway Catering and Tourism Corporation Ltd. (IRCTC) is 
+one of India's most widely used e-commerce platforms. Crores of Indian rail commuters and 
+passengers use it to book their tickets, which makes it imperative that the system is run 
+robustly. The scale of the operation is revealing - on May 22, 2025, the IRCTC processed a 
+staggering 31,814 tickets in 60 seconds to set a new record. Yet, the popular e-ticketing 
+system, especially the Tatkal booking part, is plagued by issues. Extremely high demand during peak 
+hours, particularly during the designated Tatkal booking window period, often leads to crashes and slow 
+performance. A major concern is that the system is exploited by ticketing agents who use unfair 
+automated tools (or bots), leading to rapidly dwindling ticket availability for passengers. These issues are 
+what prompted the IRCTC to announce two major steps. The first was a major digital overhaul of the 
+ticketing infrastructure using anti-bot systems to prevent unauthorized automated bookings - a measure 
+that led to the de-activation of a whopping 2.5 crore suspect user IDs. Implementation of a content 
+delivery network also helped improve website performance. In addition, Aadhaar verification is necessary 
+immediately after a ticket is booked. The IRCTC has also mandated Aadhaar authentication for all Tatkal 
+bookings, from July 1, along with OTP-based authentication. Authorised agents have been restricted 
+from booking Tatkal tickets during the first 30 minutes of the booking window period. 
+The idea behind an e-ticketing platform and the provision of Tatkal booking of tickets are to provide 
+equitable chances for passengers to travel. Despite more train services having been introduced over the 
+years by the Indian Railways, which is a state monopoly, demand far outstrips supply, and passengers 
+have to rely on advanced booking and Tatkal tickets for their travel. When agents use bots to game the 
+system, it kills the purpose of equity. Therefore, the IRCTC's steps will bring relief to passengers. That 
+said, the Indian Railways must focus not only on easing the process of ticketing but also on elevating the 
+passenger experience in terms of increasing its train and track capacity to fulfil travel demand, ensuring 
+safety and enhancing its facilities. Seen in this context, while these ticketing fixes are important, the true 
+test for the Indian Railways will be its ability to move beyond just technical and administrative solutions 
+and undertake a fundamental expansion of its services to serve India's large passenger clientele. In a 
+way, meaningful expansion to meet the demand will also obviate the need for reworking technological 
+solutions yet again in the future. 
+T
