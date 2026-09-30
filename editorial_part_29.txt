@@ -1,0 +1,65 @@
+Category: Editorial
+Title: editorial part 29
+
+Learning steps: On the Union Budget and education 
+India must further strengthen its investment in school education 
+esides some high-profile announcements, such as an AI Centre of Excellence for education 
+with an allocation of ₹500 crore, broadband connectivity for schools, the expansion of five 
+third-generation IITs, and increased funding for Indian knowledge systems, Budget 2025 has 
+promised higher allocations for education compared to last year's revised estimates. There 
+was a 7% increase for higher education, although the actual expenditure for 2023-24 was 
+10% more than the 2025-26 Budget estimates. A key challenge in higher education is that 
+the ambitious UGC reforms, modelled on advanced nations, require significant funding. For instance, 
+introducing four-year degree programmes, allowing students to take courses across multiple institutions, 
+implementing bi-annual admissions, and other structural changes demand substantial finances, which 
+will inevitably fall upon State governments. However, Budget 2025 does not appear to adequately 
+address these financial concerns. The release of the ASER 2024 report in the same week as the Union 
+Budget highlighted gaps in India's school education system, particularly in foundational literacy and 
+numeracy (FLN). While the report indicated that learning losses from the COVID-19 pandemic have been 
+recovered, and, in some cases, FLN levels are at their highest ever, India still has some way to go before 
+achieving full FLN, the 2026-27 target under the NIPUN Bharat scheme. 
+Compared to the 2024-25 revised estimates (RE), school education has been allocated an additional 
+₹11,000 crore, a 16% increase. However, as a percentage of the total Budget, this increase is only 0.12 
+percentage points, bringing the allocation to 1.55%. In higher education, the Budget fraction remains 
+unchanged at 0.99%. While institutions such as Kendriya Vidyalaya Sangathan continue to receive 
+significant funding, the increase does reflect higher inflows to States, which are the primary 
+implementers of school education programmes. The Centre has been keen on fully implementing the 
+National Education Policy (NEP), which proposes a 5+3+3+4 system that includes five years of early 
+education up to Class 3. Early education is being prioritized as the key to achieving full FLN, but a 
+critical gap remains: the two years before Class 1 are managed by underpaid Angan wadi workers, who 
+are already overburdened and often lack adequate training to deliver on FLN goals. A focused FLN 
+drive is pivotal to achieving full FLN, a prerequisite for building a highly skilled workforce and 
+leveraging India's demographic dividend. Over the next few years, depending on the progress made, 
+the government must further strengthen school education investments to ensure India meets its full FLN 
+target. Time is of the essence.
+
+
+Green and clean: on India and a critical minerals framework 
+India must formulate a critical minerals framework that is just and equitable 
+India has come a long way in its attempt to transition to cleaner forms of power in the past 
+decade. This is partly reflected in the budgetary allocation to the Ministry of New and Renewable 
+Energy between fiscal years 2015 (BE ₹1,535 crore) and 2025 (BE ₹32,626 crore). But these 
+allocations, other than in 2015 and 2023, have been underutilized, leading to lower revised 
+estimates (REs). However, this does not fully reflect the clean energy journey. India attempted a 
+major leap with the PM-KUSUM scheme in 2019, a year ahead of the COVID-19 disruptions, with 
+an outlay of ₹34,422 crore. The scheme envisaged having off-grid solar irrigation pumps and grid-
+connected solar plants on fallow farmlands. While PM-KUSUM has received a tepid response, with less 
+than half a gigawatt of installed capacity, the realization that energy transition is both a desirable 
+outcome and a requirement occurred during the COVID-19 years, when there were major supply chain 
+disruptions to coal, oil and gas. This led to India pledging to produce half its energy requirements from 
+renewables in about five years from now, at COP26 in 2021. 
+It was the 2021 Budget that heralded the clean energy shift, with ₹18,100 crore for a PLI scheme for 
+advanced chemistry cell manufacturing to augment India's grid-scale battery storage capacity. A ₹4,500 
+crore PLI scheme for solar photovoltaic modules went up to ₹19,500 crore in 2022. But the government 
+also decided to levy a 40% basic customs duty (BCD) on solar modules and 25% on solar cells to 
+reduce the overwhelming import dependence on China. However, this slowed solar power installations 
+nationwide with prices rising. And even while renewables constitute 46% of India's total installed capacity 
+(October 2024), 70% of its power output is from coal. Experts have pointed to the need for grid-scale 
+battery storage technology to augment India's renewables output, as intermittent RE production leads 
+to the continued reliance on fossil-fuel based power. With the realization that steep BCDs could be 
+inflationary and counterproductive to localizing production, particularly in the capital-intensive lithium-
+ion battery technology sector, the government has announced that it will exempt 12 critical minerals and 
+35 capital goods from BCDs. But reducing dependence on China for energy transition resources and 
+technology would also require India showing leadership in formulating a critical minerals framework, 
+that is socially and environmentally just during extraction, and equitable in its distribution. With the U.S. 
+withdrawing its leadership position in these areas, India must aim to play a bigger role.
