@@ -1,0 +1,110 @@
+Category: Editorial
+Title: editorial part 198
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Incontrovertible 
+A. shame 
+2. Indignity 
+B. delay 
+3. Compatible 
+C. extremely difficult 
+4. Fiendishly 
+D. undeniable 
+5. Dalliance 
+E. suitable 
+Answer: 
+1-D 
+2- A 
+3- E 
+4- C 
+5- B 
+
+            Prison outbreak: On the health crisis in India's prisons 
+India's overcrowded jails pose a serious health risk to inmates 
+The public health crisis in India's prisons is distinguished by its poorer infrastructure and a 
+general disregard for treating ailments until they become inconvenient. A prisoner does not 
+lose the right to health, a point courts have repeatedly stressed; yet, between August 20, 
+2025, and March 9, 2026, around 92 inmates at the Jalpaiguri Central Correctional Home 
+were infected with herpes simplex virus (HSV) and seven of them died. HSV is common in the 
+general population but experts have said that in immunocompromised or overcrowded populations with 
+poor care, it can lead to encephalitis, which is often fatal. The Home's 171% occupancy rate rendered 
+good hygiene and isolation a luxury. According to the 2023 Prison Statistics of India, district prisons in 
+West Bengal have reported occupancy rates exceeding 160% and certain facilities, such as the Kandi 
+Sub-Jail, have historically reached staggering levels of over 400%. While the State has many foreign 
+national inmates, overcrowding is a persistent fact of India's correctional facilities. In 2023, 30% of 
+inmates in 10 prisons in Kerala were found to have skin diseases caused by humidity and a lack of 
+personal space. A 2023 study in The Lancet Public Health found prisoners in India five times more likely 
+to develop tuberculosis (TB) than the general population. In 2025, the Home Ministry ordered prison 
+screening camps as unventilated environments allow TB to spread rapidly. The Nagpur and Indore 
+central jails had major COVID-19 outbreaks. 
+According to the India Justice Report 2025, HIV prevalence among inmates is also significantly higher 
+than the national average due to shared equipment and inadequate screening at entry. Mandatory, 
+comprehensive medical screening could catch many of these infections before they become injurious, 
+which also requires facilities to have the requisite personnel. But the report also flagged a 43% vacancy 
+rate for medical officers, resulting in the number of inmates per doctor being 2.6 times higher than 
+recommended by the Model Prison Manual. There are also only 25 psychologists for India's 5.7 lakh 
+inmates. Filling this gap requires integrating prisons into the National Health Mission, ensuring a 
+sufficient number of health workers trained to manage outbreaks, and enforcing the Manual's standards 
+uniformly across States. As West Bengal's actions in 2020 illustrate - temporarily releasing thousands 
+of undertrials to relieve overcrowding in the South 24 Parganas District Correctional Home and the 
+Baruipur Central Jail - the solutions are not confined to health. The judiciary must fast-track cases 
+involving undertrials, who constitute the majority of inmates, expand the use of bail and non-custodial 
+alternatives for minor offences and expedite the repatriation of foreign nationals. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Expedite 
+A. ease 
+2. Staggering 
+B. merging 
+3. Relieve 
+C. hasten 
+4. Ailments 
+D. diseases 
+5. Integrating 
+E. shocking 
+Answer: 
+1-C 
+2- E 
+3- A 
+4- D 
+5- B 
+
+            Fire and more fire: On hospital ICU fires, patient safety 
+India must treat hospital fire safety as an issue of criminal accountability 
+uttack is not an anomaly. It is the latest entry in a ledger of preventable deaths in Indian 
+hospital ICUs. In 2016, 22 people died in a fire at a private hospital ICU in Bhubaneswar, 
+which did not have the mandatory fire safety clearance. Following this tragedy, fire safety 
+audits were made compulsory for such facilities. Last year, the Odisha government allocated 
+about ₹320 crore for fire safety improvement across hospitals in the State. But this did not 
+prevent the fire at the government SCB Medical College and Hospital, Cuttack, apparently caused by a 
+short circuit in the ICU of the trauma care unit. Some reports suggest the fire may have started in a 
+ventilator, which was later found heavily charred. The accident, which occurred in the early hours of 
+Monday, claimed 12 of the 23 ICU patients. Although the hospital had a firefighting unit, its personnel 
+arrived after more than 30 minutes, reportedly because staff did not alert them early. Additionally, the fire 
+hydrants could not be operated by staff. Nevertheless, water is not the right medium to fight electric fires, 
+which are best extinguished using carbon dioxide, a method that requires trained personnel. Last 
+October, six patients were killed in an ICU fire in Rajasthan. In 2024, newborns died in an ICU fire in 
+Jhansi, Uttar Pradesh. Two similar accidents were reported in Maharashtra in 2021. An audit in Jhansi 
+revealed hazards including exposed wiring, inadequate earthing and electrical circuits not matching 
+power load requirements - the last being a leading cause of electrical fires in India. 
+ICUs have intrinsic safety risks, as their oxygen-rich environment can turn even a spark into an inferno. 
+ICUs are also packed with electrical equipment, and the personnel are not always well trained in their 
+safe handling. State-of-the-art medical equipment comes with advanced electronics and variable 
+frequency drives that generate what are called "harmonic currents". These currents flow within circuits 
+and typically have no safety devices such as circuit breakers. Harmonics create silent, persistent 
+overheating and insulation degradation and are a severe fire hazard. Today's electrical practice lays 
+down that every time a new ventilator is wheeled into an ICU, the wiring, protection and load capacity 
+must be re-evaluated. Older facilities need an electrical upgrade before cutting edge equipment can be 
+installed. As patients in ICUs are often sedated, intubated, and connected to machines, staff must be 
+trained to ensure their safe evacuation. Until India treats hospital fire safety as a matter of criminal 
+accountability rather than bureaucratic paperwork, the fires will keep burning and the bodies will keep 
+mounting. 
+C
