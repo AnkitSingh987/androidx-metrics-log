@@ -1,0 +1,69 @@
+Category: Editorial
+Title: editorial part 87
+
+Quantum challenge: On IIT-DRDO demonstration of quantum key-distribution scheme 
+Administrative reform is essential for India to make advances 
+cientists from IIT-Delhi and the DRDO recently demonstrated a key advance in quantum 
+cybersecurity that stands to revolutionize how the world will communicate in the future. The 
+world's secrets are currently stored and communicated via channels that are protected by 
+difficult mathematical problems. Over the years, an increasing amount of computing power 
+available to certain actors has forced these problems to become difficult and nigh-uncrackable. 
+The imminence of quantum computing requires this paradigm to change because quantum computers 
+can (at least on paper) solve problems currently out of reach of the most powerful conventional 
+supercomputers. Quantum cybersecurity is one prong of this change, promising to protect 
+communication channels irrespective of the computing power available to malicious actors. The IIT-Delhi 
+and DRDO team successfully demonstrated a quantum key-distribution scheme through one kilometre of 
+free space on the institute's campus. Such a technology allows two individuals (or stations) located a 
+kilometre apart to securely access messages they send each other. If an eavesdropper tries to intercept 
+any message, instantaneous changes in the keys the individuals use to decrypt the messages will reveal 
+the channel has been compromised, and in a way that the eavesdropper cannot prevent. If scaled up to 
+include satellites, the technology could allow stations anywhere in India to exchange information through 
+a quantum network without fear of being compromised. 
+Herein lies the rub. Quantum communications is one of the four themes of the National Quantum 
+Mission, approved in 2023 with an outlay of ₹6,003 crore until 2031. Many of the same problems 
+assailing fundamental research in India have already beset research under the Mission, however. A 
+small fraction of the outlay has been disbursed thus far even as venture capital flow into startups remains 
+trivial. Scientists have complained that just-in-time funding, absence of single-window clearances, and 
+documentation requirements have increased the duration of projects. There are persistent foreign 
+hardware and software dependencies: materials required for specific use-cases, such as cryostats and 
+sensors, need to be fabricated abroad while most quantum software stacks are currently implemented by 
+multinational companies. Government pay does not match global offers and lack of timely access to 
+resources has forced researchers to accept short-term contracts and rent equipment. In fact, India's 
+commitment, itself down from the ₹8,000 crore announced in 2020, is dwarfed by those of the U.S. and 
+China, which are five- and 20-times higher, respectively. If the demonstration at IIT-Delhi is to scale, the 
+S 
+
+            government cannot simply 'clip on' scientific talent and technological and economic opportunity to 
+existing infrastructure. Administrative reform is essential.
+
+
+Theft and compensation: On news publishers and AI models 
+arge language artificial intelligence models are fuelled by content on the Internet, and much of 
+this content comprises news reports gathered, curated and published by media professionals 
+and organisations with decades of experience. As creative industries reckon with their labour 
+getting diffused into unaccountable clusters of graphics processing units that reproduce styles 
+and spit out human-level artwork in mere seconds, the news industry has reason to fear the 
+compounding of permission-less innovation into an existentially threatening heist of several lifetimes of 
+work. Previous waves of digitisation peeled away captive audiences from print and broadcast media by 
+replacing these with a web-charged attention economy, and Big Tech platforms further squeezed news 
+media's place in these rapid transformations by often short-changing the very sources of information that 
+their businesses relied on to be useful to the public. In a landscape where even precarious business 
+models in the Internet age are threatened by a reluctance to pay for news and declining public trust in 
+professional news-gathering, AI may very well be a body blow. It is clear: AI firms, with their billions in 
+market capitalisation, must not be permitted to just take what they want from the Internet, synthesise 
+these inputs into monetised insights, and pretend that the whole process is a form of victimless, 
+innovative progress. Publishers have a clear right to decide who gets to hoover up their entire corpuses, 
+and to ensure that their businesses benefit from the AI wave. To this end, the Department for Promotion 
+of Industry and Internal Trade's committee on copyright and AI is a welcome step. 
+This is not a decelerationist, or "decel" demand, as those who advocate for rapid AI development might 
+be quick to say. The news industry has fought as search giants and social media companies profited 
+enormously on the back of its content and set the terms for how the financial benefits flowed back to it. 
+That cannot be permitted to happen - as social media platforms turn more and more into video-focused 
+walled gardens, discouraging even a step outside their apps. For the news organisations, the avenues to 
+earn are shrinking. As AI-generated overviews of news content with source links are reduced to a 
+footnote, it is time for compensation to be negotiated at the time of publishers' content being scraped 
+from their websites in the first place. AI firms may claim "fair use" in model training, but there is nothing 
+fair - morally or legally - about accessing and disseminating troves of news without taking the creators 
+and processors into confidence. News publishers and policymakers must now fight for their share in the 
+AI era. 
+L
