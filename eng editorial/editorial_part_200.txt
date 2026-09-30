@@ -1,0 +1,110 @@
+Category: Editorial
+Title: editorial part 200
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Solitary 
+A. supported 
+2. Nurtured 
+B. broadly 
+3. Expansively 
+C. deliberately 
+4. Tinge 
+D. single 
+5. Consciously 
+E. trace 
+Answer: 
+1-D 
+2- A 
+3- B 
+4- E 
+5- C 
+
+            Digital exile: On digital censorship 
+The government could be creating a system of arbitrary censorship 
+ decade-long trend in digital governance in India crescendoed last week when a slew of 
+social media accounts operated by independent activists and journalists were blocked 
+apparently for criticising the Union government and Prime Minister Narendra Modi over his 
+government's West Asia policies and the LPG crisis. In seven years, from 2014 to 2021, the 
+number of URLs, posts, and accounts blocked ballooned from 470 to 9,800; since then, 
+there is evidence that entire accounts, especially if they were publishing politically unfavourable 
+comments, were being blocked. There was a wave of censorship during the farmers' protest in 2020-
+21; the government restored many accounts after international outcry but this also demonstrated that 
+it was not beyond mass censorship. Similarly, the government used emergency powers under the IT 
+Rules to block links to a BBC documentary in 2023, which also expanded the definition of what 
+constituted a "threat to public order". But when Twitter (now X) challenged several blocking orders, 
+between 2021 and 2022, in the Karnataka High Court, the High Court dismissed the plea and fined 
+Twitter, further emboldening the state to censor accounts. 
+In Shreya Singhal (2015), the Supreme Court of India upheld Section 69A of the IT Act 2000 precisely 
+because of its procedural safeguards, including requiring reasoned orders and judicial review. In 
+practice, however, the government has been diluting the safeguards through an expansive use of Rule 
+16 of the 2009 Blocking Rules, which requires blocking proceedings to be confidential. When this 
+stipulation is invoked to withhold blocking orders or their reasons from affected parties, it undermines 
+their ability to challenge the action in court, eroding the very safeguards that justified the constitutionality 
+of Section 69A. The 2009 Rules also require blocking orders to be reviewed by a committee composed 
+under the IT Rules 2009, yet this is an entirely executive body and has never overturned a government 
+blocking order. In effect, the government is openly and systematically bypassing the right to be heard 
+and violating the doctrine of proportionality. [A1] Right to free speech while shielding [A]/ yet the 
+government is [B]/ using it to override the constitutional [C]/ rule 16 is a procedural rule, [D]/ itself from 
+judicial review [E]. A person's entire account being blocked amounts to a digital exile, removing the 
+person from the public square, which is a hallmark of an authoritarian government rather than of a liberal 
+democracy. The government's plan to decentralise blocking powers to multiple Ministries could 
+effectively create a regime of arbitrary censorship, where any department can silence a critic without 
+the specialised oversight, however flawed, of the IT Ministry. 
+A
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Eroding 
+A. protest 
+2. Arbitrary 
+B. diminishing 
+3. Doctrine 
+C. random 
+4. Outcry 
+D. imperfect 
+5. Flawed 
+E. principle 
+Answer: 
+1-B 
+2- C 
+3- E 
+4- A 
+5- D 
+
+            Grim future: On the economy, discomfiting data 
+India's economic fundamentals need a realistic reassessment 
+The economy has recently been yielding some discomfiting data, even before the war in 
+West Asia began. The most recent of these was the February 2026 data on the Index of Eight 
+Core Industries. This release showed that growth in the overall Index had dropped to a three-
+month low in February, half the rate of what it saw in January. This was not a case of a high 
+base effect, either, with growth in February 2025 having been just 3.4%. The sector-wise data 
+reveal further issues. The domestic crude oil industry has been contracting for six consecutive months. In 
+fact, the sector has contracted in 20 out of the last 24 months. The natural gas sector, too, has 
+contracted for the last 20 consecutive months. As context, from about the middle of last year, it had been 
+increasingly clear that there would be some sort of escalation between the U.S. and Iran, even if the 
+exact nature of the war now could not have been predicted then. It is no secret that India is highly 
+dependent on energy imports, especially from the region that would have faced the brunt of any such 
+escalation. As a matter of fact, a large part of the contraction in domestic production was likely 
+because imports were coming cheap. Yet, as tensions increased, it might have been more prudent to 
+have increased domestic oil and gas production over the last eight months so as to at least build 
+reserves, if not to also temporarily reduce import dependence. Permanently reducing such dependence 
+will take time, but a temporary domestic production push - as is belatedly underway - might have 
+considerably alleviated the current supply crunch. Hindsight is 20-20, but that does not excuse a lack 
+of foresight or an inability to learn. The Pradhan Mantri Ujjwala Yojana of 2016 should have triggered a 
+concerted policy to secure LPG supplies and reserves. 
+This poor core sector performance comes on top of the new series of GDP data showing that the Indian 
+economy is actually smaller than previously thought. Further, between 2022-23 and 2025-26, the 
+contributions to GDP of key engines such as private consumption, capital formation, exports and 
+imports have all fallen. The share of 'change in stocks' has nearly doubled, however, meaning that there 
+is production but not enough sales. Soon, that production too will reduce to fall in line with the subdued 
+demand. All of this leads into the impact of the current crisis. With commercial fuel sources curtailed, oil 
+prices at more than $100 a barrel, and global economic uncertainty at a high, economists and rating 
+agencies are already downgrading India's growth outlook to about 6.5%. Perhaps, India's much-
+vaunted macroeconomic fundamentals and resilience need a more realistic assessment. 
+T
