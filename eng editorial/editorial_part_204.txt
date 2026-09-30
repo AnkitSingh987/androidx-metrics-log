@@ -1,0 +1,114 @@
+Category: Editorial
+Title: editorial part 204
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Steep 
+A. without 
+2. Suo motu 
+B. practical 
+3. Spurred 
+C. sharp 
+4. Feasible 
+D. voluntarily 
+5. Sans 
+E. prompted 
+Answer: 
+1-C 
+2- D 
+3- E 
+4- B 
+5- A 
+
+            Gulf within: On the UAE leaving OPEC 
+Differences with Saudi Arabia and Iran's attacks led to the UAE's exit from OPEC 
+The UAE has withdrawn from the Organization of the Petroleum Exporting Countries (OPEC), a 
+cartel that it joined in 1967, and OPEC+. It was OPEC's fourth-largest producer (3.12 million 
+barrels per day) and its third-largest exporter (2.88 mbd) in 2025, behind Saudi Arabia and 
+Iraq. The Emiratis clearly sought to free themselves of production constraints set largely by 
+the cartel's dominant producer, Saudi Arabia. With significant spare capacity, the Emiratis 
+believe that they are better off with the autonomy to ramp up exports, a capability now constrained by 
+the de facto closure of the Strait of Hormuz, the largest disruption to oil supply in history, following U.S.-
+Israel attacks on Iran. Brent crude prices barely budged on the announcement, revealing how heavily 
+the Strait crisis weighs on the market. But once the UAE weathers this crisis, whether through the Strait's 
+reopening, or by routing more crude through a pipeline bypassing Hormuz, analysts estimate that it 
+could lift production by roughly a million barrels a day. While Saudi Arabia, OPEC's bellwether, has 
+remained chary of over-supply and sought to keep prices high, the UAE has long pushed for higher 
+production for revenues that it intends to funnel into AI infrastructure and other diversification projects. 
+Unsaid in the UAE's move is also its frustration with what it sees as a lack of cartel-wide coordination in 
+responding to Iran's missile and drone attacks on Gulf oil and military facilities; Iran is also an OPEC 
+member. The Emiratis have also differed sharply with the Saudis on external interventions: in Yemen 
+and Sudan. The UAE also seeks closer ties with Israel than most Gulf states, which remain 
+uncomfortable with any thaw given Israel's genocidal actions in Gaza and its attacks on Iran and 
+Lebanon. The U.S., a non-OPEC member, and the world's largest oil producer at 13.6 mbd, has long 
+viewed the cartel's price-setting unfavourably, and President Donald Trump has repeatedly pressed it to 
+pump more. The UAE perhaps calculates that aligning with Washington will yield benefits for its 
+production and pipeline ambitions, though Mr. Trump's transactional and mercurial foreign policy offers 
+little guarantee. The UAE's exit also reflects a structural issue: OPEC's share of global crude dropped to 
+36.7% in 2025, and with Hormuz shut, pricing power has shifted to American producers in the short term. 
+OPEC will continue, but with a reduced ability to set prices. For net oil-importing countries such as India, 
+however, the immediate threat is not the cartel's unravelling but the "double blockade" in the Strait of 
+Hormuz and the fragile Iran-U.S. ceasefire. Unless a new geopolitical detente emerges between Iran 
+and the Gulf states, volatility will persist, threatening energy security regardless of what unfolds within 
+OPEC. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Mercurial 
+A. indicator 
+2. Chary 
+B. actually 
+3. Bellwether 
+C. delicate 
+4. De facto 
+D. cautious 
+5. Fragile 
+E. volatile 
+Answer: 
+1-E 
+2- D 
+3- A 
+4- B 
+5- C 
+
+            Work in progress: On the Household social consumption (health) survey 
+India must strengthen public sector hospital capacity 
+The 80th, and latest, round of the household social consumption (health) survey conducted by 
+the National Statistical Office is the first comprehensive survey of its kind in both the post-
+pandemic era and the period in which the Ayushman Bharat Pradhan Mantri Jan Arogya 
+Yojana (PMJAY) scheme attained maturity. The previous two surveys of the same kind 
+revealed that most Indians did not have any form of health insurance. Since PMJAY's launch 
+in 2018, the 80th round shows that insurance coverage has expanded around threefold, accounting for 
+an increasing share of health-care financing in hospitals. However, the hospitalisation rate has not 
+recovered to the 2014 level, meaning that having an insurance card still does not guarantee access to a 
+bed, and hidden costs continue to limit access. The reimbursement rates under PMJAY and State-
+funded insurance schemes are often below market rates, so private hospitals compensate by billing 
+patients separately for diagnostics and ancillary services. In other words, while state-funded health 
+insurance is subsidising private health-care providers' access to low-income markets without also 
+enforcing regulated prices, the combined system provides a safety net where insurance covers 
+hospitalisation and the public network has improved financial protection for households seeking primary 
+care. Second, the Proportion of Population Reported Ailing has doubled, while infectious diseases have 
+declined and non-communicable diseases have increased. Economists have interpreted this as a 
+sign of more people seeking care, thus becoming 'visible' to the health-care sector. 
+Previous surveys singled out out-of-pocket expenses (OOPE) on health care as a leading cause of 
+poverty. In the 80th round, while the mean OOPE has roughly doubled, the median OOPE has dropped, 
+to ₹11,285 per hospitalisation and at nearly nothing for public outpatient care. Health-care expenses in 
+India are a mix of many low-cost consultations and a few significant and expensive interactions, such as 
+surgeries and chronic care. The two trends thus mean that while health care is becoming more 
+affordable, thanks to the public sector absorbing the cost of primary and secondary care, health care's 
+ability to inflict financial deprivation in a few cases remains high. Part of the problem is the AAM 
+network, which provides free medicines and diagnostics, of Ayushman Bharat still being significantly 
+underfunded relative to the needs of managing chronic diseases, and where the private sector 
+dominates. Thus, overall, the poor have nominal coverage but are often excluded from the benefits of 
+coverage in practice while the more insured middle class faces rising catastrophic costs. The next 
+phase of health-care reform, after shielding care-seekers from poverty and achieving near-universal 
+T
+
+            institutional delivery, will need to strengthen public sector hospital capacity to compete with the private 
+sector for tertiary care.
