@@ -1,0 +1,79 @@
+Category: Editorial
+Title: editorial part 68
+
+Water blight: On the Srisailam tunnel cave-in 
+Scientific risk assessment prior to undertaking tunnel work is a must 
+arely a week after the remains of nine coal miners were recovered at the end of a 44-day 
+operation, from a coal mine that had flooded in Assam in early January, a disaster of similar 
+contours, this time in Nagarkurnool, Telangana, is in the making. A portion of the Srisailam 
+Left Bank Canal tunnel, which is under construction, collapsed on February 22, 2025 leaving 
+eight workers trapped. What is known so far is that a three-metre section of the roof collapsed 
+due to water seepage. The roof collapse eventually led to the tunnel crumbling over a stretch 
+of eight metres. Despite nine specialized rescue teams, drawn from the Centre and the State 
+governments, working round-the-clock, no significant progress has been made so far on ascertaining the 
+condition of the workers and in devising an optimal rescue plan. So far, the playbook that is being 
+experimented with seems to be inspired by the successful rescue work in the Silkyara Tunnel collapse in 
+Uttarkashi, Uttarakhand, in November 2023, where a portion of the four -kilometre-long tunnel that was 
+being constructed collapsed, stranding 41 workers. It took a 16-day operation that started out with a 
+variety of approaches, including drilling horizontally, and later on vertically, from both ends of the tunnel 
+to reach the stranded workers. In the end, key breakthroughs were achieved by a team of 'rat hole' 
+miners from Assam, who use manual excavation methods that are considered hazardous and deemed 
+illegal. 
+The key difference between the Silkyara episode and the one in Srisailam is the presence of water. 
+There were 70 workers in the tunnel when a deluge of water and muck suddenly began to gush inside. 
+Barring the eight, the rest escaped, with 13 of them sustaining injuries. However, in the subsequent 
+days, it is the torrential flow that has proved to be a barrier to rescue operations. The history of tunnel-
+linked disasters globally shows that while rare, they can often be catastrophic. A large proportion of 
+these accidents, studies show, are due to a rupture in aquifers (underground water channels). It is to 
+determine such risks that extensive studies are commissioned to understand the sub-surface geology 
+of a site. A report by the Uttarakhand disaster management authority on the Silkyara episode says that 
+there was insufficient analysis of the rock formations at Silkyara but also that a complete picture of 
+structural deformities cannot be known before tunnelling. While the rescue of the trapped personnel at 
+the Srisailam tunnel is paramount, there has to be a proper investigation by the authorities on the 
+reasons for the collapse and action taken, if evidence emerges of tardy pre-tunnelling analysis.
+
+
+India's urban future is at a crossroads 
+Each city faces unique challenges, requiring localized governance, better planning, and 
+city-specific strategies 
+s summer intensifies, Indian cities are struggling with water shortages and rising electricity 
+demand and temperatures. Reports from Bengaluru and Hyderabad show a spike in water 
+tanker bookings while power cuts loom due to increased air-conditioner usage. These 
+annual struggles raise a pressing question - are our cities, where more than 30% of 
+Indians live, prepared for climate extremes and rapid urbanisation? Urbanisation, while 
+bringing about growth and opportunities, also paves the way for increased pollution, congestion, and 
+environmental impacts, which often hit the underprivileged the hardest. Sustainable Futures Collective, in 
+their report, 'Is India Ready for a Warming World?' (2025), find that there is much more to be done 
+regarding long-term planning for climate change in cities. Concerns about how our cities are handling the 
+urban heat island effect have also been raised often in Parliament. Such stark ground realities 
+underscore the pressing challenges our cities face in pursuing Sustainable Development Goal-11 (SDG-
+11): to create inclusive, safe, resilient, and sustainable urban environments by 2030. 
+While global SDG-11 indicators exist, India lacks city-level tools for effective tracking. NITI Aayog's SDG 
+Urban Index ranks 56 cities on 77 indicators, but its SDG-11 component is limited to four: Swachh 
+Survekshan, road deaths, PMAY-U housing, and waste treatment. The Ease of Living Index covers 111 
+cities but lacks a comprehensive SDG-11 assessment. International indices such as Mercer's and the 
+Economist's Resilient Cities Index offer insights but miss Indian ground realities. The absence of a 
+focused SDG-11 index hinders policymakers from identifying genuinely safe, sustainable, and inclusive 
+cities, creating a policy-research gap. To bridge this gap and supplement the indices used by NITI Aayog 
+with a more comprehensive set of indices, our latest research constructs four distinct indices - one for 
+each pillar of SDG-11 wherein we ranked 10 major cities (Hyderabad, Delhi, Bengaluru, Chennai, 
+Mumbai, Pune, Kolkata, Jaipur, Ahmedabad, and Surat) based on performance across select indicators 
+for each index. Nine indicators were used for safety, 19 for inclusivity, and 15 for resilience and 
+sustainability indexes. The parameters used for defining the indicators were borrowed from the United 
+Nations' definitions of the same in the urban context. Data was sourced from a wide range of datasets 
+such as Census 2011, Road Transport Yearbook, Indian Forest Survey, National Crime Research 
+Bureau, Periodic Labour Force Survey, National Family Health Survey-5, Reserve Bank of India, India 
+Meteorological Department's Climatological Tables, and Ola Mobility Institute's Ease of Moving Index 
+2022. We employed a novel method known as the Shannon Entropy Weighting technique (borrowed 
+A 
+
+            from Multi-Criteria Decision-Making modelling) to generate weights for the indices as it provides a more 
+objective approach to weighting.  
+The results provide key insights into SDG-11 implementation across cities. Among the 10 major cities 
+analysed, Ahmedabad ranked first in inclusivity, while Jaipur ranked the lowest. Bengaluru appeared to 
+be the safest city, whereas Kolkata ranked lowest in safety. Surat led in sustainability, while Kolkata 
+lagged behind. In terms of climate resilience, Chennai ranked first, while Jaipur was the least resilient. A 
+comparison with NITI Aayog's SDG-11 rankings showed that cities tagged as front-runners and 
+performers fared poorly in our indices. Variations in the inclusivity index reflect disparities in social and 
+economic participation, emphasising the need for equitable access to opportunities in urban planning 
+and broadening the idea of inclusivity.
