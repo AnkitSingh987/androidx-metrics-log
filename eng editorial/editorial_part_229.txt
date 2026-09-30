@@ -1,0 +1,111 @@
+Category: Editorial
+Title: editorial part 229
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Reckon 
+A. predictable 
+2. Rubble 
+B. believable 
+3. Foreseeable 
+C. debris 
+4. Plausible 
+D. disastrous 
+5. Tragic 
+E. estimate 
+Answer: 
+1-E 
+2- C 
+3- A 
+4- B 
+5- D 
+
+            Buyer beware: On the QR code-based drug traceability framework 
+Tracking down defective batches of drugs is essential 
+The Health Ministry's notification to expand Schedule H2 drugs to entire therapeutic classes 
+now from a curated list of brands earlier is a commendable change from regulating based on 
+revenue to regulating based on risk. The government had introduced Schedule H2 in 2022-23, 
+which required a barcode or QR code on each pack of specific drugs to verify the pack's 
+authenticity. It is part of a framework that also touches on regulating active pharmaceutical 
+ingredients and export-oriented pharmaceutical compliance. Now, with the additional symbols encoding 
+a product identifier, the manufacturing licence number, batch number, and other details, authorities hope 
+to better track down defective batches. Counterfeit networks have long targeted vaccines, cancer 
+medicines and antimicrobials, with WHO flagging high volumes of fake antimicrobials in low- and middle-
+income countries. India has one of the world's highest antimicrobial resistance rates, and substandard 
+antimicrobials can lead to sub-therapeutic dosing, exerting selection pressure on resistant strains. The 
+Narcotics Control Bureau has also expressed concerns about medicinal opioids and psychotropic 
+substances 'leaking' into illicit markets. The government will hope that the new system addresses the 
+U.S. FDA's and the European Medicines Agency's recurring concerns about quality control, an issue on 
+which India has found itself on the back foot over contaminated cough syrups. The U.S. Trade 
+Representative has also repeatedly identified India as a leading source of counterfeit medicines, with 
+many fake pharmaceuticals seized at the U.S. border originating from or transiting through India. 
+Together with policy changes effected by the Jan Vishwas Act 2026, the new framework finally 
+distinguishes between procedural non-compliance and substantial non-compliance, considering only the 
+latter constitutes meaningful enforcement. In the long term, the government should rationalise the 
+compliance burden and eliminate the risk of corruption associated with discretionary enforcement. The 
+government must also recognise that the QR code system will only be effective if backed by a state-
+managed database that pharmacists and regulators can access in real time, supported by interoperable 
+software and scanning infrastructure across States. Second, pharmacists and consumers must develop 
+a habit of verifying medicines before a sale. Third, the compliance needs imposed by new packaging 
+requirements and the IT integration will strain MSME manufacturers in particular. Finally, prescription 
+data on controlled substances is sensitive information and will need to be handled with a digital 
+governance layer that does not yet exist. Thus, whether the new framework will improve India's 
+reputation as a pharmacy comes down to its implementation. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Counterfeit 
+A. connectable 
+2. Recurring 
+B. reliability 
+3. Interoperable 
+C. fake 
+4. Authenticity 
+D. remove 
+5. Eliminate 
+E. repeated 
+Answer: 
+1-C 
+2- E 
+3- A 
+4- B 
+5- D 
+
+            Caught in the middle: On India and curbing drug abuse 
+India must prioritise reduction of harm from drug abuse 
+India is located between two major drug-producing regions: Afghanistan, Pakistan, and Iran to the 
+west and Myanmar, Thailand, and Laos to the east. While the West has historically dominated 
+heroin production, the International Narcotics Control Board has said Myanmar has become the 
+world's leading source of illicit opium while East and Southeast Asia remain major sources of 
+methamphetamine. Officials have said drugs are being received at Gujarat, Kerala, and Tamil 
+Nadu via maritime routes. Similarly, some drugs are produced domestically using illegally diverted 
+pharmaceutical ingredients, aided by the fact that individuals possessing small quantities of heroin can 
+attract up to six months' imprisonment, whereas drugmakers that cannot account for lakhs of doses 
+often face only slaps on the wrist. The rise of Myanmar, where the territory under ethnic armed 
+organisations is expanding, as a key source is also troubling since it shares a border with India. The 
+Narcotics Control Bureau has noted a dramatic surge in the use of drones to smuggle drugs across 
+borders, especially over Punjab. Traffickers are organising over the darknet and using cryptocurrencies. 
+The pillars of India's response thus aim to keep the enforcement regime from being out-innovated and 
+improve regulatory certainty. 
+States are trying to adopt a 'whole of society' approach recognising the public health and social 
+dimensions. However, India needs to do more. Physical abuse and forced detoxification are frequently 
+reported from many private centres. Punjab has an extensive network of de addiction centres providing 
+opioid substitution therapy, and some northeastern States to a secondary extent, but most large States 
+have much less access relative to need. Most Integrated Rehabilitation Centres for Addicts are located in 
+urban areas whereas the highest density of addicts in Punjab are in border villages and rural pockets. 
+Likewise, relapse is often treated as a moral failure and many addicts avoid government centres fearing 
+social ostracisation, particularly in rural North India. The persistence of criminal records for small-scale 
+possession prevents youth from getting jobs, reducing their odds of escaping the drug-crime cycle. 
+Although the Nasha Mukt Bharat Abhiyaan has said it has sensitised over six crore women, facilities 
+dedicated to women are scarce and concentrated in urban areas; stigma, caregiving responsibilities, 
+and lack of gender-responsive treatment keep many women from seeking or completing care. Finally, as 
+evidence shows, disrupted supply can drive many users to cheaper alternatives unless accompanied by 
+effective treatment. India must therefore shift public focus from seizures and arrests to the number of 
+lives restored. 
+I
