@@ -1,0 +1,112 @@
+Category: Editorial
+Title: editorial part 248
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Clinch 
+A. remarkable 
+2. Notable 
+B. pushed 
+3. Propelled 
+C. impressive 
+4. Podium 
+D. secure 
+5. Spectacular 
+E. stage 
+Answer: 
+1-D 
+2- A 
+3- B 
+4- E 
+5- C 
+
+            Tracking nursing: On the Nurses Registration and Tracking System 
+A fully updated live nurses portal will be of immense benefit to the nation 
+or a country where the human resources in health care will always fall short of the 
+recommended patient-professional ratio, it is important to make sure that every single 
+resource is harnessed. However, government data tabled in the Lok Sabha have shown that 
+the Nurses Registration and Tracking System, created over seven years ago, has 
+registered less than a third of the total nurses in the country. Only 14.24 lakh of the 46.02 lakh 
+registered nursing personnel have been enrolled, leaving 31.78 lakh outside the national system. Clearly, 
+the move to create an accurate national registry and streamline registration-related services on a single 
+platform for all nurses is far from yielding satisfactory results. There are also stark regional disparities, 
+and unexpected performances with the large southern States (Tamil Nadu, Karnataka, and Andhra 
+Pradesh) figuring among the laggers, while Bihar, Jharkhand and Odisha show between 80%-99% 
+enrolment rates. The Indian Nursing Council has attributed the delays to issues rooted in jurisdiction, and 
+federal tension, on the grounds that primary registration is legally the responsibility of individual State 
+Nursing Registration Councils. [P] To receive a National Unique Identity card [1]/ verification by their 
+respective [2]/ State Nursing Councils [3]/ and nurse passbook, [4]/ nurses rely on [5]. Further, the 
+charge is that several State councils have resisted migrating fully to the central portal and continue 
+operating independent parallel systems. 
+Poor nurse registration - irrespective of whether it is caused by incomplete digital tracking systems, 
+outdated State registries, delayed licensing, or regional autonomy - has widespread consequences 
+across health-care systems, apart from personally affecting nurses. For nurses, there will be delays in 
+sanctioning their requests for inter-State transfer and credential verification for overseas employment. 
+For the nation, without a centralised live registry that can provide a true measure of how many nurses 
+(with specialisations) are available where, there might be artificial surpluses or deficits on paper, leading 
+to less-than-ideal deployment of resources, and implementation of policy decisions. Fragmented 
+registries also make it easy for unverified individuals, impersonators, or personnel with revoked 
+licences to practise using fraudulent credentials, thus compromising patient safety. A live tracker would 
+be of utmost use during public health emergencies - including disease outbreaks and natural disasters. 
+Else, it could be impossible for state agencies to track, mobilise or deploy specialised nursing personnel 
+to high-alert zones. Given the crucial complementary role, and in some areas, even the primary role 
+that nurses play in the health-care system, efforts must be made to ensure that all nurses are brought 
+into the portal. 
+F
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Unanimously 
+A. foreign 
+2. Specify 
+B. eagerness 
+3. Opaque 
+C. unclear 
+4. Zeal 
+D. detail 
+5. Abroad 
+E. collectively 
+Answer: 
+1-E 
+2- D 
+3- C 
+4- B 
+5- A 
+
+            A predictable rise: On inflation 
+Inflation will remain high in the foreseeable future 
+ rise in India's July retail inflation was a foregone conclusion, but its modest increase, at 
+4.45%, up from 4.38% in June, is still the highest in 19 months, since December 2024. This 
+is the second consecutive month that retail inflation has stayed above the Reserve Bank of 
+India (RBI)'s 4% target, even while remaining comfortably within its 2%-6% tolerance range. 
+Predictably, it has again been driven by food, fuel and transport, even as core inflation, 
+excluding precious metals, has remained below 3%. What is telling is the extent of rural, food-led 
+inflation, which rose from 5.45% in June to 5.79% in July, while urban food inflation decreased marginally 
+from 5.09% to 5.05%. Staples such as onion (22.54%), garlic (35.36%) and ginger (83.62%) fuelled the 
+rise, even as potato (-16.56%) and tomato (-4.59%) moderated. Transport, however, continues to have a 
+wider impact, pointing to elevated input-cost pressures. Transport inflation quickened to 4.43% in July 
+from 4.31% in June, while the crucial subdivision, transport services for goods, rose from 7.70% to 
+7.77%. Despite the July 1 cut in commercial LPG prices of about ₹183, food and beverage serving 
+services inflation quickened to 7.75% in July, indicating that restaurants are yet to recoup revenues and 
+margins lost following the steep operating costs from March through May. Commercial LPG was cut by a 
+further ₹202 on August 1, but this is unlikely to immediately bring down menu prices. 
+The monsoon remains a concern, with parts of western, central and southern India remaining rain-
+deficient. Precious metals inflation, particularly gold (32.98%) and silver (109.84%), moderated, but 
+remains extraordinarily high. Crude prices were relatively stable during the July CPI reference period, 
+but began rising again in August. More worryingly, Ukraine-related disruptions around Russia's Black 
+Sea export infrastructure, particularly Novorossiysk, could raise freight and risk premiums for Russian 
+crude. Russia supplied nearly half of India's crude imports in June, making such disruptions relevant to 
+India's landed energy costs. The rupee also depreciated by about 1.6% between the June 15 and July 
+15 CPI reference dates, further amplifying imported inflation. In the background, there are signs of 
+weakening economic momentum, with the HSBC composite PMI showing a sharp fall from 57.1 in June 
+to 54.3 in July, its weakest expansion since March 2022. While the PMI is a high-frequency indicator 
+and need not reflect a long-term trend, it is nevertheless worth taking note of. The RBI's Monetary 
+Policy Committee, which held the repo rate at 5.25% for the fourth consecutive meeting in August, is 
+therefore likely to remain on hold through the second quarter of FY27, as it weighs persistent supply-
+side inflation against weakening economic momentum. 
+A
