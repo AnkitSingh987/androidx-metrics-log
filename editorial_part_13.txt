@@ -1,0 +1,60 @@
+Category: Editorial
+Title: editorial part 13
+
+Passing the Big Buck, It Runs in the Family 
+Family offices represent patient capital 
+amily offices now manage a sizable slice of global capital with the principal objective of 
+preserving wealth during the biggest intergenerational transfer in history. Their scale and pace of 
+growth are creating an ecosystem, while the institution is adapting to emerging social, ecological 
+and philanthropic needs. Governments are proactive in facilitating this transformation to the 
+advantage of public welfare. Technology is another disruptor, both in terms of how family offices manage 
+themselves, as well as how the money they manage is directed into investments. The investment horizon 
+of family offices complicates the job of deploying capital efficiently. Economic frontiers will have shifted 
+by the time inheritors come into their money. This blurs the boundary between personal wealth and 
+venture capital-chasing entrepreneurship. The current generation of entrepreneurs is, in effect, using its 
+wealth to seek out the next generation of entrepreneurs. Private equity fulfils this role, but operates in a 
+more regulated environment. Family office assets are set to overtake those of hedge funds. However, 
+they must create an alternative ecosystem that builds a defensive moat. Private wealth, by its nature, is 
+free to operate in the shadows. But it has to emerge into the light if it needs to grow. Naturally, the 
+financial world chases family offices assiduously, which have set out the terms of engagement. 
+Family offices represent patient capital and can inject an element of stability into private equity. Natural 
+selection is, therefore, driving intergenerational wealth towards alternative investments and newer 
+geographies. More of it will occur once the wealth transitions to the next generation, which will have its 
+own perspectives on investment strategy. Family offices would have strengthened their governance and 
+management by the time a substantial part of the wealth is transferred. This particular mechanism for 
+capital allocation has a lot going for it.
+
+
+Damning silence: On India's Pegasus probe 
+U.S. ruling gives fresh cause to reopen India's stalled Pegasus probe 
+U.S. court's decision holding an Israeli company liable for surreptitiously installing Pegasus, a 
+spyware suite, on the phones of targeted individuals through WhatsApp, has brought the focus 
+back on the Centre's questionable inaction when such surveillance allegations surfaced in 
+India in 2021. The U.S. District Court for Northern District of California ruled that NSO Group 
+Technologies violated both federal and State laws against computer fraud and abuse. WhatsApp sued 
+the NSO Group in October 2019, alleging that its system was used by the Israeli company to plant 
+malware on approximately 1,400 mobile phones and devices for surveilling their users. In a summary 
+judgment, the court agreed with WhatsApp that its application had been reverse-engineered or 
+'decompiled' to create a modified version called 'WhatsApp Installation Server' or WIS. In the backdrop 
+of this ruling, the question that arises in India is about the fate of reports submitted by a court-appointed 
+expert committee in 2022 to the Supreme Court of India. The then Chief Justice of India (CJI), N.V. 
+Ramana, had read out a few paragraphs from the report of the panel's overseeing judge, Justice (retired) 
+R.V. Raveendran. The report said the Technical Committee found no conclusive evidence on the 
+presence of Pegasus, but there was some kind of malware in five out of the 29 phones examined. The 
+reports are yet to be made public. 
+Even if there was no effective hearing or follow-up action, what cannot be forgotten is that CJI Ramana 
+had observed in open court that the government did not cooperate with the committee's investigation. It 
+was conduct typical of the Modi regime, which has repeatedly demonstrated that silence, denial and 
+obfuscation form its stock responses whenever allegations emerge. It showed no interest in probing 
+disclosures that the phones of journalists, activists, doctors and court staff were targets of spyware. It 
+made a strange claim that the country had such ironclad laws that illegal surveillance was not possible. It 
+adopted the untenable position that acknowledging that its agencies possessed any particular software 
+would jeopardise national security. All this, despite admitting in Parliament that it was aware of some 
+users being targeted by Pegasus through WhatsApp. It did not respond to credible reports that Pegasus 
+may have been used to plant evidence on computers to frame dissidents. In the light of a judicial 
+decision, albeit an overseas one, that the NSO Group is liable for the use of its spyware by its clients, 
+solely government entities, the time has come for sealed reports to be opened and deeper probes 
+A 
+
+            begun. The government should come clean on whether it possesses surveillance software. Otherwise, 
+citizens will be rendered even more vulnerable to illegal surveillance.
