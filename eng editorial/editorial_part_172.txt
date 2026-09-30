@@ -1,0 +1,111 @@
+Category: Editorial
+Title: editorial part 172
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+COLUMN A 
+COLUMN B 
+1. SUBSTANTIVE 
+A. PROMOTED 
+2. CURTAIL 
+B. EXCEEDED 
+3. PITCHED 
+C. SIGNIFICANT 
+4. OVERSTEPPED 
+D. CHAOS 
+5. TURMOIL 
+E. REDUCE 
+Answer: 
+1-C 
+2- E 
+3- A 
+4- B 
+5- D 
+Moving on: On India's Consumer Price Index and a new base year 
+India is getting rid of an outdated dataset for measuring inflation 
+The retail inflation figurefor December 2025 isthe final instalment of the current series of the 
+Consumer Price Index (CPI), with a base year of 2012, before it is updated to a new base year 
+and with new weightages. The CPI data this year have been particularly useful in highlighting 
+the problems with relying on a dataset that has not been updated in more than a decade. The 
+inflation figurefor December 2025 stoodat 1.33%. The factthat it was a three-month high 
+ismerely a statistical curiosity since it was also the third lowest since the current series 
+began. Overall, in the April-December 2025 period, inflation has averaged 1.7%, substantially 
+lower than the 4.9% average in the same period of 2024. But it does not feel that way. Anecdotal 
+evidence and hard data show that the inflationthat people are really experiencing isfar higher than what 
+the official data show. For example, the government's own first advance estimatesfor GDP growth this 
+year showthat it expects private consumption to grow slower than it did last year. If inflation had indeed 
+eased to the degree that the official data suggest, surely consumption should have picked up. 
+According to its latest edition of the Reserve Bank of India's inflation expectations survey from 
+December, households perceived inflation to be 6.6% - a far cryfrom the official 1.33% - and felt that 
+T 
+
+            it would accelerate to 7.6% in three months and to 8% in a year. The feeling clearly is that not only are 
+prices rising, but they are rising at a faster rate. Failing to capture this is where the official data let 
+policymakers down. 
+The most basic issuewith any inflation data isthat a single figure is expected to capture the variety of 
+price changes that take place across the country. The national inflation number aggregates price levels 
+and movements from districts in Kashmir to villages in Kerala and everywhere in between, for both urban 
+and rural. Naturally it will lose nuances in the process. Further, while this is the natural peril of computing 
+national statistics for a diverse country such as India, the outdated nature of the CPI makes matters 
+significantly worse. The weightagesof the various sub-sectors in the index werebased on consumption 
+patterns in 2012. People consume very differently now, especially because of various central and State 
+subsidies being offered. Thankfully, on February 12, the government will release the January inflation 
+data based on the new series of the CPI. This series will see the base year updated to 2024, and will 
+incorporate new weights based on the Household Consumption Expenditure Survey 2023-24. It is an 
+update sorely needed.
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Accelerate 
+A. combine 
+2. Aggregate 
+B. softened 
+3. Eased 
+C. danger 
+4. Peril 
+D. viewed 
+5. perceived 
+E. hasten 
+Answer: 
+1-E 
+2- A 
+3- B 
+4- C 
+5- D 
+
+            On mute: On the U.S., geopolitical turmoil, India's response 
+India's interests can be secured only by assertion of its strategic autonomy 
+The new year has brought little change in the geopolitical turmoil unleashed by the Trump 
+administration, beginning with the U.S.'s unlawful action in Venezuela, followed by its threats 
+to carry out similar regime-changing operations in South America and stated plans to annex 
+Greenland. The U.S. Congress is now expected to discuss a new law that mandates up to 
+500% in tariffs on countries purchasing oil or uranium from Russia. The U.S. also stepped up 
+its rhetoric against Iran for crackdowns against protesters, imposing more sanctions and threatening to 
+attack it. In a social media post, Mr. Trump said that he would levy an additional 25% tariff on trade with 
+any country doing business with Iran and the U.S. is pushing India to wind up operations at Chabahar 
+port, where India has invested billions of dollars. In the face of such aggressive and unilateral actions, 
+New Delhi's responses have been muted, when not weak. The Ministry of External Affairs (MEA) has 
+expressed "deep concern" over events in Venezuela, but did not mention the U.S.'s egregious action of 
+kidnapping the Venezuelan President and his wife, nor did it refer to the violation of basic tenets of 
+international law. No statement has been made on the threats against the other countries (Cuba and 
+Colombia), presumably as they are not in India's immediate vicinity. On Iran, however, which is a close 
+neighbour and has a historical relationship with India, the government's reaction has been the most 
+puzzling. It has not commented on the street protests or the U.S.'s threats of strikes and tariffs. The 
+MEA has, however, issued travel advisories for Iran and Israel and is preparing evacuation plans for 
+Indian students in Iran. Government officials also say India will reduce its trade with Iran further from 
+current low levels. 
+The government's motivations in not naming the U.S. for its obvious overreach can be explained. After 
+a tense year in ties and a failure to conclude the India-U.S. Bilateral Trade Agreement, there is some 
+hope of some movement on relations soon. U.S. Ambassador to India Sergio Gor has painted an 
+optimistic future for ties, beginning with the trade agreement and the inclusion of India in the U.S.'s high-
+technology partnership 'Pax Silica' next month. Officials may argue that little can be gained by speaking 
+up now and risking another downturn in ties. However, each new threat by the U.S. is hurting ordinary 
+Indians and the Indian economy. Above all, India stands to lose economically, reputationally and in terms 
+of its other relationships as well, in a year where it hopes to host the BRICS+ Summit. The Modi 
+government's experience from 2019, when it gave up buying Iranian and Venezuelan oil under U.S. 
+pressure should be a signal lesson - appeasement of a global power, however strong, cannot ensure 
+India's interests, only an assertion of its strategic autonomy can do that. 
+T
