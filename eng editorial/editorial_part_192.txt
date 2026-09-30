@@ -1,0 +1,109 @@
+Category: Editorial
+Title: editorial part 192
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Sabotaged 
+A. opponent 
+2. Mercurial 
+B. remnant 
+3. Adversary 
+C. brutality 
+4. Thuggery 
+D. destroyed 
+5. Vestige 
+E. volatile 
+Answer: 
+1-D 
+2- E 
+3- A 
+4- C 
+5- B 
+
+            New reality: On new series of national accounts data 
+Fiscal targets will now be realigned based on more accurate data 
+The release of the new series of national accounts data is a heartening improvement to India's 
+key economic statistics, but the data highlights some aspects that merit policy attention. The 
+new series updates the base year of India's Gross Domestic Product and Gross Value Added 
+data to 2022-23 from the earlier 2011-12. [A1] This was a long-overdue update, [A]/ each 
+passing year [B]/ becoming more outdated [C]/ and unrepresentative with [D]/ since the 
+earlier data was [E]. Apart from the updated base year, the new series has several methodological 
+improvements and new data sources for greater robustness. For example, the adoption of the double-
+deflator approach, which accounts for the effect of inflation separately for intermediate goods and the 
+final product, is a marked improvement in terms of ascertaining the real value added of India's 
+production. Similarly, the new series allocates multi-sector company output proportionately, improving 
+sectoral data accuracy. The data on households will now be obtained from the Annual Survey of 
+Unincorporated Sector Enterprises (ASUSE) and Periodic Labour Force Survey (PLFS) on an annual 
+basis instead of relying on extrapolations as was done in the 2011-12 series. Notably, the Goods and 
+Services Tax data, a goldmine of consumer data, will be used in the new series. The new series will also 
+include new sources and methods of estimation for sectors that have historically been difficult to quantify 
+such as the agricultural sector and the vast informal sector. All of these should yield a more accurate 
+picture of India's economic size and growth. 
+The new series predicts India's GDP to grow 7.6% in the current financial year 2025-26, which is faster 
+than the 7.4% predicted for the year in the old series. While the rate might bring cheer, the new absolute 
+size of the economy is somewhat sobering. The new series pegs India's economy at ₹345.47 lakh crore 
+in 2025-26, which is about 3.3% smaller than what was predicted based on the old series. The size of 
+the economy in both 2023-24 and 2024-25 was also revised downward by 3.8% each. Along with the 
+depreciation of the rupee, this has meant that India is currently a $3.8 trillion economy, with the $5 trillion 
+target moving further away. A smaller economic size also means the Centre's various commitments to 
+lower the fiscal deficit and debt - ratios that are pegged to nominal GDP - also become that much 
+tougher to achieve. That said, it is better to realign targets based on more accurate data than to blithely 
+forge ahead with decade-old metrics. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Demonstrated 
+A. attempt 
+2. Essay 
+B. fractured 
+3. Rapport 
+C. showed 
+4. Ruptured 
+D. struggle 
+5. Tussle 
+E. connection 
+Answer: 
+1-C 
+2- A 
+3- E 
+4- B 
+5- D 
+
+            Reckless wreckers: on threats to nuclear facilites 
+Damaging nuclear facilities under an unstable regime poses great risks 
+uclear facilities have faced unprecedented threats of late. Since its capture by Russian 
+forces in 2022, Ukraine's Zaporizhzhia nuclear power plant has faced repeated shelling 
+and drone strikes. While Russia wished to be the sole nuclear-armed successor to the 
+Soviet Union, Israel has viewed Iran's nuclear programme as an existential threat and has 
+attacked its weapons sites since 2024. In 2025, the U.S. launched targeted strikes against 
+Fordow and Natanz, which enrich uranium, and Isfahan, a fuel cycle complex. U.S. President Donald 
+Trump claimed they were "obliterated" but the IAEA found that the enriched uranium stockpile was 
+largely intact at Isfahan. On March 2, the IAEA had said that the Bushehr and Tehran reactors had not 
+been hit or damaged until then, although strikes on March 3 surfaced reports of damage to the Bushehr 
+airport (according to Iran's state media) and again in Natanz. The broader pattern of attacking nuclear 
+facilities is worrisome. Aside from overt attempts, at least one hacking attempt has breached the 
+National Nuclear Security Administration, which manages the U.S.'s nuclear stockpile, while ransomware 
+groups have targeted global energy firms and Brazil's state nuclear operator. The Geneva Conventions 
+prohibit states from endangering nuclear facilities if they release "dangerous forces" but neither the U.S. 
+nor Israel seems mindful of the risks. Iran has also accused the IAEA of spying for Israel. 
+Physically destroying a facility only removes one layer of risk; the humanitarian and environmental 
+effects are often intractable. A damaged reactor core or spent fuel pool could release caesium-137, a 
+long-lived isotope that causes acute radiation sickness and contaminates land for decades. Radioactive 
+particles can be carried by winds, affecting global food security. Damaging nuclear facilities overseen 
+by an unstable regime also risks loss of custody of enriched uranium. Such strikes do not achieve a 
+strategic resolution and could in fact accelerate Iran's resolve, marked by its shift of assets to deeper, 
+more clandestine facilities. Military force also destroyed the diplomatic and verification frameworks 
+required for long-term safety, leaving negotiations as the safest way to restore stability in the region. Iran 
+is already facing 60% inflation and the U.S. can trade sanctions relief for IAEA monitoring. Iran has also 
+finalised long-term deals with Russia and China, in return securing air defences and navigation systems 
+to negate western advantages, and bringing Tehran back to the table could also reduce its dependence 
+on these burgeoning partnerships. Conversely, military action risks refugee exodus from a population 
+of 93 million, asymmetric retaliation against the U.S.'s Gulf bases, and the inalienable threat of 
+nuclear disaster. 
+N
