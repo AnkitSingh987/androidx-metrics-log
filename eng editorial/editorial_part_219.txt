@@ -1,0 +1,107 @@
+Category: Editorial
+Title: editorial part 219
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Obfuscation 
+A. exonerated 
+2. Acquitted 
+B. violating 
+3. Altered 
+C. praiseworthy 
+4. Breaching 
+D. confusion 
+5. Commendable 
+E. changed 
+Answer: 
+1-D 
+2- A 
+3- E 
+4- B 
+5- C 
+
+            Data hygiene: On the Census and enumerators 
+Census enumerators should not face difficulties in the name of re-verification 
+It is disturbing that some Census 2027 enumerators in States such as Rajasthan and Uttar 
+Pradesh are facing issues for extremely unusual reasons. In these two States where the first phase 
+of the Census - House listing and Housing Census (HLO) - is under way, they have been 
+advised to "revisit households and correct the data discrepancies" and "not to select options that 
+may show the government in a poor light". Re-verification is a legitimate part of any study or 
+survey but this must be done to reflect reality accurately, not to manage perceptions. In Rajasthan, the 
+issue arises from a circular of the Director of Census Operations to district-level officials regarding 
+discrepancies identified in field data. Apparently, the objective is to ensure that data are accurately 
+recorded, using appropriate options in the questionnaire. However, in some cases, enumerators have 
+been told to record data based on assumptions. For example, if some households do not have toilets, 
+enumerators have been told to check whether toilets are available nearby, on the basis of which the 
+entry can be changed from "open defecation" to "[having] access to latrine". In Uttar Pradesh, the 
+message seems to be not to present facts as they are, raising concerns about data integrity and 
+reliability for a crucial and sensitive exercise. 
+The present episode brings to the fore the efficacy of programmes such as the country's long-running 
+campaign against open defecation. While many States have made tangible progress, it would be 
+unrealistic to conclude that the problem has been eliminated. For administrative purposes, including 
+funding, it is reasonable to classify cities and villages on the basis of certain parameters as Open 
+Defecation Free (ODF), ODF Plus and ODF Plus Model. But, the critical question is whether such a 
+classification reflects reality and comes into conflict with the enumerators' work. It is the responsibility of 
+policymakers to ensure that Census data are accurate and credible. They must also sensitise people to 
+provide correct information, as public policies and welfare schemes are formulated on the basis of these 
+data and ultimately benefit them. The authorities must recognise and resolve the legitimate difficulties 
+faced by enumerators. As the significance of the Census hardly needs any reiteration, the Union 
+government should be quite liberal in enhancing allowances for enumerators to ensure efficient and 
+timely work. It should not only be conscious of the financial outlay involved - about ₹11,718 crore for 
+the entire country - but also of the need to make reliable data publicly available for purposes such as 
+targeted and inclusive policymaking. The government should send a clear message that data sanitization 
+must not be undertaken under the guise of re-verification. 
+I
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Incursions 
+A. barrier 
+2. Ceasefire 
+B. intensifying 
+3. Obstacle 
+C. invasions 
+4. Escalating 
+D. delicate 
+5. Fragile 
+E. truce 
+Answer: 
+1-C 
+2- E 
+3- A 
+4- B 
+5- D 
+
+            Missed call: On India and the southwest monsoon 
+India must brace itself for a deficient southwest monsoon 
+The southwest monsoon reached Kerala on June 4, three days past its normal date and four 
+days behind the India Meteorological Department's own forecast. This is the first time since 
+2015 that the agency has misjudged the onset beyond its margin of error. A late arrival, in 
+itself, is no calamity. The date on which the rains touch the Kerala coast has little statistical 
+bearing on how much falls over the four months that follow. Many times in the past, the 
+monsoon has begun early and failed, and also begun late and recovered. It is what the monsoon has in 
+store over the next four months that is unsettling. The India Meteorological Department has pegged 
+seasonal rainfall at 90% of the long-period average, with a 60% probability of an outright deficient year 
+- its most pessimistic pre-season call in a decade. Only the northeast is expected to see normal rain; 
+the northwest, central India, the peninsula and the monsoon core zone that waters most of the country's 
+rain-fed farmland are all forecast to fall short. As monsoon watchers have often cautioned, it is the 
+distribution - the sudden long dry spells, sown crops that then face the danger of being unwatered - 
+that matters. Every monsoon is consequential for India. This one is exceptionally so, because it arrives 
+atop an input crisis. The West Asia conflict and the disruption at the Strait of Hormuz earlier this year 
+throttled energy supply and fertilizer production. 
+History offers little comfort. Around 60% of El Niño years since 1951 have brought deficient or below-
+normal rains; 2002, 2009 were the severest droughts of the century with significant shortfalls in 2014 and 
+2015. With El Niño now near-certain through the heart of the season, the government must not count on 
+a late, redeeming swing of the Indian Ocean Dipole. That means activating the Agriculture Ministry, Jal 
+Shakti and Consumer Affairs Ministries on a war footing along with the disaster management authorities, 
+with advisories steering farmers toward short-duration pulses, oilseeds and millets over thirsty paddy. 
+Disciplined groundwater and reservoir management are necessary and crop insurance and relief 
+provisioning must be readied. India will also have to brave more days of severe heat, which a parched 
+landscape will only sharpen. The government as recently as last week claimed to deliver a record 
+kharif production. While hoping for the best, it must prepare for the worst. A weak monsoon would fall on 
+a farm economy whose nutrients and fuel are both already scarce and dear.
