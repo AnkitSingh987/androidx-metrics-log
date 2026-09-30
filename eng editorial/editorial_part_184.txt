@@ -1,0 +1,110 @@
+Category: Editorial
+Title: editorial part 184
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Sustained 
+A. persistent 
+2. Insidious 
+B. provocative 
+3. Bypass 
+C. entangled 
+4. Mired 
+D. stealthy 
+5. Incendiary 
+E. avoid 
+Answer: 
+1-A 
+2- D 
+3- E 
+4- C 
+5- B 
+
+            Farmers' pulse: On India and its demand for pulses 
+Only structural reforms in agriculture sector can ensure food security 
+India manages its prodigious demand for pulses using a mix of import policy, price stabilisation 
+and conditional MSP procurement. Imports are the most sensitive because a single central 
+decision can immediately lower household spending when supply is tight, at the expense of hurting 
+farmers, and knowing that markets cannot always absorb 'extra' supply. So, when the U.S. said 
+that its trade deal with India obligated India to purchase pulses from American suppliers, it implied 
+that the government had agreed to committing imports against farmers' interests - a politically fraught 
+stance in India since the 2020-21 farm law protests and which might see a revival now. India's pulse 
+output has hovered around 2.5 crore tonnes in recent years while demand is estimated to be three crore 
+tonnes; imports fill the gap. Pulses account for roughly a quarter of non-cereal protein intake and support 
+five crore farmers and their families. In the absence of a reliable MSP regime as for rice and wheat, 
+however, farmers face organised neglect due to weak procurement mechanisms, the risks of rain-fed 
+cultivation, and yields lower than international competitors. In 2019-24, government procurement under 
+the Price Support Scheme fluctuated between 2.9% and 12.4% of production. Many States also have 
+inadequate procurement centres, forcing farmers to sell to private traders regardless of the official MSP. 
+As a result, farmers are incentivised to underinvest in pulses, leading to a vicious cycle. 
+India recently announced ambitious initiatives to solve this problem, an example being the October 2025 
+self-sufficiency Mission, with a ₹11,440 crore outlay, targeting 310 lakh hectares of cultivation and 350 
+lakh tonnes of production by 2030-31. But farmers remain sceptical since older promises have yet to 
+materialise. All this is why the initial apparent inclusion of pulses in the U.S. documents, describing what 
+India would open to American agri-imports, hit a raw nerve among India's farmers. Opening the market 
+to U.S. pulses would further depress domestic prices and directly contradict the government's new 
+Mission. Breaking this cycle would require more than removing objectionable words from an agreement, 
+including addressing the procurement infrastructure deficit, providing genuine MSP guarantees, 
+investing in productivity improvements for rain-fed areas where pulses are grown, and creating market 
+systems that explicitly reward farmers who choose to cultivate pulses. Until such structural reforms 
+materialise, however, pulse farmers will continue to occupy a precarious position in India's agricultural 
+economy and India will continue to depend on imports to meet its demand, perpetuating both food 
+security vulnerabilities and political sensitivity around any trade agreement that appears to favour 
+foreign producers. 
+I
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Obligated 
+A. cruel 
+2. Vicious 
+B. uncertain 
+3. Explicit 
+C. doubtful 
+4. Skeptical 
+D. bound 
+5. Precarious 
+E. clear 
+Answer: 
+1-D 
+2- A 
+3- E 
+4- C 
+5- B 
+
+            Overdue upgrade: On the new series of the Consumer Price Index 
+The new CPI series will aid policymaking and bolster data stability 
+The new series of the Consumer Price Index (CPI), released on Thursday, has addressed the 
+many shortcomings of the previous series. The new series has a base year of 2024, and is 
+pegged to consumption patterns from the Household Consumption Expenditure Survey 2023-
+24. The previous series had a base year of 2012 and was based on consumption patterns of 
+2011-12. As Chief Economic Adviser V. Anantha Nageswaran noted, India has changed 
+markedly over the last decade or so, including consumption behaviour and the composition of household 
+expenditure. For example, 80 crore households receive free foodgrain now, which naturally reduces how 
+much they need to spend on food. Simultaneously, several new service offerings have emerged, such 
+as over-the-top (OTT) video streaming, and online marketplaces. The new series commendably tries to 
+address these changes. The weightage of food and beverages in the overall CPI has been reduced to 
+36.75% from the earlier 45.86%. This is significant since food inflation was having an outsized influence 
+on the overall CPI, despite forming a shrinking part of households' monthly expenditures. The index also 
+covers more items, increasing its granularity and representativeness. Notably, this increase includes a 
+larger number of goods and services. India's service economy is growing faster than the economy's 
+average growth rate, and so price levels here are an increasingly important factor. The new index also 
+collects data from more marketplaces across the country, and, for the first time, includes 12 online 
+marketplaces. 
+More accurate inflation data have several implications for macroeconomic stability and monetary and 
+fiscal policy. Food inflation in India is notoriously volatile, quickly reflecting supply bottlenecks as well 
+as the vagaries of the weather. A more realistic weightage for food in the CPI stands to make the 
+overall index more stable. This, in turn, can increase predictability in Budget-making, since some 
+aspects are linked to the CPI, such as inflation-indexed dearness allowance and dearness relief. As far 
+as monetary policy is concerned, an updated CPI gives the Reserve Bank of India's Monetary Policy 
+Committee a more accurate picture of inflation as it decides the various policy interest rates. At the 
+moment, MoSPI provides a 'linking factor' and leaves it to the public to calculate how earlier inflation data 
+would have looked like under the new methodology. It should, instead, provide the back data itself, to 
+ease comparative analysis. It should also stick to its plan to revise the CPI every five years, and not wait 
+another 11 years to update it. 
+T
