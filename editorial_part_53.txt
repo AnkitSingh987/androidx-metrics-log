@@ -1,0 +1,73 @@
+Category: Editorial
+Title: editorial part 53
+
+Greater regularity: On the Nipah virus 
+Genetic sequences of Nipah virus must be shared in public databases quickly 
+The case of a 42-year-old woman in Kerala testing positive for Nipah virus on May 8 makes it 
+the third such instance being reported from the State's Malappuram district in the last two 
+years. The earlier cases were detected last year, in a 14-year-old boy on July 21 and a 24-
+year-old adult on September 15. With the latest detection of Nipah in the State, Kerala has 
+recorded two outbreaks, in the years 2018 and 2023, involving human-to-human transmission, 
+and four spillovers in the years 2019 and 2021, and two events in 2024. In the May 8 event, even though 
+only one person tested positive for Nipah and seven close contacts tested negative, it is a bit early to call 
+it a spillover. Unlike an outbreak, Nipah spillovers are restricted to a single case with no human-to-
+human transmission. One reason for the absence of human spread is the timely detection of the case 
+and isolation of the patient. The other reason is the clinical presentation. In the case of Nipah virus 
+spillovers, patients who tested positive for the virus had presented with acute encephalitis syndrome 
+(AES), while in the Nipah outbreaks in 2018 and 2023, the index case and at least a few other infected 
+people had presented with acute respiratory distress syndrome (ARDS). Compared with AES, patients 
+with ARDS present with relatively severe conditions with lung involvement. Besides cough, patients 
+presenting with ARDS have higher viral loads, which serve as a surrogate for disease severity. 
+Immaterial of whether blood, urine or cerebrospinal fluid samples test positive or not, throat swab 
+samples generally test positive if a person is infected by the Nipah virus, which again serve as an 
+indicator of human spread in the case of patients with ARDS. The high viral load, the presence of virus in 
+the throat and the tendency to cough make human spread possible. Greater disease severity in ARDS 
+cases is also the reason for the Nipah deaths in 2018 and 2023. There were 17 deaths from 18 cases in 
+the 2018 outbreak, and two deaths from six cases in the 2023 outbreak. A study by the ICMR-National 
+Institute of Virology (NIV) Pune found that the 2018 Nipah virus had small genetic variations from the 
+Bangladesh strain and was able to cause multisystemic disease in a Syrian hamster model resembling 
+human infection. 
+The Nipah virus is capable of causing different clinical presentations and is endowed with the ability to 
+cause human spread in some cases. This makes a strong case for a quick and thorough genetic study of 
+the virus in humans and bats. With Nipah cases now a very regular occurrence in Kerala, the compulsion 
+to routinely study fruit bats, which are natural hosts for Nipah, cannot be overemphasised. That even the 
+2018 virus showed small genetic differences from the Bangladesh strain makes it even more important to 
+know whether the virus causing the spillovers without human spread has evolved further. Such studies 
+T 
+
+            can be done by more scientists only when the genetic sequences are shared in public databases without 
+any delay.
+
+
+Big deal: On the U.S.-China trade deal 
+The U.S.-China trade deal will have implications for India 
+The trade agreement between the U.S. and China, the two biggest economies in the world, 
+serves as a breather in an otherwise tense global trade environment. The U.S. has agreed to 
+temporarily lower, for 90 days, its overall tariffs on Chinese goods from 145% to 30%, while 
+China will cut its tariffs on American imports from 125% to 10%. Markets across the world 
+cheered the announcement, jumping between 2%-3.8% following the news. The thaw comes 
+on the back of tensions and tariffs being ratcheted up by both sides, starting with U.S. President Donald 
+Trump's February 1 announcement of a varying tariff on imports from China, Mexico and Canada. 
+Notably, he excluded China from the 90-day pause on 'reciprocal' tariffs announced in early April. One 
+way to look at this latest development is that it shows Mr. Trump is backing down from his tariff war-
+footing, acknowledging the importance of China to the U.S. economy. Indeed, the joint statement by both 
+countries begins by mentioning "the importance of their bilateral economic and trade relationship". 
+However, another view is that his heavy-handed approach has succeeded in convincing China to come 
+to the negotiation table. Tariffs of 145% were unsustainable but served their purpose. The fact also is 
+that Mr. Trump's main grievance, of a ballooning trade deficit with China, remains unaddressed. The two 
+sides have agreed to continue talks, which will be key in determining whether this seemingly intractable 
+problem can be worked around or result in tensions again. 
+For India, this brings both uncertainties and certainties. If further talks between the U.S. and China are 
+successful, investors who have moved to other countries will likely start viewing China favourably again. 
+The advantages of manufacturing there - scale and costs - are still significant. The China+1 model, 
+which India in any case has not been able to leverage adequately, might start to lose its sheen. The 
+other uncertainty is around India's own trade talks with the U.S. It has now informed the World Trade 
+Organisation of potential reciprocal measures to the U.S.'s increased duties on steel and aluminium 
+imports. Even though talks on a U.S.-India trade deal are ongoing, this latest statement shows that 
+tensions remain high. The certainties are two-fold. The first is that India's trade deficit with China remains 
+vast and rising, and the U.S.-China agreement will not reduce this. 'Make in India' is currently inextricably 
+linked to 'Import from China'. The second certainty carries over from the first. The Centre must lean 
+heavily on States to adopt labour and land reforms that can allow scalable manufacturing to become 
+cost-effective here. Without this, India will remain dependent on Chinese imports, regardless of its 
+dealings with the rest of the world. 
+T
