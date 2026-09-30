@@ -1,0 +1,111 @@
+Category: Editorial
+Title: editorial part 166
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Sluggish 
+A. decrease 
+2. Surge 
+B. align 
+3. Ebb 
+C. increase 
+4. Coincide 
+D. lazy 
+5. Predict 
+E. forecast 
+Answer: 
+1-D 
+2- C 
+3- A 
+4- B 
+5- E 
+
+            Descent into farce: On the Election Commission of India, the SIR 
+Ad hoc changes and poor implementation mar the Election Commission of India's 
+Special Intensive Revision of electoral rolls 
+The Election Commission of India (ECI)'s Special Intensive Revision (SIR) of electoral rolls 
+across 12 States and Union Territories (UT) is fast descending into a farce. Take the case of 
+West Bengal, where furore over elderly residents having to attend eligibility hearings in 
+remote locations even after submitting their enrolment forms forced the ECI to order home 
+verification. Or, the fact that it had to conditionally halt hearings of "unmapped" voters (those 
+whose names or parents' names were not mapped with the 2002 SIR). Summons were in the form of 
+software notices, but this software was not used in Bihar. An association of civil servants complained that 
+this "suo motu system-driven deletion of electors from the draft electoral rolls in West Bengal in the 
+ongoing SIR process [bypassed] the statutory role of the [Electoral Registration Officers]". The 
+procedural chaos could have been avoided had the ECI not rushed into the SIR just before Assembly 
+elections in States/UTs such as West Bengal, Tamil Nadu, Kerala and Puducherry. Its ad hoc use of 
+software - the ECI junked its de-duplication software in Bihar and told the Supreme Court why it was 
+not using it, but reportedly used it alongside another software to flag "unmapped" voters without proper 
+protocol - is creating confusion and distress. The suspicion that the ECI is using an exercise of 
+updating electoral rolls as a de facto citizenship screening exercise seems to be confirmed by the 
+manner in which it is going about things. 
+There are inconsistencies and anomalies in the draft electoral rolls, many of which have been flagged by 
+The Hindu's data-driven investigations. The over 6.5 crore deletions, according to provisional numbers, 
+suggest methodological problems in and poor implementation of the exercise. In Uttar Pradesh, 
+provisional figures show that 2.89 crore names have been deleted, which could possibly explain why the 
+ECI has postponed publication of the draft roll to January 6. In Tamil Nadu and Gujarat, which are 
+relatively urbanised States with net in-migration of electors, 97 lakh and 73.7 lakh electors, respectively, 
+have been taken off the draft rolls. That both States have since seen the furious inclusion of lakhs of 
+names - added incomprehensibly as fresh additions in another procedural flaw - suggests that the 
+enumeration phase was concluded haphazardly. This situation could have been avoided had the Court 
+gone beyond limited interventions - which were salves for Bihar electors - to properly vet the new SIR 
+procedure for constitutionality. It is still not too late for the Court to take note of the infirmities and to 
+decide firmly in favour of the electorate. The fate of the very idea of universal adult franchise hangs in 
+the balance. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Suspicion 
+A. disorder 
+2. De facto 
+B. extremely angry 
+3. Furious 
+C. comedy 
+4. Farce 
+D. doubt 
+5. Chaos 
+E. real 
+Answer: 
+1-D 
+2- E 
+3- B 
+4- C 
+5- A 
+
+            The water divide: On water contamination, piped water supply in India 
+The quality of piped water supply must be checked at delivery point 
+In indicator of public health is the well-being of the poorer sections of the people. Health, 
+education, infrastructure, clean air and clean water all fall under basic needs, and various 
+institutions should be busy working round the clock to improve lives. On most of these 
+counts, however, India appears to be falling short, with the latest being the tragedy 
+unfolding in Indore, Madhya Pradesh. At least four people, including a baby (official toll; 
+unofficial is 14), have lost their lives after drinking municipality-supplied water, with more 
+than 2,000 people falling ill. Over 200 people are in hospital and 32 are in the ICU. It is a 
+development steeped in irony because Indore has been voted India's cleanest city for several years in a 
+row for its exemplary waste segregation and management practice among other cleanliness measures it 
+undertook. As has become the unfortunate norm after every mishap, the blame game began swiftly with 
+authorities pinning it on tardy progress on installing a fresh supply line. A committee is to investigate the 
+issue, but things should not have been allowed to precipitate such a deathly crisis in the first place. This 
+is the second instance of a water issue in the State in the past two months. In November, students at 
+the Vellore Institute of Technology campus near Bhopal vehemently protested against contaminated 
+water supply after many of them began contracting jaundice. 
+It is a shame that despite progress under the Swachh Bharat Mission and Jal Jeevan Mission, water 
+woes continue. The National Family Health Survey data show that despite a rural-urban divide, 96% of 
+households use an improved source of drinking water. A municipal supply is always considered to be a 
+safe and "improved source", and if checks and balances were in place, the authorities at Indore would 
+have spotted the contamination and let people know of the dangers. Giving access to water is 
+meaningless unless the quality of the supply is assured. There needs to be better enforcement of water 
+guidelines and other environmental laws at all levels. Air pollution is already wreaking havoc on citizens' 
+health; unsafe drinking water should not be added to the list. The incidents in Madhya Pradesh should be 
+taken as a wake-up call for India's water management. With a population that is close to 147 crore, 
+India's water-borne disease burden is also high. All States should immediately check water supply 
+sources for chemical and sewage contaminants. Old infrastructure including pipes must be repaired or 
+replaced. There should be strict enforcement of policy and monitoring of practice along with awareness 
+campaigns. Indore and many more cities in India have to clean up their act, or risk more deaths. 
+A
