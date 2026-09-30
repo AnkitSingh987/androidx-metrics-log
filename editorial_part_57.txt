@@ -1,0 +1,78 @@
+Category: Editorial
+Title: editorial part 57
+
+A bad omen for public trust in vaccines 
+Multiple vaccine-related petitions that have been filed before courts reflect growing 
+concerns about how vaccines are approved and administered in India 
+ver the last few years, multiple petitions have been filed before the courts regarding 
+vaccines. While most of them pertain to COVID-19 vaccines, two of them pertain to a 
+rabies vaccine and a rotavirus vaccine. While not all these petitions have been admitted by 
+the courts, they reflect growing concerns related to how vaccines are approved and 
+administered in India. It would be a mistake to dismiss these petitions as part of the larger 
+'anti-vax' movement, which is fuelled primarily by conspiracy theories. One of these 
+petitions was filed by a group in Kerala before the Supreme Court. The group complained 
+about deaths caused due to the alleged failure of anti-rabies vaccine. Other petitions raise questions 
+about transparency of clinical trial data, inadequate disclosure of the side-effects of vaccines, the 
+monitoring of vaccine-related adverse events, and compensation in cases where vaccines may have 
+caused deaths or serious adverse events. Trust in the regulator appears to be abysmal since the 
+petitioners in the cases pertaining to the rabies vaccine and COVID-19 vaccines have requested courts 
+to form independent committees to re-evaluate clinical trial data submitted by the vaccine manufacturers 
+to the regulator. Courts are poorly placed to decide such issues. If history is any indicator, these cases 
+will drag on for years before poorly reasoned orders with unsatisfactory conclusions are provided. To 
+complicate matters, vaccine manufacturers such as Serum Institute and Bharat Biotech have gone on 
+a spree filing defamation lawsuits against those questioning or criticising their vaccines. Some courts 
+have granted these companies ex-parte interim injunctions. These responses are not good for public 
+health or the credibility of India's vaccine manufacturers. It is time for policymakers in the Ministry of 
+Health to tackle some of these issues through policy deliberations instead of litigation. The trigger for 
+many of these petitions has been the opacity with which vaccines were approved by the drugs 
+regulator, the Central Drugs Standard Control Organisation (CDSCO). There are two issues on the 
+transparency front. The first is that the CDSCO makes key regulatory decisions along with "independent" 
+doctors, but their details are not disclosed. Disclosing the names of the people and their potential 
+conflicts of interest along with a transcript of their deliberations during the approval process is a bare 
+minimum to build public confidence in the process. The second issue is regarding the clinical trial data 
+which forms the basis of the approval process. Typically, pharmaceutical companies conduct clinical 
+trials and submit data to the regulator. As of now, the CDSCO does not release any information it 
+evaluates prior to granting regulatory approval. This needs to change. The CDSCO should publicly 
+disclose all raw clinical trial data and its own internal analysis, subject to redactions to protect patient 
+privacy. The other issue raised in one of the COVID-related petitions is the disclosure required to be 
+made to citizens about the possible side-effects of a vaccine, without which there cannot be informed 
+consent. It is not enough for the government to disclose such information on some obscure website. It 
+needs to be made in a format which is understandable to citizens at the time of vaccination so as to 
+enable them to make an informed decision. Indian law does not spell out a framework for 'informed 
+consent' outside the context of clinical trials. A related issue here is putting in place a transparent 
+pharmacovigilance system which collects data on adverse events due to vaccination, known as an 
+'adverse event following immunization' (AEFI). India has ad-hoc guidelines in place, but these lack the 
+force of a parliamentary law and do not appear to be implemented well. A well-functioning AEFI system 
+will go a long way in collecting data of high quality that pharmaceutical companies cannot __________.
+
+
+High base effect: On a shrinking trade deficit, rising exports 
+A shrinking trade deficit, as seen in February, is no cause for cheer 
+India's goods trade in February saw its steepest decline in nearly two years. Exports fell by 10.9% 
+to $36.91 billion, while imports dropped 16.3% to $50.96 billion, resulting in the smallest trade 
+deficit in over three years (42 months) at $14 billion. While a shrinking trade deficit driven by rising 
+exports would have been a positive development, the simultaneous decline in exports and imports 
+is a cause for concern. Experts partly attribute this narrowing deficit to a high base effect, as 
+exports in February last year, a leap year, stood at $41.4 billion and imports at $60.92 billion. 
+However, exporters also report a trend of American importers holding back on orders, fearing the 
+reciprocal tariffs set to take effect on April 2, as announced by U.S. President Donald Trump on 
+February 13. This announcement came just before his meeting with Prime Minister Narendra Modi, 
+where they unveiled an ambitious plan to boost bilateral trade to $500 billion by 2030 and finalize a free 
+trade agreement (BTA) in the months ahead. Despite Commerce Minister Piyush Goyal's diplomatic 
+outreach to U.S. Commerce Secretary Howard Lutnick this month, discussions yielded little beyond a 
+commitment to continue BTA negotiations. The looming threat of reciprocal tariffs has unsettled Indian 
+exporters, as the U.S. is India's second-largest trading partner, accounting for $118.3 billion in trade last 
+fiscal year. It is also the only country among India's top five trading partners with which India enjoys a 
+trade surplus. 
+Imports also declined sharply, led by a 62% plunge in gold imports compared to last February. This drop 
+is linked to domestic gold prices surging to ₹87,886 per 10 grams last week, dampening consumer 
+demand. Oil imports also fell nearly 30% as India diversified its supply sources in response to additional 
+U.S. sanctions on Russian oil producers and tankers in early January. By mid-2023, Russia accounted 
+for over 40% of India's crude imports, a significant increase from less than 1% before western sanctions 
+on Moscow following its 2022 invasion of Ukraine. If Washington moves to ___________its trade deficit 
+with New Delhi, India could face a 15% widening in its overall trade deficit, based on last fiscal year's 
+$241 billion shortfall. India must diversify its goods and services trade to reduce its heavy reliance on the 
+U.S. Two potential markets are China and the U.K. While imports from China have contributed to about a 
+third of India's trade deficit for over five years, India's trade imbalance with the U.K. accounted for less 
+than 3% of its total deficit last fiscal year. The free trade agreement negotiations with the U.K. are an 
+opportunity for India to shift this balance in its favour.
