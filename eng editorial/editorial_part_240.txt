@@ -1,0 +1,110 @@
+Category: Editorial
+Title: editorial part 240
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Excavation 
+A. dangerous 
+2. Precise 
+B. delicate 
+3. Perilous 
+C. unearthing 
+4. Fragile 
+D. fatal 
+5. Lethal 
+E. exact 
+Answer: 
+1-C 
+2- E 
+3- A 
+4- B 
+5- D 
+
+            Core upgrade: On the Index of Core Industries 
+The updated Index of Core Industries rounds out economic data upgrades 
+The Index of Core Industries (ICI) has finally joined the country's other economic metrics in 
+becoming up-to-date and representative of the economy. The other metrics such as the 
+national accounts, Consumer Price Index (CPI), Wholesale Price Index (WPI), and the Index 
+of Industrial Production (IIP) were updated earlier this year, although even those were after 
+considerable delays. The ICI has now joined their ranks with the June data being based on a 
+new series with an updated base year, an additional sector being covered, and revised weights and 
+methodologies. This is a welcome upgrade. The performance of these core industries is a vital 
+barometer of the state of the economy. In the new series, the previous eight sectors have become nine, 
+with the vital inclusion of the iron ore sector. Improvements have also been made to how the steel and 
+coal sectors are measured in order to remove the previous double-counting that was taking place. The 
+addition of a sector would naturally change the distribution of weights of the sectors in the index, but the 
+final weights also reflect a broader shift in economic activity. The coal and natural gas sectors have seen 
+their weights nearly halve to about 5.6% and 3.8%, respectively. On the other hand, the electricity sector 
+now makes up more than 30% of the index from less than 20% in the previous series. All of this perhaps 
+reflects the rising share of renewables in electricity generation, even as demand for electricity itself 
+surges. 
+The performance of the index in June 2026, with a five-month-high growth of 5%, would suggest that 
+Indian industry is shrugging off the slump induced by the West Asia crisis. However, two of the 
+strong growth numbers - iron ore by 43.9% and electricity by 9.8% - were due to a statistical base 
+effect since both sectors had contracted in June last year. It remains to be seen whether the numbers 
+will remain this positive once that base effect wears off in the months ahead. The new series highlights 
+some of the systemic issues that the old series did, such as the persistent contraction of the crude oil 
+and natural gas sectors. They have contracted continuously for 18 and 24 months, respectively. If India 
+does not have these resources, that is one thing. But if it has them and still is not able to extract them 
+economically, then that is a serious shortcoming. The update of the ICI and the recent upgrade of the 
+WPI would have been a good time for a broader statistical reorganisation. With the Ministry of Statistics 
+and Programme Implementation handling the CPI and the IIP, it only makes sense for the WPI and ICI 
+to move to it from their current home in the Ministry of Commerce and Industry. That change can still be 
+made. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Contracted 
+A. recession 
+2. Vital 
+B. shrank 
+3. Slump 
+C. addition 
+4. Extract 
+D. crucial 
+5. Inclusion 
+E. retrieve 
+Answer: 
+1-B 
+2- D 
+3- A 
+4- E 
+5- C 
+
+            On guard: on India and the Qdenga dengue vaccine 
+The dengue vaccine must be made affordable to those at greatest risk 
+The CDSCO's approval of the Qdenga dengue vaccine - the first in India's history - follows 
+the vaccine's licensing in over 40 countries and a WHO prequalification, and some of the 
+country's worst dengue years vis-à-vis the disease's burden, although that is evidence of 
+better surveillance as well. The Aedes mosquitoes that spread the disease are expanding 
+into semi-urban and rural districts, where conventional vector control is harder to sustain. The 
+time to develop the vaccine itself is understandable. The four antigenically distinct dengue serotypes 
+and the possibility of a 'second infection' by a different serotype producing more severe disease through 
+antibody-dependent enhancement mean that an effective shot has to induce strong immunity against all 
+four at once. This constraint nearly derailed the first licensed dengue vaccine, Dengvaxia, and the 
+controversy in the Philippines in 2017 prompted greater regulatory caution. The design of Qdenga, by 
+Japan-based Takeda, differs from that of Dengvaxia and, unlike the latter, can be administered without 
+screening for a prior dengue infection. 
+Its protection against the serotypes varies from highest against DENV-2, followed by DENV-1, while 
+uncertainty remains regarding protection against DENV-3 and DENV-4 in people without prior exposure 
+to dengue. This is concerning because while DENV-2 is more common in India, DENV-3 prevalence is 
+increasing. If the DENV-3 serotype dominates the 2026 monsoon season, Qdenga's impact could be 
+substantially lower than anticipated, especially if many recipients are dengue-naïve. Qdenga also 
+requires two doses across three months apart. Clinical data suggest that the first dose protects unevenly, 
+with stronger evidence against DENV-1 and DENV-2 than DENV-3 and DENV-4. If a seronegative 
+person takes the first shot on July 1, when the monsoon begins, and encounters DENV-3 in August, the 
+shot may not suffice to prevent severe illness. Ensuring the highly mobile migrant workforce receives its 
+second dose will be significantly difficult, too; those falling through the cracks may also be exposed to 
+concerns raised in the TIDES trial of a 'negative efficacy' against hospitalisation related to DENV-3 
+among seronegative children. Finally, following Takeda's tiered pricing strategy worldwide, Qdenga may 
+be too expensive for people living in dense urban slums with poor drainage. To ensure sufficient uptake 
+among the populations at greatest risk, the government must negotiate a lower price. In the end, 
+administering a dengue vaccine properly in a population is no less tricky than developing a vaccine 
+against dengue, and the Qdenga rollout should give no cause for complacency. 
+T
