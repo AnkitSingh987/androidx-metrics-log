@@ -1,0 +1,70 @@
+Category: Editorial
+Title: editorial part 63
+
+Back door censor: On the government's SAHYOG portal 
+SAHYOG must adhere to the safeguards and procedures in Section 69A of the IT 
+Act 
+y informing the Delhi High Court that it cannot be compelled to come on board the Union 
+government's SAHYOG portal, the social media platform, X, has brought to light a 
+mechanism that could potentially be misused by the government in its attempts to curb 
+content on the Internet. The portal, which has been conceptualised by the government to 
+be a platform that will facilitate coordination among law enforcement agencies, social 
+media platforms and telecom service providers to help in quicker takedowns of unlawful 
+content, seems to be a follow-up to an office memorandum by the Ministry of Electronics and 
+Information Technology, in October 2023, authorising government agencies to block content, under 
+Section 79 of the IT Act. The creation of SAHYOG was disclosed by the Union Ministry of Home Affairs 
+(MHA) in the Delhi High Court last year, in Shabana vs Govt Of NCT Of Delhi And Ors., where the court 
+had emphasised the need for a mechanism to enable real-time interactions between Internet 
+intermediaries and law enforcement authorities in order to address urgent cases. Section 79 of the IT 
+Act provides safe harbour protection to intermediaries so that they are not liable for third-party content 
+hosted or transmitted on or through their platforms provided they adhere to certain conditions. Section 
+79(3)(b) provides an exception to this protection - if an intermediary receives actual knowledge or is 
+notified by the government agency that certain content is being used to commit an unlawful act, it must 
+remove or disable access to that content quickly, failing which it will lose safe harbour protection. 
+By using Section 79(3)(b) to enable the creation of what is a content takedown portal, the government 
+- as X rightly claims in its petition - bypasses the limited safeguards under Section 69A of the IT Act, 
+which allows content blocking only on specific grounds such as national security and public order, and 
+mandates procedural safeguards such as a designated officer's approval, written justification and 
+independent review of any such blocking request. X's claim also justifiably raises the possibility of 
+SAHYOG being used as a tool for unchecked censorship as it will allow for multiple government 
+agencies including Ministries, State governments and local police to have blocking powers unlike the 
+provisions in Section 69A. If SAHYOG is used as the medium to address blocking orders, there seem to 
+be no opportunities for challenging the order, nor are there any procedural protections that are 
+otherwise available through Section 69A. This suggests that the implementation of the portal could be 
+ultra vires and violates the Supreme Court's judgment in Shreya Singhal vs Union of India. While the 
+Delhi and Karnataka High Courts (X has also filed a petition challenging SAHYOG here) hear the cases, 
+the MHA must provide the full details of the features of the SAHYOG portal for public perusal to ensure 
+that it does not bypass the legal frameworks for online content regulation.
+
+
+Republican journey: on the President's address to the nation 
+The President should stay clear of partisan political discourse 
+In her customary address to the nation on the eve of the 76th Republic Day, the President of India, 
+Droupadi Murmu, said that the Constitution has become a living document due to the millennia-old 
+civic virtues of the country. Ms. Murmu also paid tribute to Dr. B.R. Ambedkar, who chaired the 
+Drafting Committee, and other members of the Constituent Assembly, who created a document that 
+would guide the country's progress. Connecting India's journey as a modern Republic to its heritage, the 
+President said the constitutional values of justice, liberty, equality, and fraternity have always been a 
+part of India's civilization. Sceptics who doubted India's prospects at the time of Independence have 
+been proven wrong due to these inherent strengths of the country. The President highlighted the 
+representative character of the Constituent Assembly, whose members were drawn from every part of, 
+and communities in, the country, including 15 women. While women's equality was at that time only a 
+distant ideal in much of the world, Indian women were contributing to shaping the nation's destiny, she 
+noted. Reflecting on the progress over 75 years, Ms. Murmu commended the Union government's efforts 
+to move past the relics of the colonial era, particularly the "audacity of vision" of replacing colonial-era 
+criminal laws with three new laws rooted in Indian traditions of jurisprudence. 
+The President strongly advocated the controversial proposal for simultaneous elections to the Lok Sabha 
+and State Assemblies as a means to redefine good governance. The draft Bill on simultaneous 
+elections, introduced by the Narendra Modi government, is under review by a joint committee of 
+Parliament. The President waded into the debate with the argument that synchronized elections would 
+promote consistency in governance, prevent policy paralysis, mitigate resource diversion, and reduce 
+financial burdens. It is a contentious topic and Opposition parties that are a part of the Indian National 
+Developmental Inclusive Alliance have opposed the plan on the ground that it violates the basic structure 
+of the Constitution and undermines federalism. Not surprisingly, Congress President Mallikarjun Kharge 
+has alleged that there is a "tendency" to impose a "One Nation, One Party" agenda by undermining 
+the Opposition. The President could have stayed clear of this topic. The government will need to tread 
+carefully to ensure that the First Citizen is not drawn into what is essentially a partisan political debate. 
+I
+
+            Unity without uniformity is key to a more perfect union. And Republic Day is as good as any other day to 
+reiterate that.
