@@ -1,0 +1,65 @@
+Category: Editorial
+Title: editorial part 52
+
+A step up: On India and the 2025 Human Development Report 
+As India climbs up HDI rankings, rising inequality poses challenges 
+mid a disturbing rate of deceleration in global development and a growing divide between 
+the rich and the poor, India has inched up on the Human Development Index. In the 2025 
+Human Development Report, 'A Matter of Choice: People and Possibilities in the Age of AI', 
+released on Tuesday, India ranks 130 out of 193 countries, from 133 in 2022. It registered 
+an HDI value increase to 0.685 in 2023 from 0.676 in 2022. Coming on the back of two 
+debilitating pandemic years, it can be said that India's recovery has been strong in the three fields HDI 
+measures: "a long and healthy life, access to knowledge and a decent standard of living". India's life 
+expectancy, at 72 years in 2023, is the highest level it has reached since the inception of the index in 
+1990 (58.6 years). Children, the report noted, are expected to stay in school for 13 years on average, up 
+from 8.2 years in 1990; and Gross National Income per capita has risen from $2,167.22 in 1990 to 
+$9046.76 in 2023. It gave a shout out to programmes such as MGNREGA, the Right to Education Act, 
+the National Rural Health Mission and other initiatives for the improved status, but also sounded a word 
+of caution about rising inequality, particularly significant income and gender disparities. 
+The female labour participation rate may have risen to 41.7% in 2023-24, as the Economic Survey of 
+2024-25 pointed out, but a stronger ecosystem needs to be built to ensure women join the workforce and 
+are able to retain their jobs. There is a lag in political representation of women as well with no indication 
+yet when the constitutional amendments reserving one-third of legislative seats for women will come into 
+force. Underprivileged girls and boys still struggle to get an education, and until this anomaly is 
+corrected, India's HDI value will not rise. Though the report highlights that 13.5 crore (of India's 
+population of 144 crore) "escaped multidimensional poverty" between 2015-16 and 2019-21, income and 
+gender inequalities have pulled down India's HDI by 30.7%, "one of the highest losses in the region." The 
+thrust of the HDR this year was on AI and how human beings may benefit from it on development 
+parameters. India, it said, has been able to retain 20% of AI researchers, up from nearly zero in 2019. 
+Going forward, India must leverage AI to deliver on many fronts from agriculture to health care, 
+education to public service delivery. But it is imperative that proper policy and safeguards are in place to 
+thwart the risk that AI may deepen existing inequalities. 
+A
+
+
+Cast of characters: On the caste census 
+Caste census presents both challenges and opportunities 
+or the first time since 1931, Census forms will record the caste of Indians, but questions 
+remain on the extent of the impact that the data would have on India's affirmative action 
+programmes. Decadal censuses, until now, have categorised citizens as SCs, STs and as per 
+religion. In decades of reservation for SCs, STs, and OBCs, there have been concerns about 
+which communities or individuals within these groups are able to access the benefits. The 
+demands for a creamy layer to eliminate the economically better-off sections from reservation 
+quotas, and for sub-categorisation to ensure smaller or relatively more backward 
+communities are not crowded out, have gained moral and political legitimacy. The Supreme Court of 
+India, last August, cleared the way for sub-categorisation within SCs and STs and the Justice G. Rohini 
+Commission in 2023 finished a study to examine sub-categorisation within OBCs. The Court's judgment 
+was quick to draw a sharp fault line within SC and ST communities on the issue of sub-categorisation 
+and the potential for upset in the Commission's report has forced the government to keep its findings 
+closely guarded. Caste groupings continue to be a determinant of political and social life and empirical 
+data on these are essential for more effective development planning. However, the search for increased 
+representativeness through slicing and relabelling of social groups could be an infinite process, 
+leaving some group or the other always dissatisfied. 
+The other challenge is the logistics of how caste enumeration should be conducted in a country where 
+community-based claims are numerous. The understanding of what caste is, the difference between a 
+sub-caste and a caste group, and the reconciliation of the understanding of caste names with their 
+morphing according to linguistic and regional variations are issues. This gap in understanding caste was 
+reflected in the SECC 2011 dataset as well, which yielded more than 46 lakh different "castes". Apart 
+from the fact that there is no repository of all castes except for the lists of SCs, STs, and OBCs, the 
+question of how to classify communities as castes, tribes, or socially and educationally backward classes 
+continues to be litigated in High Courts and the Court in the form of countless petitions for inclusion or 
+exclusion. The decision to enumerate caste can also be an opportunity to arrive at a consensus on 
+these questions. The political diatribe that accompanied caste enumeration exercises in Bihar, 
+Karnataka, and Telangana shows that this could be volatile. The Centre should build consensus on 
+the details, now that all parties are in agreement with caste enumeration in principle. That will keep the 
+integrity of its finding intact and beyond reproach.
