@@ -1,0 +1,109 @@
+Category: Editorial
+Title: editorial part 164
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Fragile 
+A. imposing 
+2. Robust 
+B. weak 
+3. Touted 
+C. strong 
+4. Levying 
+D. delicate 
+5. Flimsy 
+E. promoted 
+Answer: 
+1-D 
+2- C 
+3- E 
+4- A 
+5- B 
+
+            Gates and windows: On the SIR and single-appeal window 
+One round of appeals cannot fix the large-scale deletions in electoral rolls 
+The Election Commission of India (ECI)'s Special Intensive Revision (SIR) of electoral rolls has 
+a reasonable aim: to prune the duplicates, outdated addresses and entries for people who 
+have died or moved, which India's electoral rolls have a tendency to gather. But the ECI's 
+design of the ongoing SIR, modelled on the one in Bihar, infuses systemic flaws in the 
+process that the body seems unwilling to address or even acknowledge despite many of the 
+same problems in Bihar reappearing in multiple States. The process is happening at great speed that, 
+together with the burden of inclusion being shifted from the state to the voter, suggests that the ECI is 
+treating the exclusion of eligible voters as an acceptable risk. The speed would be justifiable given the 
+availability of digital technologies today but they have their own tendencies to exclude, exemplified by 
+the fact that the 2002-2005 electoral rolls, details from which the ongoing SIR expects citizens to 
+invoke, are not machine-readable and the ECI has treated even minor mismatches as cause for deletion. 
+The scale of exclusions reported in the phase I draft rolls should thus be read as a warning sign. It is 
+not obviously reasonable to expect that one round of appeals will fix this in the final rolls. 
+The claims and objections processes correct errors only to the extent that affected voters detect and 
+pursue them. That is, the appeals stage only adds a new filter, selecting for those with the time, literacy, 
+connectivity, social support and confidence to deal with the state. If a person does not realise they have 
+been deleted, cannot take time away from work, travel to an office, assemble documents or navigate 
+forms and hearings, the error will become an official fact. Important information is not consistently 
+available in a form that enables real-time public scrutiny, such as the precise reasons for deletions at 
+granular levels and demographic breakups, including gender-wise patterns, preventing civil society, 
+smaller political parties, journalists and voters from identifying where the process is failing while it can 
+still be corrected. Finally, the SIR depends on house-to-house work, form distribution and collection, 
+digitisation and repeated visits executed by State staff who simultaneously have other duties. When they 
+are further constrained by tight deadlines, the risk of chasing targets instead of completing tasks 
+becomes great. The current SIR in sum comes across as a form of administrative gatekeeping that 
+stratifies the electorate into two tiers: those who can continuously re-prove themselves in the state's 
+preferred format and those who cannot. That outcome will not be corrected by a single-appeal window 
+because the window is itself part of the gate. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Spurious 
+A. participated 
+2. Disrupted 
+B. citing 
+3. Indulged 
+C. coercion 
+4. Invoking 
+D. fake 
+5. Intimidation 
+E. interrupted 
+Answer: 
+1-D 
+2- E 
+3- A 
+4- B 
+5- C 
+
+            Model conduct: On India, AI use 
+India must improve access to AI resources, and upskill its workforce 
+India has been regulating Artificial Intelligence (AI) use by expecting due diligence from platforms 
+under the IT Act and Rules, regulating the financial sector, and with privacy and data protection 
+Rules. It does not yet have a consumer safety regime that deals with the state's duty of care. China 
+pitched such a regime with draft rules that it unveiled last week, which target emotionally 
+interactive services, and propose to require companies to warn against excessive use and 
+intervene when they detect signs of extreme emotional states. If these rules seem justified for targeting 
+psychological dependence that general rules about unlawful content do not address, they may also be 
+harsh because expecting providers to identify users' states can incentivise more intimate monitoring. 
+India's posture is less intrusive, but also more incomplete, because it banks on existing laws. Thus, it 
+regulates adjacent risks but has not articulated a duty of care vis-à-vis AI product safety, especially for 
+psychological harms. MeitY has used the IT Rules to push platforms to curb deepfakes and fraud, and 
+define and label "synthetically generated" content. Financial regulators have also adopted structural 
+measures, with the RBI setting expectations to govern model risk in credit and developing its FREE-AI 
+framework process and SEBI pushing for clear accountability on how regulated entities use AI tools. 
+While some measures are preemptive, MeitY has been largely reactive. 
+India has a large ecosystem that adopts models but is far behind the U.S. and China in building frontier 
+models of its own. In this context, it should beware the cons of 'regulate first, build later', especially since 
+domestic capacity is lacking. A more practical way might be to consider how it can nurture a frontier 
+model and govern the overall use of models, many of which will remain privately built and foreign for a 
+while, inside Indian markets. On the first count, India can focus on improving access to computational 
+resources, upskilling the workforce, increasing public procurement, and translating research to industry 
+while sidestepping the pitfall of paralysis by consensus, which could increase dependency. On the 
+second, India should consider regulating downstream use more assertively without choking upstream 
+capability. It can do this by adding obligations on companies that are deploying products in high-risk 
+contexts, and regulating how they monitor and respond to a model's behaviour, to existing privacy and 
+consumer protection rules, for example, by expecting companies to submit incident reports, rather than 
+requiring them to monitor users' emotions. This way, India can write rules for how Indians use models 
+without assuming that the global technology trajectory will rearrange itself to match its preferences. 
+I
