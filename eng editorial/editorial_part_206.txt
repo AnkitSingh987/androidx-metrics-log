@@ -1,0 +1,106 @@
+Category: Editorial
+Title: editorial part 206
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Routed 
+A. power 
+2. Tainted 
+B. encouraged 
+3. Buoyed 
+C. huge 
+4. Behemoth 
+D. defeated 
+5. Clout 
+E. corrupted 
+Answer: 
+1-D 
+2- E 
+3- B 
+4- C 
+5- A 
+
+            Building bridges: On India's solar generation, battery storage 
+Battery storage capacity must keep pace with solar energy generation 
+India scaled a record peak demand of 256.1 GW on April 25 with solar plants supplying 21.5% of 
+the afternoon load - an all-time high, and the clearest signal yet that the country's installed solar 
+fleet can do real work when the sun is overhead. But the same day's full 24-hour ledger told a 
+more sobering story. When there was accounting for the whole day of April 25, solar contributed 
+only about 10.8% of daily generation, and just 0.1% of the evening's needs after sunset. Solar's 
+share of India's installed electric capacity has nearly doubled from about 15% in 2022 to nearly 28% in 
+early 2026. However, solar accounted for roughly 5.6% of generation on India's peak-demand day in 
+2022 and only increased to the 10.8% of April - a clear indication of the yawning gap that remains 
+between the realities of the present and what is possible. [P] The bottleneck is not panels, [A]/ vast 
+stores of generated [B]/ electrons through batteries [C]/ land or ambition but [D]/ the inability to use the 
+[E]. In fact, such is the paucity of battery storage that States which are prolific producers of solar power 
+are being asked to halt their supply, lest it compromise the stability of India's electric grid. In 2025, India 
+had to curtail 2.3 terawatt hours of solar generation between late May and December, equivalent to 18% 
+of average monthly solar output, with 0.9 TWh (terra-watt hours) wasted in October alone. Given that 
+producers of such electricity must be compensated, this ends up being a cost to the public exchequer 
+which pays for power that was never delivered. The India Meteorological Department's forecast of a 
+below-normal monsoon at 92% of the Long Period Average - the first such warning in 11 years - only 
+sharpens the argument: a hotter, drier summer means greater daytime demand, which is precisely 
+when solar should be doing the heavy lifting. 
+The encouraging news is battery economics. Standalone two-hour battery storage tariffs fell from 
+around ₹2.21 lakh per MW per month in early 2025 to ₹1.48 lakh by year-end. The challenge is 
+execution. Only 0.7 GWh of battery storage was operational in India by end-2025, with another 2 GWh 
+expected by December 2026. The Centre and States must now focus less on tendering and more on 
+commissioning - pairing every fresh solar auction with mandatory co-located storage and resolving 
+the financing wall facing aggressively bid low-tariff projects. Solar capacity without storage is a half-built 
+bridge. 
+I
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Peak 
+A. bidding 
+2. Prolific 
+B. top 
+3. Sobering 
+C. obstacle 
+4. Tendering 
+D. productive 
+5. Bottleneck 
+E. serious 
+Answer: 
+1-B 
+2- D 
+3- E 
+4- A 
+5- C 
+
+            Understanding inequality in India's growth story 
+'Low' inequality conceals more than it reveals 
+here have been some significant policy changes in the recent past - this includes the 
+implementation of the new Labour Codes and the Viksit Bharat-Guarantee for Rozgar and 
+Ajeevika Mission (Gramin) Bill, 2025 replacing the Mahatma Gandhi National Rural 
+Employment Guarantee Act (MGNREGA) - which have raised serious concerns regarding 
+the welfare of informal workers and those belonging to rural India. These changes are 
+accompanied by the official understanding that inequality is much less of a concern today than it was in 
+the early 2010s, even though data comparability itself is an issue. Analysis of inequality warrants 
+clarification on a few issues, among other things. The first is inequality of what - income, wealth, 
+consumption expenditure? Second, how is it measured? Third, along which axis it is assessed - caste, 
+class, gender, religion?, and fourth, data source and comparability of estimates generated from multiple 
+surveys, if marked with methodological changes. 
+Our estimate from the Household Consumer Expenditure Survey (HCES 2023-24), conducted by the 
+National Sample Survey Organisation (NSSO), suggests that overall consumption expenditure 
+inequality, measured by the Gini index, is 0.29 - higher than the widely cited World Bank estimate of 
+0.25. The World Bank's method too, in this regard, came under scrutiny. With further disaggregation, 
+one finds that urban, as expected, is more unequal than the rural sector. India's consumption boom 
+during the last couple of decades has been primarily driven by non-food expenditure. We find that 
+inequality is much higher for the same compared to food expenditure. This is true for the rural and urban 
+sectors, the inequality for both being higher in case of the urban sectors, and relatively more for non-food 
+expenditure. 
+Since most growth-inducing activities are urban-centric and agricultural distress persists, it is 
+imperative to examine the urban-rural gap, which is shown by the mean ratio here. A higher than unity 
+mean ratio would reflect a relatively better position than the respective all-India average. Lesser than 
+unity would imply otherwise. There is a substantial gap between urban and rural sectors in this regard 
+and the disparity is more striking in the case of non-food expenditure. For example, average urban 
+non-food monthly per capita expenditure (MPCE) is about 1.5 times higher than the all-India average, 
+while that for rural is much lower than the same point of reference. 
+T
