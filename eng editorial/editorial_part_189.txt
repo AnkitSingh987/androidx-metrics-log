@@ -1,0 +1,111 @@
+Category: Editorial
+Title: editorial part 189
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Enormous 
+A. weak 
+2. Leverage 
+B. wise 
+3. Vulnerable 
+C. advantage 
+4. Articulate 
+D. very large 
+5. Prudent 
+E. express clearly 
+Answer: 
+1-D 
+2- C 
+3- A 
+4- E 
+5- B 
+
+            Band aid: On the Supreme Court and the Special Intensive Revision process 
+The constitutionality of the flawed SIR process must be decided quickly 
+ith the corrections and claims process coming to an end, the Special Intensive 
+Revision (SIR) process has seen the release of final electoral rolls except in West 
+Bengal and Uttar Pradesh which are due soon. The net number of voters removed 
+(with fresh additions) from the pre-SIR electoral rolls in States such as Tamil Nadu 
+(nearly 11.5%), Gujarat (13.4%) and Chhattisgarh (11.8%) remain high. Tamil Nadu 
+and Gujarat are, after all, net in-migrant States unlike Bihar where deletions were around 6%. The high 
+number of deletions, and the fact that excisions are higher for female than male electors, suggests that 
+the SIR process, as envisaged and implemented by the Election Commission of India (ECI), suffered 
+from clear structural defects. A clear-cut assessment could have only been possible with comparison 
+with Census figures, but due to the prolonged delay by the Bharatiya Janata Party-led Union 
+Government, only outdated numbers from 2011 are available. The final figures of the electorate in 
+major States where the SIR was conducted indicate that the registered adult population in the final rolls 
+is much below the projected estimates. This again raises the question of whether the ECI should have 
+waited for the Census before rushing the SIR - but that is now only of academic interest. 
+The exercise's lacunae and anomalies could have been mitigated if the Supreme Court of India had 
+ruled on SIR's constitutionality and compelled the ECI to adopt a more robust - though slower - 
+household-by-household count, instead of depending on an enumeration that shifts the burden onto 
+electors to prove their eligibility. This exercise has clearly, and unduly, affected migrant voters - 
+especially those leaving their residence for the short term and married women who have shifted 
+residences. By letting the process to continue despite its frailties, the Court relied on the ECI's claim that 
+concerns with omissions are overblown, given the relatively few complaints filed by political parties. 
+But the fact that political parties participate in a zero-sum game of competition should alert to the 
+possibility of their relative lack of agency in assisting all electors to be part of the list. Also, unlike other 
+identity documents such as ration card, passport or Aadhaar, the voter identity card is of use only during 
+quinquennial elections, disincentivising citizens from trying to ensure that they are on the list. This is 
+even more so in West Bengal, where the ECI's shoddy implementation has created such a humongous 
+mess that the Court has sought the services of not just the State's judicial officers but those of its 
+neighbours to aid in the "legal verification" process. The Court is seeking to ease the hurt rather than aid 
+the process of universal adult franchise. 
+W
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Mitigated 
+A. forced 
+2. Prolonged 
+B. faulty 
+3. Compelled 
+C. obsolete 
+4. Flawed 
+D. extended 
+5. Outdated 
+E. lessened 
+Answer: 
+1-E 
+2- D 
+3- A 
+4- B 
+5- C 
+
+            A jab well done: On India's Human Papillomavirus vaccination programme 
+Following up of adverse events after immunisation is a must 
+India's move to introduce a nationwide Human Papillomavirus (HPV) vaccination programme, for 
+girls aged 14, strikes a strident note for science at a time when an anti-vaccination sentiment has 
+perilously picked up favourable winds, globally. The impact of shunning vaccines is apparent in 
+the United States where, currently, a measles epidemic is making its way across 26 States. The 
+HPV vaccination will be conducted exclusively at designated government health facilities, and in 
+the presence of trained medical officers, supported by skilled health-care teams equipped for post-
+vaccination observation and management of adverse events following immunisation (AEFI). A single-
+dose vaccine, a regimen recommended by the World Health Organization, will be deployed. Adequate 
+evidence exists to show that almost all cases of cervical cancer are caused by persistent infection with 
+high-risk types of HPV, particularly 16 and 18. These two types together account for more than 80% of 
+cervical cancer cases in India. Evidence also points to the fact that cervical cancer is largely preventable 
+through HPV vaccination and regular screening, and can be cured if detected early and treated 
+promptly. Globally, over 90 countries are implementing single-dose HPV vaccination schedules. Several 
+countries have demonstrated substantial reductions in HPV infection, pre-cancerous lesions, and 
+cervical cancer incidence following widespread vaccination. Cervical cancer remains a rare cancer 
+where a vaccine has proven to be of great preventive value. 
+The sheer burden of cervical cancer in India is what makes this decision a critical life-saving 
+intervention: The South-East Asia Region (SEARO) accounts for the second-highest cervical cancer 
+incident (new cases) and death rate among WHO regions, with India contributing over 65% of the 
+burden. The second most common cancer in women in India, it was estimated that the country had 
+127,526 new cases and 79,906 deaths from cervical cancer in 2022. National screening coverage 
+remains alarmingly low, with only 1.9% of women aged 30-49 being tested. However, India's dark past 
+with an HPV vaccine trial cannot be forgotten. Seven girls who were part of a trial in 2009-10 in Andhra 
+Pradesh and Gujarat died. An ICMR investigation averred that the reasons "were most probably 
+unrelated to the vaccine. However, the cause of death in all the cases cannot be established with 
+certainty". It also flagged, as a key concern, the need to identify and investigate all AEFI. As the 
+government embarks on this exercise that could lead to many health gains, it will do well to ensure a 
+working cold chain to store the vaccines, complete transparency, and meticulous reporting of AEFI 
+across the country. 
+I
