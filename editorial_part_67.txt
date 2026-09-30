@@ -1,0 +1,63 @@
+Category: Editorial
+Title: editorial part 67
+
+Catching a break: On the inflation dip and households 
+January's inflation dip brings respite for households but fresh risks are building up 
+ healthy winter harvest of vegetables reined in food inflation to a five-month low of 6% in 
+January, driving down India's consumer price inflation to 4.3%, tantalizingly close to the 4% 
+median target pursued by the Reserve Bank of India (RBI). For urban consumers, in fact, 
+inflation eased to 3.9%, while rural consumers faced a much-moderated 4.6% uptick in 
+prices. This constitutes some relief for households, especially the urban middle class which has been 
+awaiting relief from food inflation and has pulled back on other spending. If inflation holds around this 
+level for some time, this may have broader connotations for consumption and growth impulses 
+gathering fresh steam. The RBI, which slashed interest rates last week in anticipation of declining 
+inflation, must be relieved too. As per its own reckoning, with this quarter expected to average 4.4% 
+inflation, there may be a minor uptick from January's 4.3% price rise over this month and March. On 
+Thursday (February 13, 2025), citing the inflation decline and the RBI's projection of an average inflation 
+of 4.2% in 2025-26, Finance Minister Nirmala Sitharaman exuded confidence in Parliament that food 
+prices will be under control this year, with farm output estimates suggesting a healthy uptick. 
+Some dark clouds, however, loom over this benign inflation outlook that is expected to create more 
+room for the central bank to cut rates further and support growth. With the rupee declining 4% against 
+the U.S. dollar so far in the second half of 2024-25, imported inflation can play spoilsport, particularly on 
+fuels, and edible oils where imports constitute 60% of India's consumption needs. If commuting costs, 
+which accounted for the highest chunk of households' non-food spending in 2023-24, and cooking fuel 
+costs flare up along with the price of fats to fry one's meals, household budgets will be exacerbated 
+afresh. Edible oil prices have been rising sharply for a few months already, with high global prices 
+compounded by the Centre's decision to impose import duties. They were up 15.6% in January, the 
+highest in almost three years. Wholesale prices for edible oils jumped 33.1%, indicating there is likely 
+more pass-through of these costs in retail prices. Any weather shocks this coming summer and monsoon 
+could also undo food price gains. The RBI, which is seeking to curb the volatility in the rupee, will be 
+mindful of these risks, and having retained a neutral monetary policy stance, may hold off on its growth 
+pursuit if warranted. To alleviate price pressures, the government, after unveiling income tax cuts to 
+boost middle class consumption, should be open to slashing indirect taxes - fuel levies, import duties, 
+and GST - as they affect all sections of society, including the most vulnerable.
+
+
+Blunt weapon: On Internet shutdowns 
+India should end Net access curbs, especially when imposed without good reason 
+The number of Internet shutdowns in India was slightly lower in 2024 than in 2023, according to 
+the Software Freedom Law Center (SLFC), India's annual report. A separate report by the web 
+rights advocacy, Access Now, shows that India continues to lead globally in the number of 
+government-ordered Internet shutdowns. The Union government has maintained that mobile 
+Internet shutdown is an indispensable instrument in the toolkit to control law and order 
+situations. Most of the Internet use in India is mobile. A closer examination of the shutdowns 
+imposed even over the last year reveals some disturbing data: 41 of the 84 shutdowns in India in 2024 
+were imposed during protests, compared to the 23 that were imposed for communal clashes. Five were 
+even issued for cheating during examinations. In situations on the brink of violence where rapidly 
+spreading disinformation may swerve out of control of the authorities, there may be a case for 
+considering restrictions on communications. But no shutdown is without a cost - the delayed 
+information regarding violence can also ________ fast response. The Supreme Court of India 
+recognized this when it ruled, in Anuradha Bhasin vs Union of India, that each shutdown must meet the 
+tests of necessity and proportionality. Internet shutdown impedes people's livelihoods, access to 
+medical care and education. It is a blunt weapon and the least the government could do is to measure its 
+impact and use it sparingly. The government has been urged on preparing such an assessment for 
+years, but no headway has been made here. 
+Even for those in favour of retaining shutdowns as a tool in the repertory of emergency policing, the 
+process being followed is cause for alarm. Many a time, as Access Now and SFLC report, there is no 
+valid order uploaded on government websites detailing the duration and the causes in detail, as required 
+by the Telecommunications (Temporary Suspension of Services) Rules, 2024 and its preceding rules of 
+2017. Ideally, every shutdown should be followed by a sombre examination of whether it was necessary 
+and what its deployment cost was. The ideal number of Internet shutdowns in any country is zero. It is 
+especially troubling that 296 of them were imposed on millions around the world last year. India's case 
+shows that there is an urgent need for circumspection and restraint. The Internet shutdowns index is, 
+after all, one of the indices in which India should not aspire to lead.
