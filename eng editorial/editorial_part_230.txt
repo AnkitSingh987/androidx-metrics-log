@@ -1,0 +1,109 @@
+Category: Editorial
+Title: editorial part 230
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Curb 
+A. unlawful 
+2. Regime 
+B. limited 
+3. Illicit 
+C. government 
+4. Scarce 
+D. increase 
+5. Surge 
+E. restrain 
+Answer: 
+1-E 
+2- C 
+3- A 
+4- B 
+5- D 
+
+            Data doubts: On the latest IIP dataset 
+The latest IIP dataset raises more questions than it answers 
+India's latest industrial growth figures show that, contrary to global trends and overall perception, 
+the country's industrial output is getting stronger. Notably, the data show a quick bounce-back in 
+industrial performance after the initial hit from the West Asia crisis. However, the new data also 
+raise some important concerns about the composition of the growth, the systems behind the 
+recent data upgrades, and the need for further improvements. Growth in the Index of Industrial 
+Production hit a five-month high of 5.1% in May 2026, up from the 4.9% growth seen in April, which itself 
+was a substantial improvement over the performance in March - the first full month after the West Asia 
+crisis began. Within this, the manufacturing sector grew at a relatively robust 5.5% in May, albeit slower 
+than in April. One view is that this is due to a revival in domestic consumption, since the consumer 
+durables and non-durables sectors also grew at multi-month highs. Consumer durables, especially, have 
+done well in April and May. However, the contrary argument is that domestic demand is in fact not doing 
+well, and it is export growth that is leading to higher production. This is bolstered by the fact that GST 
+revenues from domestic transactions have grown slower over the last six months than in 2025-26 and 
+the year before that. Merchandise exports, on the other hand, hit a four-year high in April followed by an 
+all-time high in May. It would certainly be welcome if India's industry has global demand to fill, but the 
+fact that more of this demand is not coming from within the country is a cause for concern. The economy 
+is already hostage to world events. 
+The May IIP data were also accompanied by a note from the Ministry of Statistics and Programme 
+Implementation (MoSPI) stating that it had made a major change to the methodology for computing 
+growth for some sectors. It had abandoned the Wholesale Price Index as its chosen deflator to estimate 
+the value of production in favour of the new Producer Price Index. This is a more accurate approach. But 
+it did not, however, answer why this change was implemented belatedly and not when the new series of 
+data was introduced on June 1. It suggests an unusually unsystematic approach by MoSPI. The strong 
+growth in the IIP also does not reconcile with the fact that the Index of Eight Core Sectors - a 
+separate government measure of industrial growth - grew at its second-lowest rate in 21 months in 
+May. The core sector index is still outdated while the other major indices have been recently updated, 
+but such a discrepancy nevertheless raises questions about what exactly is being measured. 
+I
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Bolstered 
+A. mismatch 
+2. Albeit 
+B. supported 
+3. Discrepancy 
+C. significant 
+4. Abandoned 
+D. although 
+5. Substantial 
+E. discontinued 
+Answer: 
+1-B 
+2- D 
+3- A 
+4- E 
+5- C 
+
+            Fixing the rot: On the subversion of public examinations and recruitment 
+There seems a recurring pattern in the examination paper leaks across States 
+orruption in public life is often linked to "malfeasance", the venality of government officials in 
+high places taking bribes and misusing their positions to enrich themselves or their cronies. 
+But a more corrosive variant that impinges upon public life includes the systematic 
+subversion of public examinations and recruitment. This is because public examinations and 
+teacher recruitment are pathways to creating skilled individuals in a rapidly modernising 
+economy where jobs increasingly depend on skills and training. Corruption in these processes, which 
+should ideally be done on merit, will erode India's ability to fully realise its demographic dividend. Be it 
+the National Testing Agency having to re-conduct the National Eligibility-cum-Entrance Test (NEET) for 
+medical undergraduate aspirants, or, the postponement of the Maharashtra Teacher Eligibility Test just 
+before its scheduled date (June 28), the malaise seems depressingly familiar. It is driven by a cottage 
+industry that leaks papers through insider networks and targets the vast coaching ecosystem to rake in 
+money from those seeking shortcuts to pass. In the Maharashtra case, the alleged kingpin - a Patna 
+resident suspected of links to an Odisha paper leak scam in 2024 and even to the NEET scam - 
+reportedly ran teams from Bihar and Haryana that sought to sell papers to coaching classes. 
+Eerily, a similar template surfaces in scam after scam. In Gujarat, the alleged mastermind of the 2023 
+junior-clerk recruitment exam leak was an employee at a Hyderabad press that printed the paper. In 
+2024, in Jammu and Kashmir, a printing-press insider and security men were chargesheeted in the 2022 
+services board exam leak case. In Rajasthan, the December 2022 teacher-recruitment paper was sold 
+by a serving government teacher. The common element is the presence of insider networks that have 
+worked out ways to scam the system. The vulnerability lies not only in how question papers are 
+distributed, but also in how they are set, with the repeated involvement of a select group of experts - 
+many are linked to the coaching ecosystem. This is why the ritual of hunting for "kingpins" and running 
+performative investigations until public attention fades leaves the core problem untouched. Pertinent 
+questions are rarely addressed. Is the paper set by the same closed pool of examiners each time? Are 
+their antecedents and commercial links verified? Do the departments that run these exams scrutinise 
+examiners for conflicts of interest? Lastly, even if the system undertakes such reforms, it would be 
+incomplete without accountability. Education Ministers - at the Centre and States - must own these 
+failures. When leaks recur as routinely as they now do, the Minister who presides over the system 
+should not remain in the post. 
+C
