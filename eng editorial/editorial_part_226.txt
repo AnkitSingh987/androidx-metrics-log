@@ -1,0 +1,109 @@
+Category: Editorial
+Title: editorial part 226
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Nuisance 
+A. defined 
+2. Curtailed 
+B. ignored 
+3. Demarcated 
+C. reduced 
+4. Gentrify 
+D. renovate 
+5. Overlooked 
+E. irritation 
+Answer: 
+1-E 
+2- C 
+3- A 
+4- D 
+5- B 
+
+            Just truths: On DNA evidence and rights 
+DNA test for paternity, allowed as a last resort, must not violate other rights 
+o protect children from the stigma of illegitimacy, the erstwhile Indian Evidence Act 1872 and 
+the Bharatiya Sakshya Adhiniyam 2023 place the burden of proof on the party denying 
+paternity rather than the party seeking confirmation. The Supreme Court of India first 
+considered the challenges posed by DNA evidence in this regard, in Goutam Kundu (1993), 
+where it held that DNA tests could not be ordered as a matter of routine and that courts must 
+first assess whether a strong prima facie case had been made out. It reiterated this position in Shri 
+Banarsi Dass (2005); both cases also reinforced the protection of legitimacy over any interest in 
+forensic curiosity. Then, in the litigation mooted by Rohit Shekhar alleging that veteran politician N.D. 
+Tiwari was his father, the Delhi High Court and the top court called for the test despite Mr. Tiwari 
+insisting that his right to privacy was being violated. In Nandlal Wasudeo Badwaik (2014), the Court 
+said that when reliable scientific proof confronts legal fiction, the former may prevail in the interest of 
+justice; in Dipanwita Roy (2014), it acknowledged that refusing testing can lead to adverse inference. 
+Both orders also confirmed the legitimacy of DNA tests based on need. 
+Then, in K.S. Puttaswamy (2017), as it encoded the right to privacy - including of genetic data - as a 
+fundamental right under Article 21, the Court introduced a constraint that prior paternity jurisprudence 
+did not have to reckon with. The threefold test it set up, of legality, legitimate aims, and proportionality, 
+was brought to bear in Aparna Ajinkya Firodia (2023), which concluded that DNA tests should be 
+ordered only where they are necessary and proportionate, and not if a dispute could be resolved based 
+on other evidence. In Ivan Rathinam (2025), the Court said neither privacy nor knowledge were absolute 
+and that the judiciary also has to negotiate stigma and necessity. Its order in CP vs AP (2026) tied all 
+these contentions together as it upheld a trial court's direction for a DNA test on the grounds that the 
+disputed question of paternity could not be resolved by the existing material record and required a 
+scientific determination, by applying necessity and proportionality considerations. In the post-
+Puttaswamy era, then, the Constitution protects bodily autonomy and restricts compelled genetic 
+disclosure - but courts could order a DNA test if paternity is directly in issue, there is no other evidence 
+on record capable of resolving the question, and the test would serve the interest of justice. Thus, by 
+positioning DNA testing as a last resort, the courts have to ensure that while science may be infallible, 
+the pursuit of truth is only just when it respects a person's rights. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Reliable 
+A. repeated 
+2. Mooted 
+B. flawless 
+3. Disclosure 
+C. dependable 
+4. Reiterated 
+D. proposed 
+5. Infallible 
+E. revelation 
+Answer: 
+1-C 
+2- D 
+3- E 
+4- A 
+5- B 
+
+            Stay with the evidence: On the ban on Fixed Dose Combination drugs 
+Better monitoring of sale of banned drugs is essential 
+The character of science leans to openness: to new evidence and emerging facts. Its ability to 
+be agile to pivot and shift to newer guidelines is therefore absolutely crucial. The Health 
+Ministry's recent ban on 16 Fixed Dose Combination (FDC) drugs comes on the evidence that 
+these drug combinations lack therapeutic justification, are 'deemed irrational or unsafe' and 
+might pose risks to patients. The drugs include dermatological drugs, analgesics and 
+antispasmodics, and antibiotic-based formulations. An FDC is a drug containing two or more active 
+pharmacological ingredients, combined in a fixed ratio in a single dosage. These were meant to improve 
+treatment compliance in chronic conditions (such as Tuberculosis) by reducing the pill burden and, 
+sometimes, by improved therapeutic effectiveness. However, irrational combinations, besides being 
+ineffective, can also be counter-productive and harmful. As per the latest order, all State Drug 
+Controllers, regulatory authorities, and enforcement agencies are to ensure strict implementation and 
+compliance with the recent notification. Instructions must also be sent to manufacturers, importers, 
+distributors, and even individual pharmacies, to stop stocking and selling the banned FDCs. 
+This is not the first time that the Health Ministry is cracking down on FDCs. A detailed scientific review 
+is undertaken before these decisions to ban FDCs are taken. In March 2016, the government banned a 
+whopping number of over 330 FDC drugs, on the ground that they were irrational, with immediate effect. 
+While FDCs offer the advantage of a reduction in the number of pills, of certain benefit to certain 
+categories of patients, there are some innate issues as well: patients might need different titrations of 
+doses, impossible with FDCs; patients might develop allergies, but it will not be clear what particular 
+pharmaceutical ingredient they are reacting to. It is also clear that all patients may not actually need all 
+the drugs in the combination, exposing them to unnecessary side effects. A further potential harm exists 
+with FDCs of antibiotics: In 2016, 19% of the 330 FDCs banned were antibiotics; There is enough 
+evidence to show that irrational antibiotic FDC drug usage leads to or exacerbates the growing 
+antimicrobial resistance problem in the country. While the government has taken a positive step with 
+banning these FDCs, its work has just begun. In many instances in the past, stocks of banned drugs 
+were still being sold in pharmacies, because the message had not percolated down. While staying 
+solidly on the side of evidence-based medicine, the government must also activate its monitoring and 
+supervision arm in order to ensure that the benefits from the ban reach the last mile. 
+T
