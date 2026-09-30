@@ -1,0 +1,65 @@
+Category: Editorial
+Title: editorial part 131
+
+Infinite boxes: On the 2025 Chemistry Nobel Prize 
+The Chemistry Nobel laureates established a new grammar of matter 
+It would not be an overstatement to say that metal-organic frameworks (MOFs) have redefined 
+what materials can do for society. These porous crystalline structures are built from metal ions 
+coordinated to organic linker molecules and offer gigantic amounts of internal surface area. Their 
+cavities can be tuned to trap greenhouse gases, harvest drinking water from air, and store 
+hydrogen or methane as clean fuels. As industries confront climate change and scarce resources, 
+MOFs exemplify chemistry's power to reimagine sustainability, atom by atom. The roots of this 
+year's Chemistry Nobel Prize, awarded to the developers of MOFs, go back to the 1980s, when 
+Richard Robson, then at the University of Melbourne, wondered whether molecular architectures could 
+be designed rather than found. Inspired by a ball-and-stick model used for teaching, he combined copper 
+ions with an organic molecule whose four ends bore nitrile groups. Contrary to expectations, the 
+ingredients self-assembled into an ordered, diamond-like crystal loaded with empty cavities. Susumu 
+Kitagawa, working in Japan, picked up on the same spirit and made a breakthrough in 1997 when he 
+built a 3D framework of cobalt, nickel or zinc ions linked by bipyridine molecules. When drained of water, 
+the framework remained intact, allowing the gaps between its atoms to hold and release gases as 
+required. In 1998, he also proposed that MOFs could be made of soft solids that 'breathed' as other 
+molecules moved in and out. 
+Meanwhile in the U.S., Omar Yaghi was dissatisfied with the trial-and-error of conventional reactions and 
+pioneered reticular chemistry, with which he assembled predetermined building blocks into ordered 
+networks. His first frameworks, reported in 1995, were robust two-dimensional nets. By 1999 he 
+unveiled MOF-5, a zinc-based cubic lattice with extraordinary stability and surface area. A few grams 
+contained the internal area of an entire football field. His approach allowed entire families of related 
+MOFs to be designed systematically. Thus, Robson, Kitagawa and Yaghi established a new grammar of 
+matter that allowed others to create thousands of MOFs, some of which moved from prototypes to 
+industrial reactors and semiconductor manufacturing lines. The road ahead is even more promising but 
+also exacting. Researchers are still working to make MOFs more durable in real-world conditions and 
+cheaper to produce at scale. Integrating them into batteries and catalytic filters, for instance, requires 
+engineering as finely tuned as their chemistry. For all these achievements, however, the vision honoured 
+this year transcends any single material. By showing that chemistry can design empty space as precisely 
+as solid matter, the laureates built room not only for molecules but for imagination itself.
+
+
+Working with fireworks: On the Konaseema firecracker unit blast 
+India must implement safety protocols for units dealing with explosives 
+The blast in a firecracker unit at V. Savaram village in Konaseema district in Andhra Pradesh 
+that claimed eight lives is the latest in a series of accidents that have punctuated the weeks 
+leading up to Deepavali, year after year. The unit was among the 18 firecracker manufacturing 
+units in the district that had had a safety audit about a month ago. The units had been issued 
+licences by the District Collector. Such incidents have been reported in the district in earlier 
+years too. A three-day ban on firecracker manufacturing has been imposed and a fresh 
+safety audit has been ordered. It would appear that no anomalies were found in the audit and 
+no red flags were raised. Besides the 18 firecracker manufacturing units, there are 18 other units in the 
+district that procure and sell crackers wholesale during the season. While firecracker manufacture is not 
+a major activity in the district, there are some seasonal units. There were 10 people in the unit that used 
+chemicals to manufacture the crackers when an electrical fire led to an explosion and the collapse of a 
+wall. That the authorities found it difficult to identify the dead would point to poor record keeping. Further, 
+Konaseema is in the Godavari basin which has extensive oil and gas drilling and transport operations 
+including pipelines. Fire accidents can be devastating if they spread to these facilities. 
+Firecracker manufacturing is not a major economic activity across India barring Tamil Nadu. The 
+awareness levels and scrutiny are, therefore, not always high, and Konaseema would seem to be one 
+such case. The nodal agency that licenses these units is the Petroleum & Explosives Safety 
+Organization (PESO) which has various levels of licensing with elaborate safety protocols. Fire needs 
+fuel, air and a source of ignition. Cracker manufacturing units have many combustible materials, which 
+are the fuel, which is why sources of fire must be completely absent. It is for this reason too that electric 
+equipment and switchboards must meet high fire safety standards and should intrinsically protect 
+against the starting of fires. Even if an electric fire were to start, it should not spread to areas where 
+explosive chemicals are used. An added layer of safety typical in PESO protocols is that the electric 
+equipment can only be operated when no human would be present. But it would seem that such 
+elaborate protocols were either absent or poorly implemented at Konaseema. The accident shows that 
+there is a case for all such units across the country to scrupulously apply the high-level safety protocols 
+of PESO.
