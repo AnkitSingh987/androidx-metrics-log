@@ -1,0 +1,111 @@
+Category: Editorial
+Title: editorial part 157
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Fuelled 
+A. smartness 
+2. Shrewdness 
+B. powered 
+3. Chafe 
+C. discussed 
+4.Deliberated 
+D. disagreement 
+5. Dissent 
+E. irritate 
+Answer: 
+1-B 
+2- A 
+3- E 
+4- C 
+5- D 
+
+            Notional security: On the U.S.'s National Security Strategy 
+The U.S. is in pursuit of global dominance and isolationism simultaneously 
+The U.S. has released its first National Security Strategy (NSS) under the Trump second term, 
+a document described as a road map to "ensure that America remains the world's strongest, 
+richest, most powerful, and most successful country for decades to come". Washington has 
+identified five top foreign policy priorities. These include the notion that the era of mass 
+migration has ended, that core rights and liberties including the freedom of speech and 
+religion need to be protected more than ever before, that the "days of the U.S. propping up the entire 
+world order like Atlas are over", that the White House sees it as imperative to double down on 
+shepherding peace deals across the world as a means to solidify U.S. influence abroad, and that 
+economic security will be accorded highest importance in foreign policy. For the last pillar of national 
+security, especially, the thrust of concerted foreign policy actions for the remainder of the second Trump 
+administration will entail efforts towards achieving balanced trade, securing access to critical supply 
+chains and materials, reindustrialization of the U.S. economy, boosting American defence infrastructure, 
+energy dominance, and supporting Wall Street to leverage the "dynamic free market system and our 
+leadership in digital finance and innovation" worldwide. 
+While the grandiose terms of U.S. foreign policy priorities are unsurprising in their broad emphasis, 
+other than, perhaps, the unrelenting subtext of eternal, unquestioned American exceptionalism, it is the 
+broadside against European allies that is most troubling for the risk that it poses to regional stability 
+across the continent. The NSS not only takes a patronizing tone on Europe facing the "stark prospect of 
+civilizational erasure" owing to its purported economic decline, but it also faults Germany and EU 
+countries with "unstable minority governments" whose policy actions do not apparently match their stated 
+desire for peace in the context of Russia's war in Ukraine. Little wonder that Germany's Foreign Minister 
+Johann Wadephul retorted that in the context of Germany, he did not believe that "questions of freedom 
+of expression or the organisation of our free societies" belonged in the U.S. NSS and that his country did 
+not need "outside advice". While the NSS is a signpost to guide U.S. diplomats towards a united vision 
+for Washington-defined foreign policy goals, its latest version has set the cat among pigeons so far as 
+anxieties around NATO's strength are concerned. If, as the NSS says, the U.S. intends to push a 
+"burden-sharing network" to force all its allies to assume responsibility for stability in their regions, it 
+might end up bolstering the sense of impunity with which autocrats worldwide flout territorial and human 
+rights norms in their quest for power. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Dormant 
+A. integration 
+2. Unification 
+B. crack 
+3. Fissure 
+C. division 
+4. Salutation 
+D. inactive 
+5. Partition 
+E. greeting 
+Answer: 
+1-D 
+2- A 
+3- B 
+4- E 
+5- C 
+
+            AI must pay: On the DPIIT working paper on AI and Copyright Issues 
+The working paper on AI and Copyright Issues is a good start 
+The rapid strides being made by LLMs in terms of quality, depth of information and 
+sophistication of reasoning, are fuelled by two major factors. The first is iterative 
+advancements in applied machine learning techniques, which continuously improve the 
+performance of LLMs. The second is growing access to text, data and multimedia used in 
+training these models. AI firms have argued that information on the Internet should be freely 
+usable for such training, even if reproduction and similar acts of syndication by any non-AI entity would 
+be subject to a licence fee and consent by the content producer. This has led to a fierce debate that pits 
+the interests of AI hyperscalers and developers against content producers (news, entertainment and 
+book publishing, to name a few). In this light, the Department for Promotion of Industry and Internal 
+Trade's working paper on AI and Copyright Issues' proposal is a welcome step towards a solution where 
+content providers are remunerated, without having a system that could put India's AI ecosystem at a 
+disadvantage. 
+The paper's solution boils down to a mandatory licensing framework, which would allow AI data scraping 
+tools to limitlessly scrape public information from the Internet, but would ensure that a non-profit 
+copyright society-like body would collect payments from AI developers on the basis of revenue accrued 
+to them through the benefits of training their models on Indian content producers' data. The reasoning is 
+partly driven by practical shrewdness on the drafting committee's part, which rightly reasons that opting 
+out of data scraping, and enforcing this when AI developers ignore their wishes, is not practical for every 
+content producer. The other driver is a belief in data processing as a right for AI models, seeing as they 
+do not usually reproduce content they are trained on, but synthesise fresh outputs. There are issues with 
+how the royalty amount would be decided - small publishers who put in effort and investment in their 
+work may chafe at receiving as much remuneration a piece as a big media house putting out hundreds 
+of articles a day. But a system for remuneration is urgent, even if flawed. Lawsuits pitting AI firms 
+against the publishers of the content they train models on are ongoing, and no uniform judicial thinking 
+has materialized on the subject. The committee correctly notes that waiting for the outcome of any given 
+litigation is unwise. The white paper - and a dissent by tech industry representatives - is a promising 
+gesture towards a collaborative framework. The government needs to support this. A flawed system can 
+be deliberated in the courts; the absence of one is a gift to AI firms in their ongoing disruption of the 
+media and net landscape. 
+T
