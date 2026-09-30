@@ -1,0 +1,64 @@
+Category: Editorial
+Title: editorial part 58
+
+Going electric: On India and the electric vehicle space 
+India must be a reliable trade partner to compete in the EV space 
+India's decision to exempt import duties on 35 capital goods used in the manufacture of electric 
+vehicle (EV) batteries and 28 items used in the making of mobile phone batteries is a welcome 
+step toward boosting domestic manufacturing and clean technology adoption. Proposed by 
+Finance Minister Nirmala Sitharaman in the Union Budget 2025-26 and formalised through the 
+Finance Bill 2025 passed in Parliament on Tuesday, this signals a strategic policy shift. Earlier in 
+March, Chinese EV giant BYD unveiled its "Super E-platform", capable of giving a vehicle a 500-
+kilometre range with just five minutes of charging - a major leap toward alleviating range anxiety, 
+which is a key barrier to EV adoption. This innovation directly challenges the convenience of 
+conventional vehicles and could accelerate the global EV transition if scaled and deployed with the 
+same ubiquity as traditional fuel stations. Batteries remain the most expensive component in an EV, 
+comprising roughly 40% of the vehicle's cost. This cost burden has slowed EV adoption in lower-income 
+countries, despite the long-term advantage of reducing oil import dependence, which is especially 
+relevant for India. Another critical barrier is the lack of indigenous technological capability in battery 
+manufacturing. China currently dominates this sector, producing over 70% of all EV batteries globally, 
+according to the International Energy Agency. The lithium-iron-phosphate (LFP) battery has emerged as 
+the industry standard over the past five years due to its lower cost, higher energy density, and better 
+thermal management. 
+While EVs made up 45% of all car registrations in China in 2024, they accounted for just 2% of India's 
+passenger car market. However, electric two-wheelers (e2w) have seen notable momentum in India, 
+with 1.14 million units sold in 2024, making up about 60% of total EV sales. Though India's duty 
+exemptions are partially aimed at strengthening bilateral trade ties with the United States and avoiding 
+reciprocal tariffs, the broader strategic objective should be to decarbonise its transport sector. To 
+achieve this, India must integrate into both the upstream (mining and refining) and downstream 
+(manufacturing and assembly) segments of the global EV battery value chain. This would not only help 
+lower battery costs through technology transfer but also position India as a reliable alternative to China in 
+the eyes of developed nations seeking supply chain diversification. India's long-term success in the EV 
+space will depend on its ability to leverage favourable trade policies, invest in research and 
+development, and secure a strong foothold in the global battery ecosystem.
+
+
+Heat plan: On Indian cities and heat-related preparedness 
+India must develop a comprehensive heat strategy ahead of COP30 
+ummer has arrived early in several parts of India. In the last week of February, heatwaves were 
+officially reported in Goa and Maharashtra. States such as Odisha, Telangana, and 
+Maharashtra have already recorded temperatures exceeding 40°C. Throughout most of 
+February, 31 States and Union Territories experienced night temperatures at least 1°C above 
+normal, with 22 States and Union Territories reporting night temperatures that were 3°C to 5°C 
+above normal. Given that February is classified as 'winter' by the India Meteorological 
+Department, these are signposts that point toward new climate normals. Scientists have long warned 
+that rising global temperatures - both on land and sea - will result in more intense and frequent 
+heatwaves. This underscores the need for countries and States to prepare for heat events just as they 
+do for earthquakes or floods. However, a recent study by the Sustainable Futures Collaborative, which 
+examined heat-related preparedness in nine Indian cities, found that none had long-term plans in place. 
+Most responses are limited to short-term emergency measures such as providing drinking water, 
+adjusting work hours, and boosting hospital capacity during heatwaves. Crucial long-term interventions 
+such as ensuring access to household or occupational cooling for vulnerable populations, insuring 
+workers against lost income on extremely hot days, improving fire management, and upgrading 
+electricity grids for reliability are missing. Few cities have even begun planning for expanded local 
+weather monitoring, mapping urban heat islands, or training those responsible for implementing heat 
+plans. Other strategies, which include increasing green cover, creating open spaces to reduce heat, and 
+deploying rooftop solar for active cooling, are often carried out without targeting the populations that are 
+most at risk. 
+While global efforts to combat climate change largely focus on cutting greenhouse gas emissions, the 
+limited progress on that front is shifting attention to adaptation - particularly in managing responses to 
+heat. Affordable cooling devices are frequently recommended, but they raise concerns about increased 
+use of ozone-depleting refrigerants. Experts now advocate having sustainable buildings, green 
+infrastructure, and passive cooling solutions, although these too can impact land prices and urban 
+planning. India must develop a comprehensive national heat strategy and embed it within its National 
+Adaptation Plan ahead of the 30th UN Climate Change Conference (COP30) in Brazil in November.
