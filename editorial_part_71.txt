@@ -1,0 +1,66 @@
+Category: Editorial
+Title: editorial part 71
+
+A cut in time: On RBI and repo rate cut 
+Countries must build on their economic strengths, not create trade barriers 
+The Reserve Bank of India (RBI)'s Monetary Policy Committee's unanimous decision to cut the 
+repo rate by 25 basis points, to 6%, is a timely reprieve for India's business community. For 
+weeks now, exporting sectors have been imploring the government to hasten bilateral trade 
+negotiations with the U.S. to attempt to shield themselves from President Donald Trump's 
+"reciprocal" tariffs. The tariffs have been paused for 90 days, except for the 10% universal 
+tariff, which is still applicable. The pause, even while raising tariffs against China to 125% in a trade 
+stand-off with Beijing, suggests a strategy pivot to stem the massive sell-off of U.S. treasury bonds and 
+the gutting of trillions of dollars in American stock valuations. Worried about an economic slowdown as 
+investor sentiment turns negative, the RBI has changed its stance from "neutral" to "accommodative" that 
+could indicate further rate cuts are likely. A decrease in the repo rate will most likely be reflected in loan 
+service reductions for businesses, homeowners and retail borrowers, as banks pass on the rate cut. This 
+began happening hours after the rate cut announcement. The central bank hopes this rate reduction 
+ensures liquidity for businesses in a time of uncertainty, so that they can continue investing in the real 
+economy even as they attempt to diversify their exports. 
+More ominous, however, is the RBI's lowered GDP growth estimates for the current fiscal, from 6.7% to 
+6.5%. This indicates that despite the RBI's growth stimulus, steadily declining retail inflation - down to 
+3.61% in February - and steep falls in food staple prices, the central bank expects a growth contraction 
+due to the uncertain economic climate. It is a universally accepted economic principle that stable 
+governance, along with a predictable policy framework, is a necessary condition to foster growth. It 
+would be no exaggeration to say that this principle has been turned on its head since Mr. Trump's return 
+as President. China's move to impose retaliatory tariffs, totalling 84%, signals the beginning of a full-
+blown trade war, the likes of which the world has not witnessed since the Smoot-Hawley Act of 1930. 
+Those tariffs, with objectives similar to the current ones - to protect American farming and 
+manufacturing - ushered in an era of economic nationalism in the inter-war years, hitting global trade 
+and contributing significantly to the Great Depression. Perhaps a lesson for nations must be that 
+protecting one's own economy can be achieved without hurting others, so long as countries recognise 
+their competitive advantages and build on them. In America's case, it is doubling down on research, 
+education and innovation. 
+T
+
+
+Clean AI: On AI data centres and energy demand 
+The International Monetary Fund's report that pointed to the likelihood of the economic gains of 
+Artificial Intelligence (AI) applications outweighing the environmental costs of the increased 
+energy demand that AI data centres will require is reassuring. It underscores that this 
+transformational technology is not fundamentally at odds with the global imperative to pursue 
+sustainable growth strategies across the board. Countries that are better prepared with 
+renewable energy generation are bound to see a lower social and environmental cost to pursuing their AI 
+ambitions. India's AI infrastructure - at least the part of it that the government is indirectly funding 
+through the IndiaAI Mission - does not rise to the level of weighing at a macro level on the nation's 
+energy mix. Still, the need for pursuing renewables specifically for AI is necessary to follow. This is 
+already in a sense the government's approach to the issue, outlined at the AI Action Summit in Paris 
+earlier this year. While AI is not the sole industry where a push for renewable energy and sustainable 
+practices is important, the sector nevertheless offers itself up for two main reasons. The first is the sheer 
+volume of electricity that it is set to consume. The IMF's report indicates that in the United States - the 
+single largest home for AI computing capacity globally - "AI expansion alone could increase electricity 
+prices by up to 9 percent, adding to price pressures coming from many other sources". As such, 
+renewable energy could play a major role in cushioning against a multifold rise in emissions that 
+conventional energy sources would likely entail. The second is that data centres lend themselves 
+uniquely to captive renewable infrastructure. Some Indian firms have already made moves to purchase 
+renewable energy, and the hundreds of acres that data centres occupy are ripe for complementing 
+equipment with solar cells. Nuclear energy may also turn out to be a welcome contribution: small 
+modular reactors at emerging data centre clusters, in conjunction with other renewable sources, would 
+avert a sizeable quantity of emissions. 
+Electricity use is not the only environmental footprint that the AI age will leave behind - the technology 
+requires large-scale mining of minerals and water use, and produces effluents in the manufacturing of 
+the electronics supply chain. As electronics manufacturing is another space that India aspires to grow in, 
+these opportunities must be pursued in this area too. India's net zero target for 2070 will demand a 
+scaling down of conventional sources of emissions, and managing the rise of industries that are poised 
+to expand their share of global energy consumption. 
+T
