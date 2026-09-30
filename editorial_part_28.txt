@@ -1,0 +1,65 @@
+Category: Editorial
+Title: editorial part 28
+
+A tough call: On the RBI MPC's first policy review of 2025 
+The rupee's slide confounds monetary policymakers' task 
+The Reserve Bank of India's Monetary Policy Committee (MPC) will conclude its first policy 
+review of 2025 on Friday (February 7, 2025), in significantly different circumstances from its 
+December 2024 meet. For one, the key personnel have changed. The RBI has a new 
+Governor, with former Revenue Secretary Sanjay Malhotra replacing Shaktikanta Das soon 
+after the last review. Deputy Governor Michael Patra, an MPC member who was in charge of 
+monetary policy, also retired last month. With the Centre yet to name his successor, 
+navigating this review is going to be a tad tricky for the new central bank boss, with another deputy 
+holding additional charge of monetary policy. Second, the rupee is in a free fall of sorts. After hitting 85 
+to the U.S. dollar on December 19, 2024, it slipped to 86 on January 13, 2025 and crossed 87 on 
+February 3, partly due to the third factor at work. The strengthening dollar is driven by U.S. President 
+Donald Trump's overdrive to 'Make America Great Again' with higher tariffs on major trade partners, and 
+other disruptive economic plans such as exiting global tax accords, shutting aid flows, et al. 
+One thing has not changed - the clamour for an interest rate cut from industry and government 
+honchos. In December, this noise was heightened after a sharp growth blip in the July-September 
+quarter when GDP grew just 5.4%. Now, with 2024-25 GDP growth downgraded to just 6.4%, and the 
+no marked uptick in economic metrics in the December-ending quarter, growth worries remain 
+entrenched. In the interim, there has been some back and forth between North Block and Mint Street 
+on the factors responsible for stumbling economic activity. The Finance Ministry sought to lay some of 
+the blame for an urban demand slump on tight monetary policy. RBI officials, in the central bank's 
+January bulletin, said the "one way" to spark a growth rebound and a virtuous cycle of fresh private 
+investments, is to boost consumption through higher disposable incomes, especially for the urban 
+middle class that has been pining for relief from food inflation. With the Budget delivering on this front 
+with income tax cuts, the ball is back in the RBI's court. Inflation has been over 5% in the last five 
+months, but may have eased closer to the RBI's 4% target in January. But a rate cut could also hurt the 
+rupee further, and spur higher imported inflation. It is an unenviable situation for the new RBI chief to be 
+in; he might be tempted to take a cue from Mr. Das who had surprised markets with a rate cut in the first 
+review under his watch in 2019, reversing his predecessor's stance.
+
+
+A gift horse's teeth: on allocations and scientific research 
+Higher allocations are not enough to boost scientific research 
+The Budget 2025-26 announcements suggest a potential bonanza for scientific research and 
+development. The finance minister outlined ₹20,000 crore budgetary support for developing 
+small modular reactors, with the goal of readying five such reactors by 2033. Another major 
+initiative is the Research, Development, and Innovation fund, included in the Department of 
+Science and Technology (DST)'s expected expenditure. This substantial allocation is expected 
+to benefit start-ups and sunrise sectors, though these remain undefined. The expectation is that 
+private sector entities will receive financial support to __________ R&D, a domain historically dominated 
+by government spending. India's R&D landscape has long suffered from low private sector participation. 
+While government funding has driven most scientific advancements, private investment in research has 
+remained inadequate. Currently, private sector R&D contribution is only 36%; overall R&D spending in 
+India was 0.64% of GDP in 2020, the lowest since 1995. Over the last five years, business enterprises 
+have accounted for around 40% of government R&D expenditure. Public sector R&D units allocated only 
+0.30% of their sales turnover to research, compared to 1.46% by the private sector in 2020-21, according 
+to DST estimates. 
+The government's ₹20,000 crore infusion hikes the DST's total budgetary allocation to around ₹28,000 
+crore, over three times last year's allocation and seven times the actual expenditure in 2023-24. These 
+figures are encouraging, but a key concern is whether such massive investments can be effectively 
+absorbed. Despite India's strengths in technology-driven sectors such as fuel, metallurgy, 
+pharmaceuticals, textiles, IT, and biotechnology, returns from core R&D and intellectual property 
+generation are still meagre. Though the government has launched ambitious missions in quantum 
+computing, artificial intelligence, and other cutting-edge technologies, the supporting infrastructure 
+remains inadequate. India still lacks the essential building blocks, chipsets, semiconductor fabs, a 
+skilled engineering workforce, and a strong innovation ecosystem, to fully capitalize on these 
+investments. Without these, the lofty targets set for R&D growth risk falling short. The government must 
+present a clear road map on how private sector entities can access these funds and what tangible 
+benefits the public can expect. Increased funding alone will not guarantee success unless structural 
+bottlenecks are addressed. To truly transform India into a research powerhouse, the focus must shift to 
+strengthening foundational infrastructure, incentivizing private innovation, and ensuring long-term, 
+sustainable engagement from industry leaders.
