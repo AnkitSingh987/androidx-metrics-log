@@ -1,0 +1,109 @@
+Category: Editorial
+Title: editorial part 231
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Corrosive 
+A. undermine 
+2. Scrutinize 
+B. strangely 
+3. Erode 
+C. destructive 
+4. Malfeasance 
+D. investigate 
+5. Eerily 
+E. wrongdoing 
+Answer: 
+1-C 
+2- D 
+3- A 
+4- E 
+5- B 
+
+            Unwelcome surge: On the buoyancy in GST collections 
+The buoyancy in GST collections is spurred by imported inflation 
+India's June GST collections rose 13.9% year-on-year to ₹1.95 lakh crore, driven largely by import 
+IGST, which surged 34.6% compared with June 2025, up from 17.2% growth in May. Domestic 
+GST collections grew by a more modest 6.5%, suggesting that the sharp increase in overall 
+collections owes less to a broad-based improvement in domestic value addition. Some economists 
+have argued that this reflects stronger imports of capital goods and industrial inputs. However, May 
+petroleum products' trade data and Q1 FY27 data on the performance of the eight core industries, point 
+to a rather different explanation. June GST collections reflect economic activity during May. While crude 
+and petroleum products constituted a 54% rise this May (YoY) in merchandise imports by value, the 
+other chunk was gold, which constituted another 34% rise. The surge in gold price, by nearly 60% 
+between last May and this May, suggests hedging during difficult times, rather than broad-based 
+economic activity. To stem gold imports, the government hiked its import duty from 6% to 15% on May 
+13, which likely added to the May import GST kitty. This period also coincided with the rupee 
+depreciating by almost 6% against the U.S. dollar since late February. This coupled with a spike in 
+freight charges, and a 14.5% rise on non-oil imports in May at elevated global prices mechanically 
+raised the June tax base. This suggests that much of the import GST rise is driven by imported inflation 
+and currency depreciation rather than domestic production growth, indicating an unwelcome increase 
+due to higher prices. 
+Read alongside the performance of India's eight core industries, which expanded by only about 2.8% in 
+Q1 FY27 compared with around 6% in the corresponding period last year, the domestic economy 
+appears more subdued. Growth has been expectedly weak in crude oil, natural gas, refinery products, 
+fertilizers and electricity. The latest HSBC Manufacturing PMI reading of 54.2 likewise points to steady 
+but moderating factory activity, marking the second-lowest expansion in 13 months. These figures come 
+as India marks nine years of GST as a unified destination-based indirect tax. The government can point 
+to the expansion of the tax base from about 66 lakh taxpayers in 2017 to over 1.65 crore today, reflecting 
+better compliance, greater formalisation, and faster refunds, though input tax credit, litigation and 
+federal balance in revenue sharing issues remain unresolved. GST has strengthened India's indirect tax 
+architecture. Yet, the June numbers are a reminder that a growing share of the recent buoyancy 
+appears to have been underwritten by imported inflation and a depreciating rupee rather than stronger 
+domestic value addition. 
+I
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Chunk 
+A. protecting 
+2. Elevated 
+B. moderate 
+3. Constituted 
+C. portion 
+4. Hedging 
+D. formed 
+5. Modest 
+E. raised 
+Answer: 
+1-C 
+2- E 
+3- D 
+4- A 
+5- B 
+
+            Counting cancer: On making cancer a notifiable disease in India 
+Making cancer a notifiable disease at the national level is the way forward 
+hat's good for the goose is surely good for the geese. What the States will benefit 
+from, the country could too. In India, cancer is not a notifiable disease at the national 
+level, keeping with the Health Ministry's position that such notification is only for 
+communicable diseases. Population-based cancer registries and hospital-based 
+cancer registries are currently the only national tool at the disposal of the Centre to 
+count cancer cases. Unfortunately, these registries cover about 10%-16 % of the population, and have 
+an urban, government health care set-up skew. However, several States have taken the lead on this 
+front, making cancer a notifiable disease within their boundaries. Telangana is the latest to join the list of 
+States that have made cancer a notifiable disease, bringing the total number of States doing so to 17. 
+With the Global Cancer Observatory (affiliated to the World Health Organization) projecting an estimated 
+increase of 1.05 million cases between 2022 (1.41 million) and 2045 (2.46 million), the rise is expected to 
+be a staggering over 74%. Given these projections, thanks to an increasing life span and ageing 
+demographics, changes in lifestyle and diet, it becomes all the more important to be armed with data and 
+get ready for vanguard action from a public health point of view. While State action can, to an extent, 
+solve the data question, any benefit thus derived from notifying health authorities of every single case of 
+cancer, it cannot become a rubric by which the nation can contour its cancer control programme. Apart 
+from existing registries covering mostly urban and semi-urban posts, care in India is also delivered in 
+good measure through the private sector and that data set is not uniformly captured. The Indian 
+government must pay heed to its own counsel, the Indian Council of Medical Research, National Centre 
+for Disease Informatics and Research (now ICMR-NINE) had recommended that cancer be made a 
+notifiable disease years ago. It is a fact that establishing cancer as a notifiable disease will mean a 
+sudden increase in the number of cases being recorded, but it must not be considered a liability. 
+Instead, it is merely part of the process of crafting a studied, and evidence-based response - health 
+care and information, education, and communication (IEC) - to cancer at the country level. While bold 
+advances in research and treatment methodologies have retrieved cancer from the fear and the utter 
+helplessness surrounding it, the heart of the issue remains the lack of data. Taking lessons from the 
+States, the Centre must recalibrate and make cancer a notifiable disease in India. 
+W
