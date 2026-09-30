@@ -1,0 +1,109 @@
+Category: Editorial
+Title: editorial part 199
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Charred 
+A. burnt 
+2. Degradation 
+B. disclosed 
+3. Allocated 
+C. assigned 
+4. Sedated 
+D. numbed 
+5. Revealed 
+E. deterioration 
+Answer: 
+1-A 
+2- E 
+3- C 
+4- D 
+5- B 
+
+            Losing the way: On ISRO and issues with its NavIC constellation 
+ISRO must fix issues before launch of next second-generation satellites 
+SRO's NavIC constellation, for which it has launched 11 satellites since 2013, is in operational 
+distress. Only three satellites remain capable of providing position, navigation, and timing (PNT) 
+services, leaving the constellation unable to fulfil its purpose of replacing the U.S.'s GPS system 
+over the Indian subcontinent. A PNT constellation requires at least four PNT-capable satellites, and 
+India had only four until ISRO said an atomic clock onboard the IRNSS-1F satellite failed on March 
+13. The constellation's first-generation satellites use rubidium atomic clocks made by Swiss company 
+SpectraTime, and which have been dogged by failure. ISRO's latest attempt to launch a second-
+generation satellite, NVS-02, was abortive after the machine was left in the wrong orbit. IRNSS-1F, 
+launched in March 2016, completed its 10-year design life just three days before its clock failed. Eight 
+other satellites have either been decommissioned, have failed to reach orbit or have bad clocks. In 
+2018, ISRO transitioned to using indigenous rubidium atomic clocks, developed by the ISRO-Space 
+Applications Centre. NVS-01, launched in May 2023, was the first to carry the device; all second-
+generation NVS series satellites will too. 
+Part of NavIC's genesis was the U.S.'s refusal to share GPS data over Kargil during the 1999 war, and it 
+continues to function largely as a defence programme managed by ISRO. However, while the space 
+sector reforms in 2020 vouchsafed ISRO for R&D and NewSpace India for commercialisation, the 
+absence of a national space law leaves ISRO acting as both designer and operator of NavIC, 
+overextending the agency. Equally, India lacks a counterpart to the GPS Directorate or EUSPA, which 
+respectively manage the GPS and Galileo constellations. The new generation of rubidium clocks also 
+faces procurement challenges and ISRO has proposed equipping each satellite with five atomic clocks 
+instead of the previous three. The constellation has been degrading faster than it can be replenished, 
+due to ISRO's poor launch rate. This problem stems from several factors, including issues with the 
+PSLV, an insufficient budget that must maintain a PNT constellation, an upcoming human spaceflight 
+programme, several earth-observation satellites, and R&D for new rockets. ISRO is also hand-holding 
+start-ups that have yet to get a grip on launching rockets to low-earth orbit. Meanwhile, the Union 
+government has encouraged electronics manufacturers to support the L1 band of the NVS series for 
+better interoperability with GPS while expecting its use by the armed forces. For all these reasons, 
+ISRO's plan to launch three more second-generation satellites in 2026 does little to inspire confidence. 
+I
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Transitioned 
+A. hardship 
+2. Distress 
+B. futile 
+3. Dogged 
+C. switched 
+4. Abortive 
+D. motivated 
+5. Encouraged 
+E. troubled 
+Answer: 
+1-C 
+2- A 
+3- E 
+4- B 
+5- D 
+
+            Restoring rights: on the Hamsaanandini Nanduri vs Union Of India case 
+Adoptive mothers have the same rights as biological mothers 
+ourts with a tinge of judicial activism have expansively interpreted the Constitution to secure 
+fresh rights for citizens, over the years. In the latest instance, a view that encompasses 
+evolving social systems, and a keen feminist perspective, taken by the highest court in the 
+land, has recognised maternity leave for working women as a basic human right. The Court 
+ruled that adoptive mothers are entitled to 12 weeks of paid maternity leave, regardless of the 
+child's age at the time of adoption, thus striking down a previous restriction allowing maternity leave 
+only for women who had applied for adopting children less than three months of age. The judgment, 
+delivered by Justices J.B. Pardiwala and R. Mahadevan, came in response to petitioner Hamsaanandini 
+Nanduri challenging this provision in the Maternity Benefit Act, recently replaced by the Code on Social 
+Security. She also pointed out that the legal process of adoption itself took over three months to be 
+completed. [A] The judges [P] observed that an adoptive mother had the same rights and [Q] 
+obligations towards the child as a [R] biological mother. Reading adoption as an 'expression of 
+reproductive autonomy', the Court said that the emotional bond with the child has to be consciously 
+nurtured through time, presence and sustained caregiving. "Adoption is an equally valid pathway for 
+the creation of a family. It is not biology that constitutes a family of a mother, father, and children, rather, 
+it is the shared meaning, responsibility, and emotional bonds that sustain such a relationship," it 
+explained. Maternity benefit is extended to working women during the early phase of motherhood to 
+support them financially and provide economic security without them having to depend on family 
+members. This equally applies to biological and adoptive mothers. Further, the judges urged the 
+government to legally recognise paternity leave as a social security benefit, noting that parenthood is not 
+a solitary function performed by one parent alone. 
+The judges have, with one judgment, conferred equal rights to adoptive parents, and restored child 
+rearing to a gender-neutral parenting paradigm. The patriarchal enabling system has feminised raising 
+children, leading to it being undervalued or inadequately compensated, if it ever is. Nobel winner Claudia 
+Goldin's work has identified that the gender pay gap often emerges with the birth of a first child. The top 
+court has given India an opportunity to set right the inadequate laws governing maternity leave in 
+adoption, and to a large extent, the gender imbalance in society. It is the duty now of the state to make 
+sure that this progressive judgment finds effective implementation in every corner of the country. 
+C
