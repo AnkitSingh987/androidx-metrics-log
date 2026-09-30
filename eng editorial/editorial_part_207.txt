@@ -1,0 +1,114 @@
+Category: Editorial
+Title: editorial part 207
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Distress 
+A. essential 
+2. Disparity 
+B. breakdown 
+3. Disaggregation 
+C. trouble 
+4. Imperative 
+D. remarkable 
+5. Striking 
+E. inequality 
+Answer: 
+1-C 
+2- E 
+3- B 
+4- A 
+5- D 
+
+            Unwinnable war: On Donald Trump's 'Operation Project Freedom' 
+The U.S. should pursue a deal with Iran, and not take a maximalist stand 
+hen Donald Trump announced 'Operation Project Freedom', aimed at "guiding" 
+stranded merchant vessels out of the Strait of Hormuz, he warned that any 
+interference from Iran would be dealt with "forcefully". Over the previous weeks, Mr. 
+Trump had issued several ultimatums to Tehran to reopen the waterway, which it 
+closed after the U.S. and Israel launched the war on February 28. As Iran refused to 
+budge, Mr. Trump launched the operation to militarily reopen the strait. But it lasted barely 50 hours. Iran 
+responded by firing at two American destroyers in the strait and attacking a UAE tanker off Oman's 
+coast. The UAE, a close strategic partner of both the U.S. and Israel, also said it was attacked twice. 
+With the ceasefire coming under strain amid hostilities, Mr. Trump, on Wednesday, said he was 
+pausing the operation "at the request of Pakistan". While Mr. Trump continues to make sweeping 
+claims about winning the war, the fact that the Strait of Hormuz remains closed - and that the operation 
+to reopen it did not last even three days - points to a very different reality on the ground. The U.S. not 
+only failed to achieve any of its declared objectives during the 40 days of war, but is now grappling with 
+a crisis created by the war itself - the closure of the strait. 
+Unlike Mr. Trump, who has made several self-contradictory statements since the war began, Iran has 
+remained consistent in its demands. Supreme Leader Mojtaba Khamenei said last week that Iran would 
+"protect" its missile and nuclear capabilities and continue to exercise control over the Strait of Hormuz. 
+Tehran appears convinced that the war has strengthened its hand and that time is on its side. Mr. 
+Trump has made a series of miscalculations. In the first week of the war, he said he would accept 
+nothing short of Iran's "unconditional surrender". But as the conflict dragged on, he started demanding a 
+deal. Both sides agreed to a ceasefire on April 8, but the U.S., which imposed a blockade on Iranian 
+ports on April 12, failed to exact any meaningful concession from Iran. Contrary to his rhetoric, he 
+holds few strong cards in this war of attrition. If the crisis persists, it will inflict lasting damage on the 
+U.S. and the global economy, potentially endangering Mr. Trump's presidency. If he resumes the war, 
+Tehran will retaliate by targeting Gulf kingdoms, which would be catastrophic for the global economy. 
+America is not winning this war. No amount of social media threats or military posturing is going to alter 
+that reality. Washington should recognise this and pursue a deal with Iran based on accommodating 
+mutual demands and reciprocal concessions if it wants to avoid pushing the world economy towards the 
+precipice. 
+W
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Attrition 
+A. disastrous 
+2. Ceasefire 
+B. unable to move   
+3. Stranded 
+C. erosion 
+4. Catastrophic 
+D. edge 
+5. Precipice 
+E. truce 
+Answer: 
+1-C 
+2- E 
+3- B 
+4- A 
+5- D 
+
+            The elephant in India's data room 
+India must ensure data standardisation for better governance outcomes 
+s another session of Parliament has ended, a familiar pattern was visible on the floor of the 
+House. Members of Parliament who rose to ask questions, performing one of Parliament's 
+most important accountability functions. Yet, a large share of these questions have 
+followed/follow a predictable format, such as asking how many schools have functional 
+toilets, how many pensions were disbursed in a given year, or how many beneficiaries 
+received a particular scheme. While these questions address important public concerns, the information 
+they seek should ideally and already exist in the public domain in a clear, standardised, and easily 
+accessible format. 
+An analysis of the parliamentary questions asked during the 17th Lok Sabha (2019-24) on youth 
+employment found that a large share sought such basic facts. This reflects a far deeper reality that 
+India's data system is fragmented and lacks interoperability. The elephant in the room, rarely 
+acknowledged in such debates, is data standardisation, without which even the most ambitious policy 
+visions risk being built on shifting sands. In the National Data and Analytics Platform vision document 
+released by NITI Aayog, it was observed that India's data ecosystem remains incoherent, with Ministries 
+and government departments failing to use shared standards for common indicators and even defining 
+basic attributes such as time period and region inconsistently. India today generates more data than 
+ever before, yet abundance does not equate to usability. Data collected by individual Ministries for their 
+own programmes often cannot be integrated seamlessly, making consolidation a laborious and error-
+prone task. 
+According to a NITI Aayog report released in June 2025, welfare programme databases often list the 
+same beneficiary multiple times, leading to fiscal leakages that inflate spending by 4%-7% annually. 
+Recent government data clean-ups highlight the potential savings from addressing such inefficiencies. 
+Notably, deleting 17.1 million ineligible names from the Pradhan Mantri Kisan Samman Nidhi (PM-
+KISAN) scheme was expected to save ₹90 billion in FY2024, while removing 35 million bogus LPG 
+connections could save ₹210 billion over two years, and eliminating 16 million fake ration cards may 
+save around ₹100 billion annually. These inefficiencies have significant policy implications. In the health 
+sector, for instance, studies show that childhood tuberculosis cases are recorded separately in the 
+Health Management Information System, the disease surveillance network, and immunisation registries, 
+often resulting in the same patient being counted multiple times. Such duplication creates conflicting 
+A
+
+            estimates, often leaving decision-makers uncertain and leading some to disregard data altogether in 
+favour of anecdote or political expediency.
