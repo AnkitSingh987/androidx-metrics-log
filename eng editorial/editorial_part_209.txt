@@ -1,0 +1,110 @@
+Category: Editorial
+Title: editorial part 209
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Austerity 
+A. encourage 
+2. Curtail 
+B. delayed 
+3. Belated 
+C. reduce 
+4. Urge 
+D. useless 
+5. Futile 
+E. thrift 
+Answer: 
+1-E 
+2- C 
+3- B 
+4- A 
+5- D 
+
+            Data and justice: On courts in India and AI tools 
+As courts adopt AI, care must be taken on the potential for abuse 
+In the latest step in a long-standing effort to digitise the judiciary, Chief Justice of India (CJI) Surya 
+Kant announced two initiatives from the Bench, called 'One Case, One Data' (OCOD), a unified 
+judicial data platform, and 'Su-Sahayak', an AI-powered chatbot on the Supreme Court of India 
+website. OCOD promises a unified digital trail for a dispute as it moves through various courts, 
+linkages between court records and litigant actions (such as appeals), easier access to various 
+documents, lower need for manual verification, reciprocal access to High Courts and other courts, and 
+more accurate judicial statistics. It is notable considering the wide variation in software practices and 
+records quality across India's thousands of district and subordinate courts. If the programme succeeds, 
+standardised data could also allow administrators to determine where cases are held up and ease 
+procedural bottlenecks, and improve data-based decision-making overall. 'Su-Sahayak' has been 
+integrated into the Court website's front-end to help users navigate case status, cause lists, orders and 
+judgments, e-services, and frequently asked questions. As with any major state-backed technology 
+rollout in India, questions about interoperability, integrity of legacy records, restricting access to 
+private information, and staff skilling remain. By aspiring to a centralised digital fingerprint for each case, 
+OCOD also bears the risk of misuse. 
+While the CJI said that these new tools will improve "access to justice", their introduction risks 
+deepening the digital divide. OCOD may require lawyers to maintain digital scanners, cloud backup 
+options, and updated software. Metropolitan corporate firms can easily absorb these costs but 
+independent practitioners in the district and taluka levels will lack the capital. The system may also 
+introduce digital middlemen to help litigants who cannot navigate the e-filing portal, potentially creating a 
+new layer of unregulated costs. While the government has launched assistants with voice-first 
+capabilities, such as Jan Sahayak, 'Su-Sahayak' is primarily text-based and could exclude people who 
+are not comfortable typing or navigating complex website menus. The state and the judiciary must 
+ensure that the AI model is not biased against marginalised communities who were historically 
+disproportionately arrested or denied bail. India's courts have generally been more comfortable with AI 
+for assistance than for substantive reasoning. 'Su-Sahayak' follows SUVAS, to translate judgments, and 
+SUPACE, which processes facts and legal precedents. The line must continue to hold as the judiciary 
+adopts more powerful tools that have already tempted practitioners in other domains to abuse them. 
+I
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Bottlenecks 
+A. intensifying 
+2. Deepening 
+B. path 
+3. Trail 
+C. integration 
+4. Interoperability 
+D. partial 
+5. Biased 
+E. obstructions 
+Answer: 
+1-E 
+2- A 
+3- B 
+4- C 
+5- D 
+
+            Testing troubles: On the National Testing Agency, NEET-UG 2026 
+Leaks and breaches have destroyed the National Testing Agency's credibility 
+nce bitten, twice shy: this saying surely does not apply to the National Testing Agency 
+(NTA). Given the number of times that the Agency has run into trouble in the conduct of 
+common entrance exams, it would have been logical to expect those at the helm to have 
+learnt their lessons. However, this week's cancellation of the National Eligibility-cum-
+Entrance Test (NEET)-UG affecting over 22 lakh students is a serious blow to the 
+agency's reputation. The NTA, on May 12, 2026, announced the cancellation of the exam held on May 
+3, amid allegations of paper leak, as the government tasked the CBI with carrying out a 
+comprehensive inquiry. The decision followed investigations revealing that a 'guess paper' - a 
+collection of predicted, high-importance questions created to help students prepare - matched 
+numerous questions in chemistry and biology. Media reports said that this material had reached 
+coaching hubs in Rajasthan nearly a month ahead, and had been sold to aspirants for huge sums. This 
+led to investigations by the Rajasthan Police Special Operations Group and 15 people were arrested. In 
+the face of such obvious fraud, the NTA maintained the line that the decision to cancel the exam was 
+taken "in the interest of students and in recognition of the trust on which the national examination system 
+rests". The question though, is: does the NTA still enjoy that trust? NEET has been dogged by 
+controversy right from the start, with several States opposing the format. But even after it was rolled out 
+across the country, the NTA, as the agency conducting the exam, has suffered several dents to its 
+credibility, with various charges and controversies coming up with depressing regularity. This includes 
+the 2019 impersonation scam in Tamil Nadu where students used proxies to write the exam; the 2022 
+controversy of frisking girl examinees in Kerala, and the 2024 paper leak and grace marks controversy. 
+The K. Radhakrishnan committee, which was constituted to recommend reforms in the examination 
+process, recommended a restructuring of the NTA, and creating strong institutional linkages with State 
+and district authorities in order to produce a secure test administration apparatus. Among others, it also 
+made recommendations for multi-stage testing, hybrid use of papers and computers, and a series of 
+measures to prevent breaches and malpractices. It would be a crime to allow the NTA to continue with 
+its inept conduct of common entrance exams, impacting the future of several lakhs of students. NEET 
+was introduced as a measure to bring into play a single, standardised, and transparent entrance exam 
+for medical admissions. But the transparency that it has so far shown is of an entirely different kind: 
+leaks and breaches of confidentiality. 
+O
