@@ -1,0 +1,111 @@
+Category: Editorial
+Title: editorial part 188
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Whopping 
+A. weakened 
+2. Defanged 
+B. violated 
+3. Contravened 
+C. balancing 
+4. Conferred 
+D. huge 
+5. Countervailing 
+E. granted 
+Answer: 
+1-D 
+2- A 
+3- B 
+4- E 
+5- C 
+
+            AI for all: On the India AI Impact Summit 2026 
+The AI Impact Summit was a sign of things to come in India 
+The attendance at the AI Impact Summit, in New Delhi, showed an extreme enthusiasm for 
+Artificial Intelligence (AI) technologies by digitally connected Indians. While statistics shared 
+by AI firms have frequently cited India as the biggest user base outside the U.S., the crowds 
+over the week were the biggest indicator of just how keen many Indians are to adopt this 
+technology. At its core, the summit was a continuation of a series of annual multilateral 
+discussions on AI, and 89 countries have signed a declaration laying out a voluntary set of commitments 
+to share knowledge on AI democratisation. The summit's context comes with foreboding challenges 
+for India: namely, deploying and diffusing a technology whose capital and infrastructure reside abroad, 
+and finding a place in the global AI ecosystem that will place Indians well in the economic 
+transformations that this technology's adoption promises. India's data centre capacity is growing 
+healthily, but the AI moment calls for further momentum, a difficult ask when the costs of graphics 
+processing units (GPUs) driving AI push up the cost of domestic deployment so much, not to mention the 
+additional electrical capacity that must be built. A national strategy that relies overwhelmingly on 
+becoming a hub for the deployment of models, with less emphasis on their training and finetuning, 
+could pose risks; after all, with fewer labour costs, the advantage that India has will be smaller than in 
+the ITeS era. 
+On the international cooperation front, it is disappointing that India has so eagerly enabled the U.S.'s 
+hands-off impulses for AI. This is a technology with enormous scope for economic and social 
+disruption. Countries must use the annual AI forum to collectively build tools and safety standards that 
+can exercise actual leverage over how LLMs diffuse throughout society. Leadership of the Global South 
+entails empowering countries that are individually vulnerable to collateral damage in an era of great 
+power rivalries. AI is increasingly defining that era more and more acutely. Consensus at all costs is not 
+the appropriate approach. As a country of enthusiastic AI adopters, India has the leverage and capacity 
+to articulate an optimistic but prudent way forward for AI governance, and the summit declaration 
+showed no signs of this power. The summit's central pillar remains an important one: for AI to be a net 
+good, its capabilities need to be democratised. As India closes its digital divide, there cannot be an 
+inference gap. If the summit made anything clear, it was that India is as capable of organically 
+contributing to worldwide growth as it has the capacity, should it choose, to be a force to shape its 
+orderly growth. 
+T
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Skirmishes 
+A. shortfall 
+2. Heal 
+B. hurt 
+3. Erupted 
+C. clashes 
+4. Bruised 
+D. exploded 
+5. Deficit 
+E. recover 
+Answer: 
+1-C 
+2- E 
+3- D 
+4- B 
+5- A 
+
+            Tariffs in trouble: On the U.S. Supreme Court and Donald Trump 
+The U.S. Supreme Court has done well to circumscribe Donald Trump's 
+presidential powers 
+In a major blow to a central pillar of U.S. President Donald Trump's foreign policy, the country's 
+Supreme Court (SCOTUS) has ruled by a 6-3 margin that his use of the International Emergency 
+Economic Powers Act (IEEPA) to impose tariffs on numerous countries is not in accordance with 
+law and must be struck down. With Chief Justice John Roberts and two other conservative 
+justices appointed by Mr. Trump siding with the three liberal justices on the subject, the Court ruled 
+that Mr. Trump's assertion of "extraordinary power to unilaterally impose tariffs of unlimited amount, 
+duration, and scope", is contravened by the absence of "clear congressional authorization" to exercise 
+it. It also observed that the IEEPA contained no reference to tariffs or duties and that the executive had 
+not identified any statute that used the word "regulate" to authorise taxation. Arguing that until now no 
+President has read IEEPA to confer such power, the SCOTUS concluded that all the evidence available 
+and its reading of the statutes implied that the Court believed that "IEEPA does not authorize the 
+President to impose tariffs." Unsurprisingly, Mr. Trump reacted angrily on social media, posting that he 
+would be raising his global tariff rate to 15%, after initially suggesting that it would be imposed at 10%, 
+under the authority conferred to the White House for 150 days under Section 122 of the Trade Act of 
+1974. Tariffs imposed under laws other than the IEEPA, including those on aluminium and steel under 
+Section 232 of the Trade Expansion Act of 1962, are unaffected by this ruling although Mr. Trump would 
+face challenges in bringing fresh tariff rounds under this umbrella. 
+While multiple countries were slapped with tariffs earlier, including India at a whopping overall rate of 
+50% owing to Washington's objections to New Delhi purchasing oil from Russia, the impact of the 
+SCOTUS ruling will vary based on the specifics of trade agreements struck, if any. Indian negotiators 
+seeking to conclude the terms of a free trade agreement would not be blamed for feeling like they were 
+suspended in limbo after the ruling has changed the terms of debate on which sectors to open up to 
+concessionary rates in bilateral trade, especially after the American side's punitive potential has now 
+been defanged to an extent. At a broader level, the ruling is to be welcomed by anyone valuing robust 
+democratic checks and balances. The two administrations of Mr. Trump have stretched, and in some 
+cases exceeded, the scope of permissible policy actions under domestic and international law. Until this 
+ruling by the court, there has been a deafening silence on containing such actions by institutions rooted 
+in constitutional authority that are capable of imposing a countervailing force. 
+I
