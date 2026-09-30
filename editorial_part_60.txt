@@ -1,0 +1,76 @@
+Category: Editorial
+Title: editorial part 60
+
+The challenges of public health education in India 
+The decision by the United States to withdraw from the World Health Organization (WHO) and 
+drastically reduce the scale of the United States Agency for International Development 
+(USAID) is one that has sent shock waves through the aid and public health world. This move 
+has disrupted essential health-care services in many low- and middle-income countries. 
+However, India has been largely unaffected, as international aid accounts for just 1% of its total 
+health expenditure. Nevertheless, the cessation of such funding threatens to further shrink an 
+already constrained public health development sector, which relies heavily on international support. 
+More importantly, this development directly impacts the public health job market, reducing opportunities 
+for thousands who are pursuing their Master of Public Health (MPH) and similar postgraduate courses. 
+Public health plays a critical role in shaping a nation's well-being and health-care delivery. The 
+Constitution of India, through Article 47, underlines the state's responsibility to improve public health 
+care. Public health is a specialised field that requires specific knowledge and skills to effectively address 
+people's health needs. There is an urgent need for a dedicated workforce in India trained in public 
+health, a fact that was very starkly realised during the COVID-19 pandemic. Beyond government 
+systems, such a workforce is essential for civil society organisations, academic institutions, and 
+research organisations engaged in public health. 
+Though the surge in public health education in India is relatively recent, its history dates to the colonial 
+era. In the early days, public health was largely embedded within medical teaching. This narrow 
+approach persisted despite the establishment of the All India Institute of Hygiene and Public Health, 
+Kolkata in 1932 and the subsequent inclusion of preventive and social medicine - later known as 
+community medicine - as an essential part of medical education. Specialists in community medicine, 
+well-trained in public health provided public health services and met human resource needs in this field. 
+However, their numbers were limited, and they were often engaged in medical teaching. Many students 
+pursued MPH courses abroad in countries such as Australia, the European Union, the United Kingdom 
+and the U.S. Yet, the supply of public health professionals remained constrained. Recognizing the 
+growing need and demand, MPH institutions and teaching expanded in India. The number of institutions 
+offering MPH and related courses in India has grown rapidly. Currently, over 100 institutions offer 
+master's level courses in public health, whereas in 2000, there was only one. This expansion coincided 
+with the launch of the National Rural Health Mission (NRHM) in 2005, which opened public health 
+system roles to non-medical public health specialists. A wide range of institutions, from social science 
+faculties to community medicine departments within medical institutions, have begun offering MPH 
+courses. However, after an initial surge in demand, government recruitment for public health specialists 
+plateaued, while the number of schools, programmes, and graduates continued to rise. As a result, 
+securing jobs has become increasingly difficult for graduates. 
+Compounding this issue are challenges such as the lack of standardized training, insufficient practical 
+learning opportunities, faculty shortages, and varied curricula that inadequately prepare students for real-
+world public health challenges. In addition, institutions offering public health courses are unevenly 
+_________, with large and populous States such as Assam, Bihar and Jharkhand, and many smaller 
+and hilly States, having none or only a limited number of seats.
+
+
+Safe from space: On the return of the NASA mission space crew 
+NASA did well to follow established protocol in bringing astronauts back 
+In the early hours (IST) of March 19, 2025, a SpaceX crew capsule bearing NASA astronauts Sunita 
+Williams, Barry Wilmore, Nick Hague, and Roscosmos cosmonaut Aleksandr Gorbunov splashed 
+down off Florida. Ms. Williams and Mr. Wilmore had returned to the earth after nine months in the 
+International Space Station (ISS), whereas they had originally been expected to spend eight days in 
+the course of testing Boeing's Starliner crew capsule. The Starliner saga has now concluded, but 
+not before it twisted the reality of human spaceflight out of context, making it sound like a caper 
+rather than a testament to the virtues of protocol. Following Starliner's launch in June 2024, a series of 
+malfunctions left Ms. Williams and Mr. Wilmore onboard the ISS before the capsule returned empty to 
+the ground in September. The events spurred concerns and indignation in the popular imagination, 
+swirling around a dearth of information both NASA and Boeing were reluctant to fill. As their stay was 
+expanded to nine months, curiosity swelled over their well-being. While this response was natural, 
+speculation fueled by insufficient updates and political propaganda in the U.S. also fanned 
+misinformation that cast Ms. Williams and Mr. Wilmore as having been "stranded" in space. 
+If the "stranded" narrative captures the gist of Starliner's failure, it misses the inalienable contingencies 
+at the heart of human spaceflight. Ms. Williams herself has sought to downplay the use of such terms. 
+Over the years, but especially in the wake of the Challenger and Columbia shuttle disasters in 1986 and 
+2003, NASA has instituted procedures its personnel are required to follow in a variety of situations 
+where events buck a pre-planned sequence. One is that astronauts onboard malfunctioning spacecraft 
+can move to the ISS, which is always prepared to host such visitors. But many actors framed NASA as 
+weak-willed for sticking to its protocols. When it scrubbed a prior launch attempt of the capsule that 
+returned the astronauts for technical reasons, supporters of U.S. President Donald Trump accused the 
+agency of infirmity rather than acknowledging it as a well-known safety measure. Narratives that 
+overlook the simple fact that two veterans were picked to pilot Starliner's first crewed flight belie the 
+existence of multiple safety checkpoints and the great lengths to which space agencies go to ensure 
+one unexpected outcome does not spell catastrophe. People, including in India - where concern for 
+Ms. Williams parallels a growing pride in the country's budding human spaceflight programme owing to 
+her Indian ancestry - would do well to replace notions of triumphalism in space with good old "safety 
+first". Also, space agencies should realize the importance of clear, timely communication as an integral 
+part of safety protocol.
