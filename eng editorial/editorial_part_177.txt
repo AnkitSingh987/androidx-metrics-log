@@ -1,0 +1,107 @@
+Category: Editorial
+Title: editorial part 177
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Hailed 
+A. skill 
+2. Fractious 
+B. accuracy 
+3. Invoked 
+C. cited 
+4. Precision 
+D. quarrelsome 
+5. Prowess 
+E. applauded 
+Answer: 
+1-E 
+2- D 
+3- C 
+4- B 
+5- A 
+
+            Manufacturing woes: On non-fossil fuel capacity and PLI schemes 
+Capital support alone will not add to battery cell manufacturing capacity 
+India's quest to install 500 GW non-fossil fuel capacity by 2030 has found its primary industrial 
+engine in the Production Linked Incentive (PLI) schemes. Buoyed by the momentum the scheme 
+generated in telecom manufacturing, where the government pays out a predetermined sum only if 
+companies achieve agreed sales targets annually, ministries expect the initiative to transform India 
+from a net importer of green technology into a global manufacturing hub. Unlike telecom, however, 
+the PLI for high-efficiency solar photovoltaics and advanced chemistry cell battery storage face daunting 
+implementation challenges. While downstream module assembly is robust (achieving 56% of its specific 
+target by mid-2025), the critical upstream segments remain a bottleneck. Polysilicon and wafer 
+manufacturing, the most technology-intensive parts of the value chain, have only reached 14% and 
+10% of their respective targets. This disparity highlights a persistent reliance on imported raw materials 
+and specialised technical expertise, prompting the government to consider additional capital subsidies to 
+de-risk these high-capex upstream projects. 
+Similar woes stalk the scheme for battery manufacturing. The progress towards establishing 50 GWh of 
+domestic battery cell production to fuel the electric vehicle revolution, with an outlay of ₹18,000 crore, 
+has been sluggish. By late 2025, only about 2.8% (1.4 GWh) of the targeted capacity had been 
+commissioned. The gap between policy ambition and ground reality in battery manufacturing stems 
+from stringent domestic value addition requirements - mandating 25% within two years and 60% 
+within five - and the immense technical barriers of "gigafactory" construction. To add to these are 
+challenges such as not issuing visas to Chinese technical experts, who will be setting up several 
+manufacturing facilities. The Indian government's expectation that mere capital support will substantially 
+improve high-technology manufacturing is misplaced. The complex infrastructure required to make it 
+at scale requires decades of research investment and workforce training. While mega corporates expect 
+international technology transfers to accelerate the process, they are capital intensive and do not always 
+translate to near-term gain. Several companies face steep fines for not delivering on their deadlines. A 
+relook at provisions in the PLI scheme to prioritise expertise and technical know-how rather than the net 
+worth of companies bidding for PLI contracts is necessary.
+
+
+VOCAB REVISION 
+Match the words in Column A with their correct meanings in Column B. 
+Column A 
+Column B 
+1. Misplaced 
+A. inactive 
+2. Disparity 
+B. misguided 
+3. Bottleneck 
+C. intimidating 
+4. Daunting 
+D. obstruction 
+5. Sluggish 
+E. inequality 
+Answer: 
+1-B 
+2- E 
+3- D 
+4- C 
+5- A 
+
+            Mature and pragmatic: On India-EU FTA 
+India did well to negotiate a fair deal with the European Union 
+The free trade agreement (FTA) between India and the European Union (EU) is significant not 
+just on account of the sizes of the economies involved, but also because it showcases Indian 
+negotiators' skill and maturity when dealing with a powerful counterparty. India has managed 
+to negotiate favourable terms in each of the previous eight FTAs of the last four years or so, 
+but those were with much smaller economies or groupings. For context, the other eight FTAs 
+together accounted for about 16% of India's total trade in 2024-25, while the EU itself accounted for 
+nearly 12%. Under the latest deal, the EU will drop tariffs on 99.5% of the items that India exports, with 
+most going down to zero immediately upon implementation. India has given tariff concessions on 97.5% 
+of Europe's exports. Both sides did well to address issues that were previously intractable. India 
+ensured that strategic agricultural sectors and dairy were excluded from the deal. The EU too managed 
+to exclude several of its sensitive agricultural sectors. What stood out was how the two sides arrived at a 
+workable solution on automobiles. It had been disagreements over auto and auto parts that had derailed 
+negotiations in 2013. The quota-based system now arrived at not only protects India's domestic 
+manufacturers at the lower end of the price band, but also provides a big opportunity for Europe's luxury 
+carmakers. Similarly, the quota-based wine tariffs not only give French winemakers an opportunity - a 
+fervent demand on their part - but also provide protections to India's burgeoning domestic industry. 
+Such a mature and pragmatic approach to persistent hindrances is the way large economies must 
+negotiate with each other. This is further illustrated by the mobility, defence, and technology agreements 
+that were signed separately. 
+That said, there are some concerns. India could not negotiate any concessions under the Carbon Border 
+Adjustment Mechanism (CBAM). At the moment, this tariff applies to only six products, but is designed to 
+include all industrial goods in some years. The upside is that CBAM applies to all countries equally, and 
+India has done well to negotiate a deal wherein any concession granted to a third country would 
+automatically apply to it as well. Second, if India is to attract foreign investors looking to take advantage 
+of a cheaper export route to Europe, it will have to quickly implement reforms that encourage large-scale 
+manufacturing. Finally, with the FTA document to be translated into 27 European languages before it can 
+be cleared by each country and finally the European Parliament, actual implementation will likely take a 
+while. India must push for as speedy a clearing process as possible. Otherwise, the gains so 
+painstakingly bargained for will be too late to offset the U.S. tariff pain. 
+T
