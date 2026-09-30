@@ -1,0 +1,69 @@
+Category: Editorial
+Title: editorial part 19
+
+Gates in the sky: On ISRO and SpaDeX 
+Docking technology allows ISRO to think of longer space flights 
+In December 30, 2024, the Indian Space Research Organisation (ISRO) launched its 
+PSLV-C60 mission. Its primary payload was a pair of satellites for the Space Docking 
+Experiment, or SpaDeX, to demonstrate orbital rendezvous and docking. The ability to 
+execute it in orbit is an essential stepping stone to more complex missions. The launch 
+was also hailed as ISRO ending the year on a high, but SpaDeX reminded us that 
+sophisticated spaceflight missions care little for arbitrary deadlines. The satellites 
+successfully docked on January 16 after a few abortive attempts. They were expected to 
+dock on January 7, which ISRO postponed to January 9, then brought them close without docking on 
+January 12 in an apparent data-taking effort. It nixed the January 9 attempt after the satellites were 
+found to have drifted more than expected, prompting measures to arrest the displacement and 
+reinitialize the experiment. Once docked, ISRO began tests to verify if the satellites could exchange 
+electric power, then undock and separate, followed by testing their own payloads that would be spread 
+over two years. The C60 mission also launched the fourth stage of the rocket as an orbital platform. It 
+carried 24 payloads from various ISRO centres and private enterprises testing various technologies. The 
+Vikram Sarabhai Space Centre's Compact Research module for Orbital Plant Studies was able to have 
+cowpea seeds germinate in orbit, capturing the popular imagination. 
+Docking allows spacefaring components to be launched separately and assembled in space to form a 
+larger module. This allows a space agency to plan interplanetary missions whose spacecraft are 
+heavier than what the heaviest rockets can launch. Docking is thus a symbolic gateway to new 
+opportunities, with the Chandrayaan-4 lunar sample return mission being a good example. In 
+anticipation, ISRO loaded the SpaDeX satellites with enough fuel for multiple tries and also 
+continuously collected data. Its own nervousness became evident, too: after the first two attempts, it 
+backed down from its promise to live-stream the successful one. Docking technology has become 
+desirable thanks to the perceived inevitability of long-duration spaceflight. The pressure to lower costs 
+imposed by, say, crewed missions to Mars or space-mining operations has rendered ideas such as in 
+space satellite servicing and orbital resupply platforms, both of which require docking, more lucrative. 
+ISRO plans to start launching the 'Bharatiya Antariksh Station' (BAS) later this decade. As it embarks on 
+a new phase of operations, with V. Narayanan as its new chairman, ISRO should also describe a 
+coherent vision for the ex-ante utility expected of BAS. Without this context, the larger pieces of the 
+Indian space Programme and their purpose relative to other countries' plans seem adrift.
+
+
+Nothing alarming: on China's HMPV cases 
+Reports of many HMPV cases in China is reflection of heightened surveillance 
+ive years after the SARS-CoV-2 virus overwhelmed hospitals in Wuhan, China, acute 
+respiratory diseases caused by viruses including the human metapneumovirus (HMPV) in 
+children and the elderly, and influenza and respiratory syncytial virus (RSV), are increasing in 
+the country, especially in its northern provinces. However, the sharp rise in acute respiratory 
+diseases is not unusual during this time of the year, and as per a Chinese official, the overall number of 
+cases in 2024 would be "smaller" than in 2023. Surprisingly, while the World Health Organization and the 
+U.S. Centers for Disease Control and Prevention have not raised a red flag so far and there is almost nil 
+reporting in the international media, the Indian media is awash with reports of an HMPV "outbreak" in 
+China. A recent meeting of the Joint Monitoring Group under the aegis of the Union Health Ministry noted 
+that the situation in China is "not unusual in view of the ongoing flu season", and the "usual pathogens 
+that are expected during the season" are causing the present surge in respiratory diseases. The HMPV 
+virus was first identified in children in 2001 in the Netherlands. Infection with HMPV usually occurs by the 
+age of five years with reinfection occurring throughout life as immune protection induced by the virus is 
+too weak to prevent repeated infections. The virus causes upper and/or lower respiratory tract infections, 
+with lower respiratory tract infections being among the most common. While the virus often causes only 
+mild disease, it can lead to severe illness requiring hospitalization in children, immunocompromised 
+populations and the elderly. 
+Globally, 3%-10% of hospital admissions and 1% of acute lower respiratory infection-related deaths in 
+children under age five in 2018 are attributed to HMPV, as per a 2021 paper. The study also found that 
+children younger than six months, especially those in low- and lower-middle-income countries, are at 
+greater risk of death caused by the HMPV virus. Detection of a large number of HMPV cases among 
+children aged less than 14 years in China is a reflection of the heightened surveillance and testing for the 
+virus. On the contrary, India does not have any approved inexpensive tests that are widely available for 
+diagnosing the virus. When testing for HMPV in patients with acute respiratory disease should be 
+routine, as the virus has been in circulation for years globally, including India, and fatality is 1% in young 
+children, India is only now expanding the number of laboratories testing for HMPV beyond the Indian 
+Council of Medical Research (ICMR) network due to the spike in HMPV cases in China. What is also 
+urgently needed is a regulatory framework that facilitates a rapid approval of diagnostic tests in the 
+context of local and global outbreaks of novel and less known pathogens. 
+F
