@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Will the BRICS push for dedollarisation Part Two
+
+Will the BRICS push for de-dollarisation inadvertently benefit China?
+
+Alternatively, if one attempts to overcome this shortcoming using a BRICS currency, there are two ways to do it. Either the grouping adopts a common circulating currency with a supranational banking authority to issue it, or it adopts a currency basket for invoicing, on the lines of the IMF's SDR, where each participating currency is allotted a weightage. The first pathway would require BRICS members to emulate the Eurozone and permanently surrender their monetary policy sovereignty to a BRICS Central Bank.
+
+Neither India nor China would agree to this proposition. Adopting a weighted basket mechanism  -  a composite unit weighted by each member's currency share  -  also encounters several roadblocks. First, no BRICS member has safe, liquid assets deep enough to back the basket except for maybe China. But its strict capital controls limit its convertibility and liquidity.
+
+Second, in the absence of an issuer of last resort, the risk sits entirely with the bearer of the instrument, which discourages anyone from holding it as a reserve. But even if these structural issues are somehow bypassed, a bigger challenge awaits in the form of weightage distribution. No matter how one allots weightage to participating currencies, whether based on a member's GDP, trade share, or reserves, Beijing's renminbi secures the biggest share.
+
+BRICS members will end up holding renminbi in their reserves. In effect, any effort to build a currency alternative to the existing system would result in internationalisation of the renminbi through the backdoor. CBDC will not do the trick According to reports, India is pushing Central Bank Digital Currency (CBDC) as one of the agenda items at the summit.
+
+New Delhi is positioning it as a drive to cut transaction costs in payment settlements. The mechanism entails settling trade and transactions in the digital currency of the trading countries between their respective central banks. In contrast, an ordinary cross-border transaction entails two layers between the correspondent banks: messaging and final settlement, routed through several intermediaries.
+
+While the messaging happens instantly, mostly through SWIFT, final settlement between the transacting banks happens much later. The CBDC bridge collapses the two layers into one and removes the need for an intermediary. The message entailing the payment instruction and the settlement are processed simultaneously and instantly between the two central banks, thereby cutting transaction costs and reliance on foreign infrastructure.
+
+However, at the end of the day, trade through CBDC is the digital equivalent of physical local-currency trade. Replacing the rupee with e-rupee and similarly other currencies with their digital equivalents will still not solve the complexities arising out of local-currency trade. Countries with a trade surplus with India will be uninterested in holding e-rupee and instead demand settlement in other currencies, preferably renminbi.
+
+Any attempt by member countries to convert accumulated local currencies back into dollars brings back the intermediaries that the CBDC is designed to remove. Written by: Amit Kumar The writer is a research analyst with Takshashila's Indo-Pacific Studies Programme
