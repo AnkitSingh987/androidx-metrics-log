@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Can Indias national accounts make the grade Part One
+
+Can India's national accounts make the grade?
+
+IMF's 'C' grade is a cause of concern, but if revisions are implemented rigorously and institutionalised as a regular cycle, the country's statistical methods will match international best practice On November 28, the Union Statistics and Programme Implementation Ministry reported that India's real GDP grew 8.2% and the nominal GDP 8.7% in the second quarter of the financial year 2025-26 - the strongest print in six quarters. Just two days earlier, the IMF, in its data adequacy assessment, had given India's national accounts a "C" grade - the second lowest in its four-tier system - noting "shortcomings that somewhat hamper surveillance", even as the overall macro data set earned a "B".
+
+The timing underscores a troubling irony. India once set standards in official statistics. Under P.C. Mahalanobis, the National Sample Survey and a robust system of national accounts turned a poor postcolonial state into a model for the developing world. Today, that legacy is fraying. The uninterrupted decennial Census series (since 1881), which underpins most sampling frames, has been broken.
+
+The official consumption expenditure survey, the backbone of poverty and inequality statistics and consumer price index (CPI) reweighting, was last released in 2011-12. The 2017- 18 round was scrapped after leaked results suggested a fall in real consumption, with the government citing "data quality" problems. In that sense, the IMF's "C" grade distils several long-running concerns.
+
+First, the current GDP series still uses 2011-12 as its base year  -  a benchmark that will be 14 years out of date by the time a new series with 2022-23 as base is rolled out in February 2026. Real growth, obtained by deflating nominal aggregates, uses price indices derived from consumption and production patterns that no longer accurately reflect the economy's structure. Both the consumer and wholesale price baskets, which should be refreshed roughly every five years, are long overdue for revision.
+
+Moreover, the narrow gap between nominal and real GDP in the latest quarter, barely half a percentage point, is also telling. When deflators are based on outdated expenditure weights, they are prone to understating effective inflation and overstating real growth. Point estimates of 8%-plus growth should, therefore, be treated as only indicative.
+
+Second, the current price architecture is particularly ill-suited to a services-led economy. Services now account for about 55% of the gross value added (GVA). Yet India still relies heavily on the wholesale price index (WPI), which omits most services, for deflating output. The IMF has been explicit that the absence of a comprehensive producer price index (PPI) and "excessive use of single deflation" are central reasons for the "C" grade.
+
+Third, the treatment of the informal economy in national statistics is a serious weakness. The informal sector contributes roughly 45% of the GDP, but is not measured annually from the ground up. Instead, statisticians fix the formal-informal relationship in the base year and then extrapolate informal activity from formal-sector indicators such as corporate filings or GST data.
+
+That shortcut might work in a stable environment, but it breaks down when shocks, such as demonetisation, GST, and the pandemic, hit small, cash-dependent firms much harder than listed companies. Proxying kirana stores, small workshops, and petty services with large firms makes aggregate GDP look healthier precisely when vulnerability is greatest. Fourth, the quarterly GDP numbers are difficult to interpret in their current form.
