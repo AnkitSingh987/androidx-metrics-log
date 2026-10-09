@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The Subhash Chandra saga explained Part Two
+
+The Subhash Chandra saga explained
+
+So even if the underlying companies were gradually reducing their debt, lenders could still pursue Chandra for amounts covered by those guarantees when loans remained unpaid. And that is exactly what Indiabulls Housing Finance did. In 2022, it initiated personal insolvency proceedings against Chandra under Section 95 of the Insolvency and Bankruptcy Code (IBC).
+
+In simple terms, this allows a lender to approach the National Company Law Tribunal (NCLT) and ask it to start insolvency proceedings against someone who has personally guaranteed a company's loan. But getting Chandra into the insolvency process was only the beginning. Once the proceedings started, the bigger question was how much he could actually be made to repay.
+
+The lenders had their claims, Chandra had his own assessment of what he owed, and the insolvency process had to determine what could realistically be recovered from him personally. That is where the numbers became surprising, and the case has now produced a striking outcome. But before we get to the latest developments, here's a concise timeline of the whole saga: Source: Publicly available information A few days ago, the NCLT approved a repayment plan under which Chandra will pay ₹6.25 crore to creditors, along with another ₹25 lakh towards the insolvency process, against around ₹22,006 crore of admitted claims in his personal insolvency proceedings.
+
+On the face of it, that works out to a haircut of roughly 99.97%. But there's an important distinction. The ₹22,006 crore is the amount creditors claimed from Chandra personally. It doesn't mean ₹22,006 crore of company debt has disappeared. The companies that borrowed the money still owe their creditors, and lenders can continue to recover that money from the companies and their assets.
+
+This just means that the NCLT has settled the amount that Chandra himself has to pay as a personal guarantor, rather than writing off the entire debt owed by the underlying companies. There is also a dispute over what the ₹22,006 crore figure actually represents. Chandra has argued that the publicly presented number does not accurately reflect the amount still unpaid because the group has already repaid most of its original borrowings.
+
+He has also challenged the way the claims of lenders opposing the resolution have been characterised. Several creditors have objected to the repayment plan and are now moving to challenge the NCLT's decision before the NCLAT (the body that reviews decisions that the NCLT makes). So this isn't really the end of the Essel saga.
+
+It's just that the question has simply changed. Earlier, the focus was on whether the group could repay its debts. Now, the debate is about how much of that debt Chandra should personally be responsible for, given that he had guaranteed some of the loans and the companies and assets involved have changed significantly over the years.
+
+That's important because personal guarantees are meant to give lenders additional protection. If a promoter can borrow through a company and then walk away from the personal guarantee after the business runs into trouble, the guarantee becomes far less valuable as a credit safeguard. At the same time, forcing an individual to repay the full face value of a corporate loan may not be realistic if the underlying assets have already been sold, the business has changed hands, or the guarantor no longer has the resources to meet those obligations.
