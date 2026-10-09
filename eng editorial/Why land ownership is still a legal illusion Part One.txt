@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Why land ownership is still a legal illusion Part One
+
+Why land ownership is still a legal illusion
+
+In popular understanding, land ownership in India is treated as a settled fact. Put simply, it is a matter of having the 'right papers', a registered sale deed, and entries in revenue records. Yet this belief rests on a fragile legal foundation. In reality, land title in India is less a legal certainty and more a working assumption, one that remains perpetually open to challenge.
+
+The notion of a clear, absolute and state-guaranteed land title is, in many ways, a myth. Unlike several modern jurisdictions that follow a conclusive or Torrens system of title, India has never enacted a comprehensive statute defining or guaranteeing land ownership. There is no single law that clearly establishes what constitutes a land title or assures its indefeasibility.
+
+Instead, land rights are governed by a patchwork of laws like the Transfer of Property Act, 1882; the Registration Act, 1908; state land revenue codes; tenancy laws; and judicial precedents. None of these provides a definitive answer to the question: who is the absolute owner of land? This ambiguity has deep historical roots.
+
+Under pre-colonial systems, particularly during Mughal rule, land was not owned by individuals in the modern sense. The sovereign was regarded as the ultimate owner, while cultivators possessed rights of use and occupancy. These rights were inheritable and transferable in practice, but they were not proprietary in the civil-law sense.
+
+The situation did not fundamentally change with the advent of British rule. After the grant of Diwani rights in 1765, the East India Company acquired the right to collect revenue. It, however, did not confer ownership of land itself. The Permanent Settlement of 1793 introduced zamindars as revenue intermediaries, but even then, ownership remained conceptually ambiguous.
+
+Zamindars were responsible for revenue collection and enjoyed heritable interests, yet the underlying premise was that land existed primarily as a source of revenue for the state. Other colonial systems such as Ryotwari and Mahalwari likewise treated cultivators as occupants or tenure holders rather than absolute proprietors. Thus, ownership as a legally perfected right never fully crystallised during the colonial period.
+
+After independence, India undertook sweeping land reforms, most notably the abolition of the zamindari system. While these reforms removed intermediaries and redistributed land rights, they did not create a modern title system. The post-independence state largely inherited the colonial revenue framework, merely substituting the zamindar with the recorded occupant or tenure holder.
+
+As a result, land rights in India today are derived from a combination of possession, inheritance, revenue records and registered transactions. Crucially, none of these confers an indefeasible title. Revenue records such as jamabandi, khasra, khatauni or record of rights are widely assumed to prove ownership, but courts have consistently held otherwise.
+
+The Supreme Court has repeatedly ruled that revenue entries are not documents of title. Rather, they merely indicate possession and revenue liability. Registration, often seen as the gold standard of ownership proof, fares no better. A registered sale deed does not guarantee title. It merely records a transaction.
+
+If the seller's title is defective, the buyer acquires no better right. This principle, firmly entrenched in Indian law, is the reason multiple sales of the same land, overlapping claims and decades-long litigation are so common. India follows what is known as a presumptive title system. Under this framework, ownership is presumed to be valid based on available records, but this presumption is always rebuttable.
