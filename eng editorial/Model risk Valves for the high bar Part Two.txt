@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Model risk Valves for the high bar Part Two
+
+Model risk: Valves for the high bar
+
+Rules, too costly to comply with, do not produce safety; they produce abstention, pretence, or paperwork. The preceding is not to say the RBI is wrong to set the bar high. India's NBFC sector has its own history of stress building quietly inside black-box underwriting, and much of the retail base this draft protects has little capacity to contest an algorithm's decision.
+
+A regulator burned before has reason to prefer over-caution. The real question is not whether the bar should be high, but whether it can be met without a release valve. The draft invokes the "Innovation over Restraint" sutra from its own FREE-AI committee, but it mostly operationalises the restraint.
+
+The source regimes built in valves, e.g. phased scoping in Britain, negligible-risk exemptions in Canada, sandboxes in Europe. We risk importing their obligations without any of their valves. That, more than any clause, is the real risk: not that a chatbot occasionally gets a fact wrong, but that a generation of Indian financial innovation gets quietly priced out before it is born.
+
+Capital and talent go where rules are workable; if compliance costs more than the technology is worth, institutions will simply wait and call it prudence. And that may not be consumer protection so much as a slow, unintended strangulation. None of this argues for abandoning model risk regulation but only for a few valves in the pipes before the concrete sets: a proportionate carve-out for low-risk, non-decisioning uses like a customer service bot, along the lines Canada and Britain already allow; a regulatory sandbox, of the kind the RBI has itself run for fintech, letting institutions pilot frontier models under supervision rather than clear impossible validation upfront; and a shared national testing facility, perhaps at an IIT or under the RBI's own Innovation Hub, so scarce PhDs validate once for many institutions instead of each pretending to validate alone.
+
+Get even one or two of these into the final guidance, and the RBI can keep its hand exactly where it should be  -  on a kill switch poised over a malfunctioning model, not hovering over India's AI future. There is still time to add the valves before the ink dries: let Sharma-ji guard his spreadsheet, and let the customer get through before midnight. Nobody need worry that the switch, when pressed, turns off the lights in the wrong room.
+
+By Dipak Gupta & D Manjunath, the authors are with IIT Bombay
