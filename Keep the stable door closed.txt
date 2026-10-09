@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Keep the stable door closed
+
+Keep the stable door closed
+
+For emerging economies like India, the risks of stable coins are magnified. Reserve Bank of India (RBI) Deputy Governor T Rabi Sankar's scepticism about stablecoins deserves far more attention - and respect - than it has received in crypto-enthusiast circles. At a time when digital assets are being aggressively marketed as efficient, modern substitutes for money, the RBI's warning cuts through the hype to confront a basic but uncomfortable truth: privately issued stablecoins pose serious risks to monetary sovereignty, financial stability, and consumer protection.
+
+What are stablecoins? Stablecoins are often sold as harmless instruments - crypto tokens neatly pegged to fiat currencies such as the US dollar, promising the best of both worlds: stability without state control. In reality, they represent a quiet but profound challenge to central banks. If widely adopted, stablecoins could displace sovereign currencies in payments, savings, and cross-border transfers, effectively allowing private issuers - often offshore and lightly regulated - to perform core monetary functions.
+
+That is not innovation; it is the privatisation of money. Sankar is right to argue that stablecoins recreate many of the risks of banking without any of its safeguards. Their promise of "stability" rests entirely on the quality and transparency of reserves backing them - an area where global experience has already exposed alarming gaps.
+
+Runs on stablecoins during periods of market stress have shown how quickly confidence can evaporate, transmitting shocks across financial markets. Unlike banks, stablecoin issuers do not have lender-of-last-resort support, deposit insurance, or robust regulatory oversight. When they fail, users are largely on their own.
+
+Sankar's views, articulated last Friday, are consistent with the government and the regulator's stand over the years. Beginning with its first cautionary statement in 2013, the RBI has repeatedly warned users about the potential financial, operational, legal, customer protection, and security-related risks of virtual currencies. The Union Budget of 2022-23 introduced a flat 30% tax, plus applicable surcharge and cess, on transfer of virtual digital assets.
+
+This effectively recognised cryptocurrencies as taxable assets while denying them the status of legal tender. Many have argued that globally, regulators are moving towards frameworks that allow stablecoins to operate under strict reserve, disclosure, and governance norms. The European Union's MiCA (Markets in Crypto-Assets) regime and evolving US proposals suggest regulation, not prohibition, is the more pragmatic path.
+
+So by advising against stablecoins outright, the RBI risks positioning itself as reactive rather than adaptive. But it's a fact that for emerging economies like India, the risks of stablecoins are magnified. Can stable coins accelerate dollarisation? Widespread use of foreign currency-linked stablecoins could accelerate dollarisation, weaken the transmission of monetary policy, and constrain the RBI's ability to manage liquidity and inflation.
+
+Payments data and financial flows could migrate to opaque private networks beyond regulatory reach, undermining both macroeconomic management and national security. None of this is an argument against technology or digital finance. It is an argument for clarity about who should issue money and under what rules.
+
+The RBI's push for a central bank digital currency reflects precisely this balance - embracing innovation while preserving trust, stability, and accountability in the monetary system. In the end, Sankar's position is not anti-crypto dogma; it is institutional realism. Money is too important to be left to private tokens backed by promises, algorithms, or distant balance sheets.
+
+Stablecoins may claim to mimic sovereign currency - but as the RBI rightly warns, imitation is no substitute for legitimacy. Stablecoins make sense where institutions fail - India is not such a case. For countries with strong payment systems and credible central banks, avoiding stablecoins is not technophobia; it is prudent economic statecraft.
