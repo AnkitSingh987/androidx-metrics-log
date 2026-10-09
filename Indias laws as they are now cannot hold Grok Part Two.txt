@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Indias laws as they are now cannot hold Grok Part Two
+
+India's laws as they are now cannot hold Grok accountable
+
+However this begs an important but as yet unanswered legal question: What happens to the logic of safe harbour protections if a platform actively interprets and creates the harmful content in question  -  as is the case with AI platforms? Overcoming these legal hurdles will not be easy or fast, and neither can we be certain that governments want to move rapidly on finding appropriate long-term solutions for fear of impeding innovation. AI, after all, has emerged as one of the main potential drivers of economic growth for the foreseeable future and a central part of every major power's national strategy.
+
+No one wants to be left behind in the AI race. Innovation and safety however need not be at loggerheads. The history of technology is littered with examples of how innovation can happen even when accounting for basic safety principles, from airplanes and cars to fintech. For AI companies, the best way forward would be to build platforms with safety-by-design principles in mind, such as ensuring that certain prompts or nudges are invalidated or some specific output cannot be generated, and publicly showing that their platforms are safe for use.
+
+Without such interventions, instances like in the present case of Grok, are only going to increase in the future. By Shashank Reddy The writer is managing partner, Evam Law & Policy
