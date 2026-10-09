@@ -1,0 +1,22 @@
+Category: Editorial
+Title: As experts differ on AI trajectory markets Part One
+
+As experts differ on AI trajectory, markets can only reflect collective expectations of the present
+
+Markets can only reflect collective expectations of the present Artificial intelligence is creating both risks and opportunities for Indian IT services firms, as productivity gains in coding threaten traditional models while opening new avenues in higher-value services. Within the span of a single conversation, one can hear sharply different versions of the future of artificial intelligence (AI). In one, executives at large IT services firms speak with quiet confidence about AI-assisted delivery expanding margins and deepening client relationships.
+
+In another, engineers wonder whether they are training the very systems that might one day replace them. Both views can be true. And that is precisely the problem for investors trying to price the impact of artificial intelligence. Markets, after all, do not struggle with change so much as with uncertainty.
+
+The current AI moment is unusual not because technological disruption is new, but because the distribution of outcomes is unusually wide. Investors may therefore be making a familiar error. They are overestimating the threat to some firms while underestimating the risks to others, particularly in sectors like Indian IT services that sit at the intersection of global enterprise demand and rapidly evolving technology.
+
+Most visible gains Start with the technology itself. The most visible gains from AI have come in coding. Tools that can generate, debug, and optimise code are improving quickly, particularly for routine and well-scoped tasks. For firms whose business model relies on large pools of engineers billing by the hour, this raises an obvious concern.
+
+If developers can produce more output with fewer people, the arithmetic of headcount-driven revenue begins to shift. This is no longer theoretical. Early enterprise deployments suggest that AI-assisted coding can deliver meaningful productivity gains, especially for standardised work. For Indian IT services firms, which have historically thrived on scale, process discipline, and labour arbitrage, this creates a structural tension.
+
+The very efficiency gains they help clients achieve could reduce demand for their own traditional services over time. Yet it would be a mistake to stop the analysis there. Coding is different from software delivery. Writing code is only one part of a broader process that includes understanding business requirements, integrating with legacy systems, ensuring security and compliance, and managing change across large organisations.
+
+AI can help with many of these tasks, but it does not end them. This is where the story becomes more nuanced. If AI lowers the cost of producing code, it may also increase the appetite for building software. Projects that were once considered too expensive or complex may become viable. In economic terms, a fall in the price of a key input can expand the size of the market rather than simply shrink it.
+
+Paradoxical opportunity for Indian IT firms For Indian IT services firms, this creates a paradoxical opportunity. Even as the demand for low-end coding work comes under pressure, the demand for higher-order services may rise. Enterprises adopting AI at scale will need partners who can integrate these systems into their workflows, ensure they operate reliably, and manage the risks associated with their use.
+
+The centre of gravity may shift from execution to orchestration. This pattern is not entirely new. The adoption of earlier technologies often reduced the need for certain tasks while increasing the importance of others. Tools that automated parts of financial analysis did not eliminate finance roles, but they did change what those roles needed.
