@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Creeping risk On industrial accidents and
+
+Creeping risk: On industrial accidents and neglect of risks
+
+Industrial accidents occur due to neglect of risks built up over time An engineering reality underlying the recent spate of boiler explosions is that boilers almost never fail this way suddenly. They are usually due to overpressure, scaling, mismanaged water level, and/or revival stress, the risk of each of which builds over time. The boiler explosion in Sakti, Chhattisgarh, that killed 20 people also shares a few similarities with the Visakhapatnam gas leak in 2020 and the blast at a thermal power station in Neyveli in 2020.
+
+In the former, safety systems at a unit had been inactive or uncalibrated following a post-lockdown restart while a plant restart process triggered the explosion at the latter. The Sakti plant had likewise been recently acquired, recently commissioned, and was operating at under its full capacity at the time of the blast. In these unstable operating regimes, failures often result due to transient thermal and pressure imbalances.
+
+However, in practice, neither the national boiler inspection regime nor the regulatory framework heighten oversight in these phases. Certification is valid for up to a year even though boiler conditions vary on a daily basis. The current structure also penalises downtime instead of unsafe operations and rewarding maintenance shutdowns.
+
+Events such as those at Sakti are also evidence that the framework's focus on fabrication standards rather than continuous instrumentation and auditing is not working. The Centre's focus on 'ease of doing business' has favoured self-certification and scheduled third-party audits in place of surprise government inspections. The Boiler Accident Inquiry Rules were notified in 2025; whether they will address these structural gaps remains to be seen.
+
+The expansion of India's industrial capacity is pushing ageing infrastructure harder, more plants are operating closer to their limits, and flaws in their management are being exposed to more media coverage and political attention. It is possible that these facilities have long been exposing their workers to hazardous working conditions, and the ensuing crises are not altogether accidental. Contract labour is the most exposed.
+
+A growing share of workers are migrants hired via subcontractors, who trade blame with the operator after a disaster. The safety signage and manuals are often unavailable in workers' native languages. Investigators have reported workers in the Pune industrial belt since 2021 and following explosions in Sangareddy in 2024 and 2025 being unaware of the names and properties of the chemicals in their workplace.
+
+The new OSHW Code 2020 also does not clearly hold the principal employer criminally liable for safety lapses in contractors' operations but qualifies it on the employer's negligence. These are old complaints about how India treats its labour. Until this culture is dismantled, firms' and regulators' incentives, labour arrangements, and factory-floor practices will keep absorbing 'accidents' as the cost of doing business.
