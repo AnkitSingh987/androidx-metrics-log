@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Lay BRICS to solve next energy challenge Part One
+
+Lay BRICS to solve next energy challenge
+
+India has the ambition and the capital, but each of its BRICS partners has a specific technology suited to a specific need that could help scale energy efficiently India's energy story in 2025 was one of remarkable momentum. It became the largest recipient of development finance funding, a recognition of its credibility as a destination for green investment. Renewables now account for 50.07% of India's total installed power capacity, third highest globally in overall renewable capacity as well as in solar energy production.
+
+Renewable energy (RE) tariffs, ranging Rs 2-3 per kWh, are among the lowest. India is targeting 500 Gw of installed RE capacity by 2030, reflecting the scale and seriousness of its clean energy commitment. Yet, a closer look at the data reveals a critical gap: despite the progress in capacity, India still lags behind on energy efficiency.
+
+Building generation capacity is the first chapter of energy transition. India has executed this effectively, with installed power capacity reaching 520.51 Gw in FY26 and recording the highest annual addition (11%). Over the past decade, power shortages have fallen sharply from 4.2% to 0.03%. Today, nearly one-third of India's energy demand is met through renewable sources, with solar accounting for more than two-thirds.
+
+The second chapter - storage, grid intelligence, and distribution efficiency - is where India now needs to focus. Despite achieving a power-surplus status, frequent outages persist, largely due to inadequate transmission capacity. These stem from both strategic gaps and operational inefficiencies within the transmission system.
+
+Since FY19, the pace of transmission line expansion has consistently fallen short of targets, with only 58% of planned lines commissioned in 2025. At the same time, nearly 71% of Inter-State Transmission System corridors remain underutilised, operating at below 30% capacity. As a result, huge amounts of generated electricity (estimated at around 1.93×10 kWh) are lost due to transmission bottlenecks, while over 50 Gw of RE capacity remains stranded nationwide, leading to project delays and increasing per-unit transmission costs.
+
+Transmission constraints also undermine the financial viability of investments. As shown by Nicholas Ryan (2021), limited transmission capacity restricts inter-regional trade. Alleviating grid congestion in India could increase market surplus by up to 22% by improving competition in the wholesale power market, enough to justify investments.
+
+Grid-scale battery storage, transmission efficiency, and smart distribution networks are technologies that will determine whether India's renewable investments deliver their full economic and social returns. The question is how to close the gap quickly, and with which partners. The answer, as it turns out, may lie within BRICS itself.
+
+Each of India's BRICS partners holds a specific technology that corresponds to a specific Indian need. And each of them needs something that only India's scale can provide in return. China has built the most advanced ecosystem for battery storage and grid-scale technology. Its manufacturers dominate lithium-ion storage capacity, and its grid management systems are among the most sophisticated.
+
+What China needs are large, high-volume, credible deployment markets to justify the next generation of cost reduction investment and to demonstrate commercial viability at scales that will matter globally through 2030. India, with its rapidly expanding RE base, competitive tariffs, and relatively low cost of capital for grid-scale projects among developing economies, is one of the few markets large enough to meaningfully absorb and scale such deployment. Russia brings decades of civilian nuclear expertise - reactor design, fuel cycle management, and operational systems.
