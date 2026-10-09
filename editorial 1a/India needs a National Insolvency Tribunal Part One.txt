@@ -1,0 +1,22 @@
+Category: Editorial
+Title: India needs a National Insolvency Tribunal Part One
+
+India needs a National Insolvency Tribunal
+
+The growing mismatch between the NCLT's dual mandate and the Code's demand for speed makes a National Insolvency Tribunal a necessity Nearly a decade after the Insolvency and Bankruptcy Code ushered in a new era of creditor rights and time-bound resolution, it is time to reassess the institutional machinery that sustains it. The Code reshaped commercial expectations, influenced lending behaviour, and created a structured pathway for resolving financial distress. Yet the effectiveness of any legal framework ultimately depends on the quality and capacity of the forum that applies it.
+
+It is in this context that the present structure of the National Company Law Tribunal (NCLT) warrants closer examination. The NCLT was originally conceived as an adjudicatory body for disputes under the Companies Act, 2013. However, within six months, it was decided as a matter of policy to make the NCLT the adjudicatory body for corporate insolvency under the Insolvency and Bankruptcy Code (IBC).
+
+Over time, the sheer volume and complexity of these two jurisdictions have resulted in an imbalance in the present arrangement. Matters that require speed jostle with those that require detailed judicial engagement. The strains of this dual mandate have reached a point where reconsideration is necessary.
+
+The NCLT handles everything from corporate resolution to oppression and mismanagement, capital reduction, and mergers. The result has been unsurprising: heavy backlogs, overlapping jurisdictions, and delays that impair rather than enable the objectives of both statutes. Company law, by contrast, involves corporate governance disputes, shareholder remedies, questions of fairness, valuation, and capital structure.
+
+These require sustained attention and cannot be compressed into the timelines the Code prescribes. Insolvency is not just another species of company law. Data from the Insolvency and Bankruptcy Board of India's Q2 2025 - 26 Newsletter underscores this. The average time from commencement to approval of a resolution plan now stands at 821 days, and even after removing excluded periods, the timeline remains 688 days.
+
+Of the 1,898 ongoing CIRPs, 78 per cent have crossed the statutory 270-day limit, and nearly 61 per cent have exceeded two years. These numbers reveal an organisational inability to meet the Code's foundational requirement of timeliness. A Tribunal obliged to divide its attention between insolvency and company law is ill-equipped to deliver the pace the Code assumes.
+
+The recent report of the Parliamentary Standing Committee on Finance reviewing the working of the Code acknowledges many of these concerns. It notes persistent delays before the NCLT and NCLAT, highlights shortages of members and benches, and recommends tighter timelines and capacity augmentation within the existing framework. While these are necessary and pragmatic interventions, the report nevertheless proceeds on an implicit assumption that the present adjudicatory architecture is itself settled, and that delay is primarily a problem of resources and process.
+
+Institutional design What remains unaddressed is the more fundamental question of institutional design: whether a time-sensitive insolvency regime can continue to share a common forum with slower-moving company law disputes without impairing the objectives of either. It is in that context that the case for a dedicated National Insolvency Tribunal must now be examined. The IBC was drafted with speed, certainty, and consistency as its animating principles.
+
+For these objectives to hold, adjudication must be swift and specialised. Prolonged delays affect value, influence creditor recoveries, and put the very purpose of the Code at risk. The Tribunal as at present constituted has struggled to meet the turnaround times necessary to preserve enterprise value.
