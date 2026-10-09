@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The missing reuse principle in Indias EV Part One
+
+The missing 'reuse' principle in India's EV transition journey
+
+India's EV transition journey As transport electrification gathers pace in India, there is a need to incorporate existing vehicles into the transition in a resource-efficient manner. Along with an effective scrappage policy, vehicle retrofitting can extend the life of structurally sound vehicles by integrating an electric powertrain. India's electric mobility transition is gathering momentum.
+
+Electric vehicle adoption is rising, manufacturing investments are expanding, and policy support continues to strengthen. Meanwhile, circular economy principles are becoming increasingly embedded in India's sustainability and industrial policy frameworks. Yet, circularity is not a single action  -  it is built on a hierarchy that prioritises reducing consumption, reusing existing assets, and recycling materials only when products have genuinely reached the end of their useful life.
+
+India's policy framework has made important progress on the recycling dimension of this hierarchy. The Motor Vehicles (Registration and Functions of Vehicle Scrapping Facility) Rules, 2021, and the Environment Protection (End of Life Vehicles) Rules, 2025, have strengthened the framework for responsible vehicle recycling and material recovery. As of January 2026, 129 Registered Vehicle Scrapping Facilities were operational across 21 States and Union Territories, and 4.3 lakh vehicles had been processed through them.
+
+This represents important progress in building a formal ecosystem for vehicle recycling and resource recovery. However, circularity is not only about managing waste after it is created, but equally about preserving value before assets become waste. That's why the principle of reuse deserves greater attention within India's electric mobility transition.
+
+India has one of the world's largest vehicle populations. As the country pursues transport electrification, the challenge is not only how many new electric vehicles can be sold, but also how existing vehicles can be integrated into the transition in the most resource-efficient manner. An effective scrappage policy is essential for removing vehicles that have genuinely reached the end of their useful lives.
+
+Yet, treating every ageing vehicle as a candidate for disposal risks overlooking a significant opportunity to extend asset life while simultaneously accelerating electrification. Vehicle retrofitting offers one such pathway. By replacing the internal combustion engine, fuel system, and related components of an existing vehicle with an electric powertrain, and retaining the core vehicle structure, retrofitment enables the continued use of assets that remain structurally sound.
+
+In circular economy terms, it is a practical expression of reuse. Rather than recovering value only after a vehicle becomes waste, retrofitment preserves and extends the value already embedded in the asset. The distinction is important. Recycling recovers materials. Reuse preserves functionality. The significance of retrofitting A vehicle can be old yet structurally sound.
+
+It can have a polluting engine while retaining a strong chassis, intact body, and years of potential service life remaining. In such cases, retrofitting the vehicle to electric powertrain through certified technology becomes the more circular option than scrapping. This is not a competing strategy to scrappage.
+
+It is the missing middle path that policy has not focused on adequately. The environmental mathematics underscore why this distinction matters. A single two-wheeler generates approximately 90 kilograms of material and 18 kilograms of landfill waste when scrapped. Scaled across India's vehicle fleet of approximately 30 crore vehicles, a scrap-first approach would generate 2.7 crore tonnes of recyclable material alone, in addition to generating 0.54 crore tonnes of landfill waste that strains land and environmental resources.
+
+Retrofitment mitigates this burden by extending vehicle life where safety permits, thereby reducing both material demand and waste generation. This alignment with UN Sustainable Development Goal No. 12  -  responsible consumption and production  -  is not coincidental. Retrofitment directly supports the call for sustainable consumption patterns, better resource efficiency, and reduced waste.
