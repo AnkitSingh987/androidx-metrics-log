@@ -1,0 +1,24 @@
+Category: Editorial
+Title: WhatsApp and DPDP Act in Supreme Court raise Part One
+
+WhatsApp and DPDP Act in Supreme Court raise a question: Do citizens control their data, or does their data control them?
+
+Supreme Court raise a question: Do citizens control their data, or does their data control them? Can citizens' rights survive the twin pressures of corporate dominance and state power? More than ever, the Court must define what privacy truly means For years, Big Tech has leaned on the legal fig leaf that clicking "I Agree" equals meaningful consent.
+
+But consent requires choice, and choice requires alternatives. The Supreme Court is now questioning whether consent under conditions of market dominance is truly voluntary. In its hearings on Meta-WhatsApp, the Court has suggested that the extraction of user data may resemble theft rather than voluntary exchange, and that market dominance can turn consent into coercion.
+
+India is one of WhatsApp's largest markets. The app is free, but it monetises people's personal and behavioural data for targeted advertising and profiling. Even if messages are end-to-end encrypted, WhatsApp collects metadata  -  who users communicate with, how often, from which device, and approximate location.
+
+It may also gather device details, contact lists (if permitted), and transactional data through WhatsApp Business. When integrated with Meta's wider ecosystem, this data can reveal more than actual messages themselves. In the digital age, metadata is not trivial; it maps every aspect of citizens' lives.
+
+In 2021, WhatsApp introduced a take-it-or-leave-it privacy update for users, expanding data sharing with its parent company, Meta. But WhatsApp is not just a messaging tool; it is infrastructure. Businesses run on it. Families depend on it. Essential services and government communications rely on it.
+
+As Chief Justice Surya Kant bluntly put it, to opt out is opting out of the country. The 2021 update quickly caught the eye of the Competition Commission of India (CCI), which described WhatsApp as India's digital "town square", meaning that meaningful consent doesn't exist. The CCI also noted a stark inequality.
+
+Indian users are treated differently from European users, who enjoy stronger data protections under the General Data Protection Regulation (GDPR), including the right to delete information. Viewing the update as exploitative, the Commission imposed a Rs 213.14 crore penalty and barred WhatsApp from sharing user data with its affiliates for advertising for five years. On appeal, the National Company Law Appellate Tribunal's (NCLAT) decision lifted the five-year ban, but the penalty stood.
+
+Both Meta and the CCI have now taken the matter to the Supreme Court, turning the dispute into a landmark test of digital rights. So far, the Court has taken a hard stance against the Big Tech giant, orally demanding an affidavit assuring no Indian user's personal data will be shared. The Bench warned that if WhatsApp fails to file this undertaking, its appeals could be dismissed.
+
+Taking a strict view, Justice Surya Kant stated, "Follow India's Constitution or leave". It appears that the top judge was invoking the constitutional right to privacy, recognised for the first time in K S Puttaswamy vs Union of India (2017). Yet in the digital era, can individuals truly control their own information?
+
+Can they decide, freely and meaningfully, what they share and with whom? That is the essence of privacy, and it is being strained not only by corporate behemoths but also by the state. The Digital Personal Data Protection Act, 2023 (DPDP Act) was meant to protect this autonomy, but it falls short. India's first data protection law, enacted nearly three decades after the internet became mainstream here, was rushed through Parliament, sparking alarm.
