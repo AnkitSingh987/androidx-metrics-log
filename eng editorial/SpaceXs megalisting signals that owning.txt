@@ -1,0 +1,22 @@
+Category: Editorial
+Title: SpaceXs megalisting signals that owning
+
+SpaceX's mega-listing signals that owning foundational tech is where future value lies. India should take note
+
+That owning foundational tech is where future value lies. India should take note SpaceX is set to price its $75 billion IPO on June 11, highlighting a shift toward valuing tech infrastructure. This milestone signals changing investor focus on foundational technologies driving future growth. SpaceX is expected to price its $75-billion initial public offering on June 11 and begin trading the following day at a valuation of roughly $1.75 trillion.
+
+The listing, widely expected to be followed by public market debuts from OpenAI and Anthropic, marks more than another milestone in the technology boom. It signals a shift in what global investors believe will drive economic value over the coming decades. Capital markets are placing extraordinary value on companies that own or control foundational technological capabilities, rather than those that merely build products and services on top of them.
+
+This matters not just as a reflection of investor enthusiasm, but as a window into how the next phase of technological competition is being read by markets. Notably, the combined implied valuations of SpaceX, OpenAI, and Anthropic already exceed those of most sovereign wealth funds, underscoring just how much capital is being mobilised around the infrastructure thesis. For much of the internet era, value accrued primarily to platforms, applications, and consumer-facing services.
+
+The infrastructure beneath them attracted comparatively little attention. That appears to be changing. Artificial intelligence (AI) demands massive computing capacity, specialised chips, vast data centres, and reliable energy. Satellite communications require launch capabilities, orbital assets, and complex networks.
+
+SpaceX combines launch services with satellite broadband and broader space infrastructure ambitions; OpenAI and Anthropic are building the models and computing ecosystems likely to underpin the next generation of digital services. The direction of capital is telling: markets are rewarding not merely innovation, but control over the infrastructure that makes innovation possible. This dynamic is also visible in the extraordinary valuations commanded by Nvidia, whose chips sit at the heart of the AI computing stack, and in the scale of investment being committed by hyperscalers such as Microsoft, Google, and Amazon to data centre expansion  -  collectively running into hundreds of billions of dollars annually.
+
+That does not mean traditional concerns should be set aside. Financial markets have repeatedly demonstrated a tendency to swing between excessive optimism and excessive caution, and questions about valuation assumptions, profitability, governance, and concentrated founder control remain entirely legitimate. Public markets perform an important function when they test business models against commercial reality rather than narrative.
+
+The history of transformative technologies  -  from railways to the early internet  -  is littered with ventures that were strategically correct but commercially ruinous for early investors. It would be unwise to dismiss concerns over stretched valuations, but equally, reducing the discussion to whether any particular company constitutes a bubble risks missing the broader structural shift underway. For India, the signal carries particular weight.
+
+The country's success in information technology and digital services has built a strong foundation, but the next phase of global competition may be shaped less by the use of technology than by ownership of the infrastructure that enables it. India currently consumes far more AI compute than it produces, and its share of global data centre capacity remains modest relative to its digital economy ambitions. Efforts to expand domestic manufacturing, attract semiconductor investments, build data centre capacity, and develop the space ecosystem therefore acquire fresh urgency.
+
+Not every trillion-dollar valuation will endure, nor should public policy be driven by market exuberance. But if the defining technology companies of the coming decades are those that own the infrastructure underpinning the digital economy, India must ensure it is not merely a consumer of those capabilities, but a participant in building and owning them.
