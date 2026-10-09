@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Indias moment to restoring balance to Part Two
+
+India's moment to restoring balance to copyright
+
+Web search engines need to copy as much of the Web as they can (a process called 'crawling'), effectively creating a mirror copy of all that is reachable on the web through links, but permissionless copying is prohibited by copyright law. Except in the Philippines and Sri Lanka (which have a flexible 'fair use' exception) and India (which, in 2012, introduced a specific exception for 'the transient or incidental storage' for 'providing electronic links, access or integration'), no other country in our study provided an exception, meaning AI training is effectively illegal in most countries we surveyed. This does not make sense.
+
+Web search engines and AI models do not view copyrighted materials as scribblings or poems or art the way humans do; for programs, it is merely 'data' for statistical purposes. Recognising this, many jurisdictions such as the European Union, Japan and Singapore have adopted 'text and data mining' exceptions in their copyright regimes, while others such as Hong Kong and South Korea are in the process of doing so. Japan's law allows for an exemption for "Exploitations not for enjoying the ideas or emotions expressed in a work" (i.e., use by machines), and permits "using the work in data analysis".
+
+This is sensible: copyright was never meant to cover mechanistic uses. By not allowing for a broad text and data-mining exception, India has created a pall of legal uncertainty over the collection of the training data for many forms of AI. And by not having a flexible, general and open-ended exception (as countries such as Singapore and the United States do), India ensures that copyright law will always hamper technological developments.
+
+There are separate concerns around the outputs of generative AI substituting creative labour. But copyright is meant to be about encouraging creativity, not about protecting jobs. Further, copyright law has never prohibited learning from examples and imitating  -  every artist studies predecessors, and every writer reads widely.
+
+Technology has always displaced jobs  -  we have far fewer rickshaw pullers, telegraphists, pankhaawallahs, stenographers, lift operators, bank tellers, typesetters, darkroom technicians and draughtsmen  -  yet, it has created new jobs as well. The advent of photography reduced the demand for portraitists, but enabled new forms of creativity and access to knowledge. We do not know what the impact of generative AI will be: we might, in the future, need greater government grants for arts and culture, or to strengthen the cooperative movement, potentially funded by taxes from large AI companies.
+
+But these ought not be dealt with in copyright law. Creativity, access should be promoted What copyright law should protect, however, are contributions to the commons. Open-licensed AI models and datasets exemplify this  -  developers and researchers absorbing massive computational costs to create what enables others to be creative.
+
+These models add to the common heritage of mankind rather than subtracting from it. Copyright law should encourage such contributions, not hinder them with the same restrictions designed to prevent commercial exploitation. Governments are also uniquely positioned to curate high-quality locally-relevant datasets for public benefit, they should establish safe harbour provisions that protect such datasets from copyright claims, at least when used for training open-source models.
+
+We have seen copyright law repeatedly being weaponised to block beneficial technologies under the guise of protecting creators. The Authors Guild in the U.S. used copyright to block Amazon Kindle's "Read Aloud" function, despite it being assistive technology that enabled visually impaired persons to listen to books they had legally purchased.
