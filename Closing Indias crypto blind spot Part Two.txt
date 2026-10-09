@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Closing Indias crypto blind spot Part Two
+
+Closing India's crypto blind spot
+
+Unhosted wallets One of CARF's most consequential features, particularly from India's perspective, is its treatment of unhosted wallets. These wallets, controlled directly by individuals without intermediaries, function in many respects as the cash of the digital economy. Under existing frameworks, high-value peer-to-peer transfers involving such wallets can occur with little or no reporting.
+
+CARF narrows this blind spot. It requires RCASPs, when facilitating transfers to or from unhosted wallets, to collect and report identifying information about the counterparty to the extent reasonably available. Perfect attribution is not guaranteed, but the expansion of visibility is substantial. This distinction between regulation and approval is not novel.
+
+The State routinely regulates activities it does not morally endorse: from tobacco and alcohol to gambling and complex financial derivatives, not to validate them, but to impose discipline, secure revenue, and mitigate harm. Major jurisdictions have applied the same unsentimental logic to crypto-assets. The US, for instance, has mandated transaction-level reporting for digital assets without expressing any view on their underlying merits.
+
+Regulation here is treated as a tool of visibility, not validation. India, meanwhile, relies heavily on domestic tax instruments. These measures are effective in taxing outcomes but offer limited insight into transactional mechanics. It taxes the profit, but misses the trail. The 1 per cent Tax Deducted at Source on transfers of Virtual Digital Assets, applicable above a threshold, and rising to 20 per cent in the absence of a PAN, was introduced precisely to create a transaction trail where none existed.
+
+The regime is admittedly crude, but it performs a vital signalling and capture function in an otherwise opaque ecosystem. Retain domestic instrument Some argue that CARF's implementation should logically trigger the removal of the 1 per cent TDS, since international reporting would render domestic tracking redundant. While economically attractive, this argument is premature.
+
+It asks the State to replace a tested domestic mechanism with an international framework whose real-world capture rate, particularly for high-frequency, intra-jurisdictional, and peer-to-peer transfers, remains unproven. For the TDS to be dismantled, there must be credible evidence that CARF delivers equivalent or superior visibility. Until such equivalence is empirically demonstrated, retaining the domestic instrument is a matter of prudence, not inertia.
+
+Absent CARF, Indian law mandates reporting but lacks reciprocal information pipelines. Without CARF's nexus rules, the tax authority sees only what the taxpayer chooses to declare. A trader in Mumbai can use a Dubai-based exchange to move value to a wallet in the Cayman Islands. Without automatic exchange, this transaction is effectively invisible.
+
+The choice before the State is not between regulating crypto and rejecting it. It is between visibility and blindness. CARF is not a concession to crypto-assets; it is a reclamation of the State's capacity to see. In a financial system where value moves at the speed of code, the absence of reporting is not neutrality; it is abdication.
+
+Watching crypto is not legitimising it. It is the minimum condition for governing a modern financial system. By Raghav Pandey & MS Sahoo The writers are respectively Assistant Professor and former Distinguished Professor at National Law University Delhi
