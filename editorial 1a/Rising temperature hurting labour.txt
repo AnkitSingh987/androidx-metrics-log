@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Rising temperature hurting labour
+
+Rising temperature hurting labour productivity
+
+It reduces the efficiency of today's workers and can weaken the learning and capabilities of tomorrow's workforce In recent years, temperatures have routinely spiked above 45 degrees Celsius across various regions in India. As extreme heat becomes more common, its consequences are likely to extend beyond environmental challenges to macroeconomics, productivity, and human capital outcomes. Heat weakens labour efficiency, reduces manufacturing output, and can intensify food inflation by affecting agricultural production.
+
+In an influential study, Dell et al (2009) showed that hotter countries tend to be poorer, with each 1°F increase in average temperature associated with 4.5 per cent lower GDP per capita. Recent research by economists Bilal and Kanzig, published in the Quarterly Journal of Economics, shows that a permanent 1°C rise in global temperature lowers global GDP by 20 per cent in the long run. A recent study by Somanathan et al (2021) published in the Journal of Political Economy shows that Indian manufacturing output declines by nearly 2 per cent annually for a 1°C rise in temperature.
+
+In a nationally representative panel of 58,000 manufacturing plants from the Annual Survey of India, the study found that high temperatures erode work efficiency by increasing heat stress. Also, rising temperatures cause increased workplace absenteeism, particularly in factories without adequate climate control. This directly lowers labour productivity.
+
+This evidence is observed at the worker and factory levels across industries such as cloth weaving, garment sewing, and steel products. Worker-level data reveal that an additional day of hotter days in a week reduces daily work efficiency by 8 per cent in the garment industry in the National Capital Region without a climate control facility. In Surat's cloth-weaving industry, additional hot days above 35°C reduce output by 2.7 per cent.
+
+At the district level, the study recorded a higher decline in output (3.5 per cent) in the manufacturing GDP data. The ILO (2019) report suggests that India is among the countries most severely affected by heat stress, estimating that the country could lose 5.8 per cent of working hours in 2030. High exposure to heat One unintended consequence of rising heat may be higher substitution of labour with machines.
+
+As temperatures soar, firms exposed to high temperatures will prefer to deploy more machines or robots to sustain the productivity and meet deadlines. Can excess heat affect the cognitive performance of kids of agricultural households? Yes, economists Garg, Maulik, and Taraz found high temperatures reduce math and reading test scores among school-age children.
+
+The authors argue that agricultural income explains this relationship. When higher-than-normal temperatures over a longer-run horizon reduces income from agriculture by lowering labour efficiency, households dependent on this sector gets lower income and so, invest low on education. Heat, therefore, affects productivity in two ways: it reduces the efficiency of today's workers and can weaken the learning and capabilities of tomorrow's workforce.
+
+The productivity costs of a warming climate cannot be ignored by an economy hoping to grow quickly and steadily. The policy implications are substantial. First, the Occupational Safety, Health and Working Conditions Code, 2020 was a significant consolidation of labour law. While the code gives the Central Government the power to prescribe ventilation, temperature, and humidity standards, national heat-stress standards are yet to be defined in the code.
+
+Evidence-based heat-stress standards for the workplace may be embedded in the labour code, supported by strong enforcement. Such standards should cover heat exposure, rest breaks, hydration, ventilation, and emergency response in heat-prone workplaces. Second, artificial intelligence and automation may offer a partial solution to productivity losses caused by heat, but they must be used carefully.
+
+In agriculture, manufacturing, logistics, and warehousing, AI-enabled systems can help monitor heat risks, optimise work schedules, improve energy use, and automate some heat-exposed tasks. However, sectors like construction, small-holding farming, and informal work may not be easily automated. The policy goal should therefore be to use AI to reduce the most heat-intensive tasks, improve safety, and raise productivity without ignoring employment concerns.
+
+Third, the MSME Ministry's technology-upgradation programmes should be broadened to support investments in temperature-control systems. In a warming economy, such investments should be seen as capital expenditures that increase productivity rather than merely as worker-welfare initiatives. A country that recognises the economic costs of rising heat will be better placed to protect workers, sustain industrial output, and secure future human capital.
+
+By Santosh Kumar Dash & Dinabandhu Sethi Dash is an Assistant Professor at the IRMA, Tribhuvan Sahkari University, and Sethi is an Assistant Professor at the Liberal Arts Department, IIT Hyderabad
