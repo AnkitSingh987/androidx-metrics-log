@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Reason is more than a tool Part One
+
+Reason is more than a tool
+
+(12 Minute Read) If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more Afew months ago, I sat in a packed university auditorium listening to a celebrated computer scientist explain the brilliance of large language models (LLMs). These systems optimise, he said.
+
+And they improve at optimisation on the basis of past experience. He paused. That, he said with a smile, is intelligence. The audience nodded along approvingly. Meanwhile, a philosophical alarm bell began sounding in my head. Not because the speaker's claim was implausible. On the contrary, as a description of much contemporary artificial intelligence, it seemed apt.
+
+AI systems are built around objectives, losses, rewards, predictions, preferences, benchmarks and feedback loops. They are trained to perform better relative to some standard of success. In one form or another, they optimise. That is a great part of their technical power. What troubled me was the ease with which a definition appropriate to machines sounded like a definition of intelligence as such.
+
+That slide from engineering model to human anthropology is easy to miss. We begin by saying: this is how machines work. Then, almost without noticing, we say: this is what intelligence is. And then, more dangerously still: perhaps this is what we are. An old argument about human beings had entered the room without announcing itself.
+
+It sounded, instead, like a definition. The AI revolution has brought one of the Enlightenment's deepest quarrels back to life  -  and made one side of it seem like plain common sense. In my view, the wrong side. Hence the alarm bell. In the 18th century, philosophers were concerned not only with the question of what reason is, but with what it is good for.
+
+Is reason essentially a servant, a clever instrument for achieving ends supplied from elsewhere? Or is it sovereign, capable of judging, revising and even legislating ends for itself? Can it ultimately shape the direction of human life, or is it merely along for the ride? Everything  -  from science to social progress to the viability of the French Revolution  -  seemed to hang in the balance.
+
+David Hume, the cool-eyed Scottish anatomist of human nature, gave the most famous answer on one side: 'Reason is, and ought only to be the slave of the passions,' he wrote in A Treatise of Human Nature (1739). It can 'never pretend to any other office than to serve and obey them.' Reason does not command. It defers.
+
+It does not tell us what to want or what might be worth wanting. Instead, it tells us how to get what we already want. It calculates relations, weighs evidence, discovers causes and effects, draws inferences, corrects mistakes about means. But it cannot judge or generate ends. If I desire revenge, reason can help me sharpen the knife.
+
+If I desire peace, it may recommend compromise. Passion sets the destination. Reason merely shows the way there. Hume was quite serious about this. It is 'not contrary to reason to prefer the destruction of the whole world to the scratching of my finger,' he wrote. That sentence still shocks, as it was meant to.
