@@ -1,0 +1,24 @@
+Category: Editorial
+Title: CRR can be used to provide liquidity Part One
+
+CRR can be used to provide liquidity
+
+The existing liquidity tools at the RBI's disposal have their limits. Cash reserve ratio funds can be used as well. CRR's relevance has declined One of the expectations from the credit policy was an announcement of a calendar for open market operations. This was against the backdrop of fluctuating liquidity over the last two months or so.
+
+True, there is a surplus right now but this can change again in March when the advance tax payments have to be made. The policy has assured supply of liquidity as and when needed, which also includes situations when the government's cash balances with the central bank increase. Such a situation may not arise as the government tends to expedite spending towards March to meet targets.
+
+The question to be addressed is: what are the options when it comes to supplying liquidity? The RBI has several instruments that can be used. All of them have different objectives. The system surplus or deficit is denoted by the balances after RBI interventions through repo rate, VRR (Variable Repo Rate), SDF (Standing Deposit Facility), etc.
+
+The net outstanding amount reflects the net state of liquidity. These are the daily operations of the RBI under the liquidity framework. But there are also open market operations where government securities are bought and sold. Further, there are forex swaps which deliver similar results. The merits of each can be examined.
+
+The first tool to be used is the overnight repo or VRR which can go up to 14 days. Their tenures provide clues on how the RBI views the liquidity position. These can be viewed as tools for temporary deficits. Second, longer term VRR auctions of 90 days have been used which involve providing support for three months.
+
+This is more of a medium-term measure. This is something that has been done by the RBI recently, which is quite novel. Besides providing liquidity, it is an assurance that the RBI is not averse to going in for these longer-term measures. The issue with any kind of repo operation is that banks need to have excess SLR holdings that can be offered as collateral.
+
+In the absence of these securities, banks would be out of the running and have to access the call or the TREPs market. Open market operations The third measure used is open market operations. In 2025 the RBI made regular purchases either on need basis or through a calendar, especially during critical times such as quarter-ends.
+
+OMO purchases involve buying certain securities from banks and providing cash in return. The RBI could choose those securities which are less liquid or those which need to be drawn out of the system to balance the maturity tenures. This again works for banks which have surplus SLR securities to sell.
+
+But the quirk here is not just the SLR ratio. The new regulations ask banks to prepare for the maintenance of LCR (liquidity coverage ratio) which when provided for would require banks to have SLR at least in the region of 24-26 per cent. The present SLR ratio for the system is around 26 per cent, and has, interestingly, come down from 28-29 per cent at the beginning of FY26.
+
+This is because there have been some aggressive purchases by the RBI. The challenge really can be that with an effective level of, say, 24 per cent to be maintained, banks may reach the limit and will not be able to sell securities to the RBI. Therefore, there can be limits to the use of OMOs, especially for prolonged periods of time.
