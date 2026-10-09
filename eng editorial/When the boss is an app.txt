@@ -1,0 +1,28 @@
+Category: Editorial
+Title: When the boss is an app
+
+When the boss is an app
+
+While India's Code on Social Security mandates platform contributions for gig workers, it overlooks algorithmic management, leaving delivery riders without human recourse or transparent governance. Ask a delivery rider in any Indian city who his manager is, and you may get a puzzled look. There is no manager.
+
+There is an app. It tells him where to go, how quickly to get there, what he will earn and  -  through a rating he barely understands  -  whether he will get work tomorrow. When his pay rate drops overnight, there is no one to ask why. When his orders mysteriously dry up, there is no cabin door to knock on.
+
+The foreman of the 21st century does not carry a stopwatch. It runs silently on a phone, and it does not take questions. This deserves attention because the law has finally caught up with the gig economy  -  but only halfway. In May, six years after Parliament passed the Code on Social Security, the central rules were notified, requiring platforms to contribute to a social security fund for gig workers.
+
+This is genuine progress. Yet consider what the law regulates and what it leaves untouched. It regulates money: aggregators must contribute between 1% and 2% of annual turnover towards insurance and other benefits. But it says little about the algorithm  -  the actual manager  -  that assigns orders, determines per-delivery rates, distributes incentives, and quietly decides who thrives and who is starved of work.
+
+We have regulated the salary slip and ignored the boss. Every management theory of the past hundred years rests on one assumption: the manager is a person. A person can be trained, persuaded, appealed to, or, in extremis, shamed. Entire HR departments exist because human bosses are imperfect and employees need recourse.
+
+The gig economy has quietly invented something new: management without a manager. And with it, grievance without a listener. What does it do to a person's dignity when there is no one  - literally no one  -  to whom he can say, "That's not fair"? The costs are not abstract. A recent survey of platform workers across Indian cities found that nearly a quarter worked more than 70 hours a week, 62% had experienced near-miss road accidents, and 27% had actually met with one.
+
+The speed targets are set by code; the risk is absorbed by flesh. Following nationwide protests by delivery workers late last year and government intervention, quick-commerce companies dropped or softened their 10-minute delivery claims. The algorithm, it turns out, responds to collective bargaining  -  but only when workers organise against a boss they cannot see.
+
+There is a subtler injury too. Research into platform work suggests its design can reproduce or amplify existing gender and caste disadvantages  - discrimination without an identifiable discriminator, and prejudice with no one clearly accountable. Even the new welfare rules contain a flaw that reveals how imperfectly the system understands this workforce.
+
+Eligibility requires 90 days of engagement with one platform, or 120 days across several. That assumes a degree of continuity in a sector defined by churn. It is like asking a daily-wage worker to prove stable employment before protecting him against precarity. Other jurisdictions are beginning to confront the real issue.
+
+The European Union's (EU) platform-work rules provide for a rebuttable presumption of employment and require greater transparency and human oversight of algorithmic decisions. India, so far, has regulated the gig worker; the EU has begun regulating the algorithm. Why should the salaried reader care? Because the delivery rider is the canary.
+
+Algorithmic management is already creeping into formal workplaces through warehouse productivity trackers, call-centre monitoring software, and AI-generated performance scores. The question the gig worker faces today is one many of us may confront tomorrow: when your manager is a piece of code, who hears your appeal? India's gig workforce is projected to reach 23.5 million by the end of this decade.
+
+That is millions of people managed by software no regulator has examined and few workers understand. The human factor, in this economy, is the one thing the system was never designed to see. Written by Shyamal Majumdar
