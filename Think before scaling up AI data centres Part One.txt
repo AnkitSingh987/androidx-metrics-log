@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Think before scaling up AI data centres Part One
+
+Think before scaling up AI data centres
+
+Countries that moved early now see the full cost of those choices. What began as a digital bet has steadily changed grids, water systems, and land use New Delhi's invitation to global companies to build AI data centres in India is being read as a confident move. The logic seems obvious: AI needs computational power, it needs large data centres to run, and India has the scale and space to host them.
+
+But countries that jumped early into building large numbers of data centres have learned a wallet-bruising lesson. AI infrastructure is not like roads or bridges. The technology changes fast, becomes outdated fast, consumes enormous energy, and depends heavily on the changing priorities of private tech firms.
+
+What looks simple on paper is far harder to manage in practice. India has the advantage of watching others go first. That matters, because once projects reach a certain size, choices become harder to reverse. The real constraint today is not talent or ideas. It is steady power, cooling, water, stable grids, and available land.
+
+These are the pressure points. Large computing centres do not just sit implicitly in the background; they lean heavily on the country's physical systems. A single modern facility can use as much electricity as a small city, and it needs that supply without pause. It does not power down during peak demand or summer shortages.
+
+Cooling runs day and night, often drawing deeply on local water. Once built, the ripple effects spread silently. Transmission lines are strengthened. Older power plants stay open longer. Water is diverted. Zoning rules changes. None of it feels shocking at the moment. It happens step by step. Lessons from abroad Countries that moved early now see the full cost of those choices.
+
+What began as a digital bet has steadily changed grids, water systems, and land use  - locking in physical consequences long after the headlines faded. The US offers a clear warning sign. In 2023, data centres used about 176 terawatt-hours of electricity  -  roughly 4.4 per cent of the country's total demand.
+
+That share is expected to climb sharply, possibly reaching 10-12 per cent within a few years as heavy computing loads grow. The real issue, though, is not the national average. It is where this demand is concentrated. In Northern Virginia, home to the world's largest cluster of data centres, these facilities already consume more than a quarter of the region's electricity.
+
+To keep up, utilities have rushed to expand the grid, postponed the shutdown of fossil-fuel plants, and reworked how risk is priced. The impact is already visible. Household electricity bills are rising faster than the national average, and grid planning now revolves around the demands of large computing facilities rather than homes or small businesses.
+
+What began as a technology surge has turned into a broader power and pricing challenge. Local governments first welcomed these facilities for the tax revenue. Over time, a different picture emerged: grid upgrades, substations, and transmission costs were largely shared across the system, while job creation remained modest compared to energy use.
+
+The infrastructure stayed. The leverage faded. Ireland offers a parallel lesson. By 2022, data centres accounted for over 20 per cent of the country's electricity demand, heavily concentrated around Dublin. Grid authorities warned that further expansion risked stability and climate goals. The response was practical, not ideological: new grid connections were paused in key areas.
