@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Will private credit pose a systemic risk in
+
+Will private credit pose a systemic risk in India?
+
+Thanks to regulatory foresight, on reducing banks' exposure to NBFCs and prudently structuring AIFs, we are well protected The recent collapse of three US firms - First Brands, Tricolour, and Broadband Telecom, incurring losses of over $10 billion - shares a common factor. All were financed through private credit - loans/debt issued by private credit funds - instead of conventional banks or bonds.
+
+These funds are, in turn, funded by investors like pension funds, insurers, banks, and high-net-worth individuals. Private credit has grown rapidly in Western markets, especially in the US, following the 2008 financial crisis. Stricter regulations compelled traditional banks to maintain higher capital reserves and implement more detailed borrower checks.
+
+This shift created opportunities for less-regulated private lenders to offer faster, bespoke loans, often financed by cheap bank debt during periods of low interest rates. This form of "regulatory arbitrage" enabled banks to issue loans more quickly, but with less transparency. As a result, investors and regulators struggle to accurately assess the actual risk of these loans, raising systemic concerns.
+
+This seems to be what occurred in the bankruptcies discussed earlier. All of these cases indeed have 'alleged fraud' at their core, which confirms concerns about diminished oversight and opacity. Rapid growth The global private credit market, valued at $3 trillion, is substantial. A notable concern is its rapid growth.
+
+Private credit has nearly tripled over the past decade and outpaced other credit types. Additionally, the rising exposure of traditional banks to these funds is worrisome, evidenced by banks writing off nearly $1 billion due to bankruptcies. There are two critical questions that require our attention.
+
+First, does this indicate the start of a broader systemic credit shock for the US financial system? Second, is the Indian financial system also at risk of experiencing a similar issue? The chances of a systemic issue in the US financial system seem low. Recent interest rate reductions by the Federal Reserve are likely to decrease borrower delinquencies.
+
+Moreover, the strong profitability and capitalisation of US banks should equip them to absorb possible losses. Regarding similar risk to the Indian financial system, we seem well-protected, thanks to the foresight of regulators -  Reserve Bank of India and the Securities and Exchange Board of India. Two key reasons need to be emphasised here: First, post the IL&FS crisis, the Indian banking system, under supervision of the RBI, reduced its exposure to NBFCs, which provided funding for wholesale credit (akin to private credit).
+
+As a result, the exposure of most NBFCs to wholesale credit has decreased substantially over the last five years. The RBI also advised against having multiple lending entities within a single business group to reduce risks and increase transparency. Second, the prudent structure of Alternative Investment Funds (AIFs) as prescribed by SEBI.
+
+While Category II AIFs can provide private credit solutions to their clients, the fund has very limited capability to borrow to fund these exposures. Moreover, their disclosure requirements are strict. As a result, the two main risks in US-based private credit funds  -  opacity and regulatory arbitrage  -  are well managed.
+
+Overall, private credit is unlikely to pose a systemic risk in India. While regulatory restrictions may have limited its growth as a financing vehicle, this is positive for the overall stability of the Indian financial system. By Sachin Gupta The writer is Chief Rating Officer and ED at CareEdge Ratings.
+
+Views expressed are personal
