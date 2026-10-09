@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Indias aviation is in need of datadriven Part One
+
+India's aviation is in need of data-driven oversight
+
+Data-driven oversight The December 2025 IndiGo crisis highlights India's lack of a data-driven aviation framework and a regulatory gap IndiGo, India's largest airline, faced an operational crisis in December 2025, leading to a surge in fares across the country. This episode underscored a broader issue: India is becoming the world's third-largest aviation market without building the data systems required to oversee it. In this case, regulators quickly stepped in to protect consumer interests.
+
+The Ministry of Civil Aviation imposed temporary price caps on domestic flights and the Directorate General of Civil Aviation (DGCA), prompted by the Competition Commission of India, requested average fare data from IndiGo, Air India, SpiceJet and Akasa between December 1-15, 2025, to investigate potential abuse of market dominance. While this reactive approach protects air passengers in the short term, it highlights a larger regulatory gap. Even with the requested data, regulators may still lack the visibility needed to act effectively.
+
+Without a consistent, analytical framework to study fares over time, it becomes difficult to distinguish between a legitimate, demand-driven spike and a surge that crosses into an abuse of market power. Airline data in the U.S. creates a digital trail These events are an opportunity to shift the DGCA's role from crisis response to steady oversight by learning from examples of the more mature airline market in the United States.
+
+Specifically, the way the U.S. Bureau of Transportation Statistics (BTS) collects and publishes airline data. The BTS maintains the Airline Origin and Destination survey, more commonly known as the DB1B database. Unlike the DGCA, which primarily tracks passenger volumes and freight traffic, the DB1B database publishes ticket-level data, including fares, for a 10% random sample of all domestic tickets sold each quarter since 1995.
+
+This is not a mere academic exercise. By collecting data on actual prices paid, itinerary details such as route flown, and carrier information, the BTS creates a usable digital trail. For India, adopting a similar 10% sampling framework would signal a new era of transparency, expanding the DGCA's role from tracking volumes to monitoring market behaviour.
+
+Much like a speed camera on a highway, the objective is not necessarily to issue penalties, but to encourage long-term compliance and maintain market hygiene. The effect of transparency on pricing Greater transparency also pushes airlines to self-regulate their pricing algorithms. When fare data are open to the public or regulatory scrutiny, carriers are more likely to build ethical guardrails into their revenue management systems, preventing both opportunistic and algorithm-driven price spikes that can trigger public backlash and legal challenges, such as the ongoing Public Interest Litigation before the Supreme Court of India.
+
+The availability of historical pricing data can also strengthen research and policy. For example, over 30 years of US airline data is publicly available through the DB1B database. Academic researchers have used these data to identify the "Southwest Effect"  -  a phenomenon in the U.S. where the entry of Southwest Airlines, a low-cost U.S.
+
+carrier, into a new route leads to a drop in average fares and a corresponding spike in average passenger traffic. A similar dataset in India can allow regulators to observe competitive behaviour, or the lack of it, across routes, time periods and market structures. First, comparing fares on different routes.
+
+If routes dominated by a single airline consistently show higher fares than those with multiple players, it may indicate market power. Second, tracking fare changes when competitors enter or exit a route. A sharp rise in fares after a competitor exits, or a drop when one enters, signals that the remaining carriers can exercise market power.
