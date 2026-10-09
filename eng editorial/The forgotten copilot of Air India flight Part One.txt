@@ -1,0 +1,16 @@
+Category: Editorial
+Title: The forgotten copilot of Air India flight Part One
+
+The forgotten copilot of Air India flight 171
+
+One year on, the AI-171 investigation demands answers, accountability, and closure A year since the tragic crash of Air India flight AI 171 that cost 260 lives on June 12, 2025, the Ministry of Civil Aviation (MoCA), Government of India, and its Air Accident Investigation Bureau, have strayed from their promised "transparent and factual" path. The only piece of information that is available to us is the Preliminary Report that was published in July 2025. The cryptic report has hidden pointers that are worth highlighting, in the absence of any final report.
+
+The flood of false narratives spread by some sections of mainstream media and social media compel this writer to highlight issues. The usual tendency of the MoCA and the Directorate General of Civil Aviation (DGCA) to conceal the truth and place the blame on the pilot has, in this case, taken a different turn. Instead, there is a defence of the captain and playing possum in the face of claims by some pilots' associations and "aviation illiterates"  -  as a former National Transportation Safety Board (NTSB) investigator has described them in a YouTube video  -  that the crash resulted from failures on the part of the airline and the aircraft manufacturer.
+
+Media narratives versus facts The first clear indication appears on pages 12-13 of the preliminary report which says: "The forward EAFR [Enhanced Airborne Flight Recorder] was located on 16 June 2025 from the wreckage debris beside the Building F." The forward EAFR records both the digital flight data and voice data from cockpit area mike. It is therefore evident that the AAIB has listened to the cockpit voice recorder (CVR) recording and alerted the MoCA, which in turn informed the Ministry of Home Affairs (MHA). On the same day, June 16, citing intelligence inputs and a perceived threat, the MHA reportedly ordered X-category commando protection for the head of the AAIB.
+
+He continues to enjoy this protection at taxpayers' expense, even as the travelling public and the families of the crash victims remain in the dark. Certain narratives in the media and social media have been on the report of the fuel control switches (FCS) having transitioned from run to cutoff and then cut-off to run after several seconds delay. The use of the word "transitioning" in the report is being bandied about as evidence of American influence on the report.
+
+What is being forgotten is the fact that the FCS is a spring loaded switch that has to be lifted off the run slot, moved over the gate and dropped into the cut-off slot. The same action is required for moving the switch from cutoff to run. These switches cannot be moved by a software error or a power failure.
+
+The only CVR statement in the report mentions this: "one of the pilots is heard asking the other why did he cutoff. The other pilot responded that he did not do so." The rest of the CVR recordings were apparently shared with the MoCA and the MHA for the threat perception. The Government of India knew the facts on June 16, 2025 and is still dragging its feet to provide closure to the affected families who are experiencing mental agony.
