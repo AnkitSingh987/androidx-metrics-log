@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Why E is here sooner than we thought Part One
+
+Why E85 is here sooner than we thought
+
+In today's Finshots, we explain why E85 has become a reality far sooner than planned. The Story Last week, India quietly did something it has never done before. At a handful of stations across the country, a new fuel appeared on the pumps. This was a blend containing 85% ethanol and just 15% petrol also known as E85.
+
+And if things go as planned, it could completely change how India powers its vehicles. But here's the thing. India has only just started getting used to E20 fuel, which became mandatory across petrol pumps in April this year. So how are we already talking about jumping from an E20 blend we're still getting accustomed to, to a much higher E85?
+
+To understand that, you'll need to rewind about two decades. You see back in 2001, the government launched a simple pilot to blend just 5% ethanol into petrol. The idea was that India imports enormous quantities of crude oil. But ethanol can be made domestically from sugarcane. So why not mix the two and reduce the import bill?
+
+This policy existed on paper for years but it didn't take off for a few reasons. And the sugar mills had little reason to cooperate. Selling ethanol to oil companies was less profitable than making sugar. So blending rates moved between 0.1% and 1.5% for over a decade. All that changed in 2014. The government stepped in with a set of reforms that changed the economics behind blending.
+
+It fixed a guaranteed price that distilleries would be paid for ethanol, so producers knew exactly what they'd earn before investing. Instead of only allowing ethanol from molasses (the leftover syrup from sugar refining), producers could now use sugarcane juice directly and even damaged food grains. Blending climbed from 1.5% in 2014 to 10% by 2022, five months ahead of schedule.
+
+Seeing how quickly adoption picked up, the government brought forward the E20 target from 2030 to 2025. India hit that milestone too, delivering significant benefits along the way, including foreign exchange savings of nearly ₹1 lakh crore that would otherwise have gone towards crude oil imports, and a reduction of 544 lakh metric tons of CO2 emissions since ethanol-blended fuel burns cleaner. But that's also when the problem began.
+
+Because the government has been aggressively pushing a clean energy transition, India's distillery sector rapidly expanded its ethanol production capacity to roughly 2,000 crore litres, helped by government incentives to scale up. But here's the thing. Demand never quite caught up. For context, the E20 petrol available today only needs about 1,016 crore litres of ethanol every year.
+
+Even if you add non-fuel demand from medicines, sanitisers, alcoholic beverages and industrial solvents, India's total ethanol requirement stands at roughly 1,350 crore litres. In other words, we now have more production capacity than we currently know what to do with. And that creates a problem as the industry is sitting on unused capacity built with government support.
+
+So naturally, the excess ethanol has to go somewhere. You can't really blend it with diesel because the two fuels are molecularly different and tend to naturally separate over time. Ethanol also burns differently and has lower energy content, which can affect engine performance and fuel systems designed for diesel.
+
+Which is why the government is exploring alternatives like isobutanol, which may work better with diesel blending. But that's still in the early stages of testing. That simply means for now, diesel remains outside the ethanol story. Which leaves only one fuel where ethanol can scale meaningfully: petrol.
