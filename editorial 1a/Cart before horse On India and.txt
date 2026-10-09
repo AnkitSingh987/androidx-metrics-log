@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Cart before horse On India and
+
+Cart before horse: On India and vehicle-to-vehicle communication technology
+
+And vehicle-to-vehicle communication technology Roads need upgrade before tech solutions can reduce accidents India is, in many respects, a country in transition and thus suffers varieties of a common chicken-and-egg problem: it adopts solutions that are only feasible at scale but struggles to operationalise that scale. The Ministry of Road Transport and Highways is set to introduce vehicle-to-vehicle (V2V) communication technology that will allow vehicles on the road to send and receive data about their location and movement vectors, in a bid to improve road safety. This seems credible at a time when road accidents are increasing in India.
+
+A spate of accidents in April in Karnataka, Maharashtra, and Uttar Pradesh killed more than 50 people. The Supreme Court of India took suo motu cognisance of two similar incidents in 2025 and, on April 26, asserted that the state must proactively enforce the constitutional right to life and remove any obstructions in highways' right of way. However, V2V is unlikely to help as its hardware demand is non-trivial relative to what exists, yet is crucial.
+
+V2V is part of the wider V2X, or vehicle-to-everything, technological scheme in which vehicles communicate with other infrastructure (V2I), such as traffic lights and tolling, and pedestrians (V2P), aside from V2V. However, India currently lacks the interoperability and backend systems to operationalise it. In fact, the Ministry has yet to specify the key, akin to the 'language' vehicles broadcast in, Indian V2V will use  -  DSRC or C-V2X  -  and has unsurprisingly spurred public concern.
+
+Vehicle owners already face steep compliance costs, including having to pay for vehicle location tracking devices and high-security registration plates, sans subsidies or a competitive vendor market to defray the higher cost of approved devices. In the V2V network, each vehicle is a node where data are processed and interpreted for the driver. However, many commercial drivers are not used to driving environments with interfaces and are under-trained to interpret vehicle alerts.
+
+This raises the prospects of bad actors intercepting communications to send false warnings or trigger unnecessary braking, in the absence of strong security protocols, and of network channel congestion (5.9 GHz is the international standard) and packet loss. More fundamentally, the country lacks proper road design, routing, and speed control while road use is dominated by two-wheelers, pedestrians, and non-motorised traffic. If a city is not 'smart', a 'Smart City' solution such as V2V will be marginal at best.
+
+It will also be more useful when more users adopt it, but at present, early adopters will bear the full cost while enjoying underwhelming benefits. If the technology is to help mitigate the deadliness of India's roads, the Ministry must slowly roll out both infrastructure and training, with phased mandates and subsidies, first.
