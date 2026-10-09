@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Healthcares exit multiples Part One
+
+Healthcare's exit multiples
+
+Why curbs on PE investment in healthcare are vital When the patient becomes a line item: Why India must put a speed breaker on private equity in healthcare India's hospitals have discovered a new vital sign. It is not pulse, BP, or oxygen saturation. It is EBITDA. And if that sounds satirical, it is only because reality has beaten satire to it.
+
+Over the past decade, private equity (PE) has entered India's healthcare sector with the enthusiasm of a venture capitalist discovering insulin-resistant cash flows. Hospitals, diagnostics chains, fertility clinics, dialysis centres, oncology networks… nothing with a human body attached has been left unfinancialised. Healthcare, once a vocation with margins, is now a margin with patients attached.
+
+The pitch is always the same. PE will "professionalise" healthcare, bring "process efficiency", improve "asset utilisation", and scale access. What gets quietly de-emphasised is the word 'care' in healthcare. The healthcare sector has attracted over $30 billion in private equity and venture capital since 2015, with deal sizes accelerating sharply post-Covid.
+
+Large hospital chains now routinely operate under PE ownership or influence, with expected internal rates of return (IRR) ranging from 18-25 per cent, sometimes higher. These are not health outcomes. These are fund economics. The problem is not efficiency per se. The problem is what gets optimised when efficiency is defined by exit multiples.
+
+The economics Average length of stay is no longer a clinical judgement… it is a spreadsheet variable. Diagnostic tests are no longer ordered to rule out disease but to rule in revenue. ICU beds are not scarce medical resources; they are "high-yield assets". Surgeons are not healers; they are "rainmakers".
+
+And patients, inconveniently mortal, are the only stakeholders who cannot negotiate terms. Studies found that out-of-pocket expenditure remains over 47% of total healthcare spending, despite the rise of "organised" private hospitals. In simple terms, PE-backed healthcare has not made care cheaper. It has made billing more sophisticated.
+
+If PE is the accelerant, insurance is the oxygen. India's private health insurance market has grown at over 20% CAGR, crossing ₹1 trillion in gross premiums. In theory, this should protect patients. In practice, it has created a perverse nexus: hospitals over-treat, insurers underpay, and patients are squeezed in between… financially anaesthetised but fully conscious.
+
+Standard procedures now come with "protocol-driven" add-ons. A basic surgery mysteriously requires extra consumables, upgraded rooms, and precautionary diagnostics. Insurers respond with claim denials, sub-limits, and post-treatment audits. Hospitals respond by advising patients to pay upfront and "fight it out later".
+
+PE-backed management loves this ecosystem. Insurance guarantees cash flow. Denials can be externalised to the insurer. Doctors are incentivised to maximise billable interventions. Risk is diversified. Ethics are optional. According to an IRDAI analysis, the claim repudiation rates for certain private hospitals were disproportionately high because of inflated billing and non-standard charges.
+
+Yet the hospitals continue to grow, raise capital, and prepare for IPOs. Moral hazard, it turns out, is highly scalable. PE prides itself on processes. In healthcare, this translates into clinical pathways designed not merely for outcomes, but for throughput. Doctors increasingly report pressure to meet revenue targets… sometimes euphemistically called "procedure mix optimisation".
+
+Senior clinicians are replaced with younger, cheaper doctors. Time spent per patient shrinks. Empathy does not feature in quarterly reviews. A multi-city survey by the IMA found that over 60 per cent of doctors in corporate hospitals felt their clinical autonomy was compromised by management pressure.
