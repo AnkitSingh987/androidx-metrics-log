@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Beyond compliance Indias road to cleaner Part One
+
+Beyond compliance, India's road to cleaner mobility
+
+Weak fuel efficiency norms risk keeping the country dependent on imported oil The debate over India's proposed Corporate Average Fuel Efficiency (CAFE) III norms comes at a crucial time for the global automobile industry as it transitions from internal combustion engines (ICE) to electrified powertrains. It also highlights India's vulnerability to imported crude oil amid renewed geopolitical tensions. The framework India adopts today will influence investment, technology choices and energy security for decades.
+
+CAFE III, compliance or transformation The Power Ministry's July 16 draft notification marks the third iteration of CAFE III after months of industry lobbying. While some manufacturers pushed for stricter norms, others sought flexibility. The proposal attempts a compromise, but the question remains whether it prioritises compliance over transformation.
+
+CAFE norms set annual sales-weighted average fuel-efficiency targets for manufacturers' passenger vehicle fleets rather than individual models. Introduced in the United States in 1975 after the 1973 Arab oil embargo, they aimed to reduce oil dependence and protect consumers from high fuel costs. The rules caused automakers to adopt smaller, more efficient vehicles.
+
+This also helped accelerate the rise of Japanese manufacturers. From the 1990s, fuel-efficiency regulations gained a second purpose: reducing greenhouse-gas emissions. In the United States, the EPA's Endangerment Finding brought greenhouse gases under the Clean Air Act, with later emissions standards aligned closely with CAFE rules.
+
+While technology-neutral, the rules encouraged innovation in hybrids and electric vehicles (EV). Ironically, the Obama administration's $465 million Department of Energy loan to Tesla in 2010 helped accelerate an EV industry now dominated by China. China's experience is even more instructive. It introduced mandatory fuel-consumption standards in 2004, initially regulating individual vehicle models by weight rather than fleet averages.
+
+As car ownership surged, concerns over oil imports and urban air pollution grew. The standards tightened over time before China changed direction in 2018 with the introduction of its Dual Credit System. Under this framework, manufacturers must meet both Corporate Average Fuel Consumption (CAFC) standards and New Energy Vehicle (NEV) credit requirements.
+
+Fuel-efficiency compliance alone is insufficient. Companies that fail to earn enough NEV credits through EV or plug-in hybrid production must purchase credits from those with surplus EV production, creating a market that rewards innovation and penalises delayed electrification. For example, in India, Maruti Suzuki could remain NEV credit-deficient by 18% despite having highly fuel-efficient ICE models if it had no EVs in its portfolio.
+
+It would need to buy credits from companies such as Tata Motors or Mahindra, which generate NEV credits through their EV portfolios. While CAFC credits can be banked, carried forward or transferred within corporate groups, NEV credits cannot be offset in the same way. The results are evident. According to the International Energy Agency's Global EV Outlook 2026, China sold more than 13 million electric cars in 2025, accounting for almost 55% of new passenger vehicle sales.
+
+Comparable figures were about 27% in the European Union, nearly 10% in the U.S. and around 4% in India. India's own debate has centred on differences between Maruti Suzuki, Tata Motors and Mahindra & Mahindra. An earlier proposal effectively carved out lighter small cars from the full stringency of CAFE III.
+
+That exemption has since been removed. The current proposal seeks to reduce average emissions from around 113 gCO2/km to 77 gCO2/km by FY2031-32. On paper, that appears ambitious. Yet, the headline target tells only part of the story. The cost of flexibility The revised framework introduces several flexibility mechanisms that, taken together, substantially reduce its effective stringency.
