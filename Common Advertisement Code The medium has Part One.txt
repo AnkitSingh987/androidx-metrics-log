@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Common Advertisement Code The medium has Part One
+
+Common Advertisement Code: The medium has changed, rules should too
+
+The medium has changed, rules should too Sebi's proposed Common Advertisement Code is a simplication that should be adopted. But harmonisation is the starting point, not the object Financial regulation usually follows innovation in products. Sebi's consultation paper, issued on June 23, addresses innovation in selling.
+
+The proposed Common Advertisement Code says nothing about what regulated entities may offer investors. It governs only how they may describe it, across every medium that now reaches investors. Ads today reach investors through social media, podcasts, webinars, and trading applications at a speed and scale the first advertisement codes never contemplated.
+
+Those codes remain fragmented and entity-specific, differing more in procedure than in principle. A stockbroker answers to exchange circulars, investment advisers and research analysts to master circulars, a mutual fund (MF) to the Fifth Schedule of its regulations, and a portfolio manager to an annexure of another. Sebi proposes to replace all of them with one chapter in the Sebi (Intermediaries) Regulations, 2008, covering brokers, depository participants, investment advisers, research analysts, portfolio managers, online bond platform providers, and MFs.
+
+The proposal is both timely and necessary. The market has moved from distinct intermediaries to integrated platforms that offer several regulated products through one interface. Separate codes for each entity produced overlapping obligations, inconsistent interpretation, and avoidable cost, although every code pursued the same objective: ads that are fair, balanced, and not misleading.
+
+The Code is also technology-neutral, treating print, broadcast, and digital communication alike. Investor harm turns on what a communication says, not on the medium that carries it. It borrows, too, the Central Consumer Protection Authority's 2023 guidelines on dark patterns, so that false urgency and subscription traps are treated as advertising failures in their own right.
+
+The most significant change proposed is the shift from prior approval to post-issuance reporting. Several existing codes require an intermediary to obtain clearance from an exchange or supervisory body before an ad is issued, a model built for a time when advertising was infrequent and confined to traditional media. Entities now respond to market developments on the same day, sometimes within the hour.
+
+Requiring clearance for each such communication delays legitimate activity without measurably improving investor protection. Sebi's own explanation is candid: the prior approval model was designed for traditional advertising where volumes were low and lead times were long. The proposal then stops short.
+
+Every ad must still be reported to the supervisory body, no later than 24 hours from issuance. For an entity that issues hundreds of digital communications a month, that doesn't reduce the compliance burden. It relocates it from before publication to after. The filing is universal, so supervisory attention remains spread evenly across communications that carry no risk at all.
+
+A more proportionate design would rely on internal approval by the entity, prescribed governance standards for how that approval is exercised, and periodic or risk-based review by the supervisory body. Where an ad is misleading, it should be taken down through a reasoned order that the entity can contest, not forestalled by a filing obligation imposed on everyone in advance. The paper also recognises that not every communication issued by a regulated entity is an advertisement.
+
+Investor education, factual corporate communication, and regulatory disclosure serve a purpose different from promotion and should not be treated alike. The carve-out, however, turns on branding that is "minimal and incidental" and content carrying "no promotional intent". Both are matters of degree, and degree is exactly what a compliance officer cannot certify.
