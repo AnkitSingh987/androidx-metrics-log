@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The vanishing deposit base Part One
+
+The vanishing deposit base
+
+India's celebrated migration from fixed deposits to equity mutual funds carries systemic risks that neither policymakers nor investors have fully reckoned with Walk into any bank branch today and notice what the relationship manager is selling. Where once the conversation turned on fixed deposit tenures and interest payout options, it now turns to systematic investment plans, balanced advantage funds, and equity-linked products. The customer is often the same: a retired professional, a government servant's widow, a small trader parking a lump-sum.
+
+The instrument has changed, the risk has changed; whether the customer has changed is the question this column asks. Something quiet and consequential is happening to India's savings. For decades, the fixed deposit was the household's instrument of choice, offering certainty in a country where certainty was scarce: a known rate, a known maturity, principal that stayed where it was placed.
+
+The deposit base it built was the foundation on which credit flowed to farms, factories, and homes , some of the key priority sectors of the economy. That narrative is now shifting. The RBI's data for the year ending 2025 is unmistakable: household bank deposits fell nearly 9 per cent to ₹12.54 lakh crore, small savings (excluding provident and pension funds) fell by nearly a quarter, and life insurance fund investments dropped 17 per cent.
+
+Mutual fund AUM has grown at a CAGR of 21.9 per cent over five years, crossing ₹81 trillion by May 2026, while annual SIP inflows crossed ₹3 trillion for the first time in 2025, across nearly 10 crore active accounts, most opened after 2020. This shift is presented as the democratisation of Indian capital markets, and the claim has merit. The equity culture of the past decade has created real household wealth, deepened capital markets, and cushioned India against foreign portfolio swings, as in 2024-25, when domestic SIP flows offset large FPI outflows as earlier generations of investors could not.
+
+These are genuine gains. But they do not constitute the full picture, and the parts left out deserve serious attention. A bank's credit-deposit ratio measures the proportion of deposits deployed as loans. The RBI's historically comfortable range is 75 to 80 per cent. As of February 2026, the system-wide ratio stands at 82.4 per cent, above that ceiling, and the incremental credit-deposit ratio crossed 100 per cent in mid-March 2026, meaning every new rupee deposited was immediately deployed as credit.
+
+The mechanism is straightforward: when banks cannot grow deposits in line with credit demand, they compete for funds at higher cost, which passes through to lending rates for home loans, MSME credit, agriculture, and infrastructure. A household that shifts savings from an FD into a balanced advantage fund has made credit marginally costlier for another household borrowing for a home; private decisions aggregate into system-level consequences invisible at the point of choice. The inexperience problem The more immediate concern is behavioural.
+
+The Indian equity bull run has been, with brief interruptions, a 20-year phenomenon. The cohort now holding those 10 crore SIP accounts entered largely after 2016, and in very large numbers after 2020. They have been told, accurately for their own experience, that staying invested through volatility is the correct response.
+
+That advice has never been tested against a sustained, multi-year bear market. India's own market history offers a domestic warning: the Nifty 50, adjusted for inflation, delivered negligible real returns between 2000 and 2013, thirteen years in which a retiree's gratuity invested at the peak would barely have kept pace with prices. Similar episodes have occurred elsewhere.
