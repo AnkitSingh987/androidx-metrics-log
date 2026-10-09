@@ -1,0 +1,14 @@
+Category: Editorial
+Title: The hidden cost of insurance distribution Part Two
+
+The hidden cost of insurance distribution
+
+This is a market-structure issue, not an agent-conduct issue. Several popular remedies fail to address this reality. Clawbacks make intermediary cash flows uncertain, encouraging risk aversion and exit from insurance distribution, ultimately harming penetration. Commission disclosure offers limited benefit to most buyers while incentivising informal rebates that push transactions outside regulatory visibility.
+
+Open architecture, often positioned as pro-competition, risks worsening outcomes by eroding insurers' incentives to invest in agent capability and service  -  mirroring the mutual fund industry's post-2012 experience. Distribution economics cannot be corrected through disclosure or accounting reclassification alone. The issue runs deeper in incentive design and bargaining power.
+
+A way out What would help is rebalancing commissions away from extreme front-loading toward meaningful renewal income, so that servicing and persistency matter as much as sales. Bancassurance requires explicit joint oversight by the RBI and IRDAI, focusing on persistency, complaints, servicing quality and commissions -  not just headline expense ratios. EOM limits must recognise channel economics while ensuring that acquisition costs remain within reasonable bounds.
+
+Above all, regulation should pivot toward outcomes  -  retention, service satisfaction and claims experience rather than process compliance. Insurance penetration has already softened, declining from 4% to 3.7% of GDP in FY2024. If distribution costs continue to rise faster than value delivered, insurance will steadily lose relevance for middle-income households.
+
+Containing acquisition costs within rational limits is not optional. It is essential for sustainable penetration, a concern rightly flagged by the RBI. T.C. Suseel Kumar is a former Managing Director of the Life Insurance Corporation of India. R. Sudhakar is a former Executive Director  - Marketing of the Life Insurance Corporation of India
