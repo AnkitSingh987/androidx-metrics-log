@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The invisible race behind AI Part One
+
+The invisible race behind AI
+
+Like telecom before it, the AI revolution is becoming a battle for power, compute, fibre and data centres There is a striking similarity between the telecom boom of the late 1990s and the artificial intelligence race unfolding today. On the surface, the two appear unrelated. One connected people; the other connects machines.
+
+Yet, scratch beneath the headlines and the pattern looks remarkably familiar - the biggest winners may not be the companies building the most sophisticated applications, but those owning the infrastructure that makes them possible. Two decades ago, corporate and regulatory conversations revolved around telecom licences, spectrum auctions, and subscriber additions. The glamour belonged to handset makers and mobile operators.
+
+But as the industry matured, it became evident that the real strategic assets were less visible. Spectrum determined network quality. Fibre carried volumes of data. Towers became indispensable, giving rise to an entirely new industry of infrastructure providers. For the moment, public attention is focused on chatbots, large language models, and the race between OpenAI, Google, Meta, and Anthropic.
+
+Yet, behind the software lies an increasingly physical business. AI does not merely run on algorithms. It runs on electricity, land, fibre, cooling systems, and increasingly scarce computing capacity. That explains why some of the biggest recent announcements have had little to do with software, but have instead centred on data centres, renewable energy, graphics processing unit (GPU) clusters, and power infrastructure.
+
+Google's proposed $15-billion AI hub in Visakhapatnam, Reliance Industries' AI infrastructure partnership with Meta, Adani Group's plans to invest heavily in AI infrastructure, and Amazon Web Services' continued expansion of cloud infrastructure in India all point to the same conclusion - the race is increasingly about building the physical backbone of AI rather than merely developing apps. Consider what companies are talking about today. Telecom operators asked how much spectrum they owned or how many towers they needed to support growing subscriber numbers 20 years ago.
+
+AI companies are asking a different set of questions. Where can they secure another 200 MW of uninterrupted power? Which state can provide industrial land close to transmission infrastructure? Is there enough fibre capacity? Can cooling systems support hyperscale computing around the clock? This shift also explains why an entirely different set of companies has took over centre stage.
+
+The AI infrastructure race is no longer the preserve of software firms. Energy companies, telecom operators, infrastructure developers, and real estate owners are becoming equally important participants. Reliance Industries is combining telecom, digital services, and energy to build AI infrastructure.
+
+Adani Group's investments span renewable energy, transmission, and data centres. Bharti Airtel is leveraging its fibre and connectivity assets while expanding its data centre footprint. Tata Group is investing across semiconductors, cloud infrastructure, and data centres. Electricity has become a strategic business variable.
+
+For years, power was treated as a utility that tech companies simply consumed. Today it has become a competitive advantage. Every hyperscale data centre requires uninterrupted electricity, often running into hundreds of megawatts. Companies are signing long-term renewable power agreements, investing in captive generation and choosing project locations as much for grid availability as for tax incentives.
+
+Power, in other words, has become the new spectrum. The parallel extends further. Fibre, which once transformed telecom economics, is once again emerging as a strategic asset. AI workloads involve moving large amounts of data between users, cloud platforms and computing clusters. Data centres without high-capacity fibre are of limited value.
