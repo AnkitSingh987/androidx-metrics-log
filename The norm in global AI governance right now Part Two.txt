@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The norm in global AI governance right now Part Two
+
+The norm in global AI governance right now is performance and scale; India can rewrite that
+
+The communities whose aquifers are drawn down to cool servers do not sit at the table when those investment decisions are made. India's regulatory response to this has been uneven. The National Data Governance Framework and the Digital Personal Data Protection Act address data flows but are largely silent on the physical resource implications of data infrastructure.
+
+There is no mandatory environmental impact assessment framework specific to AI infrastructure. No water use reporting requirement. No energy source disclosure obligation tied to AI procurement. This gap matters because India is about to become one of the largest markets for AI deployment. The government's IndiaAI Mission has committed Rs 10,372 crore toward building compute capacity, including a plan for shared GPU infrastructure.
+
+That infrastructure, if built to current global standards, will carry the same energy and water intensity as equivalent facilities elsewhere. If built to a different standard, one that prioritises renewable energy mandates, water recycling, and computational efficiency benchmarks, it becomes something else: a proof point that AI governance includes ecological governance. The ethical argument here is not sentimental.
+
+It draws from the same tradition of cost-benefit analysis that governs infrastructure investment decisions. When a dam is built, its social and environmental costs are, at least formally, part of the approval process. AI infrastructure is infrastructure. It should be governed as such. What does an ethical audit of AI resource use look like in practice?
+
+It starts with disclosure: mandatory reporting of energy consumption, water use, and carbon intensity for any AI system procured or deployed by the government. It extends to procurement standards: preference for models that meet efficiency thresholds, not just performance benchmarks. It includes siting policy: data centres built in locations with access to renewable energy and adequate water resources, not simply where land is cheap and regulatory oversight is light.
+
+India's DPI model already embeds a version of this logic. The stack is open, auditable, and designed for the public interest rather than for rent extraction. Extending that logic to the AI layer means insisting that AI systems procured for public use, whether for agricultural advisory services, health diagnostics, or judicial assistance, meet standards of resource frugality commensurate with the scale of their deployment.
+
+The Tomorrowland conversations at forums like Raisina shape what the international community treats as normal in AI governance. Right now, the norm is performance and scale. India has the institutional experience, the development context, and the democratic legitimacy to argue for a different norm: one that treats ecological integrity as a condition of technological advancement, not an afterthought to it.
+
+The Saṁskāra of progress is not fixed. It is made and remade by the choices that states, researchers, and institutions embed in the systems they build. India's frugal AI tradition is not a limitation to be overcome. It is a governance asset to be deployed. Sagari Gupta is a public policy researcher with over eight years of experience in social development, governance reforms, and data-driven policy analysis in India.
