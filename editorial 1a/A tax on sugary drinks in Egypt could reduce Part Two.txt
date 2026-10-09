@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A tax on sugary drinks in Egypt could reduce Part Two
+
+A tax on sugary drinks in Egypt could reduce disease and save $1.8 billion in healthcare costs: modelling study
+
+Across the lifetime of Egypt's current population, the tax could generate 1.6 million additional health-adjusted life years, a measure combining both longevity and quality of life. To put that in perspective, Egypt's landmark national campaign to screen and treat hepatitis C, one of the country's most celebrated public health achievements, is projected to save roughly 883,000 such life years between 2018 and 2030. The impact of a sugary drinks tax is in the same order of magnitude and is much easier to put in place.
+
+The effects are not evenly distributed. Young Egyptians benefit most because they consume more sugary drinks and respond more strongly to price signals. Women gain slightly more than men  -  around 11 per cent more in healthy life years  -  reflecting higher rates of obesity among Egyptian women and greater sensitivity to added sugars.
+
+This suggests the tax could meaningfully narrow some of the gender-based health disparities that are hard to address through conventional healthcare interventions alone. Why these findings matter Egypt is not an outlier. It sits within a continent-wide pattern. Obesity rates in sub-Saharan Africa have risen from 9 per cent to 23 per cent for men and from 17 per cent to 39 per cent for women between 1990 and 2022.
+
+In South Africa, obesity rates are among the highest in the region, costing an estimated $7.6 billion (around 2 per cent of GDP) in 2019. That's projected to rise to $42 billion by 2060. South Africa is one country among others on the continent that has already acted. The country introduced a Health Promotion Levy on sugary beverages in 2018.
+
+Studies evaluating the levy found a 32 per cent reduction in sugary drink purchases among lower-income households and a 27 per cent reduction among higher-income households, with reductions in sugar content exceeding reductions in volume. The tax is working, and the gains are largest among the people who need them most. Across sub-Saharan Africa, frequent consumption of sugary drinks is consistently associated with an increased risk of non-communicable diseases.
+
+Obesity is prevalent among nearly half of the women studied in the region. These are not abstract statistics. They are the future patient load of health systems that are already strained. Limitations worth noting Our model has limitations. The price sensitivity estimates we used draw on international data rather than Egypt-specific surveys, and Egyptian consumers may respond differently to price changes than the literature suggests.
+
+The model also cannot capture the possibility that consumers switch to cheaper sugary drinks with similar sugar content rather than reducing their intake altogether. We also included only direct healthcare costs. Factoring in lost productivity and the broader economic burden of obesity would push the estimated benefits substantially higher.
+
+What this means for policy This study does not argue that a sugary drinks tax is the only answer to Africa's non-communicable disease crisis. It is one tool among many, and its design matters: the tax rate, which beverages are covered, and how revenue is used all affect the health and equity outcomes. Future research should explore how effects differ across income groups and between urban and rural areas  - questions that are especially important in diverse African contexts.
+
+What the evidence does show is that governments across Africa and the Middle East that are grappling with rising obesity, strained health budgets, and growing non-communicable disease burdens have a cost-effective, evidence-backed tool available to them. The question is no longer whether a sugary drinks tax can work. It is whether the political will exists to use it.
