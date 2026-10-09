@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Beyond blue links
+
+Beyond blue links
+
+As search and AI converge, the battle is shifting to who controls users' first digital stop For more than two decades, Google shaped one of the Internet's most basic habits. When users wanted information, they searched. The act became so deeply embedded in digital behaviour that the company's name turned into a verb.
+
+Search itself remained relatively stable despite changes in devices, apps, and social media. Users typed queries, Google ranked websites, and the Internet's discovery system functioned through links and referrals. The company's latest announcements around artificial intelligence (AI)- powered Search at its annual developer conference indicate that this assumption can no longer be taken for granted.
+
+Increasingly, users are beginning their digital journeys elsewhere. Conversational AI platforms like ChatGPT, Perplexity, etc., are emerging as destinations not merely for information retrieval but for explanations, recommendations, coding help, planning tasks, and research. Google's decision to make Search more conversational and capable of carrying out tasks is therefore not simply a product enhancement exercise.
+
+It is a response to a deeper shift in user behaviour and a recognition that the battle is no longer only about improving search results. It is about ensuring that users continue to begin their journeys within Google's ecosystem. Great Convergence What makes the present moment notable is the convergence taking place between two previously distinct models.
+
+Search engines and AI assistants were designed for different purposes. Search specialised in indexing and retrieving information from the web, leaving users to navigate among links and sources. AI assistants were designed to understand queries, generate responses, and engage in conversations. Those distinctions are now narrowing rapidly.
+
+Google is attempting to transform Search into an assistant that can reason, synthesise information, and potentially perform actions on behalf of users. At the same time, AI platforms are adding live web access, search capabilities, shopping functions, and task execution features. In effect, search is becoming more assistant-like while AI assistants are becoming more search-like.
+
+This movement towards the middle suggests that the future of digital interaction may not resemble either model in its original form. Instead, the market appears to be moving towards a single interface. The implications extend well beyond product design. Technology companies have historically fought for control over default behaviour.
+
+Earlier battles centred on operating systems, browsers, and smartphones because these served as gateways to users. The winners gained not only market share but also influence over ecosystems, developer communities, and advertising networks. The emerging competition around AI interfaces may prove similar.
+
+The platform that becomes the user's instinctive first stop acquires considerable advantages. It gains insight into user intent before anyone else and influences discovery, recommendation, and commercial decisions, from shopping choices to media consumption. Search engines traditionally acted as intermediaries directing users elsewhere.
+
+AI interfaces increasingly aim to become destinations where users receive answers without necessarily leaving the platform. Monopolizing Attention This competition will almost certainly benefit users in the short term. Companies competing intensely for relevance often produce better products. Yet the history of technology suggests that convenience and concentration frequently grow together.
+
+If one or two platforms emerge as dominant entry points to digital activity, questions around market power and gatekeeping are likely to reappear in a different form. Regulators previously confronted such concerns around search engines, app stores, and social media platforms. Similar debates may eventually arise around AI interfaces that influence what users see, read, and buy.
+
+The next technology battle may not ultimately be about search or artificial intelligence individually. It may instead be about who becomes the Internet's front door.
