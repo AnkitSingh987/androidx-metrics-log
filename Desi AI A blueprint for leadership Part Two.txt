@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Desi AI A blueprint for leadership Part Two
+
+Desi AI: A blueprint for leadership
+
+Then the baton must be passed to the private sector, unleashing their "animal spirits" to take innovations to the finish line. India Stack and the UPI are testaments to what is achieved when the government provides a vision and puts the right people in charge; here the government provided the infrastructure, policy, and regulatory support, but allowed the ecosystem to flourish. The baton exchange to the private sector is where many projects fail.
+
+A prominent example is C-DoT. Tasked with modernising India's telecom infrastructure, C-DoT had early successes with microprocessor-based exchanges that worked in India's harsh conditions of heat, humidity, and dust. But when the "dog caught the car" - after the technology was shown to work - non-technologists stepped in to "manage" the process, licensing only a hardware specification and matching object code to manufacturers.
+
+This meant private companies competed on manufacturing efficiency and not on innovation. Animal spirits were unleashed, but the beast was on a leash. Contrast this with China, where Huawei and ZTE started around the same time as C-DoT. They were encouraged to collaborate, co-develop, and eventually compete with multinationals.
+
+Internal competition was nurtured, regulatory help was provided, and today they are global giants. C-DoT lost momentum when control passed to non-technologists. To ensure India's position as a top-tier AI power, the government must synthesise these and other lessons into a coherent strategy. We humbly suggest a tech-governance panchshila.
+
+First, enable, don't direct. Provide broad objectives and let the best minds determine the trajectory. Micro-management causes stagnation, but broad vision leads to innovation. Second, establish expert leadership. Avoid the trap of administrative generalists running technical programmes. Recruit domain experts and empower them to make decisions and take risks, like TSMC and DARPA did.
+
+Third, provide strategic funding, not corporate charity. Fund innovation and risk-taking and resist the temptation to flood the ecosystem with capital. Funding start-ups just for the sake of it leads to mediocrity and a "dumbed down" start-up ecosystem. Fourth, embrace open-source. Open-source is a "rising tide" raising all boats and must be preferred over closed, nationalist silos.
+
+Regional language large language models are valuable, but such projects alone cannot make India a global leader. We must contribute to, not just benefit from, global commons Finally, and most importantly, have patience. Recognise that good things take time. Copycat technologies are often several years too late and will most likely provide only short-term headlines.
+
+The path to Desi AI is to emulate the Internet and the UPI, where the government builds the rails and the private sector runs the trains. Provide a vision, put experts in charge, fund genuine risk, and step back for private sector innovation. The relay race must be executed without tying the runner's legs.
+
+By Inder Gopal & D Manjunath, respectively professors at Indian Institute of Science, Bangalore, and IIT Bombay
