@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Indias refusal to uphold a global gig work Part Two
+
+India's refusal to uphold a global gig work law
+
+The pattern is familiar. Ship out the cotton, buy back the cloth. India recognised that trap in textiles centuries ago. It should recognise it in intelligence now. India's AI token economy India's national AI token economy should be built on the following pillars. First, making intelligence free is raw compute power.
+
+Through the IndiaAI Mission, backed by an outlay of about ₹10,372 crore, the government is building a public-private partnership model  -  not a state-run data centre monopoly. By empanelling private cloud providers and aggregating demand, it has onboarded over 38,000 GPUs, with plans to scale to 10,000. Eligible startups and researchers can access compute for about ₹65 per GPU hour, a fraction of global market rates.
+
+India's grid planning does not yet treat AI load as a category. The single highest-leverage intervention available to the government is boring: fold compute into the National Electricity Plan, fast-track transmission to data-centre clusters, and dedicate renewables generation, including nuclear, to inference the way it once dedicated coal linkages to steel. Cheap electrons are the new cheap spectrum.
+
+Second, cheap compute is useless without models to run on it. Currently, the most capable foundation models are closed source and owned by Western tech giants. If Indian startups build their businesses on top of these proprietary APIs, they remain economically subservient. A single pricing change or policy shift in San Francisco can wipe out an entire sector in Bengaluru.
+
+India must mandate that foundational AI models become public goods. The government must leverage its most valuable asset: linguistic and demographic data. The state should aggregate anonymised public data (legal rulings, agricultural data, educational curricula in all 22 official/scheduled languages) and make them available exclusively to researchers building open-source models.
+
+Further, any AI model developed using state-subsidised compute or public datasets must be released under an open-weights license. This mirrors the UPI philosophy: the government builds the rails, makes the protocol free, and lets private companies compete on the user experience. By flooding the market with highly capable, open-source Indic LLMs (Large Language Models), India commoditises the "intelligence" layer.
+
+When foundational models are free and open, the economic value shifts from the model creators to the application builders  -  exactly where India's strength lies. Third, the unified intelligence interface (UII) or distribution. How does a rural farmer or a Tier-3 developer access free intelligence? An API gateway built on the principles of DPI.
+
+An UPI for AI. UPI's genius was not free payments as such; it was interoperability. A common protocol let any app talk to any bank, and switching costs fell to zero. Intelligence needs the same: an open, standardised interface through which any application can call any model  -  sovereign or private, open or proprietary  -  with shared standards for identity, consent, billing and safety.
+
+Just as UPI abstracts away the complexity of inter-bank transfers, a national API gateway would abstract away the complexity of AI inference. Startups, government agencies, and educational institutions could plug into this gateway to access a suite of open-source models (translation, vision, text generation) for fractions of a penny. To kickstart the ecosystem, the government could offer a national "freemium" model.
+
+Verified Indian startups or students through Aadhaar-linked digital identity could get monthly free API tokens, subsidised by the state. When startups scale and become profitable, they move to a commercial tier, paying slightly more for compute, which subsidises the free tier. Additionally, a tenth of the fertiliser subsidy could be diverted to tokens for research and development institutions and schools.
