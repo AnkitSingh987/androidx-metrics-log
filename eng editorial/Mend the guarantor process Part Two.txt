@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Mend the guarantor process Part Two
+
+Mend the guarantor process
+
+This would not eliminate haircuts. A guarantor's insolvency may genuinely produce very little for creditors. But it would distinguish a low recovery because the estate is genuinely poor from a low recovery produced by weaknesses in the process. Third, respect the contingent nature of a guarantee. Upon default, the guarantor's liability is co-extensive with that of the debtor.
+
+The economics of guarantee rests on this contingency: the guarantor provides a backstop against default; he does not become the primary debtor. Consider X has guaranteed the debts of 10 borrowers, each owing Rs 100. The face value of the guarantees is Rs 1,000. Suppose each borrower has a 10% probability of default.
+
+Ignoring recoveries for simplicity, X's expected economic exposure is Rs 100. If all 10 borrowers default, his liability could extend to Rs 1,000. But economically, he has undertaken a risk of Rs 100, not borrowed Rs 1,000. The difficulty arises when insolvency proceedings commence against the guarantor.
+
+A creditor may submit a claim in respect of the guarantee even though the debtor has not defaulted. Insolvency can aggregate several contingent liabilities that might otherwise crystallise at different times, or perhaps never crystallise at all. In our example, the insolvency process of the guarantor can confront claims of Rs 1,000 when the contingency giving rise to invocation of the guarantee may not have occurred.
+
+Insolvency, by bringing contingent claims into the process before the contingencies have occurred, can make a contingent risk look like a present liability. The remedy is valuing them appropriately. Where a guarantee has not yet been invoked, the claim should be treated as a contingent claim, the expected amount recoverable from the guarantor after considering the likelihood of invocation and the recovery reasonably expected from the debtor and other sources.
+
+Part III should require the claim to be admitted at its best estimated net value. This is consistent with the approach reflected in the UNCITRAL Guide, the US Bankruptcy Code, and the English insolvency rules. If the guarantee is invoked and the liability has crystallised, the focus should shift to coordinated proceedings of the debtor and guarantor.
+
+The IBC already envisages such coordination, and the 2026 insertion of Section 28A takes it further by permitting, subject to safeguards, certain assets of a guarantor to be dealt with within the corporate debtor's insolvency process. Realisations under a repayment plan cannot establish whether a personal-guarantor insolvency process has worked well. The process must ensure the estate is properly identified, collective decisions are free from conflicted influence, and contingent liabilities are appropriately valued.
+
+Parliament should address these gaps to make guarantees, and the credit they support, work effectively. Written by MS Sahoo & Raghav Pandey Dr. M. S. Sahoo is a distinguished regulatory expert, financial economist, and legal practitioner with over four decades of rigorous experience shaping India's financial and corporate governance landscape.
+
+Dr. Raghav Pandey is a distinguished legal scholar, author, and Assistant Professor of Law at National Law University (NLU), Delhi. He is a leading authority on insolvency law and regulatory policy in India.
