@@ -1,0 +1,24 @@
+Category: Editorial
+Title: UPI is public infrastructure Fund it like one Part One
+
+UPI is public infrastructure. Fund it like one
+
+If keeping the rail free produces benefits for consumers, merchants, banks, and the state that exceed the cost of supporting it, public funding is not a bailout There is no dispute that UPI costs money to run. Banks and payment companies spend on technology, cybersecurity, fraud prevention, and the infrastructure needed to process billions of transactions.
+
+But the growing demand for a merchant discount rate (MDR) rests on a questionable premise: UPI must pay for itself through every transaction it enables. UPI's great innovation wasn't just technological; it was to separate the payment rail from the tollbooth. That choice helped turn a payment product into ubiquitous digital infrastructure.
+
+Before putting the tollbooth back, policymakers should ask whether keeping UPI free creates more economic and social value than it costs? Banks and payment companies are right that growth in UPI volumes brings costs: servers must scale and stay available, fraud must be contained, and cyber defences must constantly improve. Yet the demand for MDR looks at only one side of the ledger.
+
+UPI has also created enormous indirect economic value for the very institutions being asked to support it. For banks, the migration from cash to UPI deepens customer engagement, expands digital transaction history that supports better fraud detection and credit decisions, and reduces ATM and cash handling costs. For payment platforms, it has created extraordinary consumer and merchant distribution, opening opportunities for merchant services, lending, insurance, and other value-added offerings.
+
+The industry is quick to put a price on processing a UPI transaction, but rarely puts a price on the customer engagement, distribution, and financial intelligence that the same transaction and its data help create. A payment rail need not monetise every transaction to be commercially valuable. The government has also been one of UPI's biggest beneficiaries.
+
+The shift from cash reduced the RBI's currency printing and logistics costs, improved traceability, and supported formalisation of the economy. The government once justified zero MDR partly on these savings, which now should not disappear from the calculation simply because UPI has succeeded. Digital financial footprints also make previously invisible economic activity more legible.
+
+Revenues can no longer be underreported at the retail level because of UPI's audit trail  -  reducing leakage and strengthening tax collection. These benefits are difficult to capture in the narrow calculation of transaction-processing costs  -  but these are the real policy, governance, and public returns. UPI should be viewed as digital public infrastructure whose returns extend far beyond the revenues it directly generates.
+
+Governments routinely spend thousands of crores on roads, airports, metros, and other infrastructure because the commerce, connectivity, and productivity they enable justify the investment. We do not ask whether every kilometre of road pays for itself. We ask what economic activity that road makes possible.
+
+UPI deserves the same lens. If keeping the rail free produces benefits for consumers, merchants, banks, and the state that exceed the cost of supporting it, public funding is not a bailout but an infrastructure investment. There is a flaw in how the MDR debate is framed. UPI's costs are driven principally by the number and complexity of transactions  -  not simply by the rupee value of a payment.
+
+Sending Rs 10,000 does not necessarily require ten times the infrastructure of sending Rs 1,000, yet an ad valorem MDR rises automatically with the value of transaction. That raises a basic question of proportionality. If the incremental infrastructure burden of a higher-value UPI payment is not proportionately higher, why should the charge be?
