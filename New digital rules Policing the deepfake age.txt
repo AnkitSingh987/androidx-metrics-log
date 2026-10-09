@@ -1,0 +1,22 @@
+Category: Editorial
+Title: New digital rules Policing the deepfake age
+
+New digital rules: Policing the deepfake age
+
+Artificial Intelligence, or AI, is a double-edged sword, and it is cutting both ways for sure. Hundreds and thousands of complaints are filed every month by people duped by AI-generated content. From bank fraud to digital arrests, AI is being utilised by scammers like never before.
+
+AI has become such a powerful tool that it can mimic voices and make videos that are difficult to detect even with sophisticated detection systems, let alone by ordinary people. In this scenario, it is a welcome step that the government has finally woken up to the need for its regulation. With the notification of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026, the Government has taken a firm step towards regulating digital media and codifying the ethics that would govern it.
+
+In the age of deepfakes, synthetic audio, and hyper-realistic visuals, truth itself has become fragile. Many people have watched a video of Nirmala Sitharaman promoting an app that appears realistic but is certainly a deepfake. For a gullible person, before such content is removed, the damage has already been done.
+
+The new rules would precisely address these kinds of AI-generated content. The new rules would ensure that the source of such content does not remain hidden and is traceable through metadata. Indeed, people have the right to know whether what they are seeing or hearing is real or machine-made. By mandating that all "synthetically generated information" be clearly labelled and embedded with persistent metadata and unique identifiers, the Government is striving for a minimum layer of trust in online content.
+
+This is not censorship in the classic sense; it is disclosure. The aim is not to ban AI, but to make its use transparent. This is not an easy task, as a fine balance is essential. If it is banned completely, it would mean gagging creativity and punishing innocuous content. From AI-assisted film dubbing to virtual influencers and automated news summaries, synthetic content is mainstream.
+
+But the problem starts when corporates, individuals, and even political parties start misusing it. This technology, if misused, can ruin lives and careers  -  impersonating politicians, blackmailing citizens, inciting violence, and framing people for crimes they did not commit. The new framework seeks to draw a legal line between legitimate creative or functional use and malicious content.
+
+The rules would be effective as they shift the onus to digital media platforms. Companies like Meta, Google, and YouTube will be accountable and will have to provide the trail of such content if required. They must now ask users whether content is AI-generated, cross-verify it with automated tools, and flag it if it is synthetic.
+
+If they are found violating or flouting norms, they risk losing their legal protection. However, it will not be easy, as in a short span of hours, a deepfake can reach millions. Automated detection is imperfect. False positives may burden publishers. Besides, vague definitions of "misleading" content could be stretched in politically sensitive cases.
+
+Still, as a first attempt to bring order to AI content, it is a welcome step, though it may need more fine-tuning in the time to come.
