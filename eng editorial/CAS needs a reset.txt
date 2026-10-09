@@ -1,0 +1,24 @@
+Category: Editorial
+Title: CAS needs a reset
+
+CAS needs a reset
+
+Early signs of liquidity disruption call for substantial changes A month is too short to pronounce judgement on a major market reform. But the first month of the Closing Auction Session (CAS) has produced enough warning signs for the Securities and Exchange Board of India (Sebi) to examine whether its design is having unintended consequences. Equity-derivatives turnover fell to multi-month lows in August, with market participants attributing at least part of the decline to CAS.
+
+The sharp swings seen around the recent derivatives expiry have added to these concerns. None of this makes a case for abandoning CAS. It does, however, make a strong case for substantial changes if the data establish that the new mechanism is impairing liquidity. The rationale for CAS is sound. Introduced from August 3, it replaces the earlier volume-weighted average method of determining closing prices for eligible stocks with an auction.
+
+Such auctions are common in developed markets and can produce more robust closing prices, particularly as passive funds and other institutions increasingly need to execute large orders close to the official closing price. Sebi has also argued that CAS should facilitate institutional transactions and reduce tracking error. The question is whether the mechanism has been sufficiently adapted to India's unusually large derivatives market.
+
+Derivatives liquidity depends critically on traders' ability to hedge positions in the cash market. If the cash market moves into a different price-discovery mechanism towards the close while futures and options continue trading, uncertainty over the eventual closing price can make hedging more difficult. This could widen bid-ask spreads, reduce participation, or shift activity away from the closing period.
+
+The interaction is particularly important on derivatives expiry and index-rebalancing days, when large volumes need to be executed within a narrow window. Sebi should therefore treat the initial months as an opportunity for rigorous analysis. It should compare derivatives turnover, market depth, and bid-ask spreads in the last 30 and 60 minutes of trading before and after CAS, while controlling for changes in overall market activity.
+
+It should also establish whether liquidity has merely shifted to another part of the trading day or actually disappeared. If there is a structural decline, the regulator needs to determine whether it stems from hedging uncertainty, closing-price risk, index arbitrage, or order-timing constraints. Encouragingly, Sebi appears open to improvements.
+
+Chairman Tuhin Kanta Pandey has said CAS is here to stay but that constraints and other issues can be addressed. The regulator has already asked brokers to accept orders during the five-minute transition into the closing auction from September to improve liquidity, while exchanges have introduced indicative prices. These are useful interventions, but should be seen as the start of the review rather than its conclusion.
+
+Market-microstructure reforms often require calibration after implementation; that is not an admission of failure. Rolling back CAS after barely a month would be premature. But international practice should not become an argument for persisting with a design that may not work optimally in India's distinctive cash-and-derivatives ecosystem.
+
+Evidence, rather than anecdote from either supporters or critics, should determine the response. The objective must be to retain the benefits of better closing-price discovery without damaging liquidity elsewhere in the market. Sebi has rightly indicated that it is willing to improve the mechanism based on feedback received from market participants on the operational and other issues around CAS.
+
+The early evidence suggests the changes may need to be substantial; the data now accumulating should tell the regulator how extensive that reset needs to be.
