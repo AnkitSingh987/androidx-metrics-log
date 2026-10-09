@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Critical differences
+
+Critical differences
+
+The 30 'critical minerals' pose different risk levels India's critical minerals strategy stands at a crossroads. In June 2023, the Government of India released a list of 30 critical minerals through a systematic three-stage assessment process evaluating economic importance, strategic value, and import dependencies. Yet two years later, policy implementation treats all 30 minerals with identical urgency, despite the methodology itself suggesting that different minerals face fundamentally different levels of vulnerability.
+
+This disconnect between strategic assessment and policy execution represents a critical flaw. Within India's list of 30 critical minerals, 'rare earth elements' appear as one category, even though geologically they comprise 17 elements  -  the 15 lanthanides plus scandium and yttrium. The remaining 29 minerals  -  antimony, beryllium, cobalt, copper, graphite, lithium, nickel, and others  -  are individual minerals with separate supply chains.
+
+Rare earths stand apart because they require identical processing technologies, face similar Chinese monopolies, and serve overlapping applications in permanent magnets and wind turbines. A supply shock affecting rare earths creates simultaneous crises across multiple industries, while disruptions in vanadium supply would impact narrower applications. The criticality of rare earths is qualitatively different from other minerals on India's list.
+
+True criticality arises not from government labelling but from the degree to which supply chains can be controlled by a single actor. China exemplifies this principle. According to research by GlobalData and Reuters analysis, China controls approximately 70 per cent of global rare earth mining and close to 90 per cent of processing capacity.
+
+For graphite, China produces 75 - 80 per cent of global natural graphite. In cobalt refining, Chinese companies account for approximately two-thirds of global capacity, according to Chatham House. Yet the rare earth situation is extraordinary. According to Discovery Alert analysis, China controls 92 per cent of rare earth refining capacity and 98 per cent of rare earth magnet manufacturing.
+
+This vertical integration creates near-total dependency. When the European Union projects a sixfold increase in rare earth demand by 2030, expansion requires Chinese approval at nearly every supply chain stage. Although India holds 7.23 million tonnes of rare earth oxide reserves according to the Ministry of Mines, refining capacity remains absent.
+
+India imports 100 percent of usable rare earth materials despite possessing the fifth-largest global reserves. Within the broader 30-mineral list exists a narrower, more urgent subset: critical materials for clean energy transition. What distinguishes these critical materials from other minerals on India's list is dual vulnerability: they face Chinese processing monopolies and skyrocketing demand even as India cannot produce domestically.
+
+Phosphorous, another listed mineral, faces no such monopoly. Potash serves fertilizer markets with alternative suppliers. Rare earths and energy-critical materials occupy a different risk category. Geopolitical precedent In 2010, China halted rare earth exports to Japan following a territorial dispute - analyzed by the Centre for Economic Policy Research as demonstration of weaponized supply control.
+
+More recently, according to Reuters and CSIS analysis, China introduced export licensing for multiple rare earth elements in 2025, enabling case-by-case approvals discriminating between nations. India's policy challenge is stark: not all 30 minerals require identical urgency. The government has begun making distinctions  -  according to Press Information Bureau, the Finance Ministry approved ₹7,300 crores specifically for rare earth permanent magnet production.
+
+This targeted approach represents correct prioritization. India should reclassify its critical minerals into tiers based on actual supply vulnerability. Tier One should encompass critical materials for energy transition - rare earths, lithium, cobalt, graphite, nickel, and copper - where processing monopolies and exponential demand create genuine strategic risk.
+
+Tier Two should include minerals with diversified global suppliers. Until India prioritises some minerals above others, its critical minerals policy will treat gallium (limited geopolitical risk) identically to rare earths (Chinese monopoly, weaponized export history). By Raktimava Bose & Sanjib Pohit Bose and Sanjib Pohit are Consultant and Professor, respectively, at NCAER.
+
+Views are personal
