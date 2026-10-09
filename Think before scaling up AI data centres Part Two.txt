@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Think before scaling up AI data centres Part Two
+
+Think before scaling up AI data centres
+
+What had been sold as digital growth was redefined as a hard infrastructure limit. Water tells the same story, only later and more sharply. In The Dalles, Oregon, Google's facilities at times used nearly 30 per cent of the city's water in a drought-prone area. Usage grew quietly under industrial permits, and public concern surfaced only once scarcity became visible  -  after contracts and infrastructure were already locked in.
+
+The lesson is not that data centres are harmful. It is that their costs accumulate over time and spread widely, while their benefits arrive early and are captured by a few. The dynamics in India India must now ask what these dynamics would look like at home. Electricity in India is not a simple market commodity.
+
+It is a social bargain. Distribution companies are financially strained, tariffs are cross-subsidised, and power supply is deeply political  -  balancing households, farmers, and small businesses. Adding large, always-on data centres into this system does not just raise demand. It reshapes who gets priority.
+
+During heatwaves, fuel shocks, or grid stress, hard choices are inevitable. Once large computing facilities are labelled "strategic infrastructure," their access to power is rarely questioned. The adjustment cost shifts elsewhere  -  through outages, higher tariffs, or reduced reliability for ordinary users  -  often without public debate.
+
+Water raises even sharper concerns. Many Indian cities already face seasonal shortages, and groundwater depletion is widespread. Large data centres can consume water at the scale of thousands of homes, yet this often remains invisible until scarcity becomes acute. In India's context, water allocation to global computing workloads is not just a technical decision.
+
+It is a social and political one. Fiscal policy adds another layer. In the US and Europe, governments offered tax breaks, discounted power, and infrastructure support to attract data centres. Early investment figures looked impressive. Over time, many regions found that public costs persisted while returns faded  -  especially given the low employment these facilities generate.
+
+Indian States, many already under fiscal pressure, will face similar arithmetic. So far, this looks like an infrastructure story. But the deeper issue is where value accumulates. When global firms operate large AI systems in India, India supplies electricity, water, land, grid stability, and regulatory certainty.
+
+What it does not automatically gain is control over the intelligence being produced. The models, systems, and optimisation logic remain proprietary and mobile. The infrastructure stays. The intelligence can leave. This imbalance does not show up clearly in GDP numbers. India could host vast amounts of AI activity while capturing only a thin slice of its strategic value.
+
+India has seen this pattern before. The telecom revolution delivered cheap connectivity at scale, but platform power  -  data control and pricing leverage -  consolidated elsewhere. India became essential to global platforms without owning them. AI infrastructure risks repeating this mistake at a deeper level.
+
+This time, the subsidy is not just market access. It is power, water, land, and grid stability. There is also a strategic dimension. Large computing clusters are inherently dual-use. The same systems that power commercial applications can also be used for surveillance, cyber operations, or influence campaigns.
+
+Countries responding seriously are not rejecting AI infrastructure; they are setting conditions around transparency, oversight, and national capability building. Set the terms India still has an advantage others lack: time. The US and Ireland learned these lessons after leverage was lost. India can still define the terms  -  before scale makes those choices irreversible.
