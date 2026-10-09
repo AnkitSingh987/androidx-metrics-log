@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Lessons from the oscillatory insulin story Part One
+
+Lessons from the oscillatory insulin story
+
+The breakthrough discovery emerged as scientists were free to critique, question, revise, and challenge assumptions - slowly and rigorously It is common knowledge that insulin "unlocks the doorway," allowing sugar to enter our cells. We also know that insulin is secreted by specialised β-cells in the pancreas. What is far less known is the extraordinary scientific journey that has unfolded over the past five decades to understand how these cells release insulin in an oscillatory mode.
+
+This research, conducted quietly by mathematicians, physiologists, experimental biologists, and clinicians, has not only shaped our understanding of diabetes but also led to the development of many drugs used today. But more importantly, this story offers profound lessons for the scientific community, for those who craft science policy, and for leaders of academic institutions. In fact, such research led to a striking line from The Endocrinologist, the magazine of The Society for Endocrinology, that captures this beautifully: "Mathematical modelling is a powerful tool for understanding hormonal regulation because it requires us to describe in non-ambiguous terms." In other words, the future endocrinologist would do well to know a little mathematics.
+
+A Test Match of 4 decades Deep research is not a Twenty-20 match. It is a classic Test match  -  patient, strategic, and full of unforeseen turns. For 40 years, mathematicians and experimental biologists took turns batting and bowling, correcting each other, challenging each other, and ultimately advancing science together.
+
+The match concluded most peculiarly: both sides won, and science triumphed. The opening shot came in 1983 from the mathematicians Chay and Keizer. They proposed an elegant mathematical model explaining how electrical activity in β-cells leads to rhythmic, pulsatile insulin release. Their equations predicted how calcium  -  the key signal that triggers insulin secretion  -  would rise and fall inside the cell.
+
+But the first experimental bouncer arrived quickly. With better calcium-sensitive dyes, researchers measured actual calcium patterns in β-cells and declared, "Your mathematics is wrong." Mathematicians, unshaken, took fresh guard. They revised their model, added a second calcium compartment, and finally matched the experimentally observed dynamics.
+
+But the biologists bowled a googly. The model now failed to predict certain strange rhythms in insulin release  -  bursts grouped into episodes and patterns that stretched and shrank like an accordion. The mathematicians failed, and another wicket fell. The match was becoming tense. The mathematics team did not give up.
+
+They stayed in the field, added a second oscillator  -  a glycolytic rhythm driven by biochemical reactions  -  and explained these new experimental observations. The revised model predicted how electrical bursts and metabolic cycles interact. A solid cover drive for four runs. The next ball, they aimed to hit a six.
+
+The mathematicians boldly predicted the time-course of a crucial molecule in the cell: fructose-1,6-bisphosphate (FBP). Biologists were chasing the ball; for years, they attempted to measure it. Alas, the mathematician was caught at the boundary line; sophisticated fluorescence probes proved the mathematician wrong.
+
+Another wicket falls. The match could have shifted in a different direction. Instead, mathematicians introduced a new enzyme into the model  -  pyruvate dehydrogenase, activated by calcium  -  and once again the predictions aligned perfectly with experiments. Now a clean six over long-on. After 40 years, the scorecard revealed something extraordinary: in essence, the game was being played collaboratively by mathematicians and experimental biologists.
