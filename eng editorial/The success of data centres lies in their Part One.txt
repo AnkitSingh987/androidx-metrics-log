@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The success of data centres lies in their Part One
+
+The success of data centres lies in their management
+
+Far from being a mere back-office function, it now stands as a strategic imperative shaping resilience, efficiency, and sustainability in India's digital infrastructure. As India surges toward its digital destiny, it's easy to focus on flashy milestones, labs, startup investments, and digital payments; often overlooked is the engine that powers it all: data centre management. Far from being a mere back-office function, it now stands as a strategic imperative shaping resilience, efficiency, and sustainability in India's digital infrastructure.
+
+Reality meets ambition India's data centre capacity has nearly doubled from around 950 MW in 2023 to an expected 1,800 MW by 2026, a remarkable leap driven by government mandates on data localisation and surging digital demand. The nationwide picture is equally bullish, with investments totalling $15 billion since 2020, and projections pointing toward a further $20-25 billion by 2030. Major players in the industry are scaling rapidly, eyeing India as a regional data powerhouse.
+
+The Budget's proposal to offer a tax exemption of upto 20 years is part of a broader effort to make India a global hub for digital services and cloud infrastructure. With effective execution, the policy could accelerate the growth of cloud services, AI and digital infrastructure in the coming years. It also offers reassurance to international companies by recognising large centres with permanent establishment status, while seeking to clarify tax obligations and reduce entry-related risks.
+
+Yet, this growth is taking place against a backdrop of energy constraints, grid instability, and rising real estate costs in traditional metro hubs, issues that make smart, decentralised operations not just desirable, but essential. It's within this complex, evolving landscape that intelligent data centre management turns from a technical tool to a strategic advantage. India's digital backbone is no longer limited to Mumbai or Bengaluru.
+
+Cities from Lucknow and Jaipur to Bhubaneswar are rapidly emerging as edge hubs. Here, modular, AI-driven management systems ensure uptime, optimise cooling and power, and offer remote control capabilities where on-site teams are lean or remote. With data centre energy consumption expected to exceed 3% of national electricity usage by 2030, efficient power usage isn't optional.
+
+Automated power distribution, liquid cooling, and AI-optimised airflow are critical tools to balance performance with sustainability. As data localisation spikes and cloud migration accelerates, data centre networks become increasingly distributed. Smart monitoring, predictive maintenance, and remote management platforms mitigate infrastructure gaps, ensuring continuity across the digital grid even in regions where power and connectivity remain inconsistent.
+
+To fully understand the role of management in India's digital transformation, we must see broader industry shifts: AI and high-density workloads: India's AI ambitions, with Nasscom projecting a 20%+ CAGR through 2028 mean rack densities are climbing from 8-10 kW to as much as 30 kW per rack. This intensifies cooling and power demands, making automated, fine-grained management systems indispensable. Green and sustainable infrastructure: ESG mandates, coupled with a renewable energy push, are driving data centers toward green operations.
+
+From solar procurement to circular water usage practices, these are strategies that rely heavily on real-time monitoring and adaptive control. Policy and certification momentum: The government's emerging focus on data centre certification amid industry pushback signals a move toward localised regulation and reliability standards. This amplifies the value of documented, managed operations.
