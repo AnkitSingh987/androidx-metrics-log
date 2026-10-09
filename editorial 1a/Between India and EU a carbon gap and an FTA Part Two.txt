@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Between India and EU a carbon gap and an FTA Part Two
+
+Between India and EU, a carbon gap and an FTA bridge
+
+CBAM is not about ESG statements or sustainability reports. It is a strict, factory-level accounting system. Only Scope 1 emissions (direct fuel use) and Scope 2 emissions (electricity use) are counted. Emissions from mining, transport, or product use are excluded. Company-wide averages do not matter  -  only emissions from the exact plant supplying the product count.
+
+If Indian exporters do not provide verified data, EU importers will use default CBAM values set 30 - 80 per cent above actual emissions, and sometimes nearly double them. Importers will not absorb this cost. They will demand deeper price cuts from Indian exporters or shift suppliers. Avoiding default values is therefore critical to protecting margins.
+
+From 2026, emissions data must be verified by auditors approved under ISO 14065 or EU rules. Not all Indian auditors qualify, making early preparation essential. CBAM will also force the rewriting of export contracts. European buyers will likely add clauses that allow CBAM costs to be deducted from prices, demand verified plant-level data, and reopen pricing negotiations if EU carbon prices change.
+
+Some suppliers are already quoting two prices  -  a base price and a CBAM-adjusted price  -  to stay competitive. Production routes will matter more than ever. Coal-based BF-BOF steel will face the highest CBAM burden. Gas-based DRI steel will face lower costs. Scrap-based or electric arc furnace (EAF) steel will face the lowest burden.
+
+In effect, CBAM rewards cleaner production methods. Indian firms that accurately measure emissions, verify data early, and adjust their production and pricing strategies can still protect their margins and maintain market access. Those who delay risk losing the European market. Under CBAM, the EU will charge about €80 per tonne of CO2, even on imports from developing countries.
+
+By comparison, China's carbon price is only about 10 per cent of the EU level, and India's future price will also be much lower. While rich countries can afford higher climate costs, poorer economies cannot. Applying rich-country carbon prices to countries like India raises production costs, hurts exports, and slows industrial growth, with almost no impact on global emissions.
+
+The irony is: Steel and aluminium, which account for about 10 per cent of global carbon emissions, are now the most protected sectors in the developed world. The US already imposes a 50 per cent import tariff, and the EU will soon add a new carbon tax. What is presented as climate action is also a tool for industrial protection and revenue generation.
+
+India must find a resolution for CBAM under the ongoing FTA negotiation with the EU. Domestically, India should strengthen carbon accounting frameworks and support cleaner production. CBAM marks a structural shift in global trade, not a temporary compliance hurdle. For Indian exporters, survival in the EU market will depend on how quickly they adapt to carbon pricing, data discipline and contract restructuring.
+
+As carbon becomes a trade currency, competitiveness will increasingly be measured not just in cost, but in emission levels. By Ajay Srivastava The writer is founder, Global Trade Research Institute
