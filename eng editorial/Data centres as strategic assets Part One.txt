@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Data centres as strategic assets Part One
+
+Data centres as strategic assets
+
+Decisions on data centres' power sourcing, cooling, and siting taken today will lock in impact for decades Geopolitical tensions and conflicts across regions, most visibly in West Asia and Eastern Europe, have exposed a stark vulnerability in the global digital economy - the physical fragility of digital infrastructure. The risks became tangible when drone strikes reportedly damaged Amazon Web Services' data-centre infrastructure in the Gulf. In response, hyperscale cloud providers and digital enterprises are increasingly reassessing where critical infrastructure should be located, with countries such as India emerging as potential destinations for future capacity.
+
+For India, this shift is both a strategic warning and an opportunity. As the country's digital economy approaches $1 trillion by 2030, disruptions to global cloud infrastructure could affect financial settlement systems and the digital platforms that underpin commerce and governance. Strengthening domestic capacity to store and process data is, therefore, becoming a national priority.
+
+India has taken an important first step through the Digital Personal Data Protection (DPDP) Act and targeted localisation mandates. The next critical step is to build a resilient domestic data-centre ecosystem and treat these facilities as strategic infrastructure. As cloud and artificial intelligence data centres grow rapidly, choices on location, energy, and cooling will shape India's power and resource use for decades.
+
+India's installed data centre capacity has nearly tripled from about 520 MW in 2020 to nearly 1.5 GW by 2025, and is projected to reach 4.5-9.2 GW by 2030. In 2025, data centres accounted for roughly 0.5% of national electricity consumption and used around 150 billion litres of water - both projected to more than double by 2030. Even conservative growth scenarios suggest their electricity demand could match that of a major city like Delhi.
+
+A new study by the Council on Energy, Environment and Water (CEEW) and SYSTEMIQ shows that decisions on power sourcing, cooling, and siting taken today will lock in impacts for decades. The challenge manifests in three interconnected ways. First, the availability of reliable, 24/7 power is the foremost design consideration.
+
+Zero downtime is non-negotiable, enforced through stringent service-level agreements. To manage this risk, operators secure full grid connections while also procuring renewable power through open-access or captive routes and diesel generators as primary backup. While this supports the uptake of clean energy, it complicates discom capacity planning and fixed-cost recovery as data centre demand scales.
+
+Second, data centres introduce a new demand profile. Unlike industrial or agricultural loads, they are neither seasonal nor cyclical. Large clusters of continuous demand can strain transmission capacity, renewable integration, and balancing resources, especially in states already facing grid congestion.
+
+Third, water is emerging as a binding constraint. AI workloads are pushing rack densities and thermal loads beyond historical norms. Inland facilities face rising competition for freshwater, while coastal locations, though better positioned for seawater cooling, also carry their own climate and resilience risks.
+
+Yet only five of fifteen state data centre policies explicitly embed sustainability provisions, and even fewer address cumulative water impacts. So what would a more resilient pathway look like? First, transparency must be improved. As data centre capacity scales, regulators and utilities need visibility on electricity consumption, water use, and cooling practices.
+
+Requiring basic disclosure from initially large facilities would help plan grids, assess local impacts, and provide early clarity on future standards. The EU's Energy Efficiency Directive already mandates reporting on energy and water use for large data centres, helping regulators anticipate system stress rather than react to it. India can adopt similar light-touch reporting before constraints emerge.
