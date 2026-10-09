@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Simply essential
+
+Simply essential
+
+Binding to phones can check cyber crime The Department of Telecom's move to tighten SIM-binding norms is driven by a real, escalating, and costly problem. Telecom-enabled fraud, from SIM swaps and mule numbers to OTP theft, has become one of the weakest links in the country's digital economy. The Centre is right to intervene.
+
+Communication apps can easily be used by detached, untraceable accounts, posing a threat to individual and national security. The new SIM binding rules mandate that messaging apps, such as WhatsApp and Telegram, must remain linked to the original, active SIM card in a user's phone, stopping use if the SIM is removed or inactive, and forcing web versions to log out every six hours for re-authentication via QR code. A SIM card is verifiably linked to an individual (through KYC), and tied to a specific device via IMEI, so misuse via SIM swapping, cloning, or mule phones becomes harder.
+
+The move to extend the rigorous security model of platforms like UPI to general communication apps is widely seen as a necessary security enhancement by the government and the telecom industry. For an overwhelming majority of users who use their messaging app on one phone with a single, permanent SIM, the change will seem imperceptible. It is perhaps true, that for those who rely heavily on desktop/web versions for work the directive introduces some friction and operational challenges.
+
+But cyber-fraud losses in India are staggering, with sophisticated scams often exploiting accounts whose registered SIM cards have been removed, deactivated, or are being misused from outside the country. This lack of an active, traceable SIM-to-device link has allowed fraudsters to operate with near-perfect anonymity. By mandating continuous SIM presence, the government is extending the robust, proven security model used by our banking and UPI systems, where the physical presence of the KYC-verified SIM is mandatory.
+
+The directive's requirement for periodic logouts of web sessions (every six hours) is a security hygiene measure, akin to auto-logouts on banking portals, designed to curb the remote abuse of accounts. While inconvenient for business workflows, this friction is the cost of closing a critical gateway for account takeover and fraud. That said, there are apprehensions.
+
+Tethering a private messaging account to a government-verified identity (the KYC-linked SIM) could expose whistleblowers by creating a single, traceable metadata link between their official identity and their communications. Furthermore, there are fears over potential government misuse of this traceability. This is where the government must tread with caution and absolute clarity.
+
+The success of this essential security upgrade is contingent on its lawful and judicious implementation. The government must enforce SIM binding while strictly adhering to the principles of the Digital Personal Data Protection (DPDP) Act, 2023. The focus must be solely on traceability for crime prevention, not data acquisition or surveillance.
