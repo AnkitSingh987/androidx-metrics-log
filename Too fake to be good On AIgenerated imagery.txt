@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Too fake to be good On AIgenerated imagery
+
+Too fake to be good: On AI-generated imagery, labelling
+
+I-generated imagery, labelling Labelling of synthetically generated content on social media is a must The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026, add a critical requirement for social media platforms: AI-generated imagery must now be labelled prominently. Since the draft rules were released in October, there have been some improvements in this mandate: it is no longer prescribing a set size for such a disclosure, nor is it applicable to any AI-generated imagery that does not seek to pass off as the real thing. AI-generated imagery has flooded users' feeds and they have a right to know that this imagery is not real.
+
+The requirement that users declare synthetically generated content as such is welcome. As India approaches the AI Impact Summit with a stated intent to regulate AI only insofar as necessary, the requirement shows considerable restraint. Since the technology for creating synthetic imagery is rapidly evolving, the government will, however, have to revisit parts of the Rules that impose proactive detection of synthetic content by platforms  -  after all, while tech platforms are generally able to detect synthetic media automatically, this capability is constantly challenged by the billions of dollars being invested into ironing out the flaws that these detection mechanisms rely upon.
+
+What is problematic is the government's insertion  -  with absolutely no public forewarning  -  of reducing the timelines for taking down content under the Rules to a mere two or three hours. Reducing such compliance timelines creates one of two incentives for social media platforms: either have empowered representatives at all times who can appropriately weigh the merits of a takedown notice and balance it against freedom of expression; or implement a take-down-and-ask-questions-later approach. Any delay would implicate firms in court by removing their safe harbour, an outcome they understandably wish to avoid.
+
+This shortening applies to all platforms, adding a barrier of entry to a space that should be open to constant challengers in an open Internet. This shorter timeline was not indicated in October, and since comments are not public, there is no way to confirm if all interests were properly considered.. The lack of open consultation is a particularly pressing issue when the main stakeholders are hyperscalers with hundreds of billions of dollars in planned investments over the years ahead.
+
+Their views need to be open to scrutiny, as must the deliberations their inputs lead to. The IT Rules remain contested in multiple court cases, and it is inappropriate to make sudden changes to social media governance that may have ramifications for the freedom of expression without parliamentary debate.
