@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A case for judicial reforms Part One
+
+A case for judicial reforms
+
+Question is whether India is willing to do so urgently; judicial accountability also needs attention Few phrases capture the frustration of India's judicial system as sharply as "tarikh pe tarikh". Behind it lies a familiar story: cases stretching across years and even decades, files piling up faster than they can be cleared, and hearings repeatedly postponed. The structural causes of judicial delay have been examined at length in policy papers and parliamentary debates.
+
+The more pressing question is what comes next. If the problem is widely acknowledged, why does it persist, and how do we fix it? India's judicial system continues to face significant strain, with a judge-to-population ratio of only about 22 judges per million, far below what is required to ensure timely justice.
+
+As reported by NDTV in January, this figure is based on the Census 2011 population of 1,210.85 million and the current sanctioned strength of judges across all tiers. Compounding the problem, a significant share of sanctioned posts remains vacant, particularly in the high courts and subordinate judiciary, making time-bound appointments as urgent as expanding sanctioned strength. Capacity alone is not enough; structural reforms matter just as much.
+
+Since the government remains the biggest litigant, consistent implementation of litigation policies at the Union and state levels would itself reduce a substantial volume of avoidable cases. A more ambitious reform is restructuring the Supreme Court into a constitutional court that hears only matters of constitutional importance, with regional appellate courts handling appeals against high court decisions. This would decongest the apex court and bring appellate justice closer to litigants.
+
+Procedural reforms matter equally. Systematically promoting alternative dispute resolution (ADR) can divert routine disputes away from formal courts, while ending the long court vacation system would expand the working calendar without expanding the bench. A mandatory court management system binding lawyers to fixed timelines would curb the culture of unnecessary adjournments that lies at the heart of "tarikh pe tarikh".
+
+Alongside these reforms, judicial accountability needs urgent attention. Recent resignations of judges facing corruption inquiries highlight the need to establish a Judicial Services Commission modelled on those bodies in South Africa and Kenya. Such a body would investigate complaints, vet judicial appointments and removals, and advise the government on judicial matters.
+
+A similar framework in India could rationalise appointments and removals, and enhance transparency, particularly in the lower judiciary where systemic delays are most pronounced. Yet capacity and structure alone cannot resolve a system that is procedurally slow. Technology must move beyond experimentation to become the backbone of judicial functioning.
+
+While initiatives such as the e-Courts Mission Mode Project have shown the potential to reduce delays and improve transparency, adoption remains uneven; what is required now is scale, standardisation, and consistency. Digital tools can make it easier to handle routine, high-volume cases such as accident claims through faster, more consistent decisions. Measures like e-filing and digital notifications can further save judicial time.
+
+However, this shift must be supported by strong cybersecurity safeguards and sustained efforts to bridge the digital divide so that everyone can access the system equally. Building on this digital shift, hybrid courts offer a practical next step. The pandemic showed that virtual hearings, used extensively to clear thousands of matters remotely, can significantly improve access and efficiency for routine cases by reducing travel time and easing court congestion.
