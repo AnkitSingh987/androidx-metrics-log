@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A power verdict with consequences beyond
+
+A power verdict with consequences beyond Railways
+
+The Railways will have to compensate the discoms for the surcharges, incurring a steep bill which will include backdated dues from different states. The decision has implications for other entities who seek the status of deemed licensees A division bench of the Supreme Court recently dismissed a batch of appeals involving the Indian Railways. The judgment has implications for public and private entities seeking the status of a deemed distribution licensee under the Electricity Act.
+
+The APTEL judgment from which the appeals arose had rejected the claim of the Indian Railways to be treated as a deemed distribution licensee, a view that has been upheld by the Supreme Court. The Court was tasked with deciding first whether the Indian Railways qualifies as a deemed distribution licensee. It held that a distribution licensee must not only operate and maintain a distribution system, but it is also required to supply electricity to consumers.
+
+Indian Railways does not pass this test unambiguously, for it "operates a closed network for meeting operational requirements of the railways system". Next, the SC had to decide if the Railways fell within the ambit of "Appropriate Government" under the third proviso to Section 14, which confers deemed licensee status and exempts the entity from obtaining a licence. The Railways had assumed that, as an agency of the Union government, it was entitled to a deemed licence.
+
+The Court held that the Railways could not be treated as a deemed licensee because it only bought electricity for self-consumption. It distinguished the Railways from the Military Engineering Services, which supply electricity to residents for cantonments, clarifying that a government entity must necessarily perform the function of distribution to different consumers to qualify as a deemed licensee under the third proviso to Section 14. The SC also held that, given that the Railways buys electricity for its own use, like any other consumer, it would have to pay the associated cross-subsidy surcharge and the additional surcharge.
+
+The ruling is significant for several reasons. The Railways will have to compensate the discoms for the surcharges, resulting in a steep bill that will include backdated dues from different states. The decision has implications for other entities seeking deemed-licensee status. In April, the Andhra Pradesh government published a policy framework to promote data centres  -  new data centres with a minimum connected load of 300 MW could qualify as deemed licensees.
+
+The Centre has, in the past, given similar benefits to SEZ developers. The judgment makes it considerably harder for data centres to rely on deemed licence status. Entities may instead have to obtain a regular distribution licence under the Act and satisfy the accompanying regulatory obligations, including demonstrating that they intend to supply electricity to consumers rather than merely consume it themselves.
+
+Uttar Pradesh has a similar policy. In 2023, the UPERC granted a distribution licence to NIDP Developers (a data centre developer) under the sixth proviso to Section 14, which allows multiple distribution licensees to operate in the same area. The SC judgment has limited the ability of the Union and state governments and regulators to grant deemed licensee status.
+
+It has called into question the order of the Commerce Ministry dated March 3, 2010,  which enabled SEZ developers to get a deemed licence. It remains to be seen if the Centre will attempt an amendment of the Electricity Act to restore these powers to governments and regulators. Written by Rakesh Kacker and Chitrakshi Jain Kacker is retired secretary, Government of India and member, Advisory Board at TrustBridge Rule of Law Foundation.
+
+Jain is a researcher at TrustBridge Rule of Law Foundation
