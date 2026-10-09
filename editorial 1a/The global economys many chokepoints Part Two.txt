@@ -1,0 +1,18 @@
+Category: Editorial
+Title: The global economys many chokepoints Part Two
+
+The global economy's many chokepoints
+
+This is true not only because of the risk of an accident or shock, but also because excessive dependence enables extortion or other forms of pressure, exemplified by China's rare-earth export controls, America's enforcement of sanctions via SWIFT, and US President Donald Trump's use of tariffs. The proliferation of points of failure has to do with the global economy's design and incentives. In a highly decentralised and competitive network, investors are more motivated to optimise for efficiency (the benefits of which are appropriable, meaning they accrue largely to the investor) than for resilience (the benefits of which are spread across the network).
+
+When there are many investors, none has an incentive to internalise the costs of balancing efficiency and resilience. Optimising for resilience Networks with a greater concentration of ownership are more likely to optimise for resilience. Three companies (Alcatel Submarine Networks, SubCom, and NEC) supply and maintain 87 per cent of the vast global network of undersea fibre-optic cables, which convey over 95 per cent of international data traffic, including payments and other financial transactions.
+
+These "architects" have a powerful incentive to build resilience into the system, such as by increasing the number of cables, spreading out landing points, ensuring wide dispersion, implementing looped designs, using internet protocols for seamless re-routing around blockages, and including spare capacity. After all, resilience is part of the package they are selling. The same is true in the auto sector, where large players like Toyota control a sufficiently large chunk of the supply chain to benefit from optimising for both cost and resilience.
+
+For the internet, it was the US government that acted as the primary architect, ensuring, for example, that embedded protocols automatically reroute traffic around blockages. In fact, large national economies are important players because, to some extent, they internalise and aggregate the benefits of resilience across a range of small private-sector players. When markets undersupply resilience, countries become important players in delivering it.
+
+To this end, they have a few options. They can go it alone, such as by "onshoring" the production of critical goods like semiconductors. They can increase international cooperation  -  for example, by forming a coalition to maximise alternative sourcing of rare earths. Or they can pursue some combination of the two.
+
+A crude rule of thumb might be that cooperation is less expensive than onshoring, more effective in principle, and in certain cases, essential  -  but much harder to achieve. Whatever approach countries choose, eliminating or mitigating points of failure will be expensive. But, at a time of growing fragmentation and deteriorating cooperation, it is a cost they will have to bear.
+
+By Michael Spence The writer, a Nobel laureate in economics, is Emeritus Professor of Economics and a former dean of the Graduate School of Business at Stanford University and a co-author (with Mohamed A El-Erian, Gordon Brown, and Reid Lidow) of 'Permacrisis: A Plan to Fix a Fractured World' (Simon & Schuster, 2023).
