@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Moving from drone purchases to drone Part One
+
+Moving from drone purchases to drone partnerships
+
+India's drone ambitions require smarter contracts and continuous innovation The Indian government's planned $2 billion drone procurement from domestic manufacturers reinforces its commitment to indigenous manufacturing and will boost the country's growing drone industry. It also signals a shift from buying large, sophisticated platforms such as fighter aircraft to smaller, cheaper and more attritable systems. This shift also means procurement practices will have to address the challenges that come with the territory.
+
+Long-term capital procurement that deals with systems such as tanks and fighter jets, is likely to struggle to keep pace with the rapid demand for upgrades and modifications. The willingness to spend money on these platforms is a good sign, but the question now is whether procurement systems will spend it well. The economics of drones Although public conversations about military drones typically focus on large uncrewed combat aerial vehicles (UCAVs) such as the MQ-9B Reaper and the Bayraktar TB-2, recent conflicts have exemplified the utility of smaller, cheaper drones.
+
+These typically fall within the 'micro' and 'nano' drone categories, and are built to be cost-effective. Both Iran's use of drones against the United States and Israel, and the use of drones in the Russia-Ukraine war, have followed this principle. Intercepting drones that are being used to strike high-priced hardware, is typically far more expensive than the drones themself.
+
+The trend across recent wars has been to produce vast numbers of cheap drones, and deploy them in large numbers. Creative uses and modifications of drones that were originally manufactured for commercial use, have also served as an inexpensive means to achieve military objectives. Ukraine's use of first-person-view (FPV) drones that have been retrofitted with warheads has made many headlines.
+
+Innovation in the defence drone sector is therefore closely linked to innovation in civilian drone technology, creating a need for more iterative and collaborative research and development (R&D) processes. The case of the Chinese drone industry demonstrates the benefits of closer collaboration among industry, academia and the military. The challenge of drone relevance The other unique aspect of procuring tactical drones, is that the challenge lies not in acquiring them, but in ensuring that they stay relevant.
+
+A state-of-the-art fighter jet or tank bought in 2015 is still relatively new today, and is reasonably competitive. Tactical drones bought today can be obsolete in as little as two to three years, as enemy capabilities and threat environments continue to evolve. Enemy electronic warfare (EW) units can adapt their jammers to the signal of a new drone in as little as six to eight weeks.
+
+When Ukrainian engineers faced this issue, the solution was not to procure new systems with different communication links, but to replace radio links with fibre-optic cables. Processes need to be quick, and allow for rapid modifications and upgrades without the constraint of red tape and bureaucratic timelines. Indian procurement frameworks have made some good provisions in this direction, but there is still scope for change.
+
+For instance, the draft Defence Acquisition Procedure (DAP) allows the armed forces to procure commercial-off-the-shelf (COTS) systems, enabling them to purchase commercial drones wherever they can be utilised. The DAP also has provisions to streamline upgrades. The Defence Procurement Manual (DPM) allows financial buffers for unforeseen repairs and upgrade costs.
+
+These are sensible moves. The key shortcoming of current procurement frameworks is that buyer-seller relationships remain fundamentally transactional. The underlying assumption is that once the government identifies a requirement, it can issue a tender and procure a product that meets it. However, in a domain where technology evolves rapidly, products require continuous iteration and improvement.
