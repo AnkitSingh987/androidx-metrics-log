@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Flattering to deceive
+
+Flattering to deceive
+
+SHANTI Bill may not energise private participation On the face of it, the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill  -  the SHANTI Bill  - passed by the Lok Sabha, appears to throw open the nuclear power sector to private participation. A closer reading of the legislation, however, suggests a more sobering reality. The SHANTI Bill replaces both the Atomic Energy Act, 1962 and the Civil Liability for Nuclear Damage (CLND) Act, 2010, and is presented as ushering in two major reforms.
+
+First, it allows, for the first time in India, private companies to set up nuclear power plants. Second, it claims to remove the long-standing irritant of civil nuclear liability. Ever since the CLND Act came into force, it has been blamed for scaring away private capital from India's nuclear sector, with Section 17 singled out as the villain.
+
+Section 17(a) was contentious enough, as it allowed the plant operator to provide for a "right of recourse" against equipment suppliers. Section 17(b), however, drew the most criticism, even though it merely stated that the operator could seek damages from a supplier if an accident occurred as a consequence of an act of the supplier or its employees. The SHANTI Bill eliminates this liability exposure for suppliers altogether, while capping the liability of the plant operator.
+
+In effect, it leaves the State  -  and ultimately citizens  -  to bear the burden of damages in the event of a nuclear accident, even as insurance-based solutions can be considered. By removing the liability 'thorn', the government appears to be betting on a surge of private investment in nuclear power, especially amid renewed global interest in small modular reactors. That expectation seems optimistic, given that the government continues to retain complete control over the most critical element of the sector: nuclear fuel.
+
+This is particularly disappointing at a time when new fuel technologies are emerging. An Indian-owned US company, Clean Core Thorium, for instance, has developed a fuel that could allow India to enter the thorium cycle immediately. Its ANEEL (Advanced Nuclear Energy for Enriched Life) fuel has been successfully tested for burn-up at the Idaho National Laboratory in the US.
+
+Several variants of high-assay low-enriched uranium (HALEU) fuels are also now available globally. Yet the SHANTI Bill effectively denies private plant operators access to fuel technologies. In any case, vesting full control of the fuel cycle in the government is an open invitation to rent-seeking. Proliferation concerns are real, but they are better addressed through robust safeguards and oversight.
+
+One clear positive in the Bill is the grant of statutory backing to the Atomic Energy Regulatory Board (AERB), making it accountable directly to Parliament. At present, the AERB reports to the Atomic Energy Commission. Regulatory independence is a welcome reform, but it will matter in practice only if there are multiple players for the regulator to oversee.
