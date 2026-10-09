@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Administrative records can reshape policy Part One
+
+Administrative records can reshape policy
+
+Every few years, India's official statistical machinery undertakes one of the largest data collection exercises in the world. Every few years, India's official statistical machinery undertakes one of the largest data collection exercises in the world. Surveyors travel across the country to record household incomes, employment , health outcomes, sanitation practices and educational attainment.
+
+These surveys, from the National Family Health Survey (NFHS) to the Periodic Labour Force Survey (PLFS) have long been the backbone of evidence-based policymaking. Yet, by the time the data are cleaned, analysed and published, the country they describe has often moved on. Today, evidence about India is also being generated continuously as a by-product of routine digital transactions.
+
+Every UPI transaction, GST return, welfare payment, school enrolment and hospital registration leaves behind a digital administrative record. Individually, these records exist to deliver public services. Collectively, they provide governments with a continuously updated picture of the economy and society.
+
+This points to an important shift within official statistics: the growing use of administrative data as a complement to surveys and censuses. The Ministry of Statistics and Programme Implementation has described administrative data as data generated as a by-product of routine administrative processes, offering granular insights that help move governments towards more continuous and comprehensive data systems. Administrative data should not replace surveys; it should complement them.
+
+Surveys remain indispensable for measuring outcomes that routine government records cannot capture such as perceptions, aspirations, unpaid work and household well-being. Administrative data, however, offers something surveys often cannot: timeliness, scale and operational detail. Used together, they can move policymaking from retrospective assessment to real-time governance.
+
+Built on the Jan Dhan-Aadhaar-Mobile (JAM) architecture, platforms such as the Goods and Services Tax Network (GSTN) and the Unified Payments Interface (UPI) generate high-frequency indicators of economic activity. The high-frequency indicators tracked by the Government include electricity consumption, the Index of Industrial Production (IIP), steel and cement production, GST collections, e-way bills, PMI manufacturing and services indices, railway freight, air passenger traffic, bank credit growth, port cargo traffic, and merchandise exports and imports, among others. Rather than waiting months for survey estimates, policymakers increasingly rely on administrative signals such as GST collections, e-way bill generation and digital payments to assess consumption trends, monitor compliance and refine revenue forecasts.
+
+The Covid-19 pandemic demonstrated why this matters. Lockdowns disrupted household surveys precisely when governments needed timely evidence. Administrative data fills that gap. India's CoWIN platform provided real-time vaccination dashboards, while existing beneficiary databases under the Pradhan Mantri Garib Kalyan Yojana enabled rapid delivery of food grains and cash assistance.
+
+The lesson was clear: resilient governance depends not on collecting more data during a crisis, but on using existing administrative records effectively. Building an integrated administrative data ecosystem is an ongoing effort. Education databases rarely connect with welfare registries, labour records often operate separately from health systems, and departments continue to collect similar information in incompatible formats.
+
+The Ministry of Statistics and Programme Implementation (MoSPI) has been working actively to address these gaps. Initiatives such as the National Metadata Structure (NMDS) and data governance guidelines are important first steps towards common standards and greater interoperability, but much more remains to be done. Fragmentation is not the only challenge.
+
+Administrative records are generated primarily to deliver and administer programmes. Their statistical value therefore depends on how well they are harmonised, validated and standardised for measurement , an area where classification and metadata standards make a significant difference. They capture those who interact with government systems while often overlooking those who remain outside them.
