@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Reengineering the IT pyramid Part One
+
+Re-engineering the IT pyramid
+
+Firms that survive transition will shrink the base at a controlled pace while building senior layer. Every large Indian IT firm has a pyramid. At its base, fresh graduates hired by the thousand from the NITs, IITs, and the vast middle tier of engineering colleges, onboarded in batches, trained in six weeks, and deployed to write code that is reviewed, tested, and shipped by the layers above them.
+
+In the middle, experienced engineers managing projects, bridging the gap between client requirements and junior output. At the top, a thin layer of architects, account managers, and domain experts whose judgement the whole structure depends on. This pyramid, roughly 70% junior, 20% mid-level, and 10% senior, has been the defining feature of Indian IT for three decades.
+
+It is also, now, a liability. The threat is not abstract. Generative AI handles syntactic correctness, the ability to produce code that compiles, runs, and conforms to structural patterns, with increasing reliability as recent model announcements from Anthropic and OpenAI show. The next wave of coding assistants, trained not just on repositories but on developer decision-making itself, is closing in on functional correctness: code that does what it is intended to do.
+
+When that frontier falls, as it is falling, the work that occupies the base of the pyramid becomes work that a model does for a fraction of the cost of a junior engineer's salary. The base does not thin. It hollows. What replaces it is not a smaller version of the same shape. The skills in demand in an AI-integrated enterprise are verification, architectural judgement, and accountability, skills that live near the top of the old pyramid and are, by definition, not scalable through campus hiring.
+
+You cannot train a thousand fresh graduates into the kind of judgement that catches a flawed AI-generated assumption embedded six layers deep in a financial model. That takes years of domain experience and the confidence to push back. These are senior skills. The new pyramid needs to be built around them.
+
+What does this mean in numbers? Consider a notional delivery team of 100 people. Under the old model, 70 juniors cost roughly $15,000 each in fully loaded annual terms, generating a salary base of just over $1 million. Twenty mid-level engineers at $35,000  -  add $700,000; 10 seniors at $80,000  -  add $800,000.
+
+Total people cost: $2.5 million. Average cost per head: $25,000. This is the arithmetic of the old arbitrage. Now invert. A restructured team carries 20 juniors, 50 mid-level AI supervisors and integration specialists, and 30 senior architects and model auditors. Juniors remain at $15,000. But mid-level roles now command $50,000 because AI supervision, prompt engineering, and integration work require genuine skill and bear genuine consequences.
+
+Senior roles now move to $100,000, reflecting the premium on judgement and accountability. The same 100-person team now costs $5.8 million. Average cost per head: $58,000. Personnel costs have more than doubled. The saving grace, and it is a real one, is that the team need not be the same size. If AI tools genuinely absorb 40% of the coding work previously done by junior staff, the same output can be delivered by 60 people rather 100.
