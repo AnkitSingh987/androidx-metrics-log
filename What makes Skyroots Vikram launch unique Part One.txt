@@ -1,0 +1,22 @@
+Category: Editorial
+Title: What makes Skyroots Vikram launch unique Part One
+
+What makes Skyroot's Vikram-1 launch unique? | Explained
+
+Explained Skyroot's Vikram-1 has made India only the third country where a private company has independently placed payloads in orbit. Here's what makes the mission significant The Vikram-1 rocket, built by the Hyderabad firm Skyroot, shot through the sky a little past noon on July 18.
+
+The seven-storey-tall vehicle lifted off ISRO's First Launch Pad at Sriharikota and, a little over 15 minutes later, placed its payloads in an orbit roughly 450 km above the earth. The mission, named 'Aagaman', Sanskrit for 'arrival', made India only the third country, after the U.S. and China, whose private industry can reach orbit on its own launch vehicle.
+
+Rocket engines have traditionally been forged, machined, welded from dozens of parts. 3D printing inverts this. A laser fuses metal powder layer upon layer, building the part up from nothing. There are some real advantages to this approach. An engine printed as one piece sheds the bolts, seals, and joints where conventional engines leak and fail.
+
+When Skyroot test-fired its 'Raman' engine in 2020, it said the fully printed injector halved the mass and cut components and lead time by 80% against conventional manufacturing. Complex internal plumbing  -  the fine cooling channels that let Vikram-1's regeneratively cooled engine chill itself with its own propellant  -  can be printed in shapes no drill can reach. Prototypes emerge in days, not months, so a startup can test, fail, and redesign at a pace that would have been anathema to ISRO's supply chains.
+
+The downsides are more subtle: peer-reviewed surveys of the field flag porosity, rough internal surfaces, and batch-to-batch variability, and NASA has documented a printed copper combustion chamber failing on the test stand from degraded material quality. A printed engine, in short, is faster and lighter but demands obsessive quality control. The flaws hide inside the layers.
+
+Carbon-composite body If the engine is printed, the airframe is woven. Carbon-fibre composite  - filaments of near-pure carbon set in resin  -  offers strength per unit weight many times that of aerospace aluminium or maraging steel. Skyroot claims a five-fold saving over the best rocket steel. Every kilogram of structure trimmed is a kilogram of satellite gained.
+
+The American company Rocket Lab's Electron rocket pioneered the approach. The material also resists fatigue and corrosion and can be laid up by automated machines into seamless tubes. Vikram-1's own stage-1 is India's longest single-piece composite rocket stage. However, the material and its curing infrastructure are expensive; its strength runs along the fibres, so a poorly designed laminate is strong one way and weak another.
+
+Voids can lurk beneath a perfect surface, demanding ultrasonic inspection where a dent in aluminium announces itself. Both Vikram-1 and PSLV are four-stage expendable rockets that end in a restartable liquid stage for precise orbital insertion: Vikram's Orbital Adjustment Module is a miniature cousin of the PSLV's PS4. Both lean on India's long mastery of solid propulsion, but the PSLV is a 44-metre, 320-tonne workhorse alternating solid and liquid stages to lift 1,750 kg to polar orbit.
+
+Vikram-1 is a 22-metre featherweight stacking three solid stages under its liquid module to carry 350 kg. The nearer analogue is the SSLV. Both Vikram-1 and the SSLV have three solid-fuel stages capped by a small restartable liquid module, both conceived for small satellites on short notice. On raw capacity, ISRO wins: SSLV lifts 500 kg to low-earth orbit against Vikram- 1's 350 kg.
