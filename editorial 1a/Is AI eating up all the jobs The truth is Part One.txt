@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Is AI eating up all the jobs The truth is Part One
+
+Is AI eating up all the jobs? The truth is that we just don't know
+
+Obs? The truth is that we just don't know India is preparing to spend heavily on reskilling its workforce for the AI economy. It should first invest a fraction of that in finding out what, precisely, it is reskilling them from, and what it is reskilling them for Earlier this month, India's largest IT services firm, TCS, reported its strongest quarterly hiring in nearly four years, adding over 9,000 employees and onboarding 14,000 fresh graduates.
+
+Twelve months earlier, the same company had announced 12,000 job cuts. This reduction of head count was promptly taken as a verdict on artificial intelligence and jobs. The layoffs proved the reckoning had arrived. The rebound shows the fears may have been overblown. This push-and-pull narrative is emblematic of the way we talk about AI's impact on the future of work.
+
+The real problem here is that none of these claims can currently be verified. There is no statistical machinery to say, with any confidence, whether AI is destroying jobs, creating them, or merely reshuffling them. Until it does, the national debate on the future of work will remain a contest of anecdotes, and every quarterly earnings release will be conscripted into whichever narrative needs it.
+
+Fresh graduates may be the biggest losers in an AI economy Consider the layoffs that dominated last year's headlines. When India's largest IT firm let go of roughly 12,000 employees, its chief executive was emphatic that the decision was about skill mismatches and deployment feasibility, not AI-driven productivity gains. Executives across the sector have offered similar explanations, and they may well be right.
+
+The IT industry hired aggressively through the pandemic, and some of what looks like AI displacement is a delayed correction of that excess. But here is the uncomfortable truth: It is impossible to tell. A company that adopts AI tools, restructures around them, and then removes roles it no longer needs will rarely describe this as AI displacement, and it has every incentive not to.
+
+The reverse holds too: This quarter's hiring rebound settles nothing and it is impossible to correctly gauge how much of the hiring is directly related to the use of AI. In conversations with stakeholders across the ITES industry, the consistent refrain is that no massive displacement is coming, and that current job losses reflect the post-Covid correction. That testimony deserves to be taken seriously.
+
+But the bottom line is that the causes of shifts in hiring and firing patterns across time are genuinely entangled, and the most significant displacement may not look like displacement at all. That is the second trap. AI's real effect on Indian employment may arrive not through layoffs but through jobs that are simply never created.
+
+The industry's biggest recruiters have cut their fresher intake targets. The share of employees under 30 at Infosys has fallen to its lowest level in fifteen years. Entry-level tech openings in mid-2026 were down more than 40 percent from a year earlier, and the pattern is not confined to IT services: Fresher hiring has fallen across corporate India, with recruiters citing AI-driven redeployment as one of the main reasons.
+
+Research from Stanford's Digital Economy Lab found that in the United States, early-career workers in AI-exposed occupations saw a roughly 16 per cent relative decline in employment while their senior colleagues were untouched. Young workers, the researchers argued, are the canaries in the coal mine. A hiring freeze produces no pink slips, no headlines, and no data point in any Indian labour survey.
