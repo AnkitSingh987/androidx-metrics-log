@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Coping with CBAM Part One
+
+Coping with CBAM
+
+Exporters, industry bodies, and govt must act together to ensure competitiveness From January 1, every shipment of Indian steel and aluminium to the European Union will face a carbon tax as the EU's Carbon Border Adjustment Mechanism (CBAM) moves from reporting to actual payment phase. CBAM makes the EU the first economy to tax imports based on a product's carbon footprint. CBAM currently covers six sectors - steel, aluminium, cement, fertilisers, electricity, and hydrogen - but this is only the start.
+
+The EU has made it clear that the list will expand steadily, and within a few years, most industrial goods entering Europe will carry a carbon cost. Although EU importers are legally required to bear the compliance costs associated with buying CBAM certificates, these costs will be passed back to foreign suppliers. As a result, many Indian exporters may need to cut prices by 15-22% to remain competitive in the EU market.
+
+The impact on each firm will depend on its production process. Lower emissions during the making of a product mean lower tax. In steel, blast-furnace routes are the most carbon-intensive; gas-based direct-reduced iron is cleaner; and scrap-based electric arc furnaces are the lowest-emission option. In aluminium, emissions depend mainly on electricity use, with coal-based power sharply raising carbon costs.
+
+Since India imports most of its metal scrap, scrap prices are also likely to rise once CBAM takes effect. Micro, small, and medium enterprises (MSMEs) manufacturing products such as pipes typically buy steel sheets from large producers. Most carbon emissions occur during the steelmaking stage carried out by these large manufacturers, not during the value-addition processes performed by MSMEs.
+
+If large firms do not share plant-level emissions data with MSMEs, EU authorities will apply default emission values, which are often nearly double the actual emissions. This will sharply raise CBAM costs and push many MSMEs out of the EU market, making urgent action by industry associations essential. How should India respond to CBAM?
+
+Here is a brief action plan for exporters, industry associations, and the government. Exporters: EU buyers will assess whether Indian steel or aluminium - after factoring in carbon costs - can compete with EU or third-country suppliers. To compete, Indian exporters will need to master the CBAM rulebook.
+
+First, start by mapping exposure. Identify EU-bound products, buyers, shipment volumes, and production plants to see where carbon costs will hit the hardest and where documentation will be strictest. Use this mapping to calculate an internal CBAM shadow price by estimating emissions per tonne and applying the EU carbon price, assuming buyers will do the same.
+
+Second, put emissions systems in place immediately. CBAM is based on plant-level, verifiable data covering fuel use and electricity consumption. Track fuel inputs, power use, production volumes, and emission factors every quarter, and maintain auditable records aligned with EU rules. From 2026, emissions must be verified by EU-recognised or International Organization for Standardization-compliant auditors, similar to a financial audit, at a recurring cost.
+
+Without verified data, the EU will apply default emission values - often 50-80% higher - sharply increasing carbon costs. Third, update contracts and operations. CBAM clauses on cost pass-through, verification, data-sharing, and price renegotiation will become standard and must be negotiated to avoid exporters absorbing the entire carbon risk.
