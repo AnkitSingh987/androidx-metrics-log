@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Risks in financing AI Part One
+
+Risks in financing AI
+
+Financial guardrails needed to curb AI exuberance While the AI boom will change the world for the better, is the world financing that change wisely? The world has made up its mind about artificial intelligence (AI). Governments across the globe are setting up dedicated AI funds like India's AI Mission, Singapore's AI strategy, Saudi's HUMAIN initiative, and the EU's InvestAI programme.
+
+Companies are racing to put AI into everything from customer service to healthcare to manufacturing. Investors are also pouring money into Data centres, Chips, and AI companies faster than at any point since the 1990s Internet boom. The excitement is not irrational because AI genuinely works, and is already reshaping industries fundamentally.
+
+In June 2025, the Bank for International Settlements (BIS) , the central bank of central banks published its annual report with an unusually direct warning: AI valuations may have climbed beyond what current earnings justify; much of the investment is funded by borrowed money; and the physical infrastructure AI depends on is more fragile and concentrated than most realise. More recently in June 2026, the BIS sharpened that warning, flagging circular financing among hyperscalers like amazon, google or Microsoft and growing non-bank exposure. This brings forth a key question-whether this AI boom may turn into a global risk which deserves more attention than what it is getting.
+
+Is AI valued correctly? Some of the technology companies like Nvidia and Apple are mostly US based, make up a surprisingly large share of global stock market value, priced not on what they earn today but on what investors expect once AI is fully embedded in the economy. This gap is what some economists term as stretched valuations.
+
+Much of this investment rests on borrowed money or leveraged investing, in the BIS's own words. Debt magnifies gains and losses, and when things go wrong, the damage spreads from the original investor to whoever lent the money, and then to whoever lent them money in turn, a dynamic seen before in the dot-com crash and the 2008 housing collapse. There is compounded by the concentration risk, with only one technology major-Nvidia being the only supplier of the chips, upon which almost all major AI development depends.
+
+The Financial Stability Board (FSB), an international body that monitors the global financial systems, has also highlighted the AI led financial stability implications which go beyond the financial institutions to manifest as a systemic risk. These can be traced back to four main channels: first-concentration risk-reliance on a few AI service providers, whose outages would ripple across institutions; second -herding i.e. a financial risk, as banks lean on similar models, correlating trading and lending; third -cyber risk and fourth - opaque model risks emanating from data quality and governance issues, complicating supervision.
+
+AI not immune to Geopolitical Risks AI may not just be the software which lives in the cloud, it uses highly concentrated physical infrastructure viz. massive data centres and semiconductors, whose manufacturing is clustered in a few locations in Taiwan, South Korea, Netherlands; using critical minerals sourced from politically sensitive regions. These industrial installations and in particular the data centres have enormous electricity and water consumption.
+
+The West Asian conflict has shown how regional instability can disrupt energy and shipping routes. Global AI ambitions related with productivity gains from AI models which themselves require enormous energy and power could be colliding with the new geo-political realities. Not to mention the risks amplified by U.S.
