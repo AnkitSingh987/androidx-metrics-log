@@ -1,0 +1,16 @@
+Category: Editorial
+Title: AI cooperation On Artificial Intelligence at
+
+AI cooperation: On Artificial Intelligence at a crossroads
+
+The BRICS framework is an alternative to a geopolitical view of AI development Artificial Intelligence is at a strange crossroads, with the United States government disregarding frontier AI developers' own call for a global development slowdown of models due to hacking risks and misalignment and the BRICS Summit offering an alternative view of how geopolitics should respond to this rapidly evolving situation. The AI firms and the U.S. government have long framed the astronomical sums being funnelled into data centres and other associated investments as key to holding their ground in a U.S.-China competition.
+
+During the Summit, Prime Minister Narendra Modi warned against the "weaponisation" of technology and minerals, while Chinese President Xi Jinping touted the potential of a "BRICS AI open source community" that would challenge any one country's dominance in the sector. India has taken the middle path, not joining any protest against U.S.-led models, while underscoring the need to keep AI development insulated from national rivalries. While some of this approach is informed by the fact that India's AI ecosystem is relatively fledgling, it is also a nod to the reality that this is a technology that may radically reshape the global economy, and participating even in its deployment may have dividends across time.
+
+And yet, the Global South finds itself wedged occasionally in great power rivalry dynamics, for instance suffering from a global pull out of Anthropic's powerful Fable and Mythos models. A world of trade disputes spilling into supply chains cannot and should not impact the proliferation of AI capabilities, as timely and comprehensive access to these technologies is key to national security. It is encouraging that the BRICS Summit's joint initiatives on AI are building more avenues for cooperation among middle powers to combat this concentration.
+
+Open source and collaborative approaches can insulate nations from belligerent and unpredictable policymaking on AI from the U.S. While such models lag behind in capabilities from the frontier proprietary ones, they continue to improve at a rapid clip, a heartening prospect for deployment-heavy economies where AI development is not at such an advanced stage. This is especially true as AI systems show signs of defying instructions and going to great lengths  -  even hacking into vulnerable systems  -  to achieve a given task.
+
+The weaponisation of such capabilities, which can be supercharged or minimised depending on who is in control, raises concerns for countries with weakened cyber defences. Proliferation of defensive capabilities against such evolving risks is only possible when nations collaborate on making them broadly and cheaply available. BRICS should be one such forum.
+
+AI brings up the biggest known unknowns of history, and considering the dangers to humanity therein, it should not fall into the geopolitics and hierarchies of haves and have-nots that guide the thinking of the hawks at the frontier.
