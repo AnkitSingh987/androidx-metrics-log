@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Problem of plenty
+
+Problem of plenty
+
+Managing the liquidity deluge will test RBI; it must balance inflation risks with banks' interests The deluge of dollars from what has been a hugely successful mobilisation of special Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits may have helped stabilise the currency, but the rupee liquidity it is generating could become a big headache for the Reserve Bank of India (RBI). At $127 billion, the response to the FCNR(B) window has been overwhelming and possibly well beyond the central bank's expectations. Managing the additional rupee liquidity of roughly Rs 12 lakh crore that could flow into the system will not be easy.
+
+The surfeit is already showing up in daily liquidity surpluses, which are approaching Rs 8 lakh crore. That compares with the average system liquidity of Rs 3.57 lakh crore in August and just Rs 1.07 lakh crore in July. What helped solve one problem for the RBI could therefore create another. Some of this liquidity will, of course, be absorbed in the normal course as the economy enters the busy season.
+
+The festive months should spur demand for retail credit, while loan growth at banks and non-banking financial companies has been running at around 17-18% year-on-year in FY27 so far, albeit on a modest base. There is reason to expect a healthy pace to continue. Seasonal outflows towards tax payments will absorb some funds too.
+
+But even after allowing for stronger credit demand and these leakages, the banking system is likely to remain awash with money, not least because banks will continue mobilising domestic deposits. Too much liquidity for too long can distort short-term rates, weaken monetary transmission, and eventually add to demand-side price pressures. The RBI has been trying to soak up the surplus through variable rate reverse repo (VRRR) auctions, but with limited success.
+
+Despite offering large amounts across tenures, banks have shown little appetite for locking up funds for a fortnight or even a week, preferring short-dated and overnight instruments. The central bank must now decide whether persistence with VRRRs will suffice or whether more durable sterilisation is required. An incremental cash reserve ratio (CRR) could absorb liquidity quickly, but would impose costs even on banks that did not participate meaningfully in the FCNR(B) mobilisation.
+
+Cash Management Bills, the Market Stabilisation Scheme, or open-market operation sales are other possibilities. The choice matters: The RBI needs to drain enough liquidity to retain control over monetary conditions without penalising some banks disproportionately or unnecessarily pushing up bond yields and funding costs. Some liquidity-draining action will nevertheless be necessary because inflation, while hardly raging, is not benign either.
+
+The RBI expects headline inflation to remain above 5% from September through June 2027, peaking at 5.9% in the third quarter before easing. The Monetary Policy Committee has so far refrained from raising rates because price pressures remain concentrated largely in food and fuel rather than becoming broad-based. But abundant liquidity warrants greater vigilance, particularly after the economy expanded a stronger-than-expected 7.8% in Q1FY27.
+
+The immediate task is not necessarily to raise the repo rate; it is to ensure that surplus liquidity does not undermine the prevailing policy stance or fuel broader inflationary pressures. If demand pressures strengthen and inflation becomes generalised, the MPC should not hesitate to act. For now, RBI's bigger challenge is one of calibration: Sterilise the FCNR(B) windfall without over-tightening, treat banks equitably and communicate its liquidity strategy clearly.
+
+After successfully attracting the dollars, managing the rupees may prove the harder part.
