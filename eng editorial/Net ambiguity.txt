@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Net ambiguity
+
+Net ambiguity
+
+Airtel's priority plan reignites net neutrality debate Airtel's launch of a priority plan that uses 5G network slicing to offer superior connectivity to postpaid subscribers has sparked a debate over the contentious issue of network neutrality. At the heart of the issue is a simple question: can telecom operators legally and ethically create class-based service differentiation in mobile networks without violating the principle that all internet traffic should be treated equally? Nearly a decade ago, Airtel had experimented with zero-rating plans that offered free or preferential access to a select set of apps and websites.
+
+At that time, the Telecom Regulatory Authority of India (TRAI) had shut down such offerings, ruling that content-based differential pricing violated network neutrality norms. Airtel's new priority plan, however, falls into a regulatory grey area. The differentiation now is user-based, not content-based.
+
+That distinction may appear technical, but it is crucial. Network neutrality rules were designed to prevent discrimination between online services; they are less explicit on whether telecom operators can differentiate between high-paying subscribers and others. Such class-based differentiation is common in airlines and premium amenities in hotels.
+
+Telecommunications already follows this logic in fixed-line broadband, where premium subscribers routinely get higher speeds and more bandwidth. Mobile networks, however, historically could not replicate this because wireless spectrum is finite and shared. Operators lacked the technical ability to guarantee differentiated experiences without affecting everyone else.
+
+5G changes that because it allows network slicing. One of 5G's defining features, slicing allows operators to create virtual partitions within the same physical network. Think of it as a highway where all vehicles normally share the same lanes, often leading to congestion. With slicing, dedicated lanes can be created for specific user categories, without building a new road.
+
+But the neutrality debate does not disappear so easily, since the spectrum remains limited. If a premium subscriber gets a faster lane during periods of congestion, does that mean a regular subscriber is pushed into a slower lane? A service differentiation model that short-changes baseline users could invite regulatory scrutiny.
+
+From a business perspective, however, Airtel's move is understandable. India's telecom sector has struggled to raise average revenue per user (ARPU), even as data consumption has surged. Operators bore the cost of network expansion while OTT players captured much of the digital value. Offering premium quality-of-service benefits could now generate cash for future investments.
+
+But if operators are to build advanced 5G networks, they also need affordable access to more spectrum. Policymakers may need to revisit pricing, particularly for sub-1 GHz bands that are critical for efficient 5G deployment. With premium plans and affordable spectrum, both operators and consumers will benefit.
