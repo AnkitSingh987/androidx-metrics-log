@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Copper prices are rising again Part One
+
+Copper prices are rising again
+
+Today's Finshots, we give you a simple explainer on why copper prices are rising. The Story Copper prices have crossed $14,500 per tonne on the London Metal Exchange (LME). And prices seem to be moving in only one direction right now - up. So far, copper prices have risen 16-17% in 2026 and nearly 48% over the last one year.
+
+Source: IEA And to understand this rally, we'll have to start from the very beginning, i.e., where does copper come from? See, Chile is the world's largest producer of copper, accounting for nearly a quarter of global output. It also sits on the largest reserves, at around 180 million tonnes, which represents roughly 18% of the global total.
+
+To put that in perspective, that's nearly double Australia's, the next largest holder. After that, you also have Peru, the Democratic Republic of Congo, China, and the US, which are also major copper producers. Together, they produce about 20-25 million tonnes of copper a year. But copper production is now beginning to decline.
+
+For instance, Chile's copper production is expected to fall 2.6% this year to 5.3 million tonnes. Source: Bloomberg The reason? Well, a few troubles are brewing in Chile's copper mines. To begin with, last year, a fatal rockburst and tunnel collapse at El Teniente, Codelco's flagship mine and the country's largest copper mining company, killed six workers and halted mining operations for a while.
+
+Soon after, its output dropped to a 25-year low. And as if that wasn't enough, even after partially reopening, it recently had to stop expansion work in a section of the mine after discovering very dangerous seismic risks. This means that for the next five years, the mine will produce 3 lakh tonnes or less of copper, compared with the 3.56 lakh tonnes it produced before the incident.
+
+Besides, Codelco is itself in the middle of changing how it mines some of its mines. And this transition will temporarily reduce how much copper it can produce over the next few years. And the problem isn't limited to Codelco. Several mining companies and mines across Chile, including BHP's (the world's largest copper mining company) Escondida and Spence mines, are facing similar issues.
+
+In general, several mines are dealing with declining ore grades, ageing infrastructure and delays in expansion projects. There's also the shortage of sulphuric acid, which, if you've read our earlier story on copper ETFs, you know is necessary for extracting copper from low-grade ores. A lot of this acid previously came from China.
+
+But recently, China halted sulphuric acid exports because it wanted to prioritise using the acid to make fertilisers needed to grow crops at home. On top of that, even the sulphuric acid being transported through the Strait of Hormuz isn't moving quickly enough because of disruptions. But the thing is, about 15% of global copper production depends directly on sulphuric acid availability.
+
+So, not having enough of it naturally means less copper production in the years to come. But even as supply dips, demand for copper is rising faster. Until now, the not so humble metal was mainly needed for things like electrical wiring, plumbing and electronics. But since 2022, its use in EVs (an EV needs roughly three times as much copper as a regular combustion-engine car), grid modernisation, renewables and, lately, AI data centres, which need heavy copper busbars and cooling infrastructure, has been increasing.
