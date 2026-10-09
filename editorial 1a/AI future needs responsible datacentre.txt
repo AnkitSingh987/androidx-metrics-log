@@ -1,0 +1,24 @@
+Category: Editorial
+Title: AI future needs responsible datacentre
+
+AI future needs responsible data-centre regulation
+
+Data-centre regulation India's AI data-centre market, currently at $5.5 billion and about 1.6 GW capacity, is set to rise to $90 billion and about 12-14 GW capacity by 2035. On July 14, New York became the first US state to halt construction of large new data centres, imposing a one-year moratorium as concerns grew that the facilities were raising power costs, straining water supplies and burdening local communities. Massachusetts Governor Maura Healey, too, announced that her administration would pause accepting data centre sales tax exemption applications until stronger protections are in place for Massachusetts residents, businesses and communities.
+
+Her administration is also releasing a comprehensive framework to guide responsible data-centre development to ensure projects do not drive up energy costs, strain local infrastructure or harm public health and the environment. In the first quarter of 2026, local opposition groups all over the US blocked or delayed 75 separate data-centre projects worth an estimated $130 billion. Other countries have followed suit.
+
+The city of Amsterdam, Netherlands, barred new data centres or expansions until at least 2030. The Dutch national government's 2022 hyperscale ban restricts large facilities to just two designated locations nationally. Singapore enforced an absolute moratorium on new data-centre construction between 2019 and 2022, replaced later by a highly restricted, competitive quota system under the Green Data Centre Roadmap.
+
+Ireland's grid operator effectively blocked new data centre connections around Dublin from 2021 after warnings the facilities were straining the grid. The freeze ended in December 2025, with new connections now required to bring their own on-site power generation. In India, there is hardly any critical political discourse on responsible development of AI data centres except in lofty vision papers.
+
+On the ground, India is actively incentivising expansion. In UP, the Data Centre Policy 2021 offers capital subsidies and 100 per cent stamp duty exemption on land, electricity duty exemption reducing operating costs, land in dedicated data centre parks at concessional rates, and a single-window clearance system enabling fast approvals for large investors. In Tamil Nadu, similar policies provide for subsidised land in industrial parks, 100 per cent electricity duty exemption, and tax reimbursements linked to investment.
+
+In Telangana, the government allocates land in IT corridors, provides power subsidies and dedicated electricity infrastructure, and ensures fast-track approval. India is the most water-stressed among the top 10 data-centre hosting countries. According to one report, a Yotta Data Centre located in Uttar Pradesh has led to a decline in the groundwater table from 30 m to 180-250 m, pushing people into the hands of private vendors.
+
+Additionally, these data centres have hardly created any long-term permanent jobs, except for housekeeping or gatekeeping. Unlike factories of the industrial era, data centres are not labour-intensive. They can be run by very few employees, mostly high-level, once fully functional. So, any promise of bringing jobs and prosperity to the country should be measured against the land, power and water they consume.
+
+India's AI data-centre market, currently at $5.5 billion and about 1.6 GW capacity, is set to rise to $90 billion and about 12-14 GW capacity by 2035. Reliance is partnering with Meta, the Adani Group is partnering with Google and other tech giants, and Tata is collaborating with OpenAI to develop some of the major upcoming infrastructure. Even as definitive evidence on return on investment from AI in business processes remains inconclusive, the short-term costs of the technology are becoming clearer, often borne by local communities while profits go to national and global corporations.
+
+There are also concerns about who would bear the cost if these massive, largely debt-funded, data centres turn into the ghost infrastructure of tomorrow should the AI bubble burst. India hosts 20 per cent of the world's data but has only about 3 per cent of the world's data centres  -  a key reason for the aggressive expansion. This only calls for more cautious governance frameworks before harms to local communities are normalised.
+
+India can demonstrate global leadership in AI by taking steps to regulate these hyperscalers. Written by: Sushant Kumar The writer is assistant professor and assistant dean, Jindal School of Government and Public Policy
