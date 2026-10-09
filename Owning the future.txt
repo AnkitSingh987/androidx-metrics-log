@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Owning the future
+
+Owning the future
+
+HCLTech's Sarvam bet highlights why India's AI ambitions require ownership, not just adoption The HCLTech deal with Sarvam AI may ultimately prove more significant than the funding round itself. The artificial intelligence (AI) debate in India has largely centred on policy questions: how much computing capacity the country needs, whether it should build sovereign models, and how it can reduce dependence on a handful of global technology firms. What has received far less attention is the question of ownership.
+
+For decades, India's technology sector excelled at adopting, implementing, and scaling innovations developed elsewhere. AI presents a different challenge. As AI becomes the foundational technology of the next decade, value is likely to accrue not only to those who deploy it but also to those who own the underlying intellectual property (IP), platforms, and models.
+
+In that context, HCLTech's investment in Sarvam is noteworthy because it signals a willingness by a leading domestic technology company to move beyond consuming AI and participate in creating it. Evading Deflation Trap The investment also reflects a growing recognition that AI could reshape the economics of India's technology services industry. Generative AI is already automating tasks ranging from software development and testing to customer support and maintenance  -  activities that have historically generated substantial revenue for Indian IT firms.
+
+While demand for AI-related services is rising, the industry cannot assume that its traditional business model will remain untouched. Ownership of platforms and IP may become as important as access to skilled talent. The HCLTech-Sarvam deal can therefore be seen as a strategic hedge. It provides exposure to emerging capabilities while creating opportunities to build enterprise applications around domestically developed models.
+
+More importantly, it suggests that parts of corporate India are beginning to view AI not merely as a services opportunity but as a technology asset worth owning. Deeptech Paradox Yet it would be premature to interpret a single transaction as evidence that India has solved its deeptech challenge. The country continues to produce far more startups in consumer internet, commerce, and services than in frontier technologies.
+
+AI, robotics, and semiconductor ventures still account for only a small share of the startup ecosystem despite years of policy emphasis on deep technology. Commerce and Industry Minister Piyush Goyal's criticism of delivery-and convenience-led startups reflected a genuine concern, but it also highlighted a deeper reality. Founders do not avoid deeptech because they lack ambition.
+
+They avoid it because building in these sectors requires patient capital, specialised talent, long development cycles, and access to sophisticated customers. India has made progress in semiconductors, defence technology, and digital infrastructure, but the broader ecosystem needed to support deeptech innovation remains underdeveloped. The larger lesson from the Sarvam deal is that India's AI ambitions will be realised not through policy declarations alone but through sustained capital allocation.
+
+The country needs more corporations willing to take strategic bets on emerging technologies, more investors prepared to tolerate longer gestation periods, and more public procurement programmes that create demand for domestic innovation. Technological sovereignty is ultimately built through ownership of capabilities rather than just consumption. Sarvam may or may not emerge as a global AI champion.
+
+What matters more is whether its funding marks the beginning of a broader shift in how India approaches technology creation. If more companies follow HCLTech's lead, India could gradually move from being one of the world's largest users of AI to becoming a meaningful owner of AI assets. That transition will determine whether the country shapes the next technology cycle or merely adapts to it.
