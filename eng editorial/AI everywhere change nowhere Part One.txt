@@ -1,0 +1,26 @@
+Category: Editorial
+Title: AI everywhere change nowhere Part One
+
+AI everywhere, change nowhere
+
+Adoption is scaling, but outdated business models remain stubbornly intact Every few years, India Inc discovers a new word that promises to change everything. "Digital," "disruption," "transformation". Each arrives like a festival… enthusiastically celebrated, thoroughly discussed, and eventually reduced to a reusable slide in a PPT titled Vision 2030.
+
+AI is the latest guest of honour. CEOs urge the team to embrace AI, form action plans and core committees to figure out how and what tools to buy. Some even created a job title like "Head of AI" for someone who looks comfortable saying "large language models" without blinking. It is a reassuringly structured response to something that is, unfortunately, not structured at all.
+
+What's on the cards isn't an upgrade. It is a shift in how work itself gets done. And it is being enthusiastically reframed into something manageable. The dominant narrative is that AI is a productivity booster, a helpful assistant, a digital intern who never sleeps and hallucinates. One can get the jobs done faster, cheaper, and with better punctuation.
+
+This idea is wildly popular because it allows everything else to remain unchanged. The org chart stays intact. The billing model survives. So companies are doing what they do best: improving the familiar. Marketing teams now produce content at industrial scale, only for it to pass through the same multi-layered approval process that ensures it emerges perfectly safe and utterly forgettable.
+
+Analysts generate insights faster than ever, which is a triumph because those insights can now be ignored at unprecedented speed. HR drafts empathetic messages using AI, which are then carefully edited to remove anything that sounds remotely empathetic. Everyone is moving faster. No one is moving differently.
+
+And that's precisely the problem. Somewhere outside this ecosystem of optimised inefficiency, a different kind of company is taking shape, one that doesn't treat AI as an assistant but as the default engine. One that doesn't ask how to improve workflows but whether those workflows should exist at all.
+
+This isn't a minor adjustment. It's the difference between renovating the house and realising that is no longer needed. In this model, work is not supported by AI but executed by it. Systems handle analysis, generation, iteration. Humans step in only when something genuinely requires judgement, common sense, or accountability.
+
+The structure is leaner, the speed is higher, and the cost is… awkwardly low. A philosophical crisis for an economy built on scale? India has long equated size with strength. Large teams, layered hierarchies, and bustling office floors have been symbols of success. The idea that a smaller, AI-driven system could outperform a massive workforce is slightly offensive.
+
+Instead of confronting it directly, many organisations are choosing a safer route: incremental adoption. A chatbot here, an automation there, a pilot project to signal intent. Enough to say "we are doing AI", but not enough to trigger existential discomfort. This is where jugaad makes its grand entrance.
+
+The secret sauce that fixes things work without fundamentally changing them. Why redesign the system when it can be cleverly patched? Traditional competitors don't matter even if they're slightly more efficient. The real danger is from entirely new entrants who have no legacy to protect and no habits to unlearn.
+
+These are small, agile companies that start with an assumption that much of what once required teams can now be handled by systems. They don't care for old processes, decision optimisation, or a pre-AI world. And they certainly don't need to justify why a task that once required ten people now requires one person and a well-designed pipeline.
