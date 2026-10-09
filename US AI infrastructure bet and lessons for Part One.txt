@@ -1,0 +1,20 @@
+Category: Editorial
+Title: US AI infrastructure bet and lessons for Part One
+
+US' AI infrastructure bet and lessons for India
+
+AI investment is driving US growth. India must create an ecosystem to attract investments in AI The ongoing war in West Asia has cost the US exchequer a staggering $40 billion. Yet its economy is resilient, something that has puzzled economists. A large part of the answer lies not in monetary policy or consumer spending, but in artificial intelligence - which has rapidly become one of the biggest investment stories in modern economic history, reshaping growth, capital flows and currency markets.
+
+In macroeconomics classrooms, one classic relationship taught is the inverse correlation between the US dollar and price of precious metals. For India, which imports over 90 per cent of its gold, silver and copper, this matters greatly. Weaker commodity prices offset a stronger dollar's impact on the current account deficit.
+
+Through 2026, this pattern has held. The US dollar appreciated roughly ₹6 against the Indian rupee, rising from ₹89.9 to ₹95.7. Yet gold and silver prices eased despite the stronger currency. Silver in the Mumbai spot market fell to ₹216,541 per kg from ₹236,070 in January; gold declined around 5 per cent from its January peak.
+
+The obvious question: why does the dollar strengthen amid wars, trade disputes and political uncertainty? The answer lies in investment. Over three years, the US has embarked on one of its largest infrastructure spending cycles. Not on highways or railways, but on artificial intelligence. What began in 2023 as a wave of enthusiasm following the release of consumer AI tools has, over roughly three years, turned into one of the largest concentrated capital spending booms in US history  -  on par with, and by some measures exceeding, the railroad expansion of the Gilded Age and the telecom buildout of the late 1990s.
+
+America's AI data centre boom is lifting growth, strengthening the dollar and offering India a blueprint for attracting investment and building digital infrastructure. Capital surge Until recently, computing infrastructure investment drew little attention. Between 2015 and 2022, spending on data centres, servers and networking equipment barely reached 0.5 per cent of US GDP.
+
+Generative AI changed that. The share of nominal GDP attributable to computing infrastructure has nearly tripled since then, approaching 1.6 per cent by 2026, with almost the entire increase attributable to AI-specific hardware, data centre construction, and networking. Investment in AI data centres, hardware, and networking combined reached about 1.4 per cent of US GDP in the first quarter of 2026, doubling from roughly 0.7 per cent in a short span of time.
+
+Adding in the broader category of computing infrastructure spending pushes the figure to around 1.5 per cent of GDP  -  more than double the 2015-2022 average. The US will spend close to 2 per cent of GDP on AI and data centre infrastructure this year  -  comparable to defence or education spending. It will account for over 80 per cent of the world's estimated $800 billion AI infrastructure spending in 2026.
+
+This rivals the railway expansion of the nineteenth century and the telecommunications boom of the late 1990s. The impact is visible in national income statistics. Data from the US Bureau of Economic Analysis show that investment in information processing equipment has become one of the strongest contributors to GDP growth.
