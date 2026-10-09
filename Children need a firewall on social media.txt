@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Children need a firewall on social media
+
+Children need a firewall on social media
+
+With minors entering social media unchecked, the time has come to make age verification, parental consent and safety safeguards part of the platform's architecture The Supreme Court's notice to the Centre this week, on a petition seeking safeguards for minors on social media, could not have come sooner. Hearing the plea by NGO Just Rights for Children Alliance, Justice Joymalya Bagchi remarked from the bench that shielding children online will need something like firewalls - a fitting image for a long-standing design failure. The petition's legal argument is simple: under Section 11 of the Indian Contract Act, a minor cannot enter into a binding contract, yet millions of children under 18 click "I agree" to a platform's terms daily, with no age check and no parental consent.
+
+The petitioners want protection built into the architecture, not bolted on after harm is done. That is not a technicality; it is a design failure with grave human cost. NCRB data records over 1.87 lakh crimes against children in India in 2024. Cybercrime cases are a smaller, fast-rising slice - but nearly nine in ten involve the circulation of child sexual abuse material.
+
+Globally, the WeProtect Global Alliance finds that groomers need under an hour, sometimes seconds, to win a child's trust, and America's missing-children clearinghouse logged over 50,000 sextortion reports in 2025, up from 36,000 the year before. The petition's own example - girls lured through a fabricated K-pop connection and later rescued - is not an outlier; it is a template already running at scale. Other democracies are responding, unevenly but instructively.
+
+Australia has banned under-16 accounts outright, with fines nearing AU$50 million, though its regulator concedes that many teenagers still find their way onto these platforms. Britain's Online Safety Act takes a calibrated route: platforms must prove their age checks are "highly effective" or risk fines of 10 per cent of global revenue. The European Union has gone furthest on design: a privacy-preserving age-verification app lets users prove they are over or under a threshold without revealing their identity, while EU guidance pushes platforms to make child profiles private by default and switch off compulsive features, such as daily "streaks", designed to keep young users hooked.
+
+India already has more law than it enforces. The Digital Personal Data Protection Act sets the age of consent at 18 - stricter than Europe's 13-to-16 band or America's 13 - and bars tracking, profiling and targeted advertising aimed at children. What is missing is enforcement: a functioning Data Protection Board, and Intermediary Guidelines under the IT Rules, 2021, that still allow the sign-up-first, verify-never model this petition challenges - the very rules petitioners want the Court to force the Centre to amend.
+
+The way forward does not require choosing between an outright ban and doing nothing. It requires the Centre to notify rules with real teeth, compel platforms to deploy the same age-assurance signals they use to sell targeted advertising, and make parental consent verifiable rather than cosmetic. The Supreme Court has given the Government a deadline to close the gap between the law on paper and the law in practice.
+
+It should not have taken a courtroom notice to get there.
