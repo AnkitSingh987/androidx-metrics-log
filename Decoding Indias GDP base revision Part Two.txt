@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Decoding Indias GDP base revision Part Two
+
+Decoding India's GDP base revision
+
+It also notes that the revised series shows quarterly growth between FY 2023-24 to FY 2025-26 to be less volatile and more broad-based than previously estimated. However, it has to be noted that revisions in the unincorporated sector have not been uniformly revised but vary sector to sector. Moreover, India's quarterly and provisional GDP estimates are built from the previous year's quarterly figures and then updated using information such as GST collections and industrial production.
+
+So, when the FY 2022-23 GDP estimate was revised under the new methodology, the change naturally carried forward into the years that followed and all subsequent annual and quarterly estimates moved down with it. This does not mean the economy suddenly became smaller or slowed down in those years; part of the change reflects that we are now starting the calculation from a different, better-measured number. Ultimately, the new GDP series should be judged not by a single headline revision, but by the effort to make the measurement of the Indian economy more current.
+
+The real test of a statistical system is not whether its numbers remain unchanged, but whether it is willing to change them when better evidence becomes available. Saibal Chattopadhyay is Chairman, National Statistical Commission; Saurabh Garg is Secretary, Ministry of Statistics and Programme Implementation
