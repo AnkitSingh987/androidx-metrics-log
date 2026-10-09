@@ -1,0 +1,22 @@
+Category: Editorial
+Title: AI and a gathering storm of unchecked power Part Two
+
+AI and a gathering storm of unchecked power
+
+For example, the safety standards it prescribes demands that Claude should never, among other things, provide uplift to those seeking to create biological, chemical, nuclear, or radiological weapons with the potential for mass casualties; provide uplift to attacks on critical infrastructure; engage in an attempt to kill the vast majority of humanity as a whole; and generate child sexual abuse material. But, ultimately, these efforts must be viewed with the greatest scepticism. They are LLMs' way of telling us to thank them for keeping the world a safe place.
+
+Even if we treat them at face value, consider what happens when Claude chooses to override its constitution? Or if one of Anthropic's competitors, say Palantir, feels no urge to control how its LLMs grow? From warfare to surveillance Consider Anthropic's latest model, Claude Mythos, which has already raised a raft of ethical concerns over its hacking skills, outperforming humans.
+
+Thus far, the company has not released the new version to the public, because of the serious threats it poses to cybersecurity. In Palantir's case, not only has its manifesto and its use in recent warfare been alarming, but so too has its role in America's surveillance efforts. The corporation has reportedly built software that the U.S.
+
+Immigration and Customs Enforcement (ICE) uses to profile and track individuals. While some may argue that the software's surveillance efforts have been used to enhance public good in the past  -  notably in contact tracing efforts in some countries during the COVID-19 pandemic  -  it has increasingly become a tool for brazen surveillance in breach of civil liberties. Palantir's software is also in use across States in the U.S.
+
+where predictive policing has become the norm. Multiple investigations have shown the problems inherent in the technology's use  -  its profiling is racially charged and biased and based on information that is collated with unabashed disregard for privacy. Beyond issues of surveillance, privacy and warfare, there are other concerns too.
+
+These include the impact that AI has had and will continue to have on jobs, on our climate, and on our creativity, will, and endeavour, ultimately, impinging on what it means to be a human being. There are also worries over how LLMs are trained on man-made writing, by using novels, poems and essays as data points. Whether this constitutes fair use of copyright remains a point of contention.
+
+But the idea that these corporations are to be trusted to do the right thing shifts the burden of public accountability otherwise fundamental to constitutional democracies onto private entities. By any account, this portends dangerous consequences. Across the world there appears to be a sense not too distinct from how we have reacted to the various arrangements of affairs in the neo-liberal world order, that "there is no alternative", a maxim once made famous by Margaret Thatcher.
+
+This allowed Thatcher, as the writer Cory Doctorow has argued, to "paint her ideological choices as historical inevitabilities". The rest of the world must react But there are alternatives. That the U.S. and the West are unwilling to regulate AI must not mean that the rest of the world should stay silent.
+
+Thus far, India has adopted a relatively soft regulatory regime. Its Governance Guidelines, released in November 2025, recognises many of the problems characteristic to the technology, but stops short of recommending legislative intervention. The cue is in what Brazil's President Luiz Inácio Lula da Silva said at the AI Impact Summit held in February 2026 in New Delhi.
