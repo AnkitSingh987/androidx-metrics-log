@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Government forcing down Sanchar Saathi app
+
+Government forcing down Sanchar Saathi app erodes privacy, hurts business
+
+Saathi app erodes privacy, hurts business Before this goes to court, the Government should rescind this order THE government's order mandating mobile handset makers to pre-install the Sanchar Saathi application on all handsets manufactured or imported for use in the country is not only bad governance but also bad economics. Ostensibly, the app is said to be part of the strategy to "strengthen cyber security and anti-spam measures." But a diktat to manufacturers to pre-install this government-backed app raises serious apprehensions of surveillance and intrusion. The government's directives also lay down that users should not be able to delete the app, effectively making it a permanent feature in all mobile phones.
+
+Following an uproar, Union Minister for Communications Jyotiraditya Scindia has said that the app is "optional" and that users can delete it, but that is not enough. The idea of consent revolves around opting in, not opting out, a cornerstone of privacy as a basic right. There is no denying cyber crime.
+
+Launched in January, the Sanchar Saathi app allows users to report suspected fraud communication and lost/stolen mobile phones, and check trusted contact details of banks/financial institutions. Till August it had crossed 50 lakh downloads, and as per the government, more than 37.28 lakh lost or stolen mobile devices had been blocked, and 22.76 lakh had been traced, perhaps attesting to its need. But if the app is a tool in the fight against cyber crime, surely there are better ways to encourage its widespread adoption.
+
+India has an impressive track record of building digital public goods that are used widely. Platforms like DigiLocker and DigiYatra are routinely, and voluntarily, used by millions. These platforms require the individual's consent -  something that is not available to individuals if the Sanchar Saathi is pre-installed.
+
+And even if the option to delete the app exists, there is the possibility of the digital dust remaining. One of India's shining success stories has been mobile phone manufacturing and assembling, with one in three US smartphone imports coming from here. This is driven largely by Apple  -  roughly 20 per cent of the global iPhone production capacity is in India.
+
+Apple is among many firms that have benefited from the government's generous PLI scheme. To ram this app through isn't exactly helping their ease of doing business. Reports say the manufacturers are planning to oppose the government's directions. Before this goes to court, the government should rescind this order.
+
+Strengthening state capacity, building public awareness about cyber crime, and the tools available to fight it, is the better alternative.
