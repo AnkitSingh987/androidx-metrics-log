@@ -1,0 +1,12 @@
+Category: Editorial
+Title: The cloud is the new frontier of digital Part Two
+
+The cloud is the new frontier of digital sovereignty
+
+Second, India needs a credible domestic cloud capability. MeghRaj and emerging Indian data-centre investments are a start; The goal should be ensuring that critical workloads have a sovereign fallback. Third, the DPI substitution logic  -  which gave India UPI instead of PayPal, and ONDC instead of platform monopolies  - must be extended to AI.
+
+Indian models for agriculture, health, education and governance are both strategically important and commercially viable. Fourth, India's DPI partnerships with countries across Africa, Latin America, and Southeast Asia lay the foundation of an alternative digital order  -  one in which the Global South has a collective voice in setting the rules. India's DPI story is genuinely world-class.
+
+But the journey is not complete. Building sovereign application-layer infrastructure while remaining structurally dependent on foreign cloud, foreign AI, and foreign chips is an unresolved vulnerability  -  one that the Nayara episode previewed and future geopolitical turbulence will test again. The countries that exercise genuine digital sovereignty in 2035 will be those that understood, in time, that sovereignty lives in the infrastructure  -  and not just in the apps built on top of it.
+
+Written by: R. S. Sharma The writer is the former chairman of TRAI, secretary to the Government of India and CEO of the National Health Authority. Views are personal
