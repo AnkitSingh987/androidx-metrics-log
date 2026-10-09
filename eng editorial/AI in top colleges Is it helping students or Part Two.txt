@@ -1,0 +1,16 @@
+Category: Editorial
+Title: AI in top colleges Is it helping students or Part Two
+
+AI in top colleges: Is it helping students or adding to stress? A professor explains
+
+Over time, this reduces persistence in tackling complex problems independently and shifts learning from deep engagement to effective querying. AI-driven benchmarking: Student performance is increasingly measured - directly or indirectly - against AI-generated outputs that are faster, more structured, and often appear near-ideal. It raises evaluation standards, leaves little room for iterative thinking or minor errors, and fosters constant comparison with peers and machine outputs, intensifying performance pressure.
+
+Competitive pressure driven by Fear of Missing Out (FOMO): With all-time access to GenAI, students feel compelled to use these tools to avoid falling behind. It creates continuous pressure to match AI-augmented productivity, often prioritising speed and output over deep understanding. This approach may not sustain for long-term knowledge acquisition and skill development.
+
+Learning - evaluation mismatch: While GenAI is widely used for coursework and preparation, it is typically restricted in examinations and interviews. It creates a dual environment, forcing abrupt shifts to unaided performance, leading to anxiety, self-doubt, and a sense of unpreparedness during high-stakes assessments. Ethics undefined: The absence of clear norms on acceptable AI use creates uncertainty and internal conflict.
+
+Students must constantly decide how much reliance is appropriate, increasing stress while raising concerns about academic integrity. The way forward Addressing the rise in suicides requires a shift to integrate mental health support, academic reform, and a policy on the use of GenAI in teaching, learning, and evaluation (TLE). Despite widespread use of GenAI, none of the TIs has a policy framework to address its impact on academic use.
+
+Policy efforts should aim to detect stress early through continuous assessment. Counselling systems must be strengthened with early-warning mechanisms and greater faculty sensitisation. Preventing further loss of life must be treated as a national priority, requiring coordinated action by institutions, regulators, and policymakers to ensure that technological advancement does not come at the cost of student well-being.
+
+Rajeev Kumar is a former Professor of Computer Science at IIT Kharagpur, IIT Kanpur, BITS Pilani, and JNU, and a former scientist at DRDO and DST. He has been engaged in AI/ML research for the past four decades
