@@ -1,0 +1,24 @@
+Category: Editorial
+Title: India needs to build a digital border DPI Part One
+
+India needs to build a digital border DPI
+
+A UPI-like transformation is necessary across the entire trade ecosystem - not only for digital trade, but for all cross-border commerce "Digital colonisation" is no longer a theoretical concern. A handful of large US-based technology companies now dominate global digital infrastructure, AI models, platforms, and data ecosystems. At the same time, countries like India remain primarily consumers of foreign digital products and services.
+
+India has only recently begun discussing "sovereign AI" and strategic technological autonomy. But recognition alone is not enough. The larger challenge lies in digital trade governance. Today, India lacks the systems needed even to measure, track, or govern the consumption of foreign digital products and AI services, such as Claude Mythos, by Indian businesses and citizens.
+
+This is mainly because India's trade governance architecture remains overwhelmingly goods-centric. Physical goods move through ports, customs checkpoints, and ICEGATE. Digital products move through communication networks and "electronic transmissions"  -  the category recognised under WTO rules. There is no integrated digital governance framework for services trade, despite services accounting for over 40% of India's exports.
+
+Intuitively, what is digital must ultimately be governed through digital means. Cross-border trade governance can no longer remain trapped in regulatory silos in the data-driven AI era. India has already demonstrated its capability to build sovereign-scale digital infrastructure. UPI created a domestic digital payments layer that removed the dependence on foreign card networks.
+
+Cross-border digital trade now requires a similar strategic intervention. India needs a new digital public infrastructure (DPI) layer that functions as a virtual "digital border" for trade governance. The challenge is not the absence of data but the fragmentation of systems. GSTN has emerged as the primary source of truth for export invoices, yet the value of this data remains underutilised because systems cannot interoperate seamlessly.
+
+RBI systems, Directorate General of Foreign Trade (DGFT), ICEGATE, GSTN, and authorised dealer banks continue to function in institutional silos, creating friction across the trade ecosystem. The consequences are significant. Small exporters struggle to access timely export credit. Remittance reconciliation remains cumbersome despite GST-linked invoice trails.
+
+Businesses manually calculate domestic value addition for export schemes. B2C digital trade leaks revenue due to weak enforcement of levies and IGST. Fraud detection remains inefficient due to fragmented visibility. India therefore needs a reimagined trade management architecture. A unified digital framework for both goods and services trade could dramatically improve efficiency.
+
+Export promotion schemes can be digitised and integrated. Proposed industrial parks and manufacturing corridors can evolve into digitally managed export zones with integrated bond management systems. Most importantly, India can build a "connected systems" model of governance. Modern technology enables the creation of interoperable systems without centralising sensitive data, and departmental boundaries remain intact while governance becomes far more efficient.
+
+Platforms such as DGFT, GSTN, RBI systems, ICEGATE, and banking networks can remain institutionally autonomous while securely sharing information through consent-based interoperability layers. This transformation is no longer optional. Trade governance in the AI era requires digitally connected systems capable of operating at a continental scale.
+
+Without such reforms, regulatory structures designed for the industrial era will remain incapable of governing digital commerce. The Bharat Trade Net (BTN), announced in Budget 2025, offers an important starting point. Initially conceived to address export-financing bottlenecks, BTN can evolve into a foundational DPI layer for cross-border trade governance.
