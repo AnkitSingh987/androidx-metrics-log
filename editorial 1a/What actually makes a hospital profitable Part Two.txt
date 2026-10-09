@@ -1,0 +1,22 @@
+Category: Editorial
+Title: What actually makes a hospital profitable Part Two
+
+What actually makes a hospital profitable?
+
+This is where metrics such as average revenue per occupied bed (ARPOB) become useful. Fortis, for instance, reported an ARPOB of around ₹68,700 per occupied bed per day in FY26, with an occupancy of 68%. More importantly, its six focus specialities, including cardiac sciences, oncology, neurosciences, gastroenterology, orthopaedics and renal sciences, accounted for about 62% of hospital revenue.
+
+The reason seems straightforward. A patient coming in for a complex cardiac procedure or cancer treatment may require expensive diagnostics, surgery, medicines and several consultations. But a routine admission may require far fewer of these services. So hospitals care not just about how many beds are occupied, but also about what happens to the patients occupying them.
+
+This helps explain why the industry has been moving towards high-acuity specialities (acuity is the measurement of how sick a patient is and the level of nursing or care they require). Manipal, for example, reported that cardiac sciences, oncology, neurosciences, gastro sciences, orthopaedics and renal sciences accounted for 64% of gross inpatient revenue in the first half of FY26. Another piece of the puzzle is how long patients stay.
+
+This is why hospitals pay close attention to average length of stay (ALOS). Apollo, for example, reported an inpatient ALOS of 3.14 days in Q1 FY26, down from 3.34 days a year earlier, while inpatient volumes rose by 3.2%. Average revenue per inpatient rose by 8.9% to ₹1.72 lakh. So the point we're trying to make is that shorter stays do not automatically mean better economics since clinical requirements come first.
+
+But when technology and treatment protocols allow patients to recover safely in less time, the same infrastructure can support more admissions. But even then, not all admissions are equally valuable. The economics can also depend on who is paying for the treatment. A hospital may treat self-paying, insured, corporate or government-scheme patients, and the amount it realises can differ significantly across these categories.
+
+Max Healthcare, for example, has said that its institutional business has historically generated an ARPOB of around 40% lower than other channels. The company has therefore been trying to increase the share of higher-yielding self-pay patients with personal insurance wherever possible. Max estimated that replacing some institutional beds with such higher-yielding channels could improve EBITDA margins by around 3-4%.
+
+This is also why opening a new hospital is not as straightforward as adding another revenue-generating asset. Because a new hospital starts with the costs of a mature facility but only a fraction of the patients. It can take years to build its doctor network, referral base and patient volumes. That is why hospital companies have increasingly looked at brownfield expansion (scaling up an existing facility), acquisitions and asset-light operating models alongside completely new hospitals.
+
+That's because adding beds to an existing campus can be faster, as the hospital already has doctors, patients, referrals and supporting infrastructure. So it helps chains expand with less capital, while new hospitals can put pressure on margins until occupancy matures. But hospital chains are also expanding beyond the core business itself.
+
+Some listed healthcare companies are no longer just hospital operators. Apollo, for instance, simultaneously operates pharmacies and digital health. In H1 FY26, its offline pharmacy distribution business generated ₹4,498 crore of revenue at a 7.7% operating EBITDA margin before costs, while the digital business had a different cost structure.
