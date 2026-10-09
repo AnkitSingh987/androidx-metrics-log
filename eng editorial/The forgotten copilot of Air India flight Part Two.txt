@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The forgotten copilot of Air India flight Part Two
+
+The forgotten copilot of Air India flight 171
+
+A red herring The latest angle that is occupying centre stage is the Ram Air Turbine (RAT). Calculations about when the RAT deployed in flight and how this was due to a major wiring fault are being used by interested parties to digress from the key issue of who moved the FCS to cut off the engines. Page 14 of the report says that the "RAT hydraulic pump began supplying hydraulic pressure at about 08:08:47 UTC", which is a clear indication the RAT was deployed five seconds earlier, around 08:08:42 UTC.
+
+The report mentions that once the aircraft achieved the maximum recorded airspeed of 180 knots at about 08:08:42 UTC, immediately thereafter, the Engine 1 and Engine 2 FCS moved from run to cutoff position one after another with a time gap of one second. When both engines were cut off, two things would have happened immediately. The entire instrument panel in front of the copilot would have gone blank and the power supply to the rear EAFR shut.
+
+The rear EAFR becomes a lame duck and whatever data the investigators retrieve will only be what is recorded prior to that time. The actual backup of critical data would have been lost had the forward EAFR data not been recovered. The Boeing 787 Manual lists four conditions that result in the automatic deployment of RAT to provide backup.
+
+It also mentions that the RAT can be deployed manually by pressing the RAM Air Turbine switch on the hydraulic panel. This will be recorded both on the EAFR as well as the sound recorded on the CVR. The clear reason why RAT deployed before the engines were cut off will be evident on both the EAFR and CVR recordings.
+
+Under normal circumstances, when a major emergency takes place on take-off, the Captain must take over the controls and the copilot reverts to pilot monitoring duty even if he was the Pilot flying. The CVR will clearly indicate if that action took place. The EAFR apparently records the flight controls of the copilot side moving during the entire event.
+
+In the case of flight AI-171, the delay in moving the FCS for the no. 1 and no. 2 engines, at 08:08:52 and 08:08:56, respectively, can be explained by the circumstances confronting the poor co-pilot: a blank screen, no guidance, both engines without power, and the task of controlling the aircraft with his right hand while attempting to restart the engines with his left hand.
+
+For his low experience on the aircraft type and performing a manoeuvre which is never given for copilots during training, First Officer Clive Kunder did a remarkable job in steering the crippled aircraft away from crowded areas where more lives would have been lost on ground. Closure requires the truth There were two pilots on board. The FCS were deliberately moved to cut off the engines.
+
+Only one of them could have done it and not a software error or a power system error. If the AAIB could have deciphered the CVR data to alert the MoCA and the MHA as early as June 16, 2025, fishing for excuses to deviate from the facts will only damage the credibility of the Indian aviation system. The United States NTSB and the Air Accidents Investigation Branch of the United Kingdom have far more experience in deciphering the EAFR/Digital Flight Data Recorder and CVR data than the Indian AAIB or the DGCA.
