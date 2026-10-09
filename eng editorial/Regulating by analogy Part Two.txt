@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Regulating by analogy Part Two
+
+Regulating by analogy
+
+The risk of this approach extends well beyond Jar. If "deposit" can cover a sale in which title passes immediately, the implications ripple outward - e- commerce platforms, prepaid models, and a range of hybrid financial products could be exposed to similar interpretive expansion. A targeted enforcement action risks becoming a precedent that unsettles a much wider range of legitimate commerce.
+
+None of this is to suggest that digital gold should remain unregulated. It should not. Questions of asset backing, custody standards, pricing transparency, and consumer recourse remain unresolved. Sebi's own caution is a candid acknowledgement that these products operate without the safeguards associated with regulated financial instruments.
+
+However, the answer to that gap cannot be found by pressing an ill-fitting statute into service. The BUDS Act was not designed to govern commodity transactions on digital platforms. Using it as a proxy regulator may address immediate enforcement pressure, but it does nothing to create a durable legal framework and may complicate the path to one.
+
+India has been here before. Payments, peer-to-peer lending, and other emerging sectors each passed through periods of regulatory uncertainty before being brought within tailored frameworks. The pattern has generally held up - recognising the product's distinct character, identifying its specific risks, and crafting rules that address those risks without distorting the underlying structure.
+
+The beginning point, while that happens, would be for the digital gold industry to form a self-regulatory organisation or SRO to set standards of holding, valuation, and customer safety. Digital gold is at that juncture now. The question it raises is not whether "deposit" can be stretched to include it, but what regulatory category best reflects what it actually is - a commodity product with financial characteristics, a financial product with commodity underpinnings, or a hybrid that warrants its own framework.
+
+That classification must be made deliberately, not by default. The Karnataka High Court has allowed the process to continue. But the question it has raised will not be answered through a criminal investigation. It is, at its core, a question of regulatory design, one that belongs to the legislature and the regulators, not the police.
+
+If the law begins to treat purchases as deposits, it risks blurring distinctions that matter not just for digital gold but for the broader architecture of commercial regulation. Gold has always represented security in India. The irony is that its digital form now finds itself in legal uncertainty not because of what it is, but because of how the law has chosen to see it.
+
+By Sandeep Parekh Co-authored with Navneeta Shankar, associate, Finsec Law Advisors
