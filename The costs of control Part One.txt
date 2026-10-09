@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The costs of control Part One
+
+The costs of control
+
+Proliferation of quality control orders has significantly constrained the availability of intermediate goods, which are vital for domestic manufacturing The global economy is witnessing a wave of policy changes, and one of the most significant among them is the shift in US tariff policies. This evolving landscape has created both challenges and opportunities for India. Challenges include the potential loss of market share, and opportunities include leveraging the current realignment to diversify its product base and expand export markets.
+
+To understand how India can leverage the current global scenario, it is essential to assess the country's trade policy stance. While India has set ambitious export targets such as reaching $1 trillion in merchandise exports by 2030, it has simultaneously become more protectionist in recent years. The fundamental rule for deeper participation in global value chains is simple: One must import to export.
+
+However, this is precisely where India's trade policies have been faltering. India's most-favoured nation tariffs, which had declined sharply following the 1991 economic reforms, have been rising again since 2018. This upward trend is now accompanied by the increasing use of trade remedy measures such as anti-dumping duties.
+
+More recently, a new policy instrument, the quality control orders (QCOs), has gained prominence, expanding rapidly since 2019. According to the government's notifications, these orders were introduced to ensure the quality of the manufacturing ecosystem and boost domestic production and exports. They are equally applicable to domestic production as well as imports.
+
+A recent Centre for Social and Economic Progress study developed a comprehensive database of India's existing QCOs, mapping each regulation to its corresponding Harmonised System (HS) codes. This mapping enabled a more precise identification of the specific products brought under the ambit of QCOs. The database was subsequently used to analyse the trade impacts of these regulatory measures, offering new insights into how QCOs influence India's import and export patterns.
+
+A notable trend is the sharp increase in QCOs - since 2019, their number has surged from 88 to 765 by 2024, a more-than-eightfold increase. A sectoral analysis of QCOs shows that metals, machinery and electronics, textiles, chemicals, plastics and rubber, and footwear are among the most affected industries. Notably, sectors with a high incidence of QCOs also tend to display significant firm concentration.
+
+The majority of QCOs apply to intermediate goods (45.7%), raising concerns about potential disruptions to domestic supply chains. For instance, viscose staple fibres, which are widely used in synthetic garment production, and steel fasteners, which are critical inputs in the automotive industry, are both covered under QCOs. Such measures risk amplifying existing challenges to India's manufacturing competitiveness, an area where the country already lags behind its peers.
+
+Using this database, the trade impacts of QCOs were examined, and it was found that their introduction significantly alters trade flows. Imports fall by about 13% on-year following a QCO notification and by nearly 24% over the long term (defined as the year of notification and the subsequent three years). While exports initially rise by around 10.6% in the first year, they subsequently decline by 12.8%, with no sustained export gains observed.
+
+The impact is particularly pronounced for intermediate goods, where imports decline by 16% in the year of notification, 17.5% in the following year, and 30% over the long term. Overall, the findings indicate that QCOs suppress imports, especially of intermediate inputs that are critical to domestic production, without yielding improvements in export performance. This raises important questions about their effectiveness as instruments for enhancing industrial competitiveness.
