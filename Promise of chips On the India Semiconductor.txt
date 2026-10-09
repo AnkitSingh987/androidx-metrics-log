@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Promise of chips On the India Semiconductor
+
+Promise of chips: On the India Semiconductor Mission phase II
+
+Chipmaking is more than a seasonal obsession in India now The second phase of the India Semiconductor Mission's outlay far outpaces the first, with a ₹1.27 lakh crore corpus directing the government's purse on a wide range of the electronics manufacturing ecosystem. As with the first phase, the outlay is likely to be spent lavishly on select individual projects in the form of a capital subsidy (with the government shelling out a smaller share than last time's 50%), and manufacturing-linked incentives disbursed at a per-unit level once sales are done. Incremental incentive boosters have been promised for products that leverage domestic capabilities and components.
+
+The second phase promises to take forward the government's goals to make India a strategic destination for the electronics value chain, and to grow such capabilities at home in human capital and intellectual property where select countries dominate different parts. The government has long held that this will be a decades-long project, and its follow-through with a larger corpus is welcome. This industry may not become a massive employer, but in a geopolitically fraught environment, the wisdom of spending public money in these capabilities is clearer.
+
+Much of the returns on the initial chipmaking bet remains unknowable as most facilities and projects approved in the first phase are yet to begin commercial production. Some technologies remain out of the grasp of even the most advanced economies: Dutch extreme ultraviolet lithography machines are complex, and only Japan is close to cracking the code. The prospect of India deploying investments towards such frontier technology is hard to imagine, but tantalising.
+
+Capabilities such as these create hard strategic leverage  -  which will in turn lead to resistance to India quickly attracting talent and developing these capabilities. The corpus is not insignificant, but advanced economies are prepared to beg, borrow and steal, with deeper pockets, to retain their spot in the pecking order. The same applies for AI, which sits on a foundation of memory and processing infrastructure whose manufacture India hopes to undertake some day.
+
+There are bright spots in India's talent ecosystem, with semiconductor engineers and designers sought worldwide amid a looming global talent shortage. Leveraging these talents and giving them worthwhile work and academic pursuits in highly technical fields is key in ecosystem-building. Else, India risks repeating its decades-old mistake of developing the West's premier technical human capital.
+
+The coming decades demand that India find its rightful spot in global chipmaking value chains. The bad news is that the capacity to inflict pain is the best deterrent against supply chain shocks. The good news is that the hard work of avoiding supply chain shocks through global competition in key areas could deliver the kind of economic boom that made the Asian Tigers who they are today.
