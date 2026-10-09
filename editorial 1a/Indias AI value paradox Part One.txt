@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Indias AI value paradox Part One
+
+India's AI value paradox
+
+While India is becoming a key location for AI infrastructure, it is still building depth in creating the technologies that run on it India's development story has long been measured in concrete and steel. Highways stretch across States, metro networks cut through urban corridors and airports expand to accommodate a growing economy. Yet alongside these assets, another infrastructure revolution is quietly unfolding, largely hidden from view.
+
+Inside facilities with rows of servers, a new digital backbone is taking shape. Data centres are emerging as invisible highways of the digital economy, storing data, powering algorithms and enabling cloud services enterprises rely on. Driven by policy incentives and rising demand, India's data centre sector is seeing significant multi-billion-dollar investments.
+
+Hyperscale infrastructure is expanding rapidly, positioning the country as a key node in the global digital economy. Yet this expansion raises a deeper question: is India not only building the backbone of the AI economy, but also capturing its full value? Hardware sans ownership India's rise as a destination for digital infrastructure rests on strong fundamentals; competitive costs, a large technology workforce and a fast-growing digital market.
+
+These advantages make it an attractive base for global cloud and AI infrastructure. However, this surge contrasts with more modest progress in domestic AI innovation. India accounts for 2-3 per cent of global AI patent filings, while the US and China together dominate the field. While India ranks among leading countries in AI research output, its share of highly cited work remains limited.
+
+Public spending on research and development, at 0.6-0.7 per cent of GDP, continues to lag leading innovation economies. This is reflected in global benchmarks such as the Stanford AI Index, where India ranks behind the US and China across key dimensions including research, investment and compute capacity. The pattern is familiar: strength in scale and adoption, with constraints in capital and compute-intensive innovation.
+
+The implication is clear. India is becoming an important location for AI infrastructure, but is still building depth in creating the technologies that run on it. The servers may increasingly sit in India. The most powerful models often do not. In economic terms, the pattern is familiar. The inputs of the digital economy -  data, infrastructure and engineering talent  -  are increasingly abundant domestically.
+
+The highest-value outputs  -  models, platforms and intellectual property  -  are still largely developed elsewhere. This gap is not only visible at the national level; it is equally evident within firms. Many organisations have access to advanced digital infrastructure but are still evolving their ability to translate it into productivity gains.
+
+Cloud adoption often takes the form of migrating legacy systems rather than redesigning workflows around real-time data and automation. A common pattern is visible across sectors. In one mid-sized manufacturing firm that recently migrated its enterprise systems to the cloud, production dashboards update in real time across plants.
+
+Yet procurement approvals still move through multiple layers of manual sign-off, delaying decisions by days. The data moves instantly; the organisation evolves more gradually. This underutilisation mirrors a broader national challenge. The issue is not only access to infrastructure, but the pace of building capability around it.
+
+The talent paradox India produces one of the largest pools of technology professionals. Yet the requirements of the AI era are different. Artificial intelligence depends on deep research capability, advanced mathematics and sustained experimentation. While India has scale, it continues to expand the pool of researchers working at the frontier of AI development.
