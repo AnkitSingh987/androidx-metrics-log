@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The Dedicated Freight Corridors last mile Part Two
+
+The Dedicated Freight Corridor's last mile challenge
+
+But, how did we come to this structural mismatch in the first place? Well, it is built directly into Indian Railways' business model. Passenger fares are kept artificially low and cross-subsidised using freight revenue, leaving Indian Railways short on money for anything else. And when the railway budget does get allocated, most of it goes toward new lines, track upgrades and bridges, leaving only a small share for the freight terminals that decide whether that track actually gets used.
+
+The terminals that do exist were built for big, captive industries, like steel plants and mines, that could guarantee huge volumes for the railways. A small manufacturer, the kind of company that actually makes up India's general cargo, was never really who this system was built for. Even natural rail customers, the massive industries, barely used the system.
+
+As of 2018-19, only around 28% of India's cement was actually moving by rail. India has tried to fix this before, more than once. The Indian Railways' Private Siding Policy, let big industries build and pay for their own rail link, or private sidings, straight to the factory gate. In one sense, it worked.
+
+India now has nearly 1,200 private sidings, and they carry roughly 75% of all freight that moves by rail today. But it mostly worked for companies that could already afford it. A basic siding costs upwards of ₹20 crore before land, which is exactly why it never reached the smaller manufacturers this corridor needs.
+
+The latest attempt, the 2021 Gati Shakti policy let any registered company or individual apply, not just industrial giants, and allowed them to lease railway land instead of buying their own. As of September 2026, 147 such terminals are operational, with over 300 more approved and roughly ₹10,000 crore in private investment already committed. The potential is already visible at JNPT.
+
+Before the port was connected to the western corridor, it dispatched about 27 freight trains a day. With full access in place, that number is estimated to jump to nearly 100, pushing rail's share of the port's container traffic from 18% toward 30%. But, building more terminals, however successful, isn't the only way to solve the last-mile puzzle.
+
+An ingenious workaround is already being tested on a section of the corridor. It's called Trucks-on-Trains (ToT), and the idea is almost too simple. Instead of asking every shipper to build a terminal, they can load the entire truck onto a specially built flat wagon and let the corridor carry it. The truck only drives the short first and last mile itself; while the rail line covers the long haul in between.
+
+Right now, the service runs a single 636 km stretch between New Rewari and New Palanpur on the western corridor, cutting a journey that takes 30 hours by road down to about 12. Since it launched, the service has completed over 1,955 trips, carried more than a million tonnes of freight, and earned over ₹131 crore in revenue. And guess who one of its biggest customers is?
+
+Not a steel or cement giant. It's Amul, shipping milk tankers across the country on flatcars. That's what happens when the last mile gets built alongside the main line, instead of after it. But, the real test remains whether the same success that the container traffic at JNPT or Amul's milk tankers saw, can be replicated for a mid-sized factory in Ludhiana or Coimbatore that has never owned a siding and never will.
