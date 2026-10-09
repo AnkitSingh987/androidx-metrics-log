@@ -1,0 +1,22 @@
+Category: Editorial
+Title: No free rides
+
+No free rides
+
+Small levy on UPI transactions, not a bad idea The Unified Payments Interface is one of the mascots of India's digital success. Since its launch in 2016, it has become the world's largest real-time payments platform accounting for nearly half of global real-time payments. Now, it may not remain free to users for long, as is implied in the Taxation and Other Laws (Amendment) Bill, 2026.
+
+The proposed change is not without basis. As with all public services, the user should pay at least a bit to keep the system going. The Bill allows the Centre to notify payment systems where MDR can be levied. Banks will collect the MDR from merchants for distribution to payment processors and National Payments Corporation of India (NPCI), the entity managing this ecosystem.
+
+With UPI use having picked up rapidly, the costs of providing the service too need to be considered, in the form of upkeep and investments. As Reserve Bank of India Governor Sanjay Malhotra has noted, someone must bear this cost. The Centre (or NPCI) has been doing so, but cannot carry on beyond a point.
+
+With banks charging MDR on other payment options such as debit and credit cards, the same is justified on UPI transactions as well. The Centre has so far been bearing part of the cost of running the payments system through its incentive scheme for promoting low value person-to-merchant transactions through RuPay debit cards and UPI. It spent ₹2,196 crore on this scheme in FY26 and has set aside ₹2,000 crore for FY27.
+
+Banks, however, should not be complaining here. They say that the government incentive is insufficient to cover their costs; yet they benefit from the growth in low interest CASA (current and savings account) deposits used for UPI transactions. But NPCI, which operates and maintains the UPI system, needs to be compensated.
+
+Similarly, other payments processing companies in the UPI ecosystem will find it hard to sustain their business, if it remains free of charge. While the consensus appears to be veering towards imposing MDR on P2M transactions, it is good that the policymakers are considering exempting low-value transactions. Transactions valued at less than ₹500 currently account for 86 per cent of volume while those between ₹500 and ₹2,000 account for 10 per cent.
+
+Making only transactions valued more than ₹2,000 liable to MDR levy will exempt 96 per cent of P2M transactions. This will ensure that the less affluent users do not pay for using UPI. Experience with other payments systems such as NEFT, IMPS, debt and credit cards show that additional service charge does not matter in large-value transactions.
+
+But the timing is critical here. According to RBI, there is potential for the user base of UPI to double from the current level of 50 crore. Number of transactions per user is far below global levels. Besides, the annual growth in volume and value of transactions is also down from the exponential growth witnessed in initial years.
+
+The introduction of MDR should be delayed till the UPI attains irreversible scale.
