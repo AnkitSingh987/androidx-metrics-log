@@ -1,0 +1,20 @@
+Category: Editorial
+Title: What happened to ISROs PSLVC mission Part One
+
+What happened to ISRO's PSLV-C62 mission? | Explained
+
+SLV-C62 mission? | Explained What did ISRO chairman V. Narayanan state about the mission? How did Thailand's space agency GISTDA respond? Are Failure Analysis Committees standing bodies within the ISRO? Has the FAC report of the PSLV-C61 mission been released in the public domain? The story so far: On January 12, the Indian Space Research Organisation's (ISRO) PSLV-C62 mission lifted off from Sriharikota carrying the EOS-N1 satellite along with 15 co-passenger satellites.
+
+Within minutes, ISRO said the mission had "encountered an anomaly during end of the PS3 stage", and that a detailed analysis was initiated. What was the anomaly? In a televised briefing after the launch, ISRO chairman V. Narayanan described what mission control was seeing: that performance was "as expected" up to near the end of the rocket's third stage, called PS3, then that there was increased "disturbance in the vehicle roll rates", followed by a deviation in the flight path.
+
+In other words, towards the end of the third stage, the rocket was spinning uncontrollably, enough for it to not be able to continue on its planned path. As of January 16, ISRO hasn't published a statement about the root cause of the mishap. Following the incident, Thailand's space agency GISTDA, whose THEOS-2A satellite was on board PSLV-C62, said a malfunction late in the third stage caused an attitude-control abnormality and the vehicle deviated from its trajectory, preventing the rocket from deploying the satellites it was carrying.
+
+GISTDA also said the rocket and satellites were expected to fall back and burn up over the southern Indian Ocean. The anomaly resembled the events preceding the failure of the PSLV-C61 mission on May 18, 2025. What happened to PSLV-C61? ISRO's PSLV-C61 mission was carrying the EOS-09 satellite. The rocket failed after the first two stages, with the third stage not performing nominally.
+
+ISRO noted a drop in chamber pressure in the third-stage motor case during the PS3 operation, after which it said the mission "could not be accomplished". Based on what has been reported publicly so far, both the C62 and the C61 missions suffered decisive anomalies on PS3 after a nominal early ascent and neither could deploy their payloads into the designated orbit (with a qualification for the KID payload). In C62, the main symptom was a "roll rate disturbance" late in the PS3 stage operation; in C61, the symptom was a chamber-pressure drop in the PS3 motor casing.
+
+ISRO's initial communications in both cases also stressed that an anomaly had occurred and that analysis was underway, but it did not publish a detailed list of corrective actions it would have to take. After the C61 mission failed, Dr. Narayanan constituted a Failure Analysis Committee (FAC) to look into the causes of the mishap.
+
+The FAC submitted its report to the Prime Minister's Office in mid-2025. What does the FAC do? The FAC is not a standing body of experts within ISRO but instead an entity the ISRO chairman constitutes in the event of a major incident. Its responsibility is to reconstruct the chain of events leading up to the failure using telemetry and subsystem data and in conversation with people involved in that mission.
+
+It's expected to identify the causes, and recommend corrective action before the vehicle is cleared for a 'return to flight'. The Committee members include experts within ISRO as well as relevant experts from academia. It has also been known to include former ISRO chairmen. The FAC submits its final report to the Indian government.
