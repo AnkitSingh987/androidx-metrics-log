@@ -1,0 +1,16 @@
+Category: Editorial
+Title: India needs a compliance stack Part Two
+
+India needs a compliance stack
+
+The Jan Vishwas Act, 2023, has accepted the principle that many technical offences should be decriminalised and rationalised in the interest of trust-based governance. These are not minor steps. They show that the state is already moving from paper to platform administration. But the missing layer is interpretation and integration.
+
+The reform should ideally begin with a Common Business Compliance Account. If a company has already provided its registered office, directors, beneficial owners, Personal Account Number, GST identification number, employee count, bank details, factory location, and environmental category to one public authority, another should not demand the same information again unless there is a material change or a risk-based reason. The system should generate a live compliance calendar across the MCA, GST, income tax, Employees' Provident Fund Organisation, Employees' State Insurance Corporation, labour, environment, NSWS, Parivesh, and state systems.
+
+It should auto-populate repeat fields, flag inconsistencies, and give firms a plain-language cure path for first-time non-material defaults. The safeguards should be built in from the start. The AI system should be publicly governed, based only on authoritative legal material, updated through a controlled publication workflow, and independently audited.
+
+It should not make adverse decisions by itself. It should be a compliance guide, not a surveillance shortcut. Data minimisation, purpose limitation, role-based access, audit trails, privacy protection, and appeal rights must be part of the design. There should also be a limited safe harbour  -  if a business acts in good faith on current, source-cited official guidance, the first response to a technical default should be correction, not prosecution.
+
+The next phase of compliance reform should therefore be practical and measurable. We must create an authenticated machine-readable corpus of central and state compliance law and connect it to a Common Business Compliance Account. We should then build a source-citing AI interface in English and Indian languages.
+
+Finally, we must publish a dashboard showing the filings eliminated, fields auto-populated, time saved by businesses, and serious cases taken up by regulators. India's next reform wave should treat compliance not as paperwork, but as economic infrastructure. By Soumya Kanti Ghosh & Shashidharan Sharma, Ghosh is Member, Economic Advisory Council to the PM, Member, 16th Finance Commission, and Group Chief Economic Advisor, SBI; Sharma is Economist, SBI
