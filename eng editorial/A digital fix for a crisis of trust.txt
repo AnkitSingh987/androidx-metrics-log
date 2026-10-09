@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A digital fix for a crisis of trust
+
+A digital fix for a crisis of trust
+
+Restoring trust in examination system demands a secure and tamper-proof architecture - and who better than Nandan Nilekani to help build it? The students' protests have pushed the Government to seek a permanent fix for the exam leak menace. Surely, there are no band-aid fixes to rely upon.
+
+There has to be a technologically driven solution which is state-of-the-art and has checks and balances which are beyond tampering. The appointment of Nandan Nilekani to help redesign India's examination system is indeed the right step. Over the past few years, paper leaks have become an alarming feature of competitive examinations across the country.
+
+The Government's decision signals a welcome shift in approach. Instead of relying solely on stricter laws and punitive action after the damage is done, it is looking towards technology-led systemic reform. That is precisely where Nilekani's expertise becomes invaluable. Few individuals have shaped India's digital transformation as profoundly as Nandan Nilekani.
+
+As the architect behind Aadhaar, he demonstrated that technology can successfully manage systems involving over a billion people while ensuring security, scalability and transparency. The examination ecosystem demands precisely such an integrated approach. Today's examination process remains fragmented.
+
+Different agencies follow different protocols for question paper preparation, encryption, printing, transportation and distribution. Physical handling at multiple stages creates opportunities for leaks. Simply increasing police surveillance or imposing harsher penalties cannot eliminate vulnerabilities built into the system.
+
+What India requires is a complete redesign. Question papers should be generated within secure digital environments using end-to-end encryption and zero-trust architecture. Multi-factor authentication must govern every stage of access. Secure digital transmission should replace large-scale physical movement of question papers wherever feasible, while blockchain-based audit trails can create tamper-proof records of every access and modification.
+
+Equally important is a unified national examination technology framework with clearly defined cybersecurity standards applicable across all testing agencies. Technology alone, however, cannot guarantee integrity. Institutional accountability must accompany digital reform. Independent security audits, regular penetration testing, certified personnel, strict vendor compliance and transparent grievance redressal mechanisms should become mandatory.
+
+Every breach must trigger not only a criminal investigation but also a thorough review of systemic failures. The urgency cannot be overstated. Every paper leak represents not merely an administrative lapse but the theft of countless dreams. Students invest years of effort, families spend substantial savings on coaching and preparation, and careers often hinge on a single examination.
+
+When that examination is compromised, faith in meritocracy itself begins to erode. In a young nation where millions aspire to upward mobility through education, such erosion carries serious social and political consequences. The credibility of India's education system demands nothing less than a robust and foolproof exam system.
