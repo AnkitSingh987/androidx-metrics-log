@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Redefining upperlayer NBFCs Part Two
+
+Redefining upper-layer NBFCs
+
+Upper layer NBFCs will increasingly be expected to operate with bank-like standards of governance, risk management, and supervisory engagement, even as their funding models and regulatory constraints differ from banks. This convergence is likely to reduce regulatory arbitrage. For PSU NBFCs especially, this transition is less about introducing new structures and more about elevating the depth, investing in technology, and ensuring effectiveness of existing frameworks.
+
+The introduction of periodic review and removal of lock-in further embeds balance sheet discipline. Growth beyond the `1 lakh-crore threshold is no longer a one-time regulatory milestone but a state that brings ongoing scrutiny and expectations. NBFCs will need to move from silo-based risk management to a single, enterprise wide risk framework.
+
+This shall require a clear, board approved risk appetite that is structured around practical portfolio limits, concentration caps, and pricing guardrails. Regulators will increasingly look for risk framework that actively guides business decisions and not just compliance reporting. Further, growth decisions will have to be balanced with risk capacity.
+
+For PSU NBFCs, this implies faster escalation and tighter accountability within public ownership constraints. Compliance frameworks will have to evolve from calendar checks to continuous surveillance. This means embedding regulatory thresholds and early warning into core business workflows. NBFCs shall be expected to identify risks early and take radiation action through clear remediation plans.
+
+Strong data and tech foundations will be critical under the revised framework. NBFCs will need centralised data platforms, consistent and near real time MIS across risk, finance, and treasury. Advanced analytics for stress testing, risk aggregation, and early warning identification will increasingly be treated as supervisory essentials.
+
+In addition, selective use of newer technologies, including GenAI, can materially strengthen supervisory readiness. Use cases are likely to focus on automated regulatory reporting, intelligent exception detection, early identification of emerging risk patterns, and swift preparation of board and regulatory dashboards. Static capital buffers will no longer be sufficient.
+
+NBFCs will need to adopt forward looking ICAAP frameworks, complemented by rigorous liquidity stress tests and asset liability management models that capture rollover risks and funding concentration. Capital allocation will be increasingly linked to risk adjusted returns. Regulators will assess not just capital adequacy, but whether capital and liquidity metrics meaningfully shape growth, portfolio mix, and funding strategy.
+
+The RBI's revised upper-layer framework marks a measured but meaningful shift in NBFC regulation. For NBFCs, the message is clear: scale alone will no longer differentiate institutions. Those that embed integrated risk management, stronger governance, and data driven decision making through a clear operating playbook will be better placed to adapt to tighter supervision.
+
+More broadly, the framework signals the next phase in the evolution of India's NBFC sector - one focused on regulatory parity, transparency, and systemic resilience. By Pratik Shah, National Financial Services Leader, EY India
