@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Descent into farce On the Election
+
+Descent into farce: On the Election Commission of India, the SIR
+
+Election Commission of India, the SIR Ad hoc changes and poor implementation mar the Election Commission of India's Special Intensive Revision of elcetoral rolls The Election Commission of India (ECI)'s Special Intensive Revision (SIR) of electoral rolls across 12 States and Union Territories (UT) is fast descending into a farce. Take the case of West Bengal, where furore over elderly residents having to attend eligibility hearings in remote locations even after submitting their enrolment forms forced the ECI to order home verification. Or, the fact that it had to conditionally halt hearings of "unmapped" voters (those whose names or parents' names were not mapped with the 2002 SIR).
+
+Summons were in the form of software notices, but this software was not used in Bihar. An association of civil servants complained that this "suo motu system-driven deletion of electors from the draft electoral rolls in West Bengal in the ongoing SIR process [bypassed] the statutory role of the [Electoral Registration Officers]". The procedural chaos could have been avoided had the ECI not rushed into the SIR just before Assembly elections in States/UTs such as West Bengal, Tamil Nadu, Kerala and Puducherry.
+
+Its ad hoc use of software  -  the ECI junked its de-duplication software in Bihar and told the Supreme Court why it was not using it, but reportedly used it alongside another software to flag "unmapped" voters without proper protocol  -  is creating confusion and distress. The suspicion that the ECI is using an exercise of updating electoral rolls as a de facto citizenship screening exercise seems to be confirmed by the manner in which it is going about things. There are inconsistencies and anomalies in the draft electoral rolls, many of which have been flagged by The Hindu's data-driven investigations.
+
+The over 6.5 crore deletions, according to provisional numbers, suggest methodological problems in and poor implementation of the exercise. In Uttar Pradesh, provisional figures show that 2.89 crore names have been deleted, which could possibly explain why the ECI has postponed publication of the draft roll to January 6. In Tamil Nadu and Gujarat, which are relatively urbanised States with net in-migration of electors, 97 lakh and 73.7 lakh electors, respectively, have been taken off the draft rolls.
+
+That both States have since seen the furious inclusion of lakhs of names  -  added incomprehensibly as fresh additions in another procedural flaw  -  suggests that the enumeration phase was concluded haphazardly. This situation could have been avoided had the Court gone beyond limited interventions  -  which were salves for Bihar electors  -  to properly vet the new SIR procedure for constitutionality. It is still not too late for the Court to take note of the infirmities and to decide firmly in favour of the electorate.
+
+The fate of the very idea of universal adult franchise hangs in the balance.
