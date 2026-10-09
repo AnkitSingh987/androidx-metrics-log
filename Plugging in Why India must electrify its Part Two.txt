@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Plugging in Why India must electrify its Part Two
+
+Plugging in: Why India must electrify its kitchens at scale
+
+It can dispatch grid-scale batteries  -  BSES Rajdhani in Delhi has commissioned India's first commercial battery storage for precisely this kind of energy arbitrage. Or, as a last resort, it can impose planned power cuts, rotating blackouts across zones  -  what is known as load shedding  -  which disrupts livelihoods, damages industrial output, and is increasingly penalised by regulators. Now imagine adding millions of induction cooktops to that evening peak window.
+
+Without intelligent management, mass e-cooking would steepen the evening peak, raise spot-market costs, and increase the risk of outages. The question is not whether to electrify, but how to electrify without overwhelming the grid. That is where automated demand response enters the picture. Can smart technology flatten the peak automatically?
+
+OpenADR  -  Open Automated Demand Response -  is a two-way communication standard that enables automated participation of smart thermostats, EV chargers, water heaters, cooktops in demand response, ancillary services (frequency/voltage), and DER coordination. These devices then adjust their consumption automatically, without anyone having to lift a finger. Born from California's 2002 energy crisis, its latest version plugs into modern energy systems using standard web protocols.
+
+India has begun deploying it. Tata Power Delhi Distribution ran the country's first OpenADR pilot across 167 commercial and industrial consumers, achieving an average peak reduction of 14%. A study done on the pilot stated a peak shaving ability of close to 7% if the technology is deployed across all the buildings in India.
+
+Internationally, South Korea's Auto DR pilot cut electricity use by 24%; such programmes typically pay for themselves within four years by deferring the cost of new grid infrastructure. What discoms still lack is the full stack: OpenADR-compliant servers, smart-meter-embedded receivers, and aggregator platforms that can orchestrate distributed loads into virtual power plants. Building this stack is essential  -  but it is only half the solution.
+
+The other half is turning households from passive consumers into active grid participants alongside upgrading households load capacity from 3 kW to 5 kW through investment in transformers and feeder infrastructure. Can rooftop solar and neighbourhood trading take the pressure off the grid? A rooftop solar panel paired with a battery turns a household into a 'prosumer' -  both producer and consumer.
+
+The panel generates power by day; the battery stores the surplus; and the stored energy is discharged in the evening to run the induction cooktop. This offsets precisely the peak that mass e-cooking would otherwise create. A 2025 Australian national-grid study referred to a halving of peak lead and reduction of grid reinforcement costs by 75% when residential electrification was combined with rooftop solar, batteries, and off-peak scheduling.
+
+India's rooftop solar capacity is projected to more than double from 17.6 GW in 2025 to over 41 GW by 2030, boosted by the PM-Surya Ghar Yojana, which aims to give 300 units of free electricity to ten million households. The real impact comes when surplus solar is not just stored but traded. Peer-to-peer (P2P) energy trading lets a household sell excess electricity directly to a neighbour using a digital platform, bypassing the traditional discom route.
+
+India ran South Asia's first blockchain-based P2P solar trading pilot in Lucknow, led by the India Smart Grid Forum and Australia's Powerledger, under a regulatory sandbox approved by the UP Electricity Regulatory Commission. Prosumers set prices, tracked trades in real time, and settled transactions through smart contracts. The result: a 43% reduction in the energy buy price compared with the retail tariff.
