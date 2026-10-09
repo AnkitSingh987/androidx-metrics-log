@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Mind the gap
+
+Mind the gap
+
+Rising C-D ratio needs to be closely watched On Monday, the Reserve Bank of India issued draft directions, inviting public comments, on transparency regarding bank interest rates. A major feature in this regard is the provision that interest rate applicable on deposits will be strictly "as per the schedule of interest rates disclosed on the bank website". The context is not hard to seek.
+
+Recently, the country's largest private bank allegedly paid a higher interest rate on deposits to a public sector unit than its stated norm, concealing the payout through its marketing channels. At last week's monetary policy press conference, RBI Governor Sanjay Malhotra said "competition (for deposits) is healthy as long as it is fair and transparent". The policy draft seems in line with this assertion.
+
+This episode is not unrelated to a larger development in banking -  a rising credit-deposit ratio that is pushing banks to raise bulk deposits. With the growth in deposits not keeping up with that of credit, the credit-deposit ratio has moved to 81.4 towards the end of March 2026, and rising. The C-D ratio is above the recommended range of 65-80.
+
+While public sector banks have a C-D ratio well below 80, private banks' ratios are well above 90. To be sure, there are no indications of systemic risk as of now, as private banks maintain a liquidity coverage ratio of over 100. But the question is whether this should be seen as indicative of aggressive lending, deposit-seeking, or smart treasury management.
+
+The rising C-D is driven by high credit growth, rather than low deposit growth. The former, which had turned sluggish in FY25, recorded a strong growth of 16.1 per cent, taking outstanding credit to ₹213.6 lakh crore by the end of March 2026. The increase in credit demand has been led by loans to MSMEs and retail loans such as vehicle loans, gold loans and loans against fixed deposits.
+
+Banks have managed to grow their deposits in this period, though at a lower 13.5 per cent, thanks also to stock markets entering a correction phase. Banks also have to contend with the fact that high interest-bearing time deposits account for 85 per cent of aggregate deposits, while the cheaper demand deposits have a smaller 15 per cent share, increasing the payouts for banks. With banks lending long in the absence of an infra lending window, there appears to be much competition for the wholesale deposits which carry higher rates of interest.
+
+RBI's data show that the weighted average term deposit rate has declined 55 basis points for fresh deposits and 47 basis points on outstanding deposits in the current rate cutting cycle of 125 basis points between February 2025 and March 2026. If bank deposits have to be competitive with other asset classes, banks also have to be ready to increase deposit rates. If the C-D ratio increases, banks may resort to short-term market borrowings, which beyond a point could lead to asset-liability mismatch.
+
+In this scenario, the RBI should keep an eye out on sharp practices in garnering deposits or pushing credit.
