@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Beyond the Skyroot moment Part Two
+
+Beyond the Skyroot moment
+
+Silicon Valley itself was shaped not just by venture capital but also by defence spending, university research networks, and public investment in semiconductors and aerospace technologies. India has begun moving in that direction through semiconductor incentive schemes, defence reforms, and opening up the space sector. Yet the ecosystem surrounding these initiatives remains incomplete.
+
+Procurement processes are still slow, domestic demand for frontier technologies remains shallow in many sectors, and research-commercialisation linkages between academia and industry remain weak. Patient Capital The problem is particularly visible in capital formation. While startup funding has become more sophisticated over the past decade, truly patient capital remains limited.
+
+Many investors still prefer sectors where scale can be achieved quickly and valuation visibility is clearer. Deeptech businesses, by contrast, require sustained financing even before commercial viability becomes visible. That is why Skyroot's latest funding round is notable not only because of the company itself but also because of who invested.
+
+The participation of long-horizon investors such as GIC and Ram Shriram's Sherpalo Ventures suggests that at least some institutional capital is beginning to view Indian deeptech as strategically investible rather than merely experimental. Still, caution is warranted before interpreting this as a broader turning point. India's startup ecosystem has historically shown a tendency to treat isolated successes as evidence of structural transformation.
+
+The more meaningful test will lie elsewhere. Can India consistently produce multiple deeptech firms that move beyond prototype stages into becoming globally competitive businesses? Can startups in semiconductors, aerospace, and AI infrastructure generate durable revenues rather than remain dependent on successive funding rounds?
+
+These are more difficult questions than headline valuations. Skyroot's rise nevertheless matters because it signals an early shift in the direction of both capital and ambition. Indian founders are increasingly entering sectors once considered too complex or capital-intensive for startups, while investors appear marginally more willing to underwrite longer-horizon technological bets.
+
+The deeper challenge now is to ensure that such cases do not remain exceptions celebrated precisely because they are rare. Written by Rishi Raj
