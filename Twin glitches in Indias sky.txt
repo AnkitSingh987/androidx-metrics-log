@@ -1,0 +1,30 @@
+Category: Editorial
+Title: Twin glitches in Indias sky
+
+Twin glitches in India's sky
+
+Two breakdowns in aviation rarely occur together by chance; it's like lightning striking the same place twice. When Delhi's Automatic Message Switching System (AMSS) failed recently, slowing air traffic operations to a crawl, several pilots also reported GPS anomalies over northern India-signals suggesting possible spoofing of satellite navigation data. Though officially unconnected, the two events are uncomfortably close in time.
+
+In a world where both digital and satellite networks can be disrupted-intentionally or indirectly-this coincidence warrants deeper investigation rather than a quick technical explanation. The AMSS is the nerve centre of air traffic communication, routing flight plans and operational messages between control towers, airlines, and radar units. It functions much like the WhatsApp of aviation, instantly linking every element of the airspace network.
+
+When it fails, controllers revert to manual procedures-typing and reading flight data line by line-slowing traffic and increasing workload. Around the same time, aircraft over India and nearby regions reported intermittent GPS errors and position shifts, classic signs of spoofing. Reports of GPS interference near the India-Pakistan border further strengthen the possibility of deliberate interference by state or non-state actors.
+
+Pilots flying along certain northern corridors have noted erratic readings, and the Directorate General of Civil Aviation (DGCA) has reinstated traditional Instrument Landing Systems at Delhi to ensure redundancy when satellite signals are unreliable. In this context, the overlap of a major ground-system failure and a navigation disturbance cannot be dismissed as mere coincidence. The geopolitical proximity to conflict-sensitive regions makes the possibility of spill-over interference entirely plausible.
+
+Spoofing, unlike simple jamming, does not block a signal but imitates it. Fake satellite transmissions trick onboard computers into accepting false coordinates, distorting position data. For pilots, this may cause the aircraft symbol to drift on the navigation display, the map to jump, or warnings of "position disagree" to appear.
+
+Such interference has become a global hazard. Data compiled by the international pilot and controller forum OPSGROUP shows a dramatic rise in spoofing incidents-from roughly 300 daily flight disruptions in early 2024 to about 1,500 per day by mid-year. Over one month last summer, more than 41,000 flights worldwide were affected by navigation deception or signal loss.
+
+Independent analytics by Aireon and WTW also confirm that cases of jamming and spoofing have risen by more than 60 per cent since 2021. The surge aligns closely with regions under military tension-particularly the Middle East, the Black Sea, and parts of Eastern Europe-where electronic warfare systems are routinely deployed to mislead drones or missiles, with civil aircraft becoming collateral victims. International regulators have long warned of this trend.
+
+The European Union Aviation Safety Agency (EASA) has documented the spread of GNSS interference and urged a unified European response. Its 2024 advisory called for centralised monitoring networks and pilot training in recognising spoofing symptoms. The International Civil Aviation Organisation (ICAO) recently highlighted GNSS disruption as a rising "safety-of-flight risk" and urged continuous reporting by air navigation service providers.
+
+OPSGROUP identified multiple safety concerns and operational risks, noting that spoofing is now common and often impacts several aircraft simultaneously. The Delhi incident reveals broader systemic vulnerabilities, as increased automation in aviation, while efficient, creates dangerous dependence on complex technology. A simultaneous failure of ground networks and satellite links greatly reduces the chances for human intervention.
+
+The way forward globally is being defined: ICAO, EASA, and IATA advocate creating real-time GNSS interference monitoring cells-akin to weather centres-to issue alerts swiftly. Airlines are advised to train crews to cross-check navigation sources, maintain proficiency in radio-based navigation, and log interference systematically. Airports are reinforcing conventional aids (VOR, DME, ILS) for non-satellite redundancy.
+
+Crucially, regulators must treat simultaneous system failures as credible scenarios, not hypotheticals. With dense airspace, overlapping civil-military operations, and proximity to high-tension borders, India cannot afford to treat GNSS disruptions as distant or occasional events. A joint civil-military monitoring cell under the DGCA and the Airports Authority of India should integrate pilot reports, satellite analytics, and ground data into a real-time alert network.
+
+Strengthening indigenous navigation systems such as NavIC and the GAGAN satellite-based augmentation system will also reduce dependence on foreign GPS signals, enhancing both safety and self-reliance. Delhi's recent turbulence may be a temporary hiccup, but the lesson endures. "Coincidence" isn't an adequate explanation for the simultaneous failure of two critical aviation systems in an era of hybrid warfare.
+
+The silence carries an urgent question: what truly happened when India's messages stopped and its satellites started lying? By Ajay S Jasra The writer is an aviation expert; views are personal
