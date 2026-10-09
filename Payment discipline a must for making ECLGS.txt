@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Payment discipline a must for making ECLGS
+
+Payment discipline, a must for making ECLGS work
+
+A good credit design alone will not help in ensuring the scheme's success. The collapse of trade credit must be dealt with Emergency Credit Line Guarantee Scheme (ECLGS). The Cabinet's approval of ECLGS 5.0 is a timely response to geopolitical stress, rising fuel costs, and supply-chain disruptions affecting MSMEs and aviation.
+
+With 100 per cent government-backed guarantees, capped rates, and near-automatic sanctions, the scheme continues the borrower-friendly approach of earlier ECLGS versions. ECLGS 1.0, launched in May 2020 for MSMEs, was perhaps the most accessible working-capital facility India had ever offered. Loans of up to 20 per cent of outstanding credit were available without collateral, with interest capped at 9.25 per cent for banks, no processing fees, and a 100 per cent sovereign guarantee eliminating credit risk for lenders.
+
+Banks were actively reaching out to eligible borrowers. Government machinery was promoting drawdown. Yet, after four rounds of ECLGS, which ended in mid-2023, MSMEs availed of guarantees worth ₹2.45 lakh crore, out of the corpus of ₹5 lakh crore that was set aside. The total sum disbursed was ₹3.6 lakh crore.
+
+The reasons for this need to be explored. MSMEs and traders do not operate on bank credit alone. Their working capital cycle is built on a continuous chain of trade credit  -  goods and services supplied on deferred payment terms to buyers ranging from large corporates and distributors to government departments.
+
+Bank working capital usually rests on the underlying trade credit system. The MSME's ability to service any loan depends on the speed and reliability with which its buyers settle dues. Covid-19 disrupted this payment chain and the legacy continues. In this environment, a well-managed MSME made a rational calculation: borrowing more to extend fresh trade credit into a market already delaying or defaulting on dues would increase liabilities without assurance that the resulting receivables would be recoverable in full or on time.
+
+Banks were, understandably, approaching the problem from a supply-side lens: credit is available, guaranteed, and cheap. MSMEs were approaching it from a receivables' reality: the problem is not absence of funds  -  it is absence of collections. This mismatch of perspectives, rather than any design flaw in the scheme, explains much of the utilisation gap.
+
+Challenge for ECLGS 5.0 The concern for ECLGS 5.0 is that the post-Covid payment environment has not fully normalised. What began as emergency-driven payment delays gradually shifted behavioural norms  -  delayed payment and defaults became, for many buyers, an accepted working-capital strategy rather than an exceptional measure. When delays cross a critical mass, reputational deterrence weakens: many honest payers cannot be distinguished from defaulters, and no individual firm has an incentive to restore discipline alone.
+
+Trade credit, supply-chain financing, bank working capital, and NBFC lending are deeply interconnected; stress in one segment transmits across the system, slowing credit circulation and compressing the credit multiplier. India is fortunate to already possess the digital infrastructure to address this challenge. GSTN captures invoice-level transaction data across the supply chain.
+
+UPI, NEFT, and RTGS generate time-stamped payment trails. The Account Aggregator framework enables consent-based data sharing. What is needed is one additional architectural step: systematically pairing each accepted invoice with its corresponding digital payment record. Once a buyer accepts an invoice on GSTN, it becomes a digitally authenticated liability.
+
+Linking the related payment details  -  UTR, date, amount, and mode  - to the same invoice creates a verified audit trail where invoices are either matched to payments or flagged as outstanding. Lenders would be able to assess not merely balance sheets, but actual cash-flow behaviour  -  the true determinant of an MSME's ability to service debt. TreDS platforms could price invoice discounting based on verified buyer payment records, reducing financing costs for MSMEs with reliable payers.
+
+A transaction-backed credit profile for consistent payers would gradually replace collateral-dependence. ECLGS 5.0 is a well-designed, appropriately targeted scheme. Its success in the case of MSMEs, however, will ultimately depend on a factor outside its own design: the health of the trade-credit payment ecosystem into which it is released.
+
+Credit availability alone, as ECLGS 1.0 demonstrated, does not guarantee credit utilisation. By Bhawarlal Chandak The writer is former DGM, SIDBI
