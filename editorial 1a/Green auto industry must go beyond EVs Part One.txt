@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Green auto industry must go beyond EVs Part One
+
+Green auto industry must go beyond EVs
+
+Emissions related to manufacturing process - the electricity and upstream products used - also need to be curbed India's automobile industry is at an inflection point. Electric vehicle sales are rising, with EVs accounting for nearly 7.5 per cent of national vehicle sales in our latest estimates, even as new manufacturing plants and aggressive EV line-ups are being flagged off across the country. As the Union Budget approaches amid tightening fuel-efficiency norms and debate around compliance costs, policymakers and industry alike are focused on accelerating clean mobility.
+
+Union Road Transport Minister Nitin Gadkari has already highlighted that electric cars are nearing cost parity with petrol models, reinforcing confidence in the demand-side transition. Yet even as the spotlight stays firmly on tailpipes, a quieter challenge is emerging inside factory gates. Manufacturing emissions from steel, rubber, and electricity-intensive production lines remain largely untouched.
+
+If India's automakers are to stay competitive and meet their net-zero pledges as global markets move towards carbon-sensitive trade, decarbonising how vehicles are made must now move from the margins to the mainstream. India's automobile industry contributes about 7.1 per cent to the national GDP and remains a key driver of the country's industrial growth and employment. While 65-80 per cent of a vehicle's emissions today come from direct use of the tailpipe, electrification is steadily reducing that share.
+
+Yet behind every vehicle lies a web of industrial emissions, from steel and rubber production to the source of the electricity used in factories. For instance, steel used in making just one car can add as much as 2.2 tonnes of CO₂ to the atmosphere. If India's net-zero goal is to be credible, vehicle manufacturing itself has to be decarbonised.
+
+How fast could manufacturing-related energy demand and emissions grow in a business-as-usual scenario? Will Scope 1 (direct), Scope 2 (electricity-related), and Scope 3 (supply chain) emissions rise at the same rate? And what strategy should OEMs adopt to address them? Scale of production The first question is largely about scale.
+
+Vehicle production is set to rise significantly in a business-as-usual scenario, with four-wheelers owned per 1,000 people in India increasing from around 34 currently to 201 in 2070, according to projections. Two-wheeler ownership shows an interesting trend: It rises to 108 in 2050 but drops to 85 in 2070, as people become wealthier and assumed to shift to cars. Freight demand will also rise, leading to higher truck production.
+
+Consequently, energy demand for vehicle manufacturing is expected to more than triple between 2020 and 2050. Associated emissions across all categories are projected to more than double from 30.3 million tonnes of CO₂ in 2020 to 64 million tonnes by 2050. The second question relates to the sources of these emissions.
+
+In 2020, direct factory emissions (scope 1) constituted only around 1 per cent of the total. Indirect emissions from purchased electricity  -  Scope 2  -  emissions accounted for 16 per cent. But the vast majority, 83 per cent, came from scope 3 emissions: the upstream supply chain, especially steel and rubber production.
+
+Decarbonising vehicle manufacturing, therefore, requires tackling all three scopes  -  cleaning up factory operations, switching to renewable electricity, and decarbonising material inputs. The third question relates to mitigation strategy. Leading automakers such as Mahindra & Mahindra, Tata Motors, TVS, and Ford among others are setting ambitious targets to cut their Scope 1, 2, and 3 emissions by 2030-2050, aligning with global net-zero goals.
