@@ -1,0 +1,24 @@
+Category: Editorial
+Title: AI at scale
+
+AI at scale
+
+2026 promises to make artificial intelligence affordable, embedded, and ubiquitous in India 2026 promises to be the year artificial intelligence (AI) becomes affordable in India. Not in the narrow sense of promotional pricing or free trials, but in the deeper way electricity, mobile data, and digital payments became cheap, reliable, and ubiquitous once scale economics kicked in. What began in 2025 as curiosity-driven experimentation with generative AI tools is now set to transform into large-scale adoption, driven less by novelty and more by cost, distribution, and embedded use.
+
+Last year marked the first point of mass exposure. Platforms such as ChatGPT, Gemini, and Perplexity reached Indian users either free or at marginal prices, often bundled with telecom subscriptions. That mattered because price barriers fell early. But consumer access was only the most visible layer of a broader shift.
+
+The more important transition is now underway beneath the surface as AI moves from being an application people try to an infrastructure businesses depend on. From Premium Capability to Mass Infrastructure India's digital track record suggests why this matters. The country has rarely led the world in inventing core technologies, but it has consistently demonstrated how scale reshapes economics.
+
+The telecom transformation was not about creating 4G but about proving that ultra-low prices, high volumes, and relentless usage could sustain heavy infrastructure investment. Once data became cheap, adoption surged, new business models emerged, and productivity gains followed across sectors. AI now appears set to follow the same path.
+
+This logic is most clearly articulated in Reliance Industries Chairman Mukesh Ambani's call for affordable AI for every Indian. The underlying idea is to treat AI as basic infrastructure rather than a premium capability, build it at industrial scale, deploy it internally to drive efficiency, and then offer it externally at prices that expand usage rather than restrict it. Lowering the Unit Cost of Intelligence RIL's plan reflects this approach.
+
+Large AI data centres proposed at Jamnagar powered by the group's renewable energy assets are intended to function as computing factories. Alongside them, smaller inference facilities across the country are meant to bring AI services closer to users, improving speed and reliability. This is not about showcasing technological novelty, but about lowering the unit cost of computing through scale and utilisation.
+
+Equally important is how this infrastructure is used within the group. The push to make telecom, retail, energy, media, and financial services AI-native is designed to reset internal cost structures. The spillover effects extend well beyond one conglomerate. For consumers, this could mean AI features bundled invisibly into everyday services, from customer support and content discovery to education and health tools in Indian languages.
+
+For small businesses and developers, it lowers entry barriers by offering access to computing power and India-trained models without large upfront investment. This is why 2026 matters. Once large players absorb the fixed costs of AI infrastructure and drive high utilisation internally, marginal costs fall.
+
+Competitive pressure then forces diffusion. As with telecom, the result is unlikely to be frontier innovation, but something more consequential for the economy - widespread, affordable and routine use. India may not define the cutting edge of AI. But if it repeats its telecom playbook, it could define how AI becomes affordable at scale and how that affordability reshapes productivity across an entire economy.
+
+If digital India was about giving people an identity and a bank account, AI India must be about giving them intelligence on tap - affordable, accountable and useful. That is a New Year promise worth holding policymakers and companies to.
