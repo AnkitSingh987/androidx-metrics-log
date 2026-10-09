@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The need to study war for peace Part One
+
+The need to study war for peace
+
+Twenty years on, the 2005 economics Nobel-winning duo Schelling and Aumann's work offers several lessons to understand today's conflict-ridden world 2025 marks 20 years of the Nobel economics prize awarded to the duo of Thomas Schelling and Robert Aumann "for having enhanced our understanding of conflict and cooperation through game-theory analysis". The relevance of the 2005 award cannot be emphasised enough given that the world is ridden with multiple conflicts and is dangerously morphing into a pervasive war zone. Economics is a study of human behaviour where humans react to not just incentives but also each other's behaviour.
+
+Game theory is a field which studies this interpersonal human behaviour. The early history of game theory shows its roots in probability and card games. The modern history of game theory starts in 1928 when mathematician John Von Neumann wrote an article on how players minimise their losses. In 1944, von Neumann co-wrote the book, Theory of Games and Economic Behavior, with economist Oskar Morgenstern.
+
+It is quite a story of how the duo from two different fields met and created the field of game theory. They introduced many types of games in their book. In cooperative games, players form binding agreements whereas players of non-cooperative games act in their self-interest. In zero-sum games players' gains and losses are offset with each other whereas in non-zero sum games there could be profits or losses.
+
+In perfect information games, all players have all the information whereas in imperfect games, information is hidden. In the early 1950s, mathematician John Nash famously showed that non-cooperative games have an equilibrium where the players choose their best strategy given the other persons' strategies. The Nash equilibrium was applied extensively to understand oligopoly behaviour of firms and military strategies.
+
+The work of Schelling and Aumann comes to light in this context of applying game theory and the Nash equilibrium to military conflicts. The game theory demonstrates how countries that promised peace end up going to war. Say countries A and B sign a peace pact and agree on disarmament. However, A worries that B might not honour the pact and starts to arm itself.
+
+B also thinks the same about A and arms itself. The two armed countries escalate war tensions, which is contrary to the original intention of peace. Such games are also called chicken/or hawk-dove games where one tries to appear stronger hoping the other would chicken out. Schelling, in his classic The Strategy of Conflict, showed that in such settings there is no single equilibrium but multiple equilibria depending on the probabilities of events and information asymmetry.
+
+For example, say A is not sure whether B will arm itself or not. Now, A will have to figure out the probabilities of various strategies deployed by B and then decide for itself. According to Schelling, the optimal strategy for A could be either to threaten B that the situation would "slip out of hand" or engage in gradually stepping up to open conflict.
+
+The countries have to appear both unpredictable and retaliatory at the same time. The threats and commitments should be credible, else they may lose out. As suggested, the moment we think in this way it leads to an endless chain of "ifs and buts" making the interactions highly complex. Translate these ideas to oligopolies and markets, and one gets to thinking about the fascinating cat and mouse games.
