@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Nighttime lights as growth metric Part One
+
+Nighttime lights as growth metric
+
+Nighttime lights can be a proxy for electrification, urbanization and infrastructure growth Estimating economic activity at the national level is challenging. Doing so at the State or district level is even harder: official statistics are often delayed, sparse, or inconsistently reported. Yet understanding where growth happens is increasingly important.
+
+For policymakers, it informs resource allocation so that development reaches all communities. For State governments, it allows comparison with neighbours and assessment of contributions to the national GDP. For private investors, it helps identify promising regions for investment. It is for these reasons that satellite-based nighttime lights (NTL) data are gaining attention.
+
+NTL data are collected by satellites using sensors that detect artificial light emitted from the Earth's surface. Factories, markets, offices, and homes consume electricity, and this illumination is visible from space at night. Brighter regions generally correspond to higher production, more intense commercial activity, and denser infrastructure.
+
+In short, economic activity can be "seen" from above. The logic is simple: economic activity consumes energy. Shops stay open late in cities, households light up as incomes rise, and factories run at night. Measuring the intensity of NTL (or its growth over time) can therefore provide a high-frequency proxy for economic activity.
+
+This method is increasingly used to estimate subnational GDP, track shocks, and complement official data. It is cheaper and faster than traditional surveys, and crucially, it offers a spatially detailed view of growth, showing not just how much the economy is expanding, but where. NTL and GDP link Our analysis of India between 2012 and 2022 shows a strong alignment between aggregate GDP and NTL.
+
+The two series move almost in lockstep, including during the pandemic downturn in 2020, when both dipped sharply. This close correspondence suggests that NTL can function as a near real-time, high-frequency indicator of growth, capturing fluctuations that conventional GDP measures often miss. The second set of graphs illustrates the relationship at the State level, comparing Maharashtra, India's largest State economy, and Bihar, one of the smaller ones in terms of GSDP.
+
+Both States exhibit strong co-movement between NTL and GSDP over the past decade, indicating that NTL's utility as a high-frequency, scalable metric for monitoring economic change and estimating GSDP, regardless of whether the State's economy is large and industrialised or smaller and rapidly developing. We also note that Bihar displays an even more pronounced increase in NTL compared to its GSDP, especially after 2014. This divergence suggests that the rise in NTL (a proxy for electrification, urbanization, and infrastructural improvements) may be outpacing the growth measured by traditional economic output statistics.
+
+The trend highlights Bihar's significant progress in improving access to infrastructure and possibly the informal sector's growth, which might not be fully captured by GSDP figures. Policy Implications NTL has wide-ranging uses: Nowcasting: Because the data are updated frequently, NTL can provide near real-time estimates of growth, helping fill gaps between official releases. Subnational monitoring: State and district governments can track which regions are accelerating and which are lagging, guiding targeted interventions.
+
+Policy evaluation: Changes in illumination can reveal the impact of electrification drives, industrial parks, or urban infrastructure projects. Crisis response: Sudden drops in light intensity can flag economic disruption from floods, pandemics, or conflicts, helping direct relief quickly. Urban and industrial planning: NTL highlights patterns of urban sprawl and industrial clustering, informing transport planning, zoning, and investment.
+
+The Limitations NTL data is not perfect. Rural or low-light areas may be under-represented, and non-economic lights (festivals, construction, or traffic) can introduce noise. Bright urban centres can "saturate" satellites, while energy-efficient lighting may reduce brightness without affecting output.
