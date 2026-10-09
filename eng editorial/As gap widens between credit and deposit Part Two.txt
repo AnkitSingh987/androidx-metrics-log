@@ -1,0 +1,20 @@
+Category: Editorial
+Title: As gap widens between credit and deposit Part Two
+
+As gap widens between credit and deposit growth, banks turn to a costly solution
+
+As indicated by RBI, the 5-year average of the share of CASA in incremental deposits has been 40.2%. However, it was 21%/23%/33% in FY24/FY25/FY26," according to Mandora of Equirus. RBI's recent measures to attract foreign inflows have also led banks to aggressively hike interest rates across foreign currency non-resident (FCNR-B) offerings, which are classified under term deposits.
+
+Why is it a concern CASA deposits have always been a reliable funding source for banks due to their low cost (around 3-4% interest rate) and "stickiness". Term deposits and CDs, on the other hand, are much higher-cost (7-8% interest rate) options that ultimately squeeze the margins of banks. "CDs are wholesale, price-sensitive money with typical tenors of 3-12 months, whereas CASA is granular, behaviourally sticky retail money.
+
+In a tight-liquidity phase, CD rollover costs can spike quickly," said Yuvraj Choudhary, research analyst at Anand Rathi Institutional Equities. While banks have largely managed to maintain robust financial growth and protect their net-interest margins (NIM) so far, this increased reliance on higher-cost shorter-term funds has already started to seep in. The likes of SBI, HDFC Bank, and Canara Bank, among others, saw their NIMs fall in the January-March quarter.
+
+The impact has been limited due to the low interest rate environment currently after the RBI slashed the repo rate by 125 basis points in 2025. This rate influences the interest rates across the entire banking system. During a low interest rate cycle, banks are able to offer lower rates to depositors, providing some breathing space.
+
+"On funding costs, the pressure is visible but contained. The current rate-cut cycle works in banks' favour. CDs and bulk term deposits reprice downward the fastest, so short-term wholesale reliance is cheapest to carry precisely now. The risk flips when the rate cycle turns," said Choudhary. "Incrementally, some banks have marginally increased their term deposit rates in Q1.
+
+We expect the impact of higher share of bulk deposits to flow into cost of funds during 2HFY27," according to Mandodra. Experts also believe the sluggish CASA growth is cyclical in nature after the post-Covid boom in liquidity due to steps by the central bank. "We believe this is more cyclical in nature and linked to overall liquidity in the system.
+
+With most banks showing little difference in asset quality, liability franchise quality is becoming the key competitive moat in Indian banking," an analyst at a domestic firm said. Thus, while banks have found shorter-term funding solutions as CASA growth has dried up, the over-reliance on such temporary fixes is a double-edged sword. While it helps manage liquidity and fund the booming credit growth for now, a hike in interest rates by the RBI or an external crisis may hit the sector hard if CASA growth is not rejuvenated.
+
+Written by: Akash Mandal
