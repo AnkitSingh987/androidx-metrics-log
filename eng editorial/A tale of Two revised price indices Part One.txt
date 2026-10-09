@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A tale of Two revised price indices Part One
+
+A tale of 2 'revised' price indices
+
+The revisions in CPI and WPI raise doubts on whether both GDP and inflation are being underestimated The two price indices, CPI and WPI, that form the bedrock of Indian inflation measurement have seen some familiar divergences - and unfamiliar methodological issues, thanks to base year revisions. While divergence itself is neither new nor surprising, those revisions deserve close attention. What implications would these changes bring in for inflation?
+
+How is it likely to impact growth measurement and hence policy perspectives? First a look at the data: in July 2026, the headline CPI inched up to 4.45 per cent (provisional) from 4.38 per cent in June 2026. The CPI remains elevated above the RBI's inflation target of 4 per cent for consecutive two months.
+
+Food inflation (provisional) stood at 5.79 per cent in rural areas and 5.05 per cent in urban areas, reiterating that the increase in CPI is largely due to the increase in food prices. Time and again, with food prices being the major item that leads to changes in the CPI figures, the headline CPI numbers move considerably away from core inflation. WPI inflation has been increasing persistently over the past six months and stood at 9.78 per cent (provisional) in July 2026.
+
+In the WPI, primary articles inflation went up further to 8.52 per cent, from 7 per cent recorded in June 2026. During the same time, fuel and power inflation decelerated from 27.41 per cent to 20.05 per cent, while manufactured products inflation inched up from 7.48 per cent to 8.29 per cent. Wholesale food inflation went up from 6.14 per cent to 6.65 per cent.
+
+It is evident that the fuel inflation, which has largely been the reason for WPI inflation in the last few months, has now been replaced by the upward inflationary trajectory seen in both food and manufactured products. While both the series demonstrate a higher trajectory, WPI has seen a sharp increase, not yet reflected in CPI. WPI: Changes, implications Now, to the revisions.
+
+Firstly, the base of CPI and WPI have been updated: WPI base to 2022-23 from 2011-12, and CPI base to 2024 from 2012. Traditionally, we attribute the divergence of the indices to factors like differences in coverage and baskets, weighting diagram and price variances at different stages of the value chain, etc. For example, WPI has large share of manufactured products and no apparent service components.
+
+On the other hand, CPI has substantial services share and relatively small manufactured products contribution. These two price indices are equally important for national income measurement. However, it is not clear why the revised WPI and CPI, released almost at the same time, have different base years  -  2022-23 and 2024.
+
+As they are chosen as bases, both years must have been considered as a normal year. Historically, they are produced by two different Ministries. Some coordination would have helped aligning the base revision of both the indices. Second, the weights in the new WPI series are based on the Gross Value of Output (GVO) from domestic production.
+
+This has replaced the older Net Traded Value method, which considered imports minus exports (previous 2011-12 series). That is, the present WPI, with a GVO-based approach, gives more weightage to commodities in domestic production rather than their traded value. Thus, the present rise in WPI could represent that domestic prices are now increasing more rapidly than those exposed to global price changes.
