@@ -1,0 +1,14 @@
+Category: Editorial
+Title: India is trying to fix the copyright issue Part Two
+
+India is trying to fix the copyright issue with AI training. It's doing it wrong
+
+The paper suggests that royalty distribution would prioritise the most popular works, raising serious concerns about whether lesser-known creators would see any meaningful benefit. Third, the report presents the dynamic between AI companies and creators as a zero-sum game, ignoring the fact that many in the creative community have embraced AI systems to bring down production costs. A report by Classplus found that 92 per cent of Indian creators surveyed use generative AI.
+
+A blanket licensing regime would raise the cost of accessing generative AI, as the fees would be passed on to users, which would negatively impact these creators  - and indeed all users of generative AI. Fourth, the report's emphasis on global revenue punishes scale and multinational presence for Indian AI start-ups, while also making it unclear whether they would be exempt from royalty requirements if their business were entirely in India. Making a firm liable for an additional fee once it goes abroad rests on the erroneous presupposition that all start-ups are formed to serve the domestic market first.
+
+There may be companies incorporated here but looking to serve needs abroad. Why should they be treated differently from those operating exclusively within the domestic market  -  even if they are the same size or perhaps smaller? It is akin to charging a tariff on the export of our own services. The AI Copyright Committee's blanket licensing proposal casts an unfortunate pall on the upcoming AI summit, where India is playing host while also seeking to position itself as a leader in AI innovation.
+
+Our conversations with Indian entrepreneurs make it clear that they cannot afford licensing costs or the expenses associated with hiring legal teams to manage additional compliance burdens. Faced with these costs, they will either refrain from entering the space or move abroad to jurisdictions with friendlier copyright laws. India now faces a choice: Adopt a framework that encourages innovation and become an AI powerhouse  -  or cling to relics of the past and watch that opportunity slip elsewhere.
+
+Written by Meghna Bal The writer is director, Esya Centre, a tech-policy focused think tank based in New Delhi
