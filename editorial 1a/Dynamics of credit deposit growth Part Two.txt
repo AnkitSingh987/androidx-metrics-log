@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Dynamics of credit deposit growth Part Two
+
+Dynamics of credit, deposit growth
+
+As the borrower uses the deposit, the amount goes as deposit to another bank. That is why the saying every loan makes a deposit. Thus the whole process results in multiple creation of deposits. This is possible because: (a) banks need to keep only a fraction of deposits in the form of cash; and (b) what one bank loses, another bank gains.
+
+The only exception is when a part of the deposits is withdrawn as cash. So if 'r' denotes the required reserve requirement as a percentage of deposits and 'e' is the proportion of deposits withdrawn in cash (sometimes called cash leakage), the increase in deposits becomes D = R/r+c. There are other sophisticated versions of this formula.
+
+But in substance, this is represented as the model of deposit and credit expansion. R comes as a result of central bank action. If banks are not able to lend because of lack of demand, the deposit multiplier becomes smaller. The formula given earlier sets the upper limit. Banks may keep more reserves than the reserve requirement ratio stipulated by the central banks for other reasons such as, uncertainty and customer behaviour.
+
+This process of deposit creation somewhat under cuts the view that banks are 'financial intermediaries'. It is perhaps true that some part of the deposits is not the result of credit dispensation. Credit initially creates only Current Account deposits. While at the aggregate level the overall deposits may be conditioned by central banks actions in creating reserves, banks may regard deposits as the source of loans.
+
+That is still a good approach. Credit growth cannot be unrestrained without limit. Of course, central bank can control overall credit growth by acting on the reserves. That, it should do, depending on the situation. Controlling money (deposit) growth is an important responsibility of the central bank.
+
+It should be noted that adjustment of policy rate is not independent of adjusting reserve money and consequently deposit growth. They are concomitant decisions. When it comes to regulation of credit, the central bank plays twin roles, as a monetary authority and as a regulator. Even risk weights are adjusted to regulate flow for specific sectors.
+
+Prescription of capital adequacy ratio as well as liquidity ratio is meant to restrain long term credit growth and ensure the soundness of banks. Overall credit growth is an important dimension to watch. Too much can explode into inflation and too little can constrain growth. Linking credit growth to deposit growth is only one aspect.
+
+There are a host of other issues related to credit expansion such as quality of credit that need to be kept in view. By C Rangarajan & B Sambamurthy Rangarajan is former Chairman to Prime Minister's Economic Advisory Council and former Governor, RBI. Sambamurthy is formerly Director and CEO, IDRBT and led a commercial bank
