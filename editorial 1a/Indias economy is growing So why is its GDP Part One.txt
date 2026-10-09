@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Indias economy is growing So why is its GDP Part One
+
+India's economy is growing. So why is its GDP rank slipping?
+
+So why is its GDP rank slipping? In today's Finshots, we unpack how India's economy can keep growing strongly on the ground while still slipping in global GDP rankings on paper. The Story It is remarkable how quickly human minds jump from certainty to alarm. A single headline about India slipping in global GDP (Gross Domestic Product or the total value of goods and services a country produces over a given period) rankings was enough for many on Twitter and Reddit to assume that the country's growth story had suddenly weakened and that we were heading into turmoil.
+
+However, that same instinct says as much about human psychology as it does about economics. Because humans are naturally wired to treat changing numbers as warning signs and rankings as hard truths, even though they often reflect changes in methods, currency, or temporary factors, not real decline. So, in uncertain moments, the brain prefers a simple explanation.
+
+And "India is falling behind" is exactly what feels simpler than the truth. But the truth is that economies, much like people, can look weaker on paper while becoming stronger beneath the surface. Let's talk about India's Composite PMI, for instance. For the uninitiated, PMI, or Purchasing Managers' Index, is one of the quickest ways to gauge economic momentum.
+
+Every month, businesses are surveyed on whether new orders, production, hiring, inventories, and overall activity are improving or worsening. A reading above 50 signals expansion, while anything below 50 points to contraction. Think of it as an early pulse check for the economy, often offering clues long before official GDP data arrives.
+
+And India's pulse has looked healthy. For context, just this month, the country's Composite PMI rose from 57 to 58.3, indicating robust growth across both manufacturing and services. Companies reported stronger demand, rising output, and increased hiring to meet fresh orders. In other words, businesses on the ground were behaving as if the economy were accelerating, not sliding into distress.
+
+Which is why the recent IMF rankings showing that India's GDP fell from the fourth-largest to the sixth-largest economy confused many people. If business activity is expanding, jobs are improving, and India remains among the fastest-growing major economies in the world, how did the country appear to slip from fourth to sixth place in some global GDP tables? The answer lies in understanding what those rankings actually measure.
+
+When headlines say that one country has overtaken another in terms of GDP, they are usually referring to nominal GDP measured in US dollars, not inflation-adjusted domestic output. For the uninitiated, nominal GDP is the value of all goods and services measured using the prices that actually prevailed in that year. It rises either because we've produced more, or because of inflation.
+
+So in simple terms, economists first calculate the nominal GDP, usually in local currency, and then convert that figure into dollars for global comparison. And that second step changes the story significantly. India may be producing more cars, software services, housing, electricity, and consumer goods than before.
+
+But if the rupee weakens against the US dollar at the same time, the value of that larger output may appear smaller when converted into dollars. So an economy can grow in real life while looking weaker on an international leaderboard. Think of it this way. Suppose your salary rises in rupee terms this year, but the rupee loses value sharply against the dollar.
