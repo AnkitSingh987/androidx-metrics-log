@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Redrawing the economic map Why Indias GDP Part Two
+
+Redrawing the economic map: Why India's 2026 GDP reset is a fiscal game-changer
+
+The revised series reduces reliance on apportionment by drawing more heavily on state-specific administrative and survey data. Improved use of GST records, enterprise surveys, and labour market data allows state output to be estimated more directly, especially in services, informal activity, and digital sectors. These changes matter because GSDP is a core anchor of state fiscal policy.
+
+Under the Fiscal Responsibility and Budget Management framework, fiscal deficit and debt limits are expressed as ratios to GSDP. It is hard to say at this stage how GSDP will change following these methodological changes. However, should GSDP be revised upward due to improved measurement, these ratios mechanically improve, expanding borrowing headroom even without any change in underlying fiscal behaviour.
+
+Conversely, a downward revision may lead to tighter fiscal constraints. Additionally, the Finance Commission distributes central tax revenues across states using formula-based criteria that now assign a 10 per cent weight to GSDP, alongside a slightly reduced weight for income distance. This adjustment places greater emphasis on measured economic size.
+
+As a result, revisions to GSDP can have a more direct bearing on states' shares in tax devolution. In this way, revisions to GSDP can affect fiscal entitlements without any immediate change in real economic activity, highlighting why GDP measurement has direct implications for fiscal federalism. The revision also shapes external assessments of India's economy at the national and sub-national levels.
+
+GDP and GSDP underpin sovereign risk metrics such as debt-to-GDP and fiscal deficit-to-GDP, while state-level investment decisions draw on GSDP growth, per capita income, and sectoral composition to gauge market size and fiscal capacity. Changes in measurement, therefore influence how macroeconomic stability and state performance are evaluated. States that appear relatively more fiscally stable under the revised methodology may attract greater investment, while others may see relative interest weaken.
+
+This highlights the role of robust GSDP measurement in informing the geographic allocation of capital. India's GDP revision should be seen not as a one-off adjustment but as a way of improving statistical governance. The true test is not the size of the upward (or downward) surprise, but whether it leads to a lasting culture of regular updates to the measurement systems.
+
+As the economy continues to evolve, periodic revisions must become routine and methodologically sophisticated. Written by Aashi Gupta The writer is Research Associate at Centre for Social and Economic Progress, New Delhi. Views are personal
