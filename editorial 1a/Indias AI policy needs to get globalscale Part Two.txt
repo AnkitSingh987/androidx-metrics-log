@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Indias AI policy needs to get globalscale Part Two
+
+India's AI policy needs to get global-scale ready
+
+Privacy concerns and policy constraints have held it back. The lesson for India: great models alone don't scale. Trust, openness, and alignment matter just as much. Taken together, these examples highlight a clear shift. Countries are not just scaling infrastructure; they are backing it with policy clarity, trust frameworks, and sustained public investment.
+
+India is not falling behind yet. But we cannot afford to stand still. Our advantage today lies in deployment. If you are building AI applications in local languages, integrating with Aadhaar, or delivering citizen services at scale, India is one of the best places in the world to be. The DPI stack is our superpower.
+
+But the further up the stack you go, into model training, risk calibration, and core development, the thinner the support becomes. Over time, this creates dependency. If we are not building our own models, we are relying on others. That means relying on their assumptions, their licensing models, and their decisions on what gets supported.
+
+It also means we are shaping user experiences and public services on top of systems we did not design. This is not just a technology issue. It is a question of control, resilience, and competitiveness. Targeted policies The good news is we do not need a major new law to change course. We need targeted policy interventions.
+
+We need to clarify that using publicly available data for AI research and training is legal in India. That one move would unleash experimentation across academia and start-ups without putting them at legal risk. We need to create safe harbours for developers, just as we did for internet intermediaries.
+
+If an AI tool is misused by a third party, the developer should not automatically be liable. Liability must be proportional and predictable. We need to make AIRAWAT truly usable. Publish access norms. Build onboarding tools. Create shared compute clusters that researchers and small companies can access with minimal overhead.
+
+We need to set up structured sandboxes for AI development, particularly in regulated sectors. These sandboxes should be run with sector regulators and supported by legal guidance, not just left to informal experimentation. And we need a lightweight certification regime. If a model passes basic tests for fairness, transparency, and robustness, let it plug into DPI use cases by default.
+
+This creates a positive incentive structure and builds trust with both users and enterprise buyers. None of this is radical. All of it is doable. The current AI governance framework reflects a careful, considered approach. It avoids the pitfalls of overregulation and acknowledges the complexity of the space.
+
+That is to be applauded. But now, we need a second chapter. One focused not on protecting what exists, but on creating what does not. India has every ingredient. Talent. Data. Market scale. Public infrastructure. Institutional maturity. What we need now is a policy to unlock those ingredients into capability.
+
+The world is watching. And so is the Global South. If India can build a governance model that is both inclusive and production-ready, we will not just lead by example. We will offer a roadmap that others can follow. The question is not whether we will use AI safely. That part is underway. The real question is whether we will own the tools, shape the direction, and claim our seat at the table as true builders.
+
+Now is the time to decide. By Sanchit Vir Gogia The writer is Chief Analyst, Founder & CEO, Greyhound Research
