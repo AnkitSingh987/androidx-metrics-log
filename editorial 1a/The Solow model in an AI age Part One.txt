@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The Solow model in an AI age Part One
+
+The Solow model in an AI age
+
+On its 70th anniversary, its ideas on technology's link to economic growth remain central to debates around the impact of artificial intelligence In February 1956, US economist Robert Solow published a model to understand economic growth, which was followed by Australian economist Trevor Swan in November that year. The nine-month delay and Swan's inhibitions led the model to be dubbed as the Solow model. On its 70th anniversary, it remains central to current debates around the impact of artificial intelligence (AI) on the global economy.
+
+It is a remarkable coincidence that the term AI was coined by the computer scientist, John McCarthy, in 1956. The question of growth has occupied attention of most economists since Adam Smith published a book in 1776 with the title An Inquiry into the Nature and Causes of the Wealth of Nations. Smith's wealth of nations was driven by division of labour and freer markets.
+
+In 1798, Thomas Robert Malthus's pessimistic prognosis overshadowed everything. Malthus opined that as land is limited, growth in agriculture will be lesser than growth in population, leading to widespread hunger and poverty. Malthusian thought, even though highly despised, was not wrong as there was barely any growth for most part of human history.
+
+Growth engines started sputtering after the industrial revolution in the 18th century and gained pace in the 19th century. High growth led to the rise of large industries, and it was characterised by unequal growth. The debates shifted to Marxism which argued that large-scale-driven capitalism is doomed to fail.
+
+Marx was later joined by Joseph Schumpeter who argued that creative destruction will destroy capitalism. The above mentioned growth descriptions were based on a grand narrative combining history, politics, society, and economics. In the inter-war period, the narrative approach gradually gave way to building mathematical models to estimate growth.
+
+In the 1930s, economist Simon Kuznets developed a measure to estimate national income. After World War II, Keynesian economics became central to economic policy with questions of reviving growth becoming central. Paul Samuelson had joined the Massachusetts Institute of Technology in 1940 and was writing textbooks based on Keynesian economics using the mathematical approach.
+
+The first growth model was developed by two economists, Roy Harrod and Evsey Domar, independently of each other in 1939 and 1946 respectively. The model based on Keynesian economics links economic growth directly to savings and capital. It states that the rate of growth depends on the savings ratio divided by the capital-output ratio.
+
+The 1956 Solow model built on Harrod-Domar by adding that like capital, labour is also an important factor of growth. So, if a country had higher labour resources it could substitute labour for capital and vice versa. However unlike Harrod-Domar, the Solow model says that capital accumulation faces diminishing returns.
+
+So by simply adding more capital a country cannot generate higher growth. Instead, a country has to make technological progress -  a major breakthrough for the model. Until then, while it was understood that technological progress was important for growth, it was not formally a part of the economists' toolkit.
+
+Solow was duly awarded the Nobel Prize in economics in 1987. The model gave three major insights on the wealth of nations. First, capital accumulation cannot sustain long-term growth because of diminishing returns. As the capital grows, new investment replaces depreciated capital until the economy reaches a steady state where capital per worker stops growing.
