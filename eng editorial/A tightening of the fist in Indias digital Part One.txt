@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A tightening of the fist in Indias digital Part One
+
+A tightening of the fist in India's digital public square
+
+India's digital public square The draft amendments to India's Information Technology Rules trigger fears of digital overreach and a departure from existing judicial rulings Imagine this. You leave a sharp, satirical comment on social media or under a news article about rising fuel prices, and it gets a few likes. A few hours later, the comment disappears.
+
+The platform does not explain. Your account remains, but you notice that posts on similar topics no longer appear publicly. You have not been charged with any offence. No court has issued an order. Yet something has quietly shifted. This is not a far-fetched scenario. It is a plausible outcome under the draft amendments to India's Information Technology Rules released by the Ministry of Electronics and Information Technology (MeitY) on March 30, 2026.
+
+Presented as technical clarifications, the changes mark a deeper transformation in how speech is governed online and who gets to decide its limits. Core area of concern At the centre of concern is a proposed expansion of executive power that risks bypassing Parliament and the courts. One provision, Rule 3(4), would require platforms to comply with a wide array of government-issued instruments, including advisories, directions and standard operating procedures, as a condition for retaining "safe harbour" protection under Section 79 of the IT Act.
+
+In plain terms, platforms would be legally safer if they follow government instructions, even when those instructions do not arise from formal law. This sits uneasily with the Supreme Court of India's landmark ruling in Shreya Singhal vs Union of India (2015), which held that platforms are only required to act on unlawful content when they receive a court order or a government notification grounded in law. By allowing informal directives to trigger compliance obligations, the draft rules appear to dilute that constitutional safeguard.
+
+The likely result is not targeted moderation but broad over-censorship. Faced with uncertain and potentially unpublished directives, platforms will err on the side of removal. It is the predictable logic of risk management. When liability is unclear, speech becomes expendable. A second shift expands the scope of state oversight far beyond traditional publishers.
+
+Amendments to Rule 8 bring ordinary users who post or share news and current affairs content within the ambit of the government's oversight mechanism. This includes the Inter-Departmental Committee, a body empowered to review content and recommend blocking. This is not merely an administrative adjustment.
+
+It reintroduces, through a different route, a regulatory framework that has already faced judicial scrutiny. In 2021, the Bombay High Court stayed key provisions of the IT Rules, citing concerns under Article 19(1)(a) of the Constitution. The Madras High Court later observed that such oversight could undermine media independence.
+
+Those challenges remain pending. Yet, the new draft effectively reconstructs the same architecture while those questions are unresolved. An undefined role Equally troubling is the transformation of the Inter-Departmental Committee itself. Originally designed to address grievances, it is now empowered to examine any "matter" referred by the Ministry of Information and Broadcasting.
+
+The term is left undefined. A procedure is currently in place under Rule 14 but compliance remains an issue. There is no clear threshold for intervention, and no guarantee that affected users will be heard before action is taken. This shift from grievance redress to proactive scrutiny changes the character of the body.
