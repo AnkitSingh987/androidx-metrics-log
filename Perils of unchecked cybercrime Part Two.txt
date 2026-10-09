@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Perils of unchecked cybercrime Part Two
+
+Perils of unchecked cybercrime
+
+Singapore has built cyber-resilience into its economic brand; Israel has turned it into a strategic industry. India, aspiring to be the preferred partner for next-generation digital supply chains, cannot afford to be cyber-vulnerable. The scale of the problem has become a "cyberdemic". A retired civil servant loses a lifetime's savings to a fake stock advisory on WhatsApp; a young graduate is trafficked into a scam compound; a senior citizen is held in psychological captivity for days by a voice claiming to be from the CBI.
+
+NITI Aayog has also acknowledged that the emotional toll of such crimes frequently exceeds the financial one. Generative AI is accelerating the threat. Deepfake audio and video are increasingly used to impersonate family members, executives and officials in real time and digital literacy without accompanying cyber literacy is dangerously incomplete, particularly among India's newest internet users in Tier-2 and Tier-3 towns.
+
+Five-point plan India's institutional response has begun. I4C has helped freeze over ₹8,031 crore in fraudulent transactions, and the Citizen Financial Cyber Fraud Reporting System has saved over ₹7,130 crore across 23 lakh complaints. These are meaningful but the scale of the challenge demands a quantum jump.
+
+First, cybersecurity must become a whole-of-government priority, with real-time coordination between I4C, CERT-In, RBI, intelligence agencies and state police. Second, cyber hygiene needs to become a national movement, embedded in school curricula and corporate onboarding with the urgency once reserved for financial literacy. Third, India must dramatically expand its cyber-forensic talent pipeline where shortages at the investigative level remain acute.
+
+Fourth, India must deploy AI defensively, to flag mule accounts and behavioural anomalies in real time, building predictive threat intelligence rather than reactive policing. Fifth and most urgent, India must pursue sustained bilateral and multilateral engagement; extradition frameworks, mutual legal assistance, Interpol coordination and direct diplomatic pressure to dismantle the scam-compound ecosystem in South-East Asia at its source. The notion of Viksit Bharat rests on trust.
+
+Trust that UPI transactions are safe. Trust that a hospital's servers will not be held hostage. Trust that an Aadhaar-linked identity cannot be weaponised by a criminal operating out of a compound thousands of miles away. Without trust, the digital economy cannot realise its potential, however brilliant its architecture.
+
+India's adversaries in this century will not always come in uniform. They infiltrate networks, exploit stolen identities and drain the savings of the middle class from behind a screen. Securing this digital frontier is no longer optional. This "cyberdemic" must receive the same attention that building highways, ports and factories get.
+
+By Amitabh Ranjan The writer is is Registrar, Indian Institute of Public Administration, New Delhi
