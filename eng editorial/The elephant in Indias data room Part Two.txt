@@ -1,0 +1,12 @@
+Category: Editorial
+Title: The elephant in Indias data room Part Two
+
+The elephant in India's data room
+
+Common standard for data The solution to the inefficiencies can be seen under the National Data Governance Framework Policy (NDGFP), where the proposed India Data Management Office (IDMO) has the potential to be the keystone of reform by developing and enforcing common rules, standards, guidelines and protocols for data across all Ministries and States. However, the IDMO needs to be empowered with real authority to set binding standards, audit compliance, and resolve disputes over definitions and methodologies across Ministries. Otherwise, the inefficiencies will persist.
+
+In addition, alignment with global statistical frameworks such as the UN's System of National Accounts for economic indicators, and harmonising them within a National Statistical Standards Manual could unify definitions and practices nationwide. Most of all, India's open data platform, "data.gov.in", should be scaled up into a centralised, schema-consistent repository that serves both public availability of information and internal needs. Ministries must upload datasets in standardised formats regularly, enabling parliamentarians to access real-time, district-level figures.
+
+As a benchmark Finally, institutionalising accountability will be key to sustaining progress. NITI Aayog's Data Governance Quality Index should be an annual benchmark, tied to performance reviews and incentives for Ministries and States, as healthy competition on data quality can drive change as powerfully as economic competition. Data standardisation is often minimised as a technical exercise, but it is in fact the grammar of governance that a nation aspiring to become a $5 trillion economy needs to get right.
+
+Addressing the elephant in the data room means committing to the standards, systems and stewardship that will make India's data fit for purpose, and fit for the future. By Abhishek Sharma Senior policy and political researcher
