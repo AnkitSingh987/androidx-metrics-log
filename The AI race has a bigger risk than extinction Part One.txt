@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The AI race has a bigger risk than extinction Part One
+
+The AI race has a bigger risk than extinction
+
+As machines acquire greater autonomy and nations compete for technological supremacy, the real question is whether humans will retain the power to intervene For most of human history, power belonged to those who could make decisions. Tools increased the strength of the human hand, the reach of the human voice and the speed of human calculation. Artificial intelligence introduces something more consequential: Systems that can increasingly participate in making decisions themselves.
+
+That is the deeper significance of Dario Amodei's warning. Amodei, chief executive of Anthropic, one of the companies at the frontier, has urged the industry to "pace the frontier": Development should continue, but not so rapidly that safety research and safeguards are left behind. His concern comes as AI systems move from generating answers to taking actions, including in cyber operations.
+
+Anthropic has documented the use of Claude in cybercrime, fraud, surveillance and weapons-related activity. The systems are acquiring greater autonomy, access and persistence, making control increasingly practical rather than hypothetical. The reaction has been striking. Sam Altman and Elon Musk, usually fierce competitors, have backed greater caution.
+
+Within Anthropic, researcher Jacob Coxon recently resigned over what he regarded as a reckless race towards self-improving AI. Another researcher, Evan Hubinger, has assigned a probability of more than 10 per cent to AI causing human extinction within a decade. Such numbers deserve scepticism. There is no empirical method for calculating the probability of extinction from an intelligence that does not yet exist.
+
+Today's systems remain capable of extraordinary feats and astonishing errors. There is also an institutional complication: Those issuing the warnings are participants in the race, with commercial interests in the rules. Their warnings should inform public policy, not determine it. Yet rejecting the prediction does not require rejecting the precaution.
+
+One need not believe that AI will destroy humanity to believe that human agency must be protected. The more immediate danger may be humans surrendering judgement to systems operating beyond meaningful scrutiny. "Human in the loop" can become a reassuring phrase rather than a safeguard. Someone unable to understand a system's reasoning, test its conclusions or intervene quickly enough may remain legally responsible while exercising little substantive control.
+
+The harder question is what happens when a system can pursue an objective with greater autonomy and persistence than its creators can fully understand. It need not become conscious or desire to harm us. Capability, access and poorly constrained objectives may be sufficient. Regulation should therefore focus less on whether an AI system appears trustworthy and more on whether its capabilities can be measured, audited, stress-tested and constrained.
+
+Can its behaviour be independently evaluated? Can failures be detected before they cascade? Can access be withdrawn? Can a human actually stop it? These are prosaic questions, but governance often fails by waiting for spectacular harm rather than examining the conditions that make it possible. There is also a geopolitical struggle beneath the safety debate.
+
+The United States has largely approached AI through innovation, private capital and technological leadership. Europe has put greater weight on risk, consumer protection, safety and fundamental rights. China has embedded AI within national strategy, state capacity, information governance and sovereignty.
+
+Different philosophies of regulation are therefore competing alongside different philosophies of power. AI is already the global contest for control over intelligence. The battle is over chips, compute, data, models, infrastructure, talent and technical standards. Dependence itself can become a source of leverage.
