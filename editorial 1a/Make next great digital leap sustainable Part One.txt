@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Make next great digital leap sustainable Part One
+
+Make next great digital leap sustainable
+
+Anchoring hyperscale green data centres will unleash a wave of FDI, transform India into a digital infrastructure exporter, and create high-skilled tech jobs across regions When a tap on a glass screen instantly processes a UPI transfer, takes a picture, streams high-definition video, or generates a nuanced query on a generative AI platform, we rarely think about the physical reality of that moment. Yet, behind this seamless magic lies an invisible, energy-dense world of servers, cooling units, and high-speed fiber lines. India is fast emerging as a digital superpower with a population that has replaced paperwork and cash for digital wallets, government e-portals, app-based daily life, and AI productivity tools.
+
+But as our appetite for data moves from merely consuming content to generating intelligence, a critical strategic dilemma emerges: Where does all this data live? To sustain its digital leap, India cannot rely on cloud servers sitting thousands of miles away in Europe, North America, or Singapore. It needs to build, power, and own its data centres.
+
+With some of the lowest mobile data tariffs in the world, India ranks among the highest global consumers of cellular data per capita. A population armed with cheap 5G and fixed-wireless connections consumes gigabytes as naturally as breathing. From hyper-local delivery services, mobility, travel, e-commerce, entertainment, news, social media to digital banking, every aspect of daily Indian life relies on a mobile app.
+
+Millions of bytes are created every millisecond through transaction histories, user preferences, and real-time location tracking. The transition from traditional internet browsing to AI is a structural shift. Standard search queries use a fraction of a watt-hour, generating an AI response, image, or deep-learning model that require exponentially higher computing power and high-density GPU clusters.
+
+Processing these massive AI and data workloads abroad creates intolerable latency, risks security, and bleeds capital out of the country. Keeping data localised isn't just about speed, it is a matter of national economic sovereignty. Global cloud giants and hyperscalers are investing billions in India following the clear economics of demand and scale and growing importance of India backed by government policies.
+
+The combination of strict data localisation frameworks such as the Digital Personal Data Protection Act and an unmatched market size means that foreign tech platforms must store and process Indian citizens' data within national borders. India also offers a young, skilled engineering workforce and lower construction and operational costs compared to European or North American tech hubs. Recognising that data centres are economic powerhouses of the 21st century, Indian states are competing to attract hyperscale investments.
+
+Andhra Pradesh has positioned Visakhapatnam as India's premier eastern digital gateway through its aggressive Data Centre Policy 4.0. By leveraging its coastal advantage to establish open subsea cable landing stations, dedicated green-energy integration, and seawater desalination systems, the state has secured multi-billion-dollar hyperscale AI hub commitments from global giants. Maharashtra is harnessing Mumbai's financial capital status and primary subsea cable hub to capture a massive share of the national market.
+
+Tamil Nadu and Telangana are offering tailored policy incentives, land allocation, single-window clearances, and dedicated power substations to turn Chennai and Hyderabad into mega-compute centres. Uttar Pradesh is launching ambitious data centre policies featuring capital subsidies and power tariff concessions to transform the National Capital Region into a computing hub. The biggest critique of the data centre boom is its massive environmental footprint.
