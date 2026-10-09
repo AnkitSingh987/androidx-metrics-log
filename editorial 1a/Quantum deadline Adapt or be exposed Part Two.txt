@@ -1,0 +1,12 @@
+Category: Editorial
+Title: Quantum deadline Adapt or be exposed Part Two
+
+Quantum deadline: Adapt or be exposed
+
+In energy and utilities, regulators must require PQC integration into Supervisory Control and Data Acquisition Systems (SCADA) systems and grid controls, with redundancy built into power and water systems to mitigate disruptions. In healthcare, regulators should ensure PQC for patient data storage and transmission, with hospitals required to maintain quantum-safe backups. In defence, regulators must accelerate the deployment of quantum-safe communications, satellite encryption, and secure command systems to ensure military readiness.
+
+QNu Labs, an Indian start-up in collaboration with the Indian Army and the Department of Science & Technology's National Quantum Mission, has already demonstrated India's first extensive quantum-safe communication backbone through a 500-km quantum key distribution (QKD) network. Training, a priority Regulators should require organizations to educate personnel on quantum risks and quantum-safe practices, ensuring that migration plans are not confined to technical teams but understood across leadership. Organizations must plan to upgrade data centres, communication systems, and critical infrastructure to withstand quantum attacks.
+
+Scenario-based exercises simulating quantum-enabled attacks should be initiated as well, revealing vulnerabilities, testing response protocols, and building resilience. The quantum threat is real, imminent, and systemic. Migrating to PQC will not only help ward off current threats to data, communications, and infrastructure, but ensure that they remain protected for at least the next 25 years, while safeguarding against the impacts of Q-Day.
+
+By Ajai Chowdhry & Ajay Singh Chowdhry is the Co-Founder of HCL; and Singh is the author of Cyber Storm: Unleashing the Power of Quantum Computing & Artificial Intelligence. Views expressed are personal
