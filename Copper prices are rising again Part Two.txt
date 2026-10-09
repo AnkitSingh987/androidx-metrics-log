@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Copper prices are rising again Part Two
+
+Copper prices are rising again
+
+As S&P Global puts it, global copper demand is rising from about 28 million tonnes now to more than 42 million tonnes by 2040. Data-centre demand alone is expected to grow from roughly 1.1 million to 2.5 million tonnes over that span. Source: S&P Global This combination of rising demand and falling supply is creating a copper deficit.
+
+In fact, this year alone, the world is expected to face a deficit of 1.5 lakh tonnes, instead of the 2.09 lakh tonne surplus we had expected earlier, according to the International Copper Study Group (ICSG). And all of this gets reflected in the copper market. Copper is mainly traded on three major global commodity exchanges.
+
+There's the London Metal Exchange (LME), the ultimate global benchmark for physical copper prices, with a vast network of approved warehouses around the world. Then there's New York's Commodity Exchange (COMEX), the dominant exchange for the Americas. And finally, there's the Shanghai Futures Exchange (SHFE), the most significant trading hub for the Asia-Pacific region.
+
+Together, these exchanges influence not just how copper prices move, but also how the metal physically moves around the world. To give you some more context, after copper ore is mined, processed and turned into refined copper, much of it is stored in warehouses approved by these exchanges, where it can be traded or delivered against futures contracts (legal agreements to buy or sell an asset such as a stock, index or commodity at a predetermined price on a set date in the future). Normally, traders keep copper prices across these exchanges roughly in sync.
+
+If copper becomes more expensive in one market, they simply move metal there to take advantage of the price difference. For example, let's suppose copper is selling for $9,500 per tonne in London but $10,000 in New York. A trader could buy it in London, ship it to New York and pocket the $500 difference after accounting for shipping and other costs.
+
+But as traders take copper out of London, stocks there fall, pushing its price up. Meanwhile, the extra supply arriving in New York could push its price down. Eventually, the price gap narrows enough that moving copper between the two markets is no longer worthwhile. That's how arbitrage normally keeps copper prices across major exchanges broadly in line.
+
+But right now, something very different is happening. Traders are moving large stockpiles of copper to the US, not because prices are higher there, but because of a new fear unlocked by US President Donald Trump  -  the fear of copper getting hit by tariffs. Because you see, according to the US, it has plenty of copper underground that can be mined, but not enough facilities to turn it into usable metal.
+
+China, on the other hand, controls about 40-60% of the world's copper-smelting capacity and owns four of the five largest refining facilities. So it feels that it has become too dependent on foreign countries to process copper, even though the metal is critical for defence equipment, power generation, telecom networks, EVs and the electricity grid. That's why the US wants to slap import taxes on copper, encouraging more production within the country instead of relying on imports.
