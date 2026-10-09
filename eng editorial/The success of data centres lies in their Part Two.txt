@@ -1,0 +1,12 @@
+Category: Editorial
+Title: The success of data centres lies in their Part Two
+
+The success of data centres lies in their management
+
+Emerging inland & secondary market growth: Providers are moving beyond coastal metros to capitalise on lower costs and availability, driving upticks in data centre investments in places like UP, Maharashtra's interiors, and elsewhere. This geographic diffusion requires digitally native management systems that can scale across regions. The time to prioritise intelligent management is now India's digital transformation cannot run on infrastructure alone; it needs intelligence at the core.
+
+As data centres scale from metro hubs to regional and rural outposts, the complexity, energy demands, and operational variability will only intensify. In this environment, data center management is no longer just a support function; it is the backbone of resilience, efficiency, and sustainable growth. Smart management is what turns capacity into capability.
+
+It ensures uptime in power-challenged geographies, scales operations across diverse climates and real estate markets, and brings down energy footprints even as workloads multiply. From supporting AI-driven workloads to meeting ESG mandates and national data security policies, the ability to monitor, automate, and adapt in real time is what will define leadership in India's digital economy. As India marches toward becoming a global data hub, the imperative is clear: build not just bigger data centers, but smarter ones, managed with precision, powered by insight, and aligned with a vision of inclusive, sustainable digital growth.
+
+By Sanjay Motwani The writer is VP, APAC  -  White Space, Data Centres  -  Legrand Data Centre Solutions
