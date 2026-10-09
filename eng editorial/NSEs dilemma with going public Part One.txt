@@ -1,0 +1,22 @@
+Category: Editorial
+Title: NSEs dilemma with going public Part One
+
+NSE's dilemma with going public
+
+Today's Finshots, we explore the regulatory hurdles the NSE faces as it prepares for a highly anticipated IPO. The Story After a decade of delays driven by regulatory scrutiny and the co-location controversy, the National Stock Exchange (NSE) is finally moving toward its IPO. SEBI formally issued a No-Objection Certificate in 2026, removing the primary regulatory obstacle.
+
+However, the exchange still faces quite an unusual structural problem. The NSE cannot legally list its own corporate shares on its own trading platform. This is because Regulation 45(2) of the Stock Exchange and Clearing Corporation Regulations says "A recognised stock exchange shall not list any securities of its associates." And the logic behind this restriction is straightforward, don't you think?
+
+The exchange operates as an institution with significant responsibilities in daily trading, market surveillance, corporate listing standards, and overall market integrity. So, allowing the exchange to list itself would effectively make the institution the primary regulator of its own publicly traded stock. Therefore, the exchange must formally list its shares on its rival, the BSE.
+
+But here's where things get interesting. Being listed on the BSE does not necessarily mean that NSE shares have to trade only on the BSE. The NSE is considering using an existing mechanism called the 'Permitted to Trade' category. Under this framework, a security can be formally listed on one recognised exchange and then admitted for trading on another exchange without being separately listed there.
+
+NSE's shares would be formally listed on BSE, which would remain the primary listing venue responsible for the relevant listing and disclosure requirements. At the same time, NSE could admit those very shares for trading on its own platform. Think of it like this: imagine a company called ABC is officially listed on BSE.
+
+That means BSE is the exchange responsible for making sure ABC follows its listing rules and disclosures. But if ABC is also admitted under the Permitted to Trade category on NSE, an investor could open their trading app, select NSE as the exchange, and buy or sell ABC shares there too. The stock is listed on BSE, but it is traded on both BSE and NSE.
+
+NSE wants to use the same arrangement for its own shares. So its stock would be formally listed on BSE, but investors could potentially trade it on both exchanges, including NSE itself. The Permitted to Trade framework already exists and is used by hundreds of securities listed elsewhere that also trade on NSE.
+
+Companies such as Goodyear India and Novartis India are examples of securities that have traded through this framework. In fact, when BSE went public in 2017, it formally listed its shares on NSE. So once NSE goes public, India's two biggest exchanges would end up in an almost perfectly circular arrangement: BSE listed on NSE, and NSE listed on BSE.
+
+But there is a bigger reason NSE wants its shares to trade on its own platform. It has to do with the Nifty. Historically, securities generally needed to be listed and traded on NSE to qualify for inclusion in its indices. That would have created a problem for NSE itself because it could not formally list on its own exchange.
