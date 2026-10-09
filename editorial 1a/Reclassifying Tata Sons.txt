@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Reclassifying Tata Sons
+
+Reclassifying Tata Sons
+
+The Tata Sons restructuring aims to merge subsidiaries to avoid NBFC and CIC status, keeping the company private and bypassing RBI listing requirements, raising regulatory and control scrutiny. The restructuring proposed for Tata Sons is unusual in one telling respect. It is not designed to enter a new market or cut costs.
+
+Its real effect would be to change what Tata Sons is in the eyes of its regulator. Tata Trusts, which owns 66% of the company, wants Tata Electronics Systems Solutions and Tata Consulting Engineers merged into the holding company, so that it no longer qualifies as a non-banking financial company (NBFC) or a core investment company (CIC). That would free Tata Sons from the listing requirement that followed the Reserve Bank of India's (RBI) decision in 2022 to classify it as an upper-layer NBFC.
+
+Its earlier attempt to escape that requirement, by repaying debt and surrendering its registration, was rejected by the RBI this month. The merger is a second route to the same destination: keeping Tata Sons private. On paper, the route works. The RBI treats a company as an NBFC only when financial assets exceed half its total assets and financial income exceeds half its gross income.
+
+The Trusts project operating revenue of Rs 1,05,043 crore against Rs 40,072 crore from financial assets, failing the income test. Group investments would make up 88.5% of net assets, just under the 90% threshold that defines a CIC. But ratios are not the whole story. The merged Tata Sons would still sit atop one of India's largest groups and hold almost nine-tenths of its assets as group investments.
+
+It would earn like an operating company while owning like a holding company. The margins are also thin. A ratio 1.5 percentage points below the line can move with the market value of its holdings, and dividends and buyback proceeds from Tata Consultancy Services vary from year to year. The question is not whether one set of projections clears the thresholds, but whether the risks that justified enhanced supervision, concentration, and contagion across group companies, have actually changed.
+
+None of this makes the proposal illegitimate. A genuine operating company should be regulated as one. Nor is the outcome settled: the plan needs the Tata Sons board's approval and an RBI no-objection certificate, and it does not resolve the position of the Shapoorji Pallonji group or the dispute over leadership.
+
+The precedent matters most. If a large holding company can absorb a couple of operating businesses and step outside the NBFC and CIC frameworks, other groups will notice. The RBI's answer cannot depend on the promoter's name. It needs a principle it would apply to any comparable group, one that weighs the nature of assets, sources of cash flow, leverage, links to regulated entities, and the fallout from distress.
+
+Since the merger needs its approval, the regulator should set out that principle now, with reasons, rather than decide the case quietly. One further question sits behind the Trusts' opposition to listing. Income-tax rules restrict how charitable trusts may invest while keeping their exemption, but exempt shareholdings that were part of a trust's corpus on June 1, 1973.
+
+The Tata Trusts' stake benefits from that grandfathering; a foundation set up today could not build an equivalent holding. This should not colour the RBI's decision. But if preserving private control is central to the case against listing, the privilege underpinning that control deserves scrutiny too.
+
+The RBI is being asked what makes a company financial. Its answer must hold for every group that comes next.
