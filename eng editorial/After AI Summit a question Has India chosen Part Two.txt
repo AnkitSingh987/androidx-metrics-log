@@ -1,0 +1,22 @@
+Category: Editorial
+Title: After AI Summit a question Has India chosen Part Two
+
+After AI Summit, a question: Has India chosen to remain a consumer in an age of creators?
+
+Fiscal timidity becomes even more alarming when viewed through the lens of global competition. The Stanford HAI Global AI Power Rankings consistently places India in the second tier, trailing not only the US and China but also a host of European and Asian economies. The World Economic Forum's recent ranking places us eighth in AI investment, a position that sounds respectable until one comprehends the gulf that separates the top three from the rest of the pack.
+
+The rhetoric of "AI for All" collides with the reality that "All" includes virtually no one when it comes to foundational investment. The contrast with the global frontrunners is more than a matter of scale. The US and China are engaged in a high-stakes competition funded by hundreds of billions of dollars, a fact underscored by the patent race.
+
+While NASSCOM reports that over 86,000 AI patents were filed in India between 2010 and 2025, the Forbes analysis of the global AI patent race clarifies the distinction: China outpaces the US in sheer volume of patents, but that does not equate to winning the AI war. Many patents are defensive, incremental, or filed for tax and compliance reasons. The real measure of sovereignty is the ability to build and train state-of-the-art models on homegrown infrastructure using sovereign data.
+
+On that front, the Carnegie Endowment's recent analysis correctly identifies the missing pieces in India's AI puzzle: Talent, data, and R&D funding. The government has based its entire AI vision on India's rapid adoption of digital payments. However, adoption of finished technology is not the same as ownership of the means of production.
+
+India's UPI is a world-class digital public infrastructure, but it was built on top of underlying technologies and protocols that are globally available. AI is different. The models themselves are the product, and the countries that control the most advanced models will set the terms for everyone else.
+
+We become the perfect market for others' innovations, our data and our market size fuelling their growth while we remain on the periphery of value creation. So, what, then, was the purpose of a grand AI summit? Was it to provide a platform for our start-ups to network with the Western API providers they are already dependent on?
+
+Was it to showcase our "vibrant ecosystem" of consumers of technology, rather than producers? Was it a gathering where the real players  -  OpenAI, Anthropic, Google  -  politely acknowledged our market potential while their IP continues to form the bedrock of our digital economy? The summit's real value does not lie in the myriad photo opportunities or lofty declarations, but in its potential to catalyse a fundamental rethink of our AI fiscal strategy.
+
+The potential is real; the opportunity to build India into a global AI powerhouse exists. The adoption of AI agentic workflows among Indian developers shows the hunger and willingness to experiment. But we are asking our start-ups to run a marathon on a diet of crumbs. The global AI race is not a sprint; it requires sustained, massive investment in data centres, in research grants, and in PhD programmes.
+
+If this is not prioritised, the summit will be remembered not as a turning point, but as a poignant misfortune of a nation that mistook a conference for a commitment. The world will smile for the camera, and quietly note that India, for all its grand ambitions, has chosen to remain a consumer in an age of creators. Written by: Manish Tewari The writer is a lawyer, third-term MP, and former Union Information and Broadcasting Minister
