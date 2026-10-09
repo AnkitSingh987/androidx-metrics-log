@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Perils of unchecked cybercrime Part One
+
+Perils of unchecked cybercrime
+
+India must pursue bilateral, multilateral engagement to dismantle scam networks, as in South East Asia In 2025, India lost a whopping ₹22,495 crore to cybercrimes, saw 28.15 lakh reported cases, a 24 per cent surge in complaints over 2024, a year which witnessed an over 200 per cent year-on-year to ₹22,845 crore. Can a nation haemorrhage over ₹22,000 crore a year from its digital economy and still credibly aspire to be Viksit Bharat by 2047? India's digital transformation is a genuine achievement.
+
+UPI processes billions of transactions monthly. Aadhaar has redefined identity at scale. But every revolution has a side-effect; for Digital India, it is the sprawling criminal ecosystem, now ranked among the most consequential threats to the country's development ambitions. The scam factories The most chilling dimension of this crisis is transnational.
+
+Across the Golden Triangle, the tri-junction of Myanmar, Laos and Thailand, and in compounds along the Cambodia-Thailand border, organised syndicates, many with Chinese backing, run industrial-scale scam operations. Young Indians, lured by fraudulent job offers, have been trafficked into these compounds, then scripted and deployed as callers running investment scams and Digital Arrest frauds targeting people globally. The digital arrest scam is amongst the most psychologically brutal financial crimes.
+
+A caller posing as a customs or narcotics officer tells the victim about his/her Aadhaar being linked to trafficking or money laundering, then placing the victim under a fake 'video surveillance arrest', and systematically drained of the hard-earned savings. Reported cases climbed from roughly 40,000 in 2022 to 60,000 in 2023 to nearly 1.24 lakh in 2024, with cumulative losses crossing ₹2,600 crore by early 2025, according to Ministry of Home Affairs data. In January 2026, Delhi Police's Special Cell dismantled a Taiwan-linked syndicate, handled from Pakistan that defrauded citizens of nearly ₹100 crore by posing as Anti-Terrorist Squad officers.
+
+Another incident just recently highlighted the scale, in form of some Chinese battery management apps shooting down the e-Rickshaw operations in Delhi creating havoc with traffic and threatening people's lives. The government promptly ordered the removal of these apps from app-stores. These are not disorganised, opportunistic crimes; it is a cross-border enterprise with outstanding supply chains and geopolitical enablers.
+
+India's critical infrastructure has repeatedly proven to be vulnerable. In November 2022, a ransomware attack on AIIMS Delhi crippled outpatient, inpatient, laboratory and billing services for nearly two weeks, corrupting files on five servers and encrypting roughly 1.3 terabytes of data. The breach was feared to have compromised records of 3-4 crore patients.
+
+The government later confirmed the attack to Parliament. CERT-In, Delhi Police, MHA and NIA were mobilised and investigators traced digital trails to Hong Kong and China. Separately, questions have been raised about the integrity of the CoWIN platform after allegations of a 2023 data exposure. India has repeatedly featured among the world's most-targeted nations in industry cyber-threat assessments.
+
+Financial losses grew roughly 41-fold in four years, from ₹551 crore in 2021 to over ₹22,800 crore in 2024, with investment-related scams alone now accounting for over three-quarters of the money lost. Every fraudulent transaction erodes household savings that would otherwise fuel consumption; every ransomware attack disrupts productivity; every major breach raises the cost of capital for firms courting foreign investment. Cybercrime is not merely a law-enforcement problem that occasionally hurts the economy, it is a structural drag on growth.
