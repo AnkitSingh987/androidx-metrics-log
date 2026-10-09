@@ -1,0 +1,30 @@
+Category: Editorial
+Title: Does India need to upgrade its biosecurity
+
+Does India need to upgrade its biosecurity measures? | Explained
+
+Explained What is the Biological Weapons Convention? Are non-state actors also pursuing biological tools? The story so far: New age biotechnologies endow powers to understand biology better and, consequently, harness biological agents to target humans. Thus, biosecurity measures need to be upgraded.
+
+What is biosecurity? Biosecurity refers to the set of practices and systems designed to deter the intentional misuse of biological agents, toxins or technologies. In other words, it covers everything from safeguarding labs handling dangerous pathogens, to detecting and containing an intentional outbreak of a pathogen.
+
+Biosecurity is not only about protecting human health from pathogens, but extends to agricultural and animal health too. Biosecurity differs slightly from biosafety, which is a set of practices meant to prevent the accidental leakage of pathogens. A robust biosafety protocol feeds into biosecurity. After a few instances of bioweapons development, the Biological Weapons Convention came into existence in 1975.
+
+It became the first international treaty that not only prohibited the use and development of biological weapons of mass destruction, but also asked its signatories to destroy existing stockpiles. Over the past many decades, the use of bioweapons has been muted. Why does India need biosecurity? India's geography and ecology make it vulnerable to cross-border bio-risks.
+
+India's dependence on agriculture and large population makes the threat more dangerous. While India has not had any explicitly known biosecurity attack, there have been reports of the alleged preparation of the toxin Ricin (derived from castor oil) for potential use in a terror attack. This incident underscores how non-state actors are pursuing biological tools, reinforcing the urgency of robust biosecurity.
+
+Further, the rapid spread of biotechnologies have endowed humans with increased control over biology, increasing the chances of malicious actors experimenting with bioweapons development. The Department of Biotechnology oversees research governance and safety frameworks for labs. The National Centre for Disease Control manages outbreak surveillance and response.
+
+The Department of Animal Husbandry and Dairying monitors livestock biosecurity and transboundary diseases. The Plant Quarantine Organisation of India regulates agricultural imports and exports. India's biosafety and biosecurity laws include the Environment (Protection) Act, 1986, which governs hazardous microorganisms and genetically modified organisms (GMOs), and the Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005, which criminalises biological weapons.
+
+India has also developed Biosafety Rules (1989) and specific guidelines were released in 2017 for the purposes of Recombinant DNA Research and Biocontainment. The National Disaster Management Authority has a detailed guideline on the management of biological disasters. India is also part of international platforms that emphasise biosecurity, such as the Biological Weapons Convention and Australia Group.
+
+Although India has multiple agencies engaged in bio-risk reduction, lab regulation, public-health surveillance, agriculture protection, a unified national biosecurity framework is still evolving. Further, most of the current policies and laws have to be also updated to keep pace with new forms of biothreats that are emerging. India is currently ranked 66 on the Global Health Security Index, and while its score for detecting biothreats has increased, its score for being able to effectively respond to threats has reduced.
+
+What are other countries doing? The U.S. anchors its biosecurity framework under the National Biodefense Strategy (2022-2028) which integrates health, defence, and biotech oversight. In 2024, the U.S. further strengthened this system through the Federal Guidance on Synthetic Nucleic Acid Screening, requiring gene synthesis companies to verify DNA orders against pathogen databases to prevent misuse.
+
+The European Union regulates through the EU Health Security Framework (2022) and Horizon Europe's dual-use research guidelines, embedding biosecurity in its One Health model. China's Biosecurity Law (2021) treats biotechnology and genetic data as matters of national security, mandating centralised control over research and material transfers. Australia's Biosecurity Act (2015) provides a unified legal framework across human, animal, and plant sectors, now extending to synthetic biology.
+
+The United Kingdom's Biological Security Strategy (2023) focuses on biosurveillance and rapid response. What are the risks ahead? The risk of an inadequate biosecurity apparatus is profound. It jeopardises the lives of billions of Indians. It is therefore necessary that a national biosecurity framework that coordinates actions across various government agencies is developed.
+
+Such a framework would also be able to identify infrastructure and capability gaps that need to be addressed. Use of new-age biodefence technologies such as microbial forensics and new approaches such as social media surveillance could then be appropriately adopted to plug such gaps. Shambhavi Naik is chairperson, Takshashila Institution's Health & Life Sciences Policy
