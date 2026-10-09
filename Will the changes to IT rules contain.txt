@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Will the changes to IT rules contain
+
+Will the changes to IT rules contain deepfakes?
+
+While labelling may identify deepfakes, whether it captures users' attention or social media platforms act on it is moot The comprehensive amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, announced on February 10 by the Ministry of Electronics and Information Technology, is welcome in the era of AI generated content. The rules, which come into effect on February 20, clearly defines "synthetically generated audio, visual or audio-visual information" using computer resources and specifies mechanisms to contain the generation and dissemination of false and malevolent information, often referred to as deepfakes.
+
+The rules also prescribe the due diligence to be observed by the intermediaries in containing the production and dissemination of deepfakes. In addition, the rules specify that the intermediaries should inform the users to prominently label such synthetically generated information for easy identification. Hence the current rules while empowering the intermediaries to monitor user content also endow them with associated responsibilities and liabilities for hosting or propagating deepfakes.
+
+However, the power bestowed on the intermediaries to flag and take down synthetically generated information suo motu is likely to hit some guardrails. In this age of GenAI, creation of synthetically generated information has become much easier with the availability of hundreds of tools. The Nvidia backed AI voice start-up  -  Elevenlabs  -  that provides voice and video cloning aps, hit $13 billion valuation in the recent round of funding.
+
+These apps are being used by creators to combine their work with AI driven synthetically created media to generate performances for the next generation. Entry barriers reduced These AI tools have also dramatically reduced the entry barriers for new and upcoming artists, writers, and performers to create a niche market for themselves amidst the biggies. These and other similar creative uses of synthetically generated information are broadly permitted under the new rules.
+
+While the labelling mandate is meant to curb information created in bad faith, the malevolent actors will not label their content and hence a comprehensive audit mechanism is required to book such offenders. What bothers governments all over is the virality of deepfakes that are violent, abusive, malevolent and obscene. Further, researchers have found that deepfakes often are more viral due to their innovative creation and visually compelling nature.
+
+A study indicates that deepfake based cyber attacks or frauds happen once every five minutes. Social media platforms are the primary sources for encountering and disseminating the deepfakes. Hence the additional responsibility placed on significant social media platforms for checking the authenticity of labels on synthetically generated content is a welcome measure indeed.
+
+However, whether they will act on the deepfakes that are viral at the cost of losing eyeballs is a moot question! While prominent labelling should help identify deepfakes, will it be effective given the short attention span of today's users, especially the youth? It is estimated that the attention span on social media of Gen Z is eight seconds, compared to 12 seconds of the millennials.
+
+This is one of the primary reasons for the popularity of short video formats and reels. In an experiment conducted with students at IIIT, we found that even the tech-savvy students were not able to fully identify deepfakes that were created using AI tools, as they so closely mimic originals. However, we found that educational intervention such as providing tips on detecting deepfakes resulted in marked improvement in detection rates.
+
+Hence, apart from the well-founded IT rules, the government should also create an awareness campaign for alerting netizens on deepfakes. Regulations introduce constraints in the use of technology and hence have a negative effect on innovation. Hence, aside regulations, awareness building campaigns for educating users, especially the semi-literate and older population, on deepfakes are also the need of the hour.
+
+By V Sridhar This writer is Professor, IIIT-Bangalore. With inputs from Trupti Khodwe, Rishabh Dixit, Samyak Jain (students) and Prof Roland Haas, IIIT-B
