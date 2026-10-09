@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Not just turbulence on the Air India
+
+Not just turbulence: on the Air India aircraft incident
+
+India's aviation should not have to depend on chance for safety The August 4, 2026, incident involving Air India flight AI 2379, from Phuket to Delhi, with 137 passengers and eight crew, now has two tracks. The first concerns its reclassification: the initial 'event of turbulence' is now a "serious incident" after inflight technical issues and a significant deviation in aircraft altitude caused injuries to more than 20 passengers and crew, quickly drawing in the Directorate General of Civil Aviation (DGCA). The subsequent probe by the Aircraft Accident Investigation Bureau, along with France's investigation authority, BEA, and technical representatives from Airbus, should unravel the multiple anomalies that briefly overtook the Airbus A320N - fault warnings across the hydraulic systems, elevator flight-control faults, autopilot disconnection, emergency-exit door indications and an engine anti-ice warning.
+
+Airbus's initial data is said to support the evidence of technical errors. However, it is the second track that has received much attention: the result of the pilot-in-command's post-flight screening for psychoactive substances. The Tata Group-Singapore Airlines joint venture airline has been prodded into commencing the immediate and mandatory screening of its flight deck crew 'for any substances or unprescribed medications'.
+
+But the deeply discomfiting discovery has exposed the weak link in crew screening  -  the greater emphasis on pre-and post-flight breathalyser checks for alcohol than on testing for psychoactive substances, which falls under the Civil Aviation Requirements (CAR) Section 5-Air Safety Series F Part V. In fact, the CAR  -  which applies to Air Traffic Controllers also  -  leans more towards random and post-flight/post-shift testing, with graded disciplinary action. With India's air carriers expanding operations, crew citing stress-related issues, and, separately, the availability of substances for medicinal or recreational use, the regulator must ensure stringent psychoactive substance testing and operational compliance.
+
+The DGCA's Medical Circular No. 02 of 2021, on 'over-the-counter (OTC) drugs and self-medication', highlights pilot cognitive/psychomotor skills impairment, drawing on the Mangaluru (2010) and Kozhikode (2020) fatal air accidents. Further, documented cases from the West reveal that even small levels of impairment can affect crew judgement, reaction time, coordination, and decision-making, the critical skills needed in the flight deck.
+
+Ensuring that fit crew are behind the controls is an aviation industry bedrock, and every Indian operator, large or growing, must uphold the highest standards. This was a lucky escape, but luck cannot be allowed to become a safety strategy.
