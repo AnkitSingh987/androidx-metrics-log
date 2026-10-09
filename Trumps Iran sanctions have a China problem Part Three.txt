@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Trumps Iran sanctions have a China problem Part Three
+
+Trump's Iran sanctions have a China problem
+
+In some cases, Chinese regulations pull banks in the opposite direction. In May, the Chinese Ministry of Commerce (MOFCOM) issued a blocking order covering five independent Chinese refiners sanctioned by the US for purchasing Iranian oil. Four are smaller regional teapot refiners. The fifth, Hengli Petrochemical's Dalian refinery, can process 400,000 barrels a day and belongs to the Hengli Group, a Fortune 500 company.
+
+It is the largest Chinese refiner sanctioned by the US so far. MOFCOM's order states that US sanctions against these five refiners "must not be recognized, implemented, or complied with." Violations of the order can result in administrative penalties and expose banks and other companies to claims for damages in Chinese courts. A Chinese bank can still refuse to process a transaction because of money-laundering concerns or other compliance risks, but it cannot refuse a transaction or sever a relationship specifically to comply with the covered US sanctions without violating the order.
+
+As the US extends secondary sanctions to cover more economically and politically significant Chinese entities, such blocking orders are likely to become more common. China now has a sophisticated legal and administrative apparatus that can make the extraterritorial application of US sanctions increasingly difficult  -  or, in some cases, moot. This exposes a structural constraint on US sanctions power.
+
+Large state-owned Chinese banks have too much to lose if they are cut off from the dollar system. But US leverage weakens as transactions move to smaller banks with fewer ties to the US and Western financial markets. The US government is thus left in the awkward position of asking Chinese banks to uncover hidden ties to sanctioned entities in Iran (or North Korea and Russia) and then act on those findings, even when that could put them at odds with Chinese law.
+
+Chinese banks are certainly willing to carry out the anti-money-laundering checks required by Chinese regulations, but they have little incentive to go looking for links to sanctioned entities when discovering them could create new legal problems. In such circumstances, knowing less and maintaining plausible deniability is institutionally safer than knowing more. And unless Chinese banks closely police their own clients as payment networks adapt, sanctions will remain porous, with payments migrating to new shell companies and intermediaries.
+
+China's new bargaining chip Despite having the tools to retaliate against new US sanctions, China has used them selectively. Since US President Donald Trump restored "maximum pressure" on Iran in February 2025, US sanctions against Chinese entities have mostly targeted specific shadow-fleet vessels, independent refineries in Shandong Province, and shipping terminal operators (Hengli Petrochemical's Dalian refinery, the only large integrated Chinese independent refiner sanctioned so far, remains the notable exception). China's response has consisted mostly of formulaic Foreign Ministry statements rejecting the unilateral nature of US sanctions and pledging to protect Chinese companies and citizens.
+
+MOFCOM's May 2 blocking order remains the only consequential countermeasure, and it is narrow and targeted. Yet only days after it was issued, Chinese financial regulators reportedly instructed major Chinese banks to suspend new renminbi lending to the five sanctioned refiners while leaving existing credit lines in place. These actions are not necessarily contradictory.
+
+China can reject the extraterritorial application of US sanctions while allowing major Chinese banks to protect themselves from the consequences. It has followed the same pattern since Operation Economic Outcast expanded secondary sanctions in August, criticizing the measures without imposing another Iran-related countermeasure. The calculation could change if the US sanctioned a major Chinese bank or state-owned enterprise rather than another shell company, small bank, or teapot refiner.
