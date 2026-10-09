@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Indias AI policy needs to get globalscale Part One
+
+India's AI policy needs to get global-scale ready
+
+Global-scale ready We need a policy framework that leverages our advantages - Talent, data, market scale, public infrastructure and institutional maturity India's AI governance guidelines have struck a chord. They present the country as a responsible, inclusive leader, offering an approach built on digital public infrastructure and voluntary guardrails, not burdensome regulation. It is a tone that resonates across emerging economies, and rightly so.
+
+But once the applause fades, there's a harder, quieter question. If we are serious about building global-scale AI capability, are we doing enough beyond intent? At Greyhound Research, we've spent the past few months dissecting this framework. The ambition is real, the philosophy is clear, but the policy is still tilted toward deployment rather than creation.
+
+That imbalance matters. Let's start with what's working. India's digital public infrastructure is world-class. Aadhaar, UPI, DigiLocker, Bhashini, and DEPA have become the foundation for scalable, real-world innovation. They give developers a head start on identity, payments, authentication, and data-sharing.
+
+Building AI solutions on top of these platforms is not only efficient, but it is also uniquely Indian. No other country offers this kind of integrated architecture at a national scale. Building AI But while we are applying AI well, we are not yet building it with the same depth. That's where the cracks begin.
+
+First, there is no legal clarity on whether publicly available data can be used to train AI models. The Copyright Act has not been updated. There is no text-and-data mining exemption. Developers cannot be sure if they are operating within legal limits. Many are avoiding full-scale model training altogether.
+
+Some are moving their compute offshore. Others are fine-tuning open models rather than building their own. This has a direct impact on sovereignty. We are shipping applications, but do not own the core technology behind them. Second, the question of liability is still unresolved. If an AI system causes harm, who is responsible?
+
+Is it the model creator, the enterprise that deployed it, or the platform that hosted it? The current guidelines acknowledge these questions but defer answers to future laws and regulators. That uncertainty introduces risk. Smaller companies, especially those working in high-stakes sectors like finance or healthcare, are likely to stay out of foundational development altogether.
+
+Third, our research institutions remain underleveraged. India has an outstanding academic talent pool in AI, but lacks a compute backbone that they can reliably access. The AIRAWAT initiative is promising but not yet fully operational or transparent. Access pathways are unclear. Public documentation is limited.
+
+There is no simple way for a university lab to spin up model training jobs without going through approvals, applications, and delays. This slows experimentation and puts us behind countries that are aggressively funding research infrastructure. Global models Elsewhere, things are moving fast. The UAE has launched Falcon, its own open-source language model, with real government backing and visibility.
+
+Singapore is actively shaping rules around explainability and user redress. The EU, despite its heavy regulatory stance, has managed to provide certainty to developers and carve-outs for research. The United States, for all its chaos, still allows developers to operate under a broad fair use doctrine.
+
+These countries are not just regulating. They are enabling. China, too, deserves a mention. DeepSeek made waves; its models matched and, in some areas, outperformed OpenAI and Google on cost and capability. The R1 model briefly wiped over a trillion dollars off US tech stocks. But global traction has been limited.
