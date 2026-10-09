@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Lines that worry us and lines that dont
+
+Lines that worry us and lines that don't
+
+Don't Since I started doing research in 2012, I have on multiple occasions come across academic works using maps of India that are not constitutionally validated. Since I started doing research in 2012, I have on multiple occasions come across academic works using maps of India that are not constitutionally validated. Dissertations, research papers, presentations, and course materials frequently include them, with the authors seemingly importing them from unchecked online sources.
+
+Departments, review committees, and publications often approve these maps even though they wrongly show India's boundaries. Throughout my years of research, this has been a consistent problem, not an isolated incident. This is the unsettling reality lying at the core of India's concerns with a map that portrays its territorial integrity.
+
+The National Map Policy of 2005 has worked in that direction  -  for instance, the Open Series Maps developed by the Survey of India for civilian use have deliberately blurred out 'vulnerable points' and done away with the grid reference system, unlike the Defence Series Maps. That policy-level caution to restrict visibility of critical infrastructure is insufficient, as they are accurately identifiable through satellite images available on handheld devices. The same level of consciousness is invisible over the maps that are quietly made and circulated to challenge India's territorial integrity.
+
+The element that should worry every Indian reader is that shapefiles, the fundamental data structures needed to create maps in geographic information system (GIS) software, can be easily accessed from foreign open-data sites. Indian students and researchers often download these ready-made files to use in their theses, dissertations, and working papers. But most of them fail to take cognizance of the fact that these maps have demarcated Pakistan-Occupied Jammu and Kashmir as a part of Pakistan.
+
+It gets copied, pasted, and released again instead of being fixed where it happened. It appears in master's theses and is argued before university panels. It appears in works sent to journals for review by other experts. It keeps circulating without being called out for its unconstitutional portrayal.
+
+Nobody in the academic pipeline views the nation's boundary as their obligation to check, thus this self-inflicted damage continues year after year. To our dismay, these circulations beyond campuses undermine the nation's territorial integrity and establish it as the status quo. What exists is a gap between the nation's constitutionally mandated claim and its subversion, knowingly or unknowingly, by India's academia.
+
+Recognizably, the legal system has begun to close the gap. Publishing a map that doesn't follow the guidelines set by the Survey of India is already against the law according to the Criminal Law Amendment (Amending) Act of 1990. You can be fined or jailed for this crime. Finally, in May 2024, the University Grants Commission sent a letter to all universities, asking them to comply.
+
+The individuals making India's maps for academic purposes had to wait for 30 years for that directive to reach their desks. This is where the real battle for India's accurate maps should be fought-not in Parliament, where people complain about a tech company's neighbourhood contest, but in every geography class, GIS lab, and thesis committee that lets an imported shapefile go through unchecked. It is not just the responsibility of the Indian Army or the Survey of India to protect the country's borders.
+
+The onus is on Indian academia to check the maps they download from websites to save the effort required to prepare them themselves. Careless use jeopardises the national stand, especially in times of information warfare. The National Geospatial Policy of 2022 made the right decision by easing decades of official caution, making data available, and transforming the once-secretive Survey of India into an organization more accessible to citizens.
+
+Liberalizing the lines drawn by the citizenry accrues from the worry policy framers had. However, such a concern remains inconspicuous with lines that mediate national integrity. Each classroom and library where a map is made, shared, and never challenged either defends the territorial integrity or quietly gives it away.
+
+By DR. SWASTI VARDHAN MISHRA (The writer is Assistant Professor, Department of Geography, Rabindra Bharati University)
