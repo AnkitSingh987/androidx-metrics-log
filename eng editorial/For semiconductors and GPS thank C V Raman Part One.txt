@@ -1,0 +1,22 @@
+Category: Editorial
+Title: For semiconductors and GPS thank C V Raman Part One
+
+For semiconductors and GPS, thank C V Raman, Satyendra Nath Bose, Einstein  -  and hay fever in 1925
+
+Thank C V Raman, Satyendra Nath Bose, Einstein - and hay fever in 1925 One century after the Helgoland breakthrough, quantum principles have entered popular culture through the mythical Schrödinger cat. So profound was this work that every reigning doctrine - from communism and Buddhism to Vedanta - took positions on what quantum science means for its worldview Almost 100 years ago, in June 1925, the young German scientist Werner Heisenberg went to Helgoland, an island off Germany, to recover from his nagging hay fever. While recovering in solitude, he was also thinking about a question that had been bothering him: How to construct a coherent framework to understand the microscopic world of atoms?
+
+His research in the serene Helgoland laid the foundations for quantum physics, one of the most successful scientific theories in human history, which also shapes the emerging technologies. Quantum physics is counterintuitive. In the words of American physicist Richard Feynman, "no one understands it".
+
+Yet, surprisingly, it has touched every aspect of our lives. From nuclear power to semiconductors, computers, electronics, lasers, and medical diagnostic tools such as MRI scanners, all have emerged from the principles of quantum physics. Commemorating these achievements, the United Nations had declared 2025 as the Year of Quantum Science and Technology.
+
+The emerging quantum technologies hold promise for precise atomic clocks, navigation systems, quantum computers for solving certain classes of hard problems, high-resolution sensors, and secure messaging and banking transactions. They represent a market worth $1-2 billion today, though back in the 1920s, it was an emerging and poorly understood science. Heisenberg stood on the shoulders of many others who had laid out the quantum jigsaw pieces, but failed to assemble it.
+
+In 1900, Max Planck was attempting to describe the light emerging from hot objects. Having spent many unsuccessful years in this pursuit, "out of sheer desperation" rather than any rational logic, he postulated that light must be radiated in packets or quanta, like bullets coming out of a gun. This unusual idea that none, including Planck, believed in at that time was, however, successful in describing thermal radiation.
+
+In 1905, Albert Einstein picked it up to explain the photoelectric effect. In 1913, Niels Bohr applied it to decode the hydrogen atom. All these were quick-fix solutions without a coherent story. In Helgoland, Heisenberg was trying to weave these pieces together into one cohesive framework. Returning from Helgoland, Heisenberg refined the ideas and sent his draft to his mentor Max Born.
+
+He recognised that Heisenberg's ideas could be better expressed through the mathematical language of matrices, unfamiliar to most physicists at that time including Heisenberg. Born co-opted his mathematically talented former student, Pascual Jordan, to further develop them. Together, they produced a series of landmark papers in 1925-26 that established the foundations of quantum physics, and transformed Heisenberg's rough insights into an elegant framework representing the first complete version of modern quantum theory.
+
+They are now regarded as defining milestones of 20th-century science. Throughout the 1920s, many other scientists were working to decode the quantum puzzle. In 1924, French physicist Louis de Broglie proposed in his doctoral thesis that material particles, such as electrons and protons, can behave like waves.
+
+This was so radical that his doctoral committee remained unconvinced, but finally yielded when Einstein stated that deBroglie had "lifted a corner of the great veil". Building on this picture, in 1925, the Austrian physicist Erwin Schrödinger developed a wave equation that now bears his name. This landmark equation made it easier to apply quantum principles to subatomic particles and even the whole universe.
