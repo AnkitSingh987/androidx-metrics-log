@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Silicon security strategy
+
+Silicon, security, strategy
+
+Pax Silica entry to help India hedge against China's supply chain dominance, deepen US tech alignment With China now the dominant force in global manufacturing supply chains, it is critical for countries like India to embed themselves deeply across the global silicon value chain - from critical minerals to artificial intelligence (AI) infrastructure. It is therefore timely that India has signed the Pax Silica declaration. Strengthening Economic Security Although New Delhi was not part of the original grouping when it was formed a few months ago, it has prudently accepted the invitation to join.
+
+Economic security is now inseparable from technological capability. Working with an alliance comprising Japan, South Korea, Singapore, the Netherlands, the UK, Israel, the UAE, and Australia could help India hedge against supply shocks while strengthening its strategic position. At the bilateral level, participation should also reinforce diplomatic and technological ties with the United States.
+
+Relations between the two countries were strained after Washington imposed 50% tariffs on Indian exports last August. While the interim trade deal concluded earlier this month marked a breakthrough, cooperation under Pax Silica could deepen alignment further. As the US State Department describes it, Pax Silica aims to build a secure, resilient, and innovation-driven ecosystem across the entire technology supply chain - spanning critical minerals and energy inputs to advanced manufacturing, semiconductors, AI infrastructure, and logistics.
+
+The logic is straightforward: create a trusted network of partners across the industrial ecosystem to minimise vulnerability during geopolitical crises or the "weaponisation" of chokepoints such as critical minerals. India has already felt this pain when China curbed exports of key inputs. The objectives are sound.
+
+Yet a clearer execution road map - with defined targets, timelines, and responsibilities for each member - would lend credibility to the initiative. There are also structural gaps. If the implicit aim is to dilute China's grip over the silicon supply chain, the absence of Taiwan - arguably the most critical player in advanced chipmaking - is striking.
+
+Similarly, while the Netherlands and the UK are part of the coalition, major European economies such as France and Germany are not. Their absence could limit the bloc's effectiveness. India's Role India, however, is expected to play a substantive role within this US-led framework. Nearly two dozen of the world's leading semiconductor companies already run design centres in India, tapping into the country's deep engineering talent pool across areas including core intellectual property.
+
+Talent remains India's strongest card, and a key reason billions of dollars are flowing into cloud and AI infrastructure as well as skilling initiatives. US Ambassador to India Sergio Gor underscored this recently, pointing to India's engineering depth and growing capabilities in mineral processing. India's participation, he noted, is "strategic and essential".
+
+That said, India's semiconductor journey is still at an early stage. Eight OSAT (outsourced semiconductor assembly and test) plants and one commercial CMOS (complementary metal-oxide-semiconductor) fab are under development, but the ecosystem is nascent. In adjacent areas too - such as building large language models - India is only beginning to find its footing.
+
+Pax Silica offers an opportunity. Whether it becomes a meaningful platform for reshaping supply chains or remains a declaratory coalition will depend on execution - and on how ambitiously India chooses to play its hand.
