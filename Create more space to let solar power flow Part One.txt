@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Create more space to let solar power flow Part One
+
+Create more space to let solar power flow
+
+Solar power is auctioned almost every fortnight and developers are actively securing capacity, so boosting transmission network is crucial to reap benefits India needs to install nearly 50 gigawatt (Gw) of renewable energy (RE) annually to reach its goal of 500 Gw non-fossil fuel-based energy capacity by 2030. Around 300 Gw is expected to come from solar power. However, based on recent installation trends, India will need to deploy close to 10 Gw more solar capacity annually than the average of the past few years to stay on course.
+
+While solar power is auctioned almost every fortnight and developers are actively securing capacity, strengthening the power transmission network remains crucial to ensure that the generated power is effectively delivered and utilised. Captive solar too holds great promise, and unlocking its potential can make a meaningful contribution to achieving our RE targets. Grid lag hits solar Solar power plants in India are typically commissioned within 12-18 months, depending on their capacity and location.
+
+In contrast, dedicated transmission infrastructure can take three-four years to become operational. This mismatch creates a significant lag between project completion and injection of power into the grid. Even when connected, many plants face curtailment due to grid congestion, limiting full utilisation of installed capacity.
+
+According to the International Energy Agency, nearly 3,000 Gw of RE capacity was awaiting grid connectivity as of 2024, with India among nations facing the biggest backlogs. This is despite the commendable work of the Power Grid Corporation of India, which has built a robust national transmission network across such a vast and diverse geography. Over 30% of India's total transmission capacity has been added in just the last decade.
+
+Solar power project developers also cite land acquisition and right of way (RoW) as big hurdles to timely commissioning. With the majority of projects concentrated in the western and southern states - including Rajasthan, Gujarat, Maharashtra, and Tamil Nadu - further expansion in these areas risk deepening technical bottlenecks and may lead to growing social tensions and community resistance. The Ladakh Green Energy Corridor serves as a strong example of how transmission and connectivity challenges can be addressed effectively.
+
+Currently underway with an allocation of over `200 billion, the transmission system is designed to evacuate 13 Gw of RE from Ladakh and transfer it into the national grid. More such projects are needed in regions similar to Ladakh, where high solar irradiation levels - even greater than those in Rajasthan - can result in greater capacity utilisation. Besides, the vast, sparsely populated landscapes significantly reduce issues related to land acquisition and RoW.
+
+Setting up transmission infrastructure in the northern and north-eastern regions can also help harness the significant hydropower potential of neighbours like Nepal and Bhutan. It aligns well with the vision of One Sun, One World, One Grid, provided enabling regulations are formulated and these countries receive financial assistance and a guaranteed market to sell power. Such cross-border energy cooperation would play a crucial role in balancing the variability inherent in RE generation.
+
+India's transmission bottlenecks stem partly from limited industry involvement. Despite significant private investment in RE generation, both as investors and project developers, the transmission sector has seen limited private participation. According to the Ministry of Power, of the 37 Inter-State Transmission System projects awarded to private entities, only 13 have been commissioned, 20 are under construction, and four have been cancelled.
