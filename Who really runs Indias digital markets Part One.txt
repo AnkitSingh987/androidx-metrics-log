@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Who really runs Indias digital markets Part One
+
+Who really runs India's digital markets?
+
+Technology promised fewer middlemen but created new ones shaping markets, power, and citizens' lives, raising question of sovereignty Digital systems are increasingly treated as elegant answers to problems that once demanded institutional reform, political negotiation, and administrative judgement. In conferences, boardrooms, and policy discussions, technology increasingly carries the aura once reserved for institutions.
+
+The optimism rests on a powerful assumption. Digital systems would remove the intermediaries who once controlled access to markets and opportunity. For years, economists criticised middlemen for distorting exchange. The digital economy promised disintermediation, where platforms would connect citizens directly with customers, lenders, employers, and audiences.
+
+What has emerged instead is a different structure of power. Markets are not becoming free of intermediaries; they are becoming dependent on new ones. In digital markets, algorithms increasingly determine who meets whom. They decide which products appear before consumers, which job applicants survive the first filter, which borrowers appear creditworthy, and which voices travel across networks.
+
+These systems analyse vast data, predict behaviour, and allocate visibility at a scale no human intermediary could match. What we are witnessing is the rise of algorithmic gatekeeping, where access to markets is filtered through code. The challenge for policymakers is no longer only regulating platforms, but understanding the algorithmic power embedded within them.
+
+Consider the small entrepreneur building a business on an online marketplace. Customers from across the country begin discovering products through search results and the enterprise expands beyond its local geography. Then the pattern changes. Orders fade even though quality and ratings remain strong.
+
+The only shift lies in the ranking system that determines visibility. In that moment, the entrepreneur encounters the real gatekeeper of the digital marketplace. This marks a deeper shift in economic authority. Efficiency does not automatically translate into fairness or transparency. When the mechanisms allocating opportunity become opaque, citizens lose the ability to understand how outcomes are produced.
+
+In many cases, these systems are owned elsewhere, reducing citizens and markets to paying participants in infrastructures they neither control nor shape. The paradox deepens when one observes the confidence with which we speak about governing these systems. Artificial intelligence panels multiply across media, business, and policy forums.
+
+Reports circulate describing ethical algorithms and responsible digital markets. Strategy documents promise frameworks that will balance innovation with accountability. The tone often suggests that institutions have already mastered the forces reshaping economic life. The reality is less settled. Algorithmic systems combine advanced mathematics, behavioural modelling, and machine learning that evolves continuously with new data.
+
+Even their creators cannot fully predict outcomes. Institutional expertise rarely develops at the same pace as technological change. In many discussions about digital governance, the vocabulary of expertise travels faster than the expertise itself. Over-confidence in technological narratives often exceeds institutional exceeds the institutional capacity.
+
+Into this uncertainty has emerged a new ecosystem of interpreters. Consulting firms and policy advisory groups increasingly operate at the intersection of governments and regulators, shaping how emerging technologies are understood and governed. Many perform valuable analytical work, yet they also occupy an unusual position in the digital economy.
+
+In effect, their counsel is often shaped by the unseen highest-paying voices in the room, not necessarily by the long-term imperatives of sovereign capability. This dual layer of intermediation raises a deeper question of digital sovereignty. Control over data, platforms, and algorithmic capability is now strategic.
+
+India has built impressive digital infrastructure, but sovereignty cannot rest on infrastructure alone. Much of the architecture powering its digital life remains owned elsewhere, leaving the country rich in data generation but dependent in its interpretation and monetisation. Sovereignty, in that sense, remains more aspiration than reality.
