@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Computing core CPI inflation a challenge Part One
+
+Computing core CPI inflation, a challenge
+
+MoSPI should put out a documented all-India core index alongside the headline, with weights clearly specified The minutes of the August 3-5 Monetary Policy Committee (MPC) meeting released on August 19 carry a reference to the CPI inflation diffusion index to offer the view that inflation in India is not generalised. Conceptually, an inflation diffusion index measures how widely price increases have spread across goods and services in an economy. Instead of tracking the average size of a price change, it calculates the percentage of items or sectors that record price increases.
+
+This metric helps monetary authorities assess whether inflation is driven by a few items or widespread across the commodity basket. Thus, the inflation diffusion index is a critical policy variable not only to monitor the dispersion of headline inflation but also guides the monetary policy stance. The CPI diffusion index for June 2026 showed that roughly 69 per cent of the basket by weight recorded inflation of four per cent or less.
+
+But here is a challenge. This index is compiled and published by the RBI based on the new series CPI Inflation data issued by the Ministry of Statistics and Programme Implementation (MoSPI) from February 12, 2026. This new 2024 series (2024=100) builds the basket and their weights based on the Household Consumption Expenditure Survey, 2023-24.
+
+The new CPI 2024 series adopts the Classification of Individual Consumption According to Purpose (COICOP) 2018, aligned with the approach of the United Nations Statistics Division. However, the data is not published in a form that a user can rebuild it. MoSPI does not explicitly give the fuel and services inflation number, so that calculation of core inflation (headline number minus food and fuel) is fraught with challenges.
+
+In the 2024 CPI series, expenditure is classified in a granular manner and moves from a general item class (Level 1, example: food and non-alcoholic beverages) to the specific items bought in the market (Level 5, example: onions). India's adaptation of it has 12 divisions at the first level, followed by 43 groups, 92 classes, 162 sub-classes and 358 distinct items at the last level of the hierarchy. The objective is to provide a framework of homogeneous categories of goods and services from the point of view of its usage by the households.
+
+Its adoption ensures that India's CPI is comparable with CPIs worldwide. In the new series, the core and the diffusion index alike have some seven months of comparable data behind them. So, when the minutes cite that 69 per cent of the basket is running at 4 per cent inflation or less, the question that remains unanswered is this: Is 69 per cent high or low?
+
+The question is in fact unanswerable because there is no threshold number. Compiling issues The new series has also posed some difficulties in compiling fuel inflation. For example, the fuel inflation data are clubbed under groups and classes. This makes it difficult to segregate core inflation (inflation minus food and fuel) from headline inflation.
+
+It is possible to do the segregation, but the process is inexact, tedious, and cumbersome. In its April 2026 monetary policy report, the RBI has mapped the separation of the fuel inflation components in two different categories (namely, Electricity, Gas & Other Fuels, and Fuel & Lubricants for Personal Transport Equipment). However, the various weights have not been explicitly disseminated by either the MoSPI or the RBI.
