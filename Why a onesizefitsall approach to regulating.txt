@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Why a onesizefitsall approach to regulating
+
+Why a one-size-fits-all approach to regulating NBFCs?
+
+A smarter framework would treat size as a preliminary filter, not the final verdict. Risk-weighted classification should follow As the RBI moves to expand the upper-layer NBFC list to include large, bank-backed entities, a basic regulatory dilemma comes into focus: should NBFCs with identical balance-sheet sizes but vastly different business models face the same supervisory intensity?
+
+A ₹40,000-crore vehicle finance company backed by hard collateral and stable cash flows is fundamentally different from a ₹40,000-crore unsecured digital lender. The scale-based regulation (SBR) framework relies heavily on asset size to classify NBFCs. While this offers administrative simplicity, it underestimates a central truth of financial stability: risk is shaped by asset quality, funding structure, and interconnectedness  -  not by size alone.
+
+Traditional vehicle finance NBFCs such as Sundaram Finance, Shriram Finance, and Mahindra Finance illustrate why asset quality should outweigh asset size in regulation. Their portfolios are anchored in tangible, income-generating collateral. Commercial vehicles generate daily cash flows, enabling natural debt servicing; loan tenures of three to five years align well with asset life and funding cycles; and deep secondary markets allow repossessed vehicles to be resold quickly.
+
+. Unsecured lending The more acute risks lie in fast-growing unsecured retail lending. Unsecured loans now account for a rising share of NBFC assets, funded increasingly through short-term instruments. Borrower overlap is high, with many individuals carrying multiple live loans, raising the probability of correlated defaults.
+
+These structures amplify rollover risk and contagion  -  precisely the dynamics that triggered the IL&FS crisis. That episode underscored a key lesson: systemic stress emerges from opacity, maturity mismatches, and tight interlinkages with the banking system, not from long-established, collateral-backed lenders with predictable cash flows. A smarter framework would treat size as a preliminary filter, not the final verdict.
+
+Risk-weighted classification should follow, giving greater weight to factors such as secured versus unsecured lending ratios, collateral liquidity, funding maturity, and dependence on bank borrowings. Secondary factors  -  track record, governance quality, sectoral concentration, and compliance history  - can refine the assessment. Current rules require NBFCs classified in the upper layer to remain under heightened regulation for at least five years, even if their risk profile improves.
+
+Annual risk reviews, flexibility to migrate between layers, differentiated capital requirements, and phased compliance timelines would instead preserve stability without imposing unnecessary costs. Blunt, size-driven regulation could offset those gains for institutions that fund the real economy. For asset-backed lenders with decades of demonstrated discipline, regulatory intensity should reflect actual risk  -  not balance-sheet bulk.
+
+By Gopalaswamy J The writer has worked at a senior level in leading NBFCs
