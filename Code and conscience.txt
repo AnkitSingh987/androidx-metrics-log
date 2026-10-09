@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Code and conscience
+
+Code and conscience
+
+The first Global South AI summit should focus on inclusive innovation and shared global rules When India convenes its first global summit on artificial intelligence (AI) today, it will signal that the conversation on AI governance is no longer the preserve of Silicon Valley, Brussels, or Beijing. For the first time, such a summit in the Global South seeks to place emerging economies not at the receiving end of rules, but at the rule-making table. AI is rapidly reshaping productivity, public services, and geopolitics.
+
+From generative models that draft contracts to algorithms that diagnose disease, the technology is already embedded in everyday life. Yet the frameworks governing it remain fragmented and dominated by advanced economies. India's moment, therefore, carries weight. As one of the world's largest digital societies, India has both scale and stakes.
+
+Its digital public infrastructure - from Aadhaar to the Unified Payments Interface - has shown how technology can be deployed inclusively and at a population scale. The challenge now is to ensure that AI builds on this foundation without deepening inequality or compromising rights. Shattering the Monopoly The summit's significance lies in three broad areas.
+
+First, AI models are trained on data - and data reflects power. Languages, cultures, and contexts from the Global South are underrepresented in training datasets, leading to bias and exclusion. If India can rally countries across Africa, Latin America, and Asia around the need for linguistic and cultural diversity in AI, it would make the technology more equitable and more accurate.
+
+Second, for many developing countries, AI is about leapfrogging constraints - improving crop yields through predictive analytics, expanding telemedicine, streamlining welfare delivery, or strengthening disaster response. Yet these gains require affordable computing power, access to datasets, and skill development. A meaningful summit must move beyond declarations to mechanisms: shared compute pools, open-source collaboration, and financing models.
+
+Third, the world faces a widening gap between AI's capabilities and the guardrails to manage them. Issues of data privacy, algorithmic bias, misinformation, and job displacement are universal. But developing economies confront them with fewer institutional resources. India can help articulate a middle path: innovation-friendly but rights-respecting; open but secure; globally interoperable yet sensitive to domestic priorities.
+
+There is also a strategic dimension. AI is fast becoming the new arena of technological rivalry. Semiconductor supply chains, cloud infrastructure, and foundational models are increasingly tied to national security calculations. By convening the Global South, India can push for a multipolar AI ecosystem - one that resists technological monopolies and ensures that standards are not dictated unilaterally.
+
+Yet ambition must be matched with credibility. This is also an opportunity for India to link AI with its broader development narrative. Having championed climate justice and digital public goods on global platforms, New Delhi can now argue that AI, too, must serve inclusive growth. From Abstract Rules to Practical Solutions At its core, the summit seeks to expand the conversation beyond technology for its own sake to technology for social good.
+
+Organised around seven thematic "chakras", the sessions will focus on inclusion, safe and trusted AI, human capital development, economic growth, and environmental sustainability. Such a breadth of focus underscores an essential truth: AI cannot be separated from the societies it serves. The AI summit should emphasise solutions that anticipate real-world challenges rather than abstract technical advances so that there is a shift from technological dependency to technological agency.
+
+That could help ensure that the next wave of algorithms reflects the diversity of the societies they serve. The future of code should not be written by a few, but shaped by many.
