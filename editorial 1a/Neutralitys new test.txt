@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Neutralitys new test
+
+Neutrality's new test
+
+Airtel's Priority Postpaid hasn't broken net neutrality's old rules, but it has exposed the gaps in them Bharti Airtel's launch of Priority Postpaid has reopened a debate many assumed had been settled a decade ago. The original net neutrality battle was fought over content discrimination  -  whether telecom operators could favour some apps, websites, or platforms over others through differential pricing or preferential access. The Telecom Regulatory Authority of India's (Trai) 2016 regulations drew a clear line against such practices.
+
+Airtel's new offering does not fall into that category. The company maintains that it does not block, throttle, or favour any content and merely uses 5G network slicing technology to provide a more stable network experience to a set of customers. Yet the issue highlights a new policy question that earlier regulations did not fully anticipate: whether telecom operators should be allowed to create differentiated Internet experiences based not on content but on the type of customer.
+
+Vodafone Idea has publicly attacked the move as discriminatory, while Reliance Jio, though more measured in its response, has sought safeguards and regulatory oversight around such offerings. The disagreement among operators itself underlines that the issue is neither settled nor straightforward. Airtel's defence rests on two arguments.
+
+First, that network slicing is a legitimate and globally accepted capability of standalone 5G networks. Second, that Priority Postpaid does not harm other users because its network is currently operating at only 38% utilisation, leaving ample capacity to accommodate differentiated services. The first argument is difficult to dispute.
+
+Even Jio's submissions acknowledge that network slicing is a legitimate 5G capability and compatible with existing net neutrality principles provided general Internet access is not degraded and content-based discrimination is absent. The second argument is less convincing. Spectrum is a scarce national resource allocated to operators at significant cost.
+
+If Airtel indeed has substantial excess capacity, the justification for creating premium lanes becomes weaker. The debate then shifts from network constraints to revenue optimisation. An operator cannot simultaneously argue that network slicing is necessary to deliver a superior experience and that there is sufficient spare capacity to ensure nobody else is affected.
+
+Capacity Paradox Unlike fixed broadband networks, where capacity can often be expanded more easily, mobile networks operate on finite and shared spectrum resources. During periods of congestion, allocating greater resources to one group of users necessarily leaves fewer resources available for others. Airtel has said that its service offers a more dependable experience when traffic demand is high.
+
+That promise inevitably raises questions about what happens to those who are not on postpaid plans during the same period. The concern is not that operators will deliberately degrade prepaid users. Rather, it is that commercial incentives may gradually shift towards monetising network congestion. If postpaid users can be charged for protection from congestion, operators may have weaker incentives to eliminate that congestion altogether.
+
+Proactive Oversight None of this means network slicing should be prohibited. The technology will be central for enterprise applications and specialised services. However, consumer-facing prioritisation cannot remain a regulatory grey area. The regulator should establish clear rules defining when and how class-based differentiation can be offered, minimum quality standards for non-priority users, disclosure requirements around traffic management practices, and limits on resource reservation for premium services.
+
+Trai should ensure that no new form of user discrimination emerges. The net neutrality debate may have changed shape, but the underlying principle remains the same  -  that access to the Internet should not become a privilege available only to those willing or able to pay more.
