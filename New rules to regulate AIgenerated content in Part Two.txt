@@ -1,0 +1,22 @@
+Category: Editorial
+Title: New rules to regulate AIgenerated content in Part Two
+
+New rules to regulate AI-generated content in India: Where is the line between calibration and censorship?
+
+How do platforms verify user declarations when users themselves may not understand what constitutes synthetic content? An amateur creator using AI-assisted filters for colour grading might genuinely believe they're simply editing, not creating synthetic content. The line between enhancement and generation can blur even for experts.
+
+Requiring platforms to police this distinction before publication transforms them from neutral intermediaries into active gatekeepers  -  a fundamental shift in their role. Enforcement asymmetry presents another concern. While the government has updated legal references to align with the Bharatiya Nyaya Sanhita and other new criminal codes, practical questions remain: Who gets prosecuted and how?
+
+Will enforcement target individual users who mislabel content, or platforms failing to catch violations? The clarification that platforms won't lose safe harbor protection when removing synthetic content in good faith is reassuring, but doesn't resolve the fundamental tension between being a neutral intermediary and actively policing content creation. Perhaps most concerningly, requiring platforms to deploy automated tools to prevent violations of "any law for the time being in force" creates an impossible compliance burden.
+
+India's legal landscape encompasses defamation, electoral laws, communal harmony provisions, and content-specific regulations across states. How can automated systems parse such nuances? This risks either technological overreach or selective enforcement  -  neither serves justice. Looking internationally, India isn't alone in grappling with these challenges.
+
+The European Union's AI Act and various US state-level deepfake laws demonstrate democracies everywhere are struggling to balance innovation with safety. What distinguishes India's approach is both its comprehensiveness and aggressive timeline. Other jurisdictions have given stakeholders more time to develop technical capabilities and compliance frameworks.
+
+The path forward requires calibration, not retreat. The government should consider phased implementation, starting with the most harmful categories  - child abuse material, non-consensual intimate imagery, and election-related deepfakes  -  before expanding to broader synthetic content. The three-hour takedown window should be reserved for genuinely urgent cases, with reasonable timelines for other violations.
+
+Technical standards for metadata embedding and labeling should be developed collaboratively with industry, ensuring actual implementability across platforms and content types. User education is equally critical. Labels only work if people understand them. Quarterly warnings about penalties, as mandated, are a start, but comprehensive digital literacy programmes would better equip citizens to navigate an AI-saturated information environment.
+
+The amendments represent India's entry into regulating synthetic reality  -  a necessary response to genuine harms grounded in legitimate concerns about democratic integrity, personal dignity, and public safety. But demanding near-instantaneous compliance with technically ambitious requirements risks creating a framework that looks impressive on paper but proves unworkable in practice  -  or achieves compliance through over-censorship rather than careful calibration. As these rules take effect next week, both government and platforms should approach implementation with flexibility and good faith.
+
+The goal isn't perfect enforcement immediately, but building a regulatory ecosystem that evolves alongside technology, protecting citizens without strangling innovation. That balance is worth striving for, even if it takes longer than three hours to achieve. Written by: Subimal Bhattacharjee The writer is a defence and tech policy adviser and author of the forthcoming book The Digital Decades on 30 years of the internet in India
