@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Regulating usernames
+
+Regulating usernames
+
+Tech giants should have pre-emptive safeguards The controversy over WhatsApp's proposed rollout of usernames has sparked a debate that extends well beyond a single product feature. At first glance, the issue appears to be about whether users should be able to communicate without revealing their phone numbers. In reality, it raises a far more fundamental question: how much responsibility should digital platforms bear for the risks their products create?
+
+The strongest argument for WhatsApp usernames is privacy. Today, if you want to message someone on WhatsApp, be it a seller, a school parent, or someone you met briefly, you have to reveal your phone number. That's a significant privacy leak because a mobile is linked to bank accounts, Aadhaar, payment apps, and, increasingly, a person's digital identity.
+
+Usernames solve a real problem by allowing contact without exposing your number. WhatsApp says users will need to know the exact username to initiate contact. It also plans safeguards against impersonation of prominent accounts. However, India's cybercrime problem is already severe. Fraudsters can also hide behind usernames.
+
+The government has therefore asked WhatsApp to pause the rollout while it examines the implications for fraud prevention and law enforcement. The real issue, though, is not whether privacy should trump fraud prevention (through impersonation) or vice versa. It is what accountability should look like when a platform used by millions changes something as fundamental as digital identity.
+
+For technology companies, responsibility begins long before a feature goes live. If a product creates new opportunities for impersonation or fraud, the company should have built-in safeguards. It should be prepared to change course if abuse becomes widespread. Increasingly, regulators around the world are expecting platforms to adopt this "safety by design" approach.
+
+The scrutiny of Instagram over child sexual abuse material reflects the same shift. Large platforms can no longer argue that they are merely neutral conduits when many of the risks stem from choices they make in designing products. WhatsApp should prevent abuse through measures like rate limits, identity verification where appropriate, impersonation detection, and easy fraud reporting mechanisms.
+
+Regulators, however, have responsibilities too. Their response needs to be consistent rather than episodic. Usernames have existed on several messaging and social platforms for years. If pseudonymous identities genuinely increase cybercrime risks, then the policymakers should have already put in place a regulatory framework that applies across the industry.
+
+Acting only because WhatsApp is introducing the feature now risks creating the impression that regulation is driven by headlines rather than coherent policy. But regulators are right to demand that companies demonstrate they have assessed the risks and built adequate safeguards. Companies, for their part, need to show they have anticipated misuse instead of responding only after damage has been done.
