@@ -1,0 +1,16 @@
+Category: Editorial
+Title: AI wont take Indias tech jobs away Part Two
+
+AI won't take India's tech jobs away
+
+Also, the AI tools too for enterprise are different. IT services companies focus on solutions for enterprises and not consumer. Estimates suggest AI could represent a $300-400 billion opportunity for IT services companies by 2030  -  spanning AI strategy consulting, data preparation, process redesign, legacy modernisation and governance frameworks to ensure AI systems are secure and trustworthy.
+
+If AI were truly hollowing out India's tech industry, we would see a slowdown in Global Capability Centres (GCCs) setting up here. The opposite is happening. According to IT industry body Nasscom, by the end of 2025, there were more than 1,750 GCCs in India employing around two million, and their numbers are growing.
+
+Over the past few years, multinational corporations have set up their own GCCs in India  -  in-sourcing work rather than outsourcing it. Instead of handing projects entirely to service providers, they are building captive technology and R&D centres. IT services firms have adapted by creating GCC partnership models, supporting these centres with specialised expertise, overflow capacity and advanced engineering skills.
+
+Companies such as TCS, Infosys, and Wipro plan to hire 10,000-40,000 graduates this year. Demand is shifting, not vanishing. The real change is in skills. There is no substitute for strong computing fundamentals. Engineers must understand core programming before relying on AI tools. The real question is not whether AI will take away jobs.
+
+It is whether India will move up the value chain fast enough. With its talent, scale and adaptability, India is well-positioned not merely to survive the AI revolution, but to lead it. By Ajai Chowdhry The writer is Chairman, EPIC Foundation and MGB (Mission Governing Board), National Quantum Mission.
+
+Views are personal
