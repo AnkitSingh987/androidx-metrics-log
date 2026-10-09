@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Hungry engines of the AI age Part Two
+
+Hungry engines of the AI age
+
+The economics don't justify it either, with a 1-Gw orbital data centre likely to cost $170 billion, many times a terrestrial alternative  -  60% of that are launch and satellite costs. Exponential cost declines could favour a change in thinking. Mitigating vulnerabilities: Data centres in India show a concentration risk with 65% of the capacity in Navi Mumbai, Chennai, and Hyderabad, creating transmission congestion for state distribution companies.
+
+Meanwhile, our fast expanding renewable sector is struggling, as power evacuation is deficient, relying on temporary grid connections at many places. In FY26, around 6,900- gigawatt-hours of clean energy reportedly faced such curbs. Our dire water situation is heightened by high ambient summer temperatures, apart from municipal deficits, and states are beginning to mandate that recycled water should be used at data centre parks.
+
+Government incentives encourage the setting up of data centre parks in secondary and tertiary cities that have headroom vis-à-vis grid density and land access. State policies are getting better. With the classification of data centres as essential public utilities, they get single-window clearances, special FDI considerations, and protection against industrial unrest.
+
+Job creation: During the development phase, depending on the data centre's size, hundreds of tradespeople would be employed, including specialists for high-voltage mechanical, electrical, and plumbing work, concrete and steel crews, and fiber optic and IT installers. Once live, facility engineers, cooling specialists, high-voltage power engineers, and environmental health and safety specialists are essential, apart from network and cyber operations experts, site reliability engineers, maintenance technicians, and physical security teams. Then there are those in the upstream supply chain, including ones supplying and servicing generators, transformers, chillers, server racks, subsea cables, and fiber optics.
+
+And those in downstream tech acceleration areas like SaaS firms, cloud platforms, e-commerce, and AI/ML, including startups. Considering India's data centre growth plans, which should cross 6.5 Gw before 2030, we will need at least 100,000 specialised engineering and tech roles. Of course, the bigger job creation multiplier is in allied areas across the broader economy.
+
+India produces 1.5 million engineering graduates annually. It's time to step up -  sharp, job-aligned courses and specially designed integrated data centre courses for engineers  -  in addition to many more focused apprenticeships, certifications, and research grants for sustainable solutions in water and power management. For India, powering the future without straining our current resources is a prerequisite.
+
+And building gigawatt-scale infrastructure without a workforce trained to run it efficiently is a strategic risk. Written by Anil Nair
