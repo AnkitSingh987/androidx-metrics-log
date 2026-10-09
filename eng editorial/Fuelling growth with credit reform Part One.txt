@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Fuelling growth with credit reform Part One
+
+Fuelling growth with credit reform
+
+India is at an inflection point, as the country's economic growth depends on unblocking credit access for millions of small enterprises. India's economic ambitions hinge on the strength and resilience of its small businesses. Micro, small, and medium enterprises (MSMEs) are the backbone of India's economy, accounting for nearly 30% of the country's GDP, and employing over 110 million people.
+
+Yet, despite their scale and significance, MSMEs remain one of the most underfinanced sectors in the economy. Access to capital remains their single biggest bottleneck. As India aspires to double its GDP and build inclusive growth, ensuring accessible, affordable credit for MSMEs is no longer just a sectoral issue - it is a national economic imperative.
+
+Today most MSMEs, especially the smallest ones, still find it difficult to borrow because they do not have enough collateral, long credit histories, or direct relationships with banks. At a time when the government is aiming to transform India into a global manufacturing and services hub, fixing MSME credit must be a national priority. The solution lies in enabling more risk-taking, smarter partnerships to leverage innovations, and greater flow of capital into this sector.
+
+Bringing down cost of capital Today, many fintech lenders and non-banking financial companies (NBFCs) are willing to serve MSMEs, including those outside the reach of traditional banking. But they borrow at a much higher cost than banks do, particularly when offering unsecured loans. The cost gap can be as high as 7-8 percentage points.
+
+Clearly, there is a need to open newer sources of funding like foreign capital and infusion of insurance capital into the fintech companies that prioritise lending to MSMEs. The government could bridge this by creating an incentive mechanism - similar to priority-sector funds in agriculture - that reduces capital costs for NBFCs lending to MSMEs. Public sector banks can also be encouraged to partner and co-lend with fintechs.
+
+Currently, MSME loans are included under priority sector lending (PSL). However, younger and lower-rated NBFCs often don't qualify for PSL benefits, as public sector banks require a minimum A-family rating, excluding many innovative fintechs and NBFCs. Their participation will need an incentive structure.
+
+Making credit guarantees work better The core focus of the existing government guarantee schemes, such as the Credit Guarantee Fund Trust for Micro and Small Enterprises, are critical for encouraging lenders to support smaller businesses and aiming towards the larger vision of financial inclusion. But their design needs urgent updating. Today, guarantees do not easily travel with a portfolio when it is sold.
+
+Nor do they always cover co-lending arrangements. This ultimately impacts the MSME sector, preventing them from financial lending access. Pricing norms, like rate capping and pricing caps for coverage, also differ for NBFCs versus banks, making it harder for smaller lenders to compete fairly. Aligning these rules would unlock significant new flows of guaranteed credit.
+
+Building better data highways Digital public infrastructure has been a big success for India, but MSME credit demands more. We should expand the Account Aggregator framework to cover partnerships and companies, and all bank accounts, not just individuals. Simplified online verification of goods and services tax (GST), PAN, and Udyam registrations should be made available as public application programming interface (API).
+
+Lenders and approved licensed service providers should be allowed secure, consent-based access to bureau data, KYC, and DigiLocker - without multiple bureau pulls that accidentally harm a borrower's credit score. MSMEs currently face the burden of completing two digital KYCs despite struggling to get one credible KYC. The process also requires physical verification of original documents, which is outdated.
