@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Cars construction or stubble burning what Part One
+
+Cars, construction or stubble burning, what really pollutes Delhi's air? We need better data to fight pollution
+
+Burning, what really pollutes Delhi's air? We need better data to fight pollution Without this, we risk investing scarce resources in sectors that have a small contribution to air quality while ignoring major ones Every winter, air pollution in Delhi becomes the talking point. While the city's annual tryst with air pollution is certain, what pollutes it and how much is still not.
+
+What is the contribution of stubble burning in nearby states, or of transport within Delhi, or of construction and demolition dust? You will find several apportionment studies with varying results. Attribution is an evolving science, but a critical one. Action cannot pause for better data  -  we know enough to tackle pollution  -  yet better data is what will make our action smarter and more targeted.
+
+For instance, an analysis by the Council on Energy, Environment and Water (CEEW) of the sources behind Delhi's PM2.5 levels in winter 2021-22 showed how two different models, one run by UrbanEmissions.info (UE), a private entity, and the other by the Indian Institute of Tropical Meteorology, Pune (IITM), provided contrasting numbers. While UE's model attributed 5 per cent of Delhi's average annual PM2.5 to its waste burning, IITM Pune's Decision Support System (DSS) puts the number at just 1. Similarly, while the UE model attributed 10 per cent of Delhi's PM2.5 to its own dust, the DSS attributed just 3 per cent.
+
+These models use two different emission inventories, which are datasets that provide information on the location and the emissions from various sources. The use of different datasets to model air quality is one of the major reasons for the differences in attributions. Such uncertainty is not only confusing to citizens but even to scientists and policymakers/regulators trying to manage air quality in real time.
+
+Designing both short and long-term interventions requires knowledge of the sources of pollution. Otherwise, we risk investing scarce resources in sectors that have a small contribution to air quality while ignoring major ones. Three recommendations We provide three actionable recommendations to ensure the capital city has a sharper view of what pollutes it.
+
+That's the first step towards cleaning it. First, urgently create a standard emission inventory for Delhi-NCR and adjoining areas by the end of 2026 and update it periodically. Promisingly, the effort to create a new emission inventory has already been underway for several months; it now needs to be accelerated.
+
+It is an essential requirement for air quality models that convert these emissions to PM 2.5 concentrations. The famous computer science idiom "garbage in, garbage out" summarises the consequences of a bad emission inventory. An air quality model that runs on an outdated emission inventory will not only give incorrect modelled values of PM2.5, but also get the sources wrong.
+
+Delhi's Air Quality Decision Support System runs on an emission inventory that was last updated in 2021. Several other cities with operational air quality early warning systems, such as Mumbai and Kolkata, rely on such outdated inventories. However, the Commission on Air Quality Management (CAQM) must rely on the information from this system before implementing GRAP in the winter months.
+
+Therefore, there is an immediate need to update the emission inventory. Countries like the US, UK and China update their national emission inventories every two or three years. Regular updates help us understand the impact of interventions such as increasing public transport or restricting the plying of older vehicles.
