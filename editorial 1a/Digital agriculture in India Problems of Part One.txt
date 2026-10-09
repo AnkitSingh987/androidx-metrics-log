@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Digital agriculture in India Problems of Part One
+
+Digital agriculture in India: Problems of inclusion
+
+Digital literacy must improve for farm schemes to succeed Bharat-Vistaar, an AI-enabled agro-advisory tool was launched in February 2026, with an allocation of Rs. 150 crores in the Union Budget 2026-27. It is one among a growing list of initiatives of the Government of India (GoI), and many State Governments to promote digital agriculture.
+
+However, the promise of digital agriculture to improve resource use, bring transparency in service delivery and rural governance, and improve living standards of farmers depends on access to digital infrastructure and digital literacy. We argue that these basic prerequisites to digital agriculture are missing in rural India. Digital agriculture entails continuous and extensive collection, processing, analysis, and maintenance of digital data on all aspects of agriculture, as well as the development and deployment of a range of digital tools and applications across the agricultural value chain.
+
+For almost a decade, it has been promoted as a transformatory approach by multilateral organisations, research institutions, and agri-businesses around the world. The Indian policy framework seems to echo this understanding. In 2024, GoI launched the Digital Agriculture Mission with the objective of developing a 'farmer-centric digital and space ecosystem', and allocated Rs.
+
+2817 crores. Some State governments including Maharashtra, Telangana, Andhra Pradesh, Uttar Pradesh, have followed suit. Indian agri-tech companies too are investing in developing products and services that employ digital tools across the agricultural value chain  -  such as seed traceability tools, online trading platform for agri-related products, smart and sensor-based irrigation, AI-enabled agro-advisory services, use of robots and drones for agricultural operations.
+
+We use unit-level data from the recently conducted Comprehensive Modular Survey on Telecom (CMST) by National Statistical Office (NSO) in 2025 to examine the reach of digital infrastructure and digital literacy in rural India across social groups and gender. The survey covered 34,950 households and 1,42,065 individuals across India, with rural areas accounting for 19,071 households and 82,573 individuals. Access to digital infrastructure While there has been a big rise in number of mobile telephones in rural India in the last two decades, there remain regional differences.
+
+As per the Telecom Regulatory Authority of India, in 2025, Kerala was the only state that had achieved a rural mobile tele-density (defined as number of mobile phones per 100 rural population) of more than 100. Tele-density was less than 50 in Madhya Pradesh, Bihar, Uttar Pradesh, Jharkhand, and Chhattisgarh. Our analysis of the unit level data from CMST is revealing.
+
+First, we found that 80 per cent of rural households reported access to the internet, but only 8 per cent availed a broadband connection. In short, most households gained internet access through mobile networks. Secondly, at the individual level, around one-half of the rural adult population (51 per cent) said they owned a smartphone and had access to internet in their household.
+
+This number was only 37 per cent for adult women in rural areas. Given the increasing role of women in agricultural production, the gender gap in access to smart phones and internet is of concern. Further, ownership of smartphones and internet access varied across social groups. While 57 per cent of the Other Caste individuals owned a smartphone and had access to internet, it was only 44 per cent and 47 per cent respectively among Scheduled Tribe and Scheduled Caste population.
