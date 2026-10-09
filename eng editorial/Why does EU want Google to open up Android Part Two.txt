@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Why does EU want Google to open up Android Part Two
+
+Why does EU want Google to open up Android to AI rivals?
+
+What was Google's response to the EU regulator? Google's Senior Competition Counsel, Clare Kelly, was against the move and shared concerns about security and affordability for users. "This unwarranted intervention would strip away that autonomy, mandate access to sensitive hardware and device permissions; unnecessarily driving up costs while undermining critical privacy and security protections for European users," Kelly was quoted as stating in an email, per Reuters.
+
+Google has also criticised the DMA more widely. In a September blog post, Google's Oliver Bethell, Senior Director, Competition, wrote that the DMA's aim was more fairness but that it was "causing significant and unintended harm" to European users and many small businesses. The post claimed that the DMA was focused on the commercial interests of intermediary sites connecting businesses and customers, instead of allowing customers and businesses to connect directly via Google.
+
+Furthermore, Bethell claimed that the DMA forced Google to remove "legitimate safeguards" protecting Android users from scams and malicious links. Why does this issue matter? As Big Tech giants race to develop new AI tools and market them to users through their search engines (in the case of Google/Microsoft) or messaging apps (in the case of Instagram/WhatsApp), regulators are concerned that these companies may cut off access to rivals who have competing AI products.
+
+This, in turn, would hurt fair competition. For example, both OpenAI's ChatGPT and Microsoft's Copilot announced last year that they would be leaving WhatsApp after Meta changed platform usage policies that affected how AI chatbots could access the WhatsApp backend. In December, the European Commission opened a formal antitrust investigation into Meta over the policy change.
+
+In scenarios like these, customers could be forced to rely on the default AI product offered by the platform or device they are using, instead of freely choosing the one they want. On the other hand, tech companies have opposed opening up their hardware and software ecosystems to rivals, claiming that such permissions reduce security or pass on increased costs to users. The enforcement actions taken by the European Commission in Google's case could also influence the business outlook of other Big Tech companies designated as gatekeepers under the DMA.
+
+Furthermore, these proceedings have the power to influence how Indian courts and competition regulators handle such antitrust questions at home. By Sahana Venugopal
