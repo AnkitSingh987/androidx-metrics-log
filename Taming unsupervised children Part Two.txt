@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Taming unsupervised children Part Two
+
+Taming 'unsupervised children'
+
+He suggests embedded external "evaluators" within frontier companies to verify safety practices. Sounds good, but unless mandated by government, access is at the discretion of the companies, which can change the rules to avoid detection. He then recommends voluntary pacing of recursive self-improvement, so capabilities do not outrun safety guardrails.
+
+But this is coupled with sanctions on the sale of AI chips and a crackdown on unauthorised distillation by "authoritarian" countries (that is China) to make sure they don't outpace the good guys. A fear is that the latter is the driving business objective, cementing the leadership of proprietary US models over the widely used Chinese open-weight models now closing on the frontier. Amodei's third initiative, on global coordination, is where India can and should play a major role.
+
+Pointedly, nowhere in his essay are the interests of India or the Global South mentioned. So far, India is largely a passive spectator, downstream of risk assessments it did not perform, cannot audit, and did not consent to. As one of the largest AI user bases in the world, and one of the largest vaccine manufacturers, India deserves a place not just at the table but in the kitchen as the meal is being planned.
+
+Two concurrent threads of activity are possible, loosely modelled on Amodei's Levels 1 and 2. The first is formalising the rules and enforcement methods limiting AI for biological or other weapons. This involves an accepted list of bad actors and an ability to discern bad intent, both difficult given that the same information, institutions, and scientists involved in bio-capable AI can produce cures as easily as biological weapons.
+
+India's position as a vaccine powerhouse gives it standing, and it must play a driving role to ensure global fairness and protection for Indian researchers. The second is a global agreement to test and certify frontier models before release for acute risks in areas such as cybersecurity, biology, and alignment. Amodei suggests testing a model's alignment through some combination of evaluations, interpretability analyses, and audits of training environments.
+
+As a credible "neutral" party between the two AI superpowers, and a massive user of both their products, India can play a key role in defining such a regime and how it will be operationalised. Any such regime must preserve the interests of open-weight models which are critical to closing the AI gap for the Global South, while also ensuring broader commercial interests are respected. To do these things, India must build its capacity to be a credible AI interlocutor.
+
+It must fund the AI Safety Institute (or similar entity) to evaluate rather than advise: dangerous-capability testing, agentic-autonomy benchmarks, and the India-specific evaluations, from regional-language jailbreaks to DPI-and UPI-adjacent attack surfaces. It must also nurture Indian AI safety leaders with the global standing to be heard. Having a place in the kitchen requires more than a seat  -  it requires the judgement to know what is being cooked, and the standing to say so.
+
+By Inder Gopal The writer is Research Professor, IISc, and Chairman, Centre of Data for Public Good.
