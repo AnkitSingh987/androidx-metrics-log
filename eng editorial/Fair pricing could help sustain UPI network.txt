@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Fair pricing could help sustain UPI network
+
+Fair pricing could help sustain UPI network
+
+A workable principle: Keep UPI free for consumers and small merchants, while allowing a capped MDR for larger commercial users and higher-value transactions UPI's scale has made the question of who pays for it more important. Its success rests on a simple bargain: Consumers pay at no visible cost, merchants accept payments without card machines or a merchant discount rate (MDR), and banks and payment companies absorb much of the expense, offset only partly by public subsidy. That arrangement is being reconsidered.
+
+A report tabled this month by the Parliamentary Standing Committee on Finance cited an industry estimate of about Rs 20,700 crore in annual operating costs, against a Rs 2,000 crore allocation under the zero-MDR regime. The Department of Financial Services said it was examining two options: Restoring MDR for certain high-threshold transactions or merchants, and phasing out government support through a tiered incentive structure. India must decide how to share the network's costs according to capacity to pay.
+
+It must also decide how aggregated, privacy-safe payment signals can be put to public use under clear standards. Start with what drove adoption. My research with Sharon Buteau finds that more formalised merchant ecosystems are associated with higher UPI use. Once basic connectivity is in place, business ecosystem development matters more.
+
+That should guide how any MDR is designed. A fraction of a percentage point may be manageable for a supermarket chain, but consequential for a street vendor. It may barely register in districts where UPI acceptance is entrenched, but could slow merchant onboarding where the network is still forming. A uniform rate would misread both merchant and geographic asymmetries.
+
+A workable principle follows: Keep UPI free for consumers and small merchants, while allowing a capped MDR for larger commercial users and higher-value transactions. Incentives should remain available where acceptance networks are still developing. The thresholds should be based on merchant margins, administrative feasibility and likely effects on local adoption.
+
+MDR need not be the only source of revenue. Firms can build commercial services around UPI while the underlying payment remains free. Payment data also has public value. At UPI's scale, anonymised and aggregated transaction signals can indicate where spending is growing, adoption remains thin and formalisation may be taking root.
+
+PhonePe's PulsePro is an example of how commercial payment intelligence can support public planning. A recent MoU with MeitY will integrate its metrics into PM GatiShakti for infrastructure planning, economic analysis and urban and rural development. Payment intelligence can identify where connectivity has outpaced merchant development, digital commerce has outpaced formalisation and infrastructure has not translated into women's digital participation.
+
+This is a start, but policymakers need an ecosystem-wide view. UPI data and official statistics can provide a clearer view of local commerce, including informal activity. India built UPI by combining public infrastructure with private innovation. The same principle should guide its data: Private firms can develop services, while public institutions set standards for privacy, access and public use.
+
+Fair pricing can help sustain the network; responsible data use can improve how India understands its local economies. Written by: Abhinav Motheram Motheram is consultant, NITI Aayog. Views are personal
