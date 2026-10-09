@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Dont judge technology by its worst users
+
+Don't judge technology by its worst users
+
+India's latest move against the decentralised messaging application Bitchat is about more than one piece of software. India's latest move against the decentralised messaging application Bitchat is about more than one piece of software. It reflects a challenge that governments around the world face: how should emerging technologies be regulated when they offer legitimate benefits to consumers but can also be exploited by bad actors?
+
+The answer is not straightforward. But restricting innovation in emerging technologies solely because of what they might enable, rather than what they have demonstrably achieved, risks setting a precedent that does little to improve securit y while discouraging innovation. The government's direction to GitHub reflects concerns that decentralised messaging platforms can complicate criminal investigations by making communications harder to attribute.
+
+Those concerns deserve serious consideration. Governments have a legitimate responsibility to combat organised crime, terrorism and other threats to public safety. The challenge is that virtually every communication technology, particularly one that is encrypted and decentralised, can also be misused.
+
+The real question is how to ensure regulations tackle unlawful conduct without treating technology itself as a problem. This distinction is not unique to India. For years across Europe, messaging services such as Signal and WhatsApp have faced repeated calls to provide law enforcement with access to private communications in the name of public safety.
+
+While criminals can exploit encryption, policymakers have acknowledged that weakening encryption would undermine the privacy and cyber critical infrastructure of millions of everyday users and businesses, putting their data at risk. The same principle applies to decentralised communication tools. While applications such as Bitchat may complicate surveillance, they also have legitimate uses.
+
+During natural disasters, major network failures, decentralised communication systems can help people stay connected when conventional mobile networks are unavailable. These technologies are designed to improve resilience as much as privacy, and their value extends well beyond exceptional situations. Open source software also plays an important role in today's digital economy; it has become the backbone of modern software development.
+
+Much of the digital infrastructure that powers today's internet, from Linux servers to the Android operating system, has been built through collaborative open-source development. Platforms like Github have become an essential tool for researchers, developers, and start-ups developing the next generation of digital tools. Restricting access to source code on the grounds of potential misuse undermines innovation.
+
+This does not mean that emerging technologies should operate beyond the reach of the law. Where software is used to facilitate criminal activity, authorities should investigate and enforce existing laws accordingly. But there's an important difference between prosecuting unlawful conduct and restricting technologies based on hypothetical future misuse.
+
+Historically, democracies sought to regulate behaviour rather than prohibit innovation capable of legitimate and illicit uses. This distinction has enabled our innovation to flourish while remaining subject to the rule of law. That is also where censorship concerns begin to emerge. Restricting unlawful content or prosecuting criminal acts is fundamentally different from denying access to software or source code merely because it might be misused.
+
+Once governments begin treating technological capability as sufficient grounds for restricting access, the line between proportionate regulation and precautionary censorship becomes increasingly blurred. Such an approach can also create uncertainty for innovators, developers and entrepreneurs building legitimate technologies that may challenge existing regulatory frameworks. India has positioned itself as a major player in the global tech and innovation space, championing entrepreneurship, digital innovation and open-source development.
+
+It is imperative to preserve the momentum by adopting regulatory frameworks that promote innovation while addressing security threats through targeted, evidence-based countermeasures. Emerging technologies will continue to challenge existing laws. The true measure of growth is not expecting every innovation to be risk-free before it reaches consumers, but reforming regulations to keep pace with technology without stifling technological progress.
+
+A good policy should protect consumers in cyberspace without restricting tools that people use for legitimate purposes. The balance between tech innovation and censorship is what India should strive to achieve. The writer is Indian Policy Associate, Consumer Choice Center.
