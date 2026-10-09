@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Why AI infrastructure matters more Part One
+
+Why AI infrastructure matters more
+
+The central insight of the government's white paper, "Democratising Access to AI Infrastructure", is simple but profound: AI access is destiny. Nations that control and democratise AI infrastructure will shape innovation; those that do not will remain dependent India's artificial intelligence debate is often dominated by applications - automation, productivity tools, chatbots, and efficiency gains. But the Government of India's recent white paper, "Democratising Access to AI Infrastructure", makes a crucial intervention: the future of AI in India will not be decided by algorithms alone, but by who has access to the infrastructure that powers them.
+
+At its core, the paper argues that compute power, datasets, and AI model ecosystems are becoming foundational economic assets. In a world where AI capabilities are increasingly concentrated among a handful of global corporations, access to infrastructure determines who innovates, who governs, and who merely consumes. For India, this is not a technical issue.
+
+It is a question of competitiveness, inclusion, and sovereignty. A public good The paper makes a compelling case for treating AI infrastructure as a form of digital public utility. Just as roads enable commerce and electricity enables industry, AI infrastructure enables modern innovation, governance, and research.
+
+This infrastructure has two interlinked layers. The first is physical: data centres, GPUs, high-performance computing clusters, and energy systems. The second is digital: datasets, model repositories, governance frameworks, and access protocols. India today faces a stark imbalance. While it generates nearly 20% of global data, it hosts only around 3% of global data centre capacity.
+
+This asymmetry means Indian researchers, start-ups, and public institutions often rely on foreign compute and platforms. India's policy intent is strong. Initiatives such as the IndiaAI Mission, National Supercomputing Mission, AIRAWAT, and emerging national GPU clusters reflect a clear recognition that AI infrastructure must be strategically developed.
+
+Digital Public Infrastructure (DPI) plays a central role in this vision. Platforms such as AI Kosh, Bhashini, and TGDeX demonstrate how shared, standards-based systems can democratise access to data and models while ensuring interoperability and accountability. The risk of concentration Globally, AI infrastructure is becoming increasingly centralised.
+
+A small number of firms control advanced chips, large-scale compute, and frontier models. This concentration creates high entry barriers and amplifies market power. For India, the risk is not only economic but strategic. Dependence on external AI infrastructure can constrain domestic innovation, weaken bargaining power, and expose sensitive sectors to external vulnerabilities.
+
+The white paper's insistence on sovereign AI infrastructure does not imply isolationism. Rather, it advocates for shared access pathways that allow Indian innovators to compete globally while retaining control over critical systems. One of the paper's most important contributions is its emphasis on sustainability.
+
+As India expands AI capacity, energy efficiency and renewable integration are no longer optional  -  they are essential. Without careful planning, AI infrastructure could exacerbate environmental stress, particularly in water and power-constrained regions. The paper rightly calls for energy-efficient architectures, advanced cooling systems, and alignment with India's renewable energy goals.
+
+The scale of AI infrastructure required cannot be delivered by the State alone. The white paper highlights public-private partnerships (PPPs) as a critical lever for expanding regional data centres, GPU clouds, and sovereign AI capacity. Well-designed PPPs can combine public oversight with private efficiency  - provided governance frameworks are clear, transparent, and aligned with public interest.
