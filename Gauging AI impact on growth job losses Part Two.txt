@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Gauging AI impact on growth job losses Part Two
+
+Gauging AI impact on growth, job losses
+
+Similarly, agriculture, which supports 45% of India's workforce and generates 18% of GVA, has an immense potential for AI-led transformation in precision farming, supply chain optimisation, rural credit, and market linkages. The report acknowledges the need for reskilling but stops short of mapping the real-world implications of workforce displacement. Its assumption that jobs lost to AI will be redeployed within the same sector is a little too simplistic in the context of India's labour market.
+
+The report on job creation has similar shortcomings. By focusing only on tech and BPO, it ignores the potential impact AI may have on white-collar jobs in other sectors like retail, financial services, media, and legal. For example, the banking, financial services, and insurance sector employs 6-9 million people.
+
+The impact of AI is seen in roles such as bank tellers, loan processors, financial analysts, fraud detection, risk assessment, and insurance underwriting and claims processing. Unemployment is one of India's biggest economic and political issues. There are way more job seekers than positions, and it is near impossible to expect that jobs lost to AI will be absorbed within the same sector.
+
+The first report rightly talks about the need to retrain workforce across the four sectors, and making AI accessible for MSMEs. However, it should be done in a manner that causes minimum attrition. McKinsey's own study last year said MSMEs contribute over 60% to India's employment. More importantly, any report endorsed by the government must focus on AI use in rural areas.
+
+After all, top policymakers including Prime Minister Narendra Modi have repeatedly spoken of AI as a digital public good. The report assumes AI gains from large manufacturing and banking will somehow reach small farmers, village entrepreneurs, and rural service providers. Given the mobile penetration in villages, AI-enabled applications in agriculture, rural healthcare, education, and entrepreneurship could have transformative outcomes.
+
+Such a possibility awaits structured execution. As India prepares to host the Global AI Summit, it is worth remembering that setting the tone for the Global South requires more than projections based on select sectors. It requires demonstrating how cutting-edge technology can be harnessed for inclusive growth.
+
+The three reports are a valuable starting framework. The road ahead will be defined not by ambition alone, but clear action plans, sectoral inclusivity, and, above all, ensuring rural and underprivileged communities are not left behind. By Madan Padaki & Arup Roychoudhury. Respectively Co-founder and Policy Advisor, Global Alliance for Mass Entrepreneurship Views are personal
