@@ -1,0 +1,20 @@
+Category: Editorial
+Title: AI isnt the bubble our expectations were Part Two
+
+AI isn't the bubble, our expectations were
+
+For workplace wellbeing, AI can be a quiet partner by nudging healthier behaviours, suggesting breaks, and identifying burnout patterns long before humans admit them. Used responsibly, this is preventive care for wellbeing and not surveillance. And in community and culture, AI does not have to isolate; it can enable new forms of co-creation, collaboration, and shared narratives, provided we design it that way.
+
+The promise of AI, then, is not just higher output but richer lives: more learning, more agency, and more time for what makes life meaningful. Indeed, critics are right to flag risks. Job displacement fears are real: nearly half of employees in advanced AI-adopting firms worry about job security. Bias, inequality, and skills mismatch are legitimate concerns.
+
+But… a Danish study tracking AI adoption across thousands of workplaces found little measurable impact on wages or working hours overall. Meanwhile, Anthropic's research shows 57% of real-world AI use today is augmentation, not automation. This distinction matters. When AI complements humans, outcomes tend to be stabilising rather than destructive.
+
+Problems arise when organisations pursue substitution without redesigning work, training people, or rethinking incentives. Humans must remain in the loop, especially in moments requiring empathy, moral judgement, or contextual understanding. The future breaks when humans abdicate responsibility. Three critical choices If AI is to elevate humanity rather than hollow it out, three choices are critical: Mindset and training:AI literacy must be treated as a developmental skill, not a technical add-on.
+
+Employees need to learn how to collaborate with AI, not compete. Ethical and inclusive design:Human-centred values (fairness, transparency, solidarity) must be embedded from the start. AI should raise the floor of human potential, not widen social divides. Augmentation over substitution:AI policy must be to enhance human work and not take over that work.
+
+Avoiding the so-called "Turing Trap" - obsessing over making AI humanlike instead of human-enhancing - is key. The current backlash against AI is understandable. Expectations were inflated. Timelines were unrealistic. Enterprise deployments were clumsy. But none of this invalidates AI's deeper promise.
+
+If we shift the narrative from "AI destroys jobs" to "AI enables human flourishing," a far more credible future emerges. AI can be the mirror that reveals our blind spots, the coach that accelerates growth, the assistant that frees us for higher-order work, and the partner that strengthens human connection. The evidence already points there.
+
+The choice now is not whether AI succeeds but whether we design it to make us better humans in a better society. By M Muneer The writer is a Fortune-500 advisor, start-up investor and co-founder of the non-profit Medici Institute for Innovation.
