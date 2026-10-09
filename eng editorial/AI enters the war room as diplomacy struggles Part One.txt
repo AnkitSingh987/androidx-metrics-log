@@ -1,0 +1,18 @@
+Category: Editorial
+Title: AI enters the war room as diplomacy struggles Part One
+
+AI enters the war room as diplomacy struggles
+
+Artificial intelligence is rapidly becoming a force multiplier on the battlefield, helping militaries identify targets, guide weapons and compress decisions from minutes to seconds. But while the technology races ahead, diplomacy remains trapped in debates over human control, accountability and rules that may no longer match the realities of modern warfare Artificial intelligence has moved from the margins of defence planning to the heart of the war room, and the diplomacy meant to govern it is being left far behind. Machines now sift oceans of surveillance data and hand commanders ranked target lists in seconds.
+
+The people who set the rules are still arguing over definitions that date back to the last decade. Washington, Beijing and Moscow treat AI as a strategic asset of the same order as air power or the nuclear arsenal. President Putin said years ago that whoever leads in AI will rule the world. President Xi has called for self-reliance and mastery across every core AI technology.
+
+President Trump has committed the United States to doing whatever it takes to lead the field. Those words have turned into budgets. The US Army trains officers on the Maven Smart System, and the Pentagon has created a Defense Autonomous Warfare Group that is absorbing tens of billions of dollars. China and Russia are pouring rising sums into swarming drones and autonomous strike systems, and the two defence ministries have held talks on how AI might aid a large conventional conflict.
+
+The sharpest question is what happens when AI stops driving weapons and starts advising the humans who fire them. At a Congressional hearing this month, witnesses cautioned that an AI system can influence a human decision leading to a strike while the person retains formal responsibility for the final call, and that recommendations can arrive faster than officers can authenticate them, compressing the time to intervene. Responsibility becomes blurred.
+
+A commander who approves a target in seconds, trusting a system he cannot fully audit, is accountable in name while the real selection happened inside a model. Gaza offers the most documented example of what this looks like in practice. Israeli forces used AI systems called Lavender and the Gospel to generate targets at speed, with Lavender marking around 37,000 people as suspected militants and Gospel flagging buildings and infrastructure.
+
+A separate tracking tool named "Where's Daddy?" signalled when a target entered his home, and in some cases the house was marked for bombing while the family was present. Intelligence officers described treating the machine's output as though it were a human decision, and reported that the army accepted the deaths of 15 to 20 civilians for a junior operative and more than 100 for a senior commander. Legal scholars have identified these practices as potentially violating the principles of distinction, proportionality and precaution.
+
+Ukraine has become the world's largest live proving ground for the same technology. AI-enabled combat systems there are being tested at a scale seen nowhere else, and Russia has fielded AI-powered strike drones that can evade air defences, identify targets and operate offline. What one war validates spreads quickly to every arsenal watching.
