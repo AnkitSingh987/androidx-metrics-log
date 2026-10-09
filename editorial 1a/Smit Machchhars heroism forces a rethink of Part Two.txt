@@ -1,0 +1,12 @@
+Category: Editorial
+Title: Smit Machchhars heroism forces a rethink of Part Two
+
+Smit Machchhar's heroism forces a rethink of cockpit safety
+
+And autonomous drones are ubiquitous. Autonomous aircraft are the next step in this evolution, and the stepping stone is likely the ground-initiated override. But automation cannot remove the error of human misjudgment. More importantly, it cannot assume responsibility. And accountability is not a capability that can be specified, procured or certified.
+
+A link that can take an aircraft from a hostile pilot is also a link that can take an aircraft from a competent one. Centralising control substitutes a human-trust problem with another human-trust problem. Ironically, while creating a safety net, it paradoxically also creates a new way to attack an aircraft.
+
+The choice, as such, is binary, and that is the complication. Either the aircraft becomes genuinely autonomous with no pilot, no override, nobody on board or on the ground with the capability to use it as a missile. Or it keeps a human at the controls, in which case it must keep a second human for checks and balances.
+
+Every architecture in between concentrates authority in one pair of hands. Until there are no pilots in cockpits, there will have to be two in them. Captain Smit Machchhar has strengthened this for several years to come. He should not have had to. By Satyendra Pandey Satyendra Pandey is the Managing Partner at aviation advisory firm AT-TV
