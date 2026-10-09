@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Computing core CPI inflation a challenge Part Two
+
+Computing core CPI inflation, a challenge
+
+Note that the RBI in its monthly bulletin from April has been publishing the core inflation index but the underlying has not been specified. In view of this, there is the need for a user-friendly compilation of fuel inflation component weights drawn from the Expert Group Report on Comprehensive Updation of CPI (MoSPI). The all-India combined weight for 'Electricity, Gas and Other Fuels' is available under the division 'Housing, water, electricity, gas and other fuels'.
+
+Further, 'Fuels and Lubricants for Personal Transport Equipment' which comprises diesel, petrol, and natural gas (CNG), is available only in a State-specific format under the "Transport" division. Summed across the States, it yields an all-India weight of 4.85, which with 5.36 for electricity and gas gives a total fuel weight of 10.21  -  and, with food removed, a core weight of 53.04. e-Sankhyiki portal Further, the step-by-step process flow for indices data must be a collation from MoSPI's e-Sankhyiki portal for the users of inflation data.
+
+'Fuels and Lubricants for Personal Transport Equipment' is obtained under the Division 'Transportation', Group 'Operation for Personal Transport Equipment' from the Class 'Fuel and Lubricant for Personal Transport Equipment', and Subclass 'Diesel (ND), Petrol (ND), Other fuels for personal transport equipment (ND)' - from the e-Sankhyiki portal. Done that way, the numbers come out as shown in the Table: core inflation of 3.85 per cent in July and 3.90 per cent in June. That is, give or take a rounding, exactly what the RBI itself cites.
+
+The difficulty is not that core inflation cannot be computed from the new series. It is that computing the one number monetary policy visibly turns on now requires an Expert Group annexure, a State-by-State netting exercise and a set of weights that neither MoSPI nor the RBI has confirmed. The remedy is not complicated.
+
+MoSPI should publish class and sub-class weights with each monthly release, rather than leaving them in the annexures of a one-off Expert Group report, and should put out a documented all-India core index alongside the headline. The RBI, for its part, should document what it already publishes: if the diffusion index is good enough to justify a rate decision, its construction is good enough to describe; if core excluding precious metals is critical, the exclusion should be specified and the series released. By RK Pattnaik The writer is a former central banker and a Professor at the Gokhale Institute of Politics and Economics, Pune.
+
+Views are personal. (Through The Billion Press)
