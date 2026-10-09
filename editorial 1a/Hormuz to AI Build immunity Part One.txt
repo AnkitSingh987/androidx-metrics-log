@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Hormuz to AI Build immunity Part One
+
+Hormuz to AI: Build immunity
+
+In a fragmented world, resilience must become the organising principle of economic policy. The apparent easing of tensions around the Strait of Hormuz following the diplomatic understanding between the US and Iran was short-lived. Yet many would have mistaken this for the end of a crisis. Instead, it should have been treated as a warning.
+
+The world has once again been reminded that we must stop merely reacting to crises and start building immunity against them. India is no exception. The Hormuz episode has exposed the persistent fragility of India's energy security architecture. More than 40% of India's crude oil imports pass through this strategic waterway.
+
+Any disruption immediately translates into higher oil prices, rising shipping costs, elevated insurance premiums, and supply constraints for critical industrial inputs. The result is significant macroeconomic stress that manifests in imported inflation, a widening current account deficit, pressure on the rupee, and fiscal trade-offs. This vulnerability is particularly concerning for a fast-growing economy aspiring to become a developed nation by 2047.
+
+An economy of India's scale cannot afford to remain hostage to any geopolitical disruption. AI and chips emerge as new strategic vulnerabilities However, the broader lesson from Hormuz is that the next global chokehold may not originate in the same place. Future vulnerabilities are likely to be technological rather than geographical.
+
+For decades, energy dependence was viewed as India's principal strategic risk. In the coming decades, dependence on AI, semiconductor infrastructure, and critical minerals may prove equally consequential. In fact, recent developments suggest that this transition has already begun. The US's export restrictions on Anthropic's advanced AI models, Mythos and Fable, demonstrate a profound shift in global power dynamics.
+
+The episode revealed a new reality  -  that access to cutting-edge AI can be achieved overnight through geopolitical decisions. However, these emerging risks are not identical, and each requires a distinct policy response. Energy security is perhaps the most familiar challenge, and mitigation strategies are already underway.
+
+India must accelerate the diversification of its energy mix and reduce its dependence on imported fossil fuels. Solar, wind, nuclear energy, green hydrogen, and biofuels should no longer be viewed merely as climate initiatives; they must be regarded as instruments of national security. This logic applies to other critical inputs.
+
+India should expand its strategic reserves beyond crude oil to include liquefied natural gas, fertilisers, critical minerals, and essential agricultural inputs. Strategic reserves should evolve from emergency stockpiles into permanent insurance mechanisms against global supply shocks. India's preparedness for AI-related vulnerabilities remains considerably weaker.
+
+As global AI becomes increasingly shaped by geopolitics, regulation, and technological competition, India's dependence on foreign digital infrastructure is emerging as a major strategic concern. It has made limited progress in developing home-grown foundational AI models, despite being one of the world's largest AI users. This fundamentally alters the meaning of economic security.
+
+Today, access to the most advanced AI capabilities is largely mediated through application programming interfaces, which, in normal circumstances, appear efficient and cost-effective. But in an era of geopolitical fragmentation, such dependence also creates a significant strategic vulnerability. Thus, any country whose AI future depends exclusively on models controlled by a handful of foreign firms risks losing access to a critical layer of its digital infrastructure if geopolitical priorities suddenly change.
+
+The implications for India are substantial. Imagine a future in which India's financial institutions, pharma and manufacturing firms, and defence establishments become deeply integrated with a small number of foreign AI systems. If access to such systems is restricted or withdrawn, entire sectors could face severe disruption.
