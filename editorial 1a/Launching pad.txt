@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Launching pad
+
+Launching pad
+
+Vikram-1 can be turned into a commercial success Skyroot Aerospace's successful launch of Vikram-1 is a moment of pride for India. For the first time, an Indian private company has demonstrated that it can build and fly an orbital-class launch vehicle. The mission has done more than place a payload in space; it has drawn global attention to India's emerging private space capabilities.
+
+Space is not merely about satellites and rockets; it is also about prestige, strategic capability and the confidence that a nation can compete in one of the most demanding technology sectors. But building a rocket is not the same as building a rocket business. Space history is full of companies that demonstrated technological capability but struggled to create sustainable commercial enterprises.
+
+The reasons are familiar: high development costs, limited launch windows, intense competition and the unforgiving economics of reliability. A rocket company must launch repeatedly, on schedule and at a cost customers are willing to pay. The opportunity is certainly large. The demand for satellite launches is expected to grow rapidly, driven by communications, Earth observation, defence and scientific missions.
+
+But the market is also becoming increasingly crowded. New entrants are entering a sector whose economics have already been transformed by companies such as SpaceX. SpaceX's advantage comes not merely from building rockets, but from changing the cost structure of launch. Recovering and reusing the first stage has dramatically improved economics, while rideshare missions allow multiple customers to share launch costs.
+
+Any new launch provider must therefore compete not only on technology but also on price and flexibility. Vikram-1 relies on proven solid-fuel propulsion, a technology valued for its simplicity, reliability and long shelf life. But solid rocket stages are not designed for recovery and reuse. Globally, the small payload launch industry is moving towards a model where the first stage is recovered and reused, while the upper stage performs the final orbital injection.
+
+Whether and how Skyroot adapts to this emerging paradigm will influence its long-term competitiveness. There are commercial constraints. Vikram-1 is a large, four-stage solid-fuel rocket. While this brings advantages, it may limit some overseas opportunities because such systems can face restrictions on international movement and exports.
+
+The addressable market may therefore be smaller than the headline global satellite numbers suggest. One opportunity Skyroot should actively pursue is defence. A capable launch vehicle has clear strategic value, and a rocket platform can potentially serve dual purposes  -  with suitable modifications, carrying defence payloads instead of commercial satellites.
+
+None of these concerns diminishes Skyroot's achievement. The company has crossed a barrier few private firms worldwide have managed to overcome. The message after Vikram-1, however, should be clear: the rocket has been built. Now comes the harder mission  -  building a business.
