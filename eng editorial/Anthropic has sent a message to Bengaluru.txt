@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Anthropic has sent a message to Bengaluru
+
+Anthropic has sent a message to Bengaluru
+
+Last week's release of 11 plugins to the company's chatbot Claude - a suite of workplace automation tools -- that can perform tasks handled by traditional software platforms or workers has rattled IT, data analytics and even legal services sectors For long, it was believed that AI would be a handmaiden for the software industry - an assistant to automate repetitive tasks and improve efficiency. AI could offer suggestions, but the software remained the core decision-maker, with the levers of control in the hands of a human operator. In recent years, AI's role has expanded from serving as a conversational interface to becoming a more active and productive agent.
+
+Now, an innovation by an American start-up, Anthropic, could render the software-centred approach obsolete. Last week's release of 11 plugins to the company's chatbot Claude that can perform tasks handled by traditional software platforms has rattled IT, data analytics and legal services sectors. For Indian firms, which have traditionally relied on large teams of analysts and developers to customise software solutions according to clients' requirements, Claude is a particularly serious challenge.
+
+On Tuesday, the Nifty IT index registered its biggest fall since the early days of Covid. Skilled human capital and cost efficiency have historically been the calling cards of the Indian software industry. But now, tasks that once required teams of engineers can potentially be performed by an AI agent.
+
+It could affect the prospects of entry-level technicians who handle routine coding and maintenance work. The ability of the plugins to learn domain knowledge, interpret regulations and generate business logic can upend the models of the consultancy sector. The AI's legal plugin, for instance, is being described as being capable of reviewing documents, flagging risks, and tracking compliance.
+
+Claude's other assistants are equipped to plan workflows, analyse datasets, streamline processes and create content. Indian IT firms have spent heavily on equipping their workforce in AI's traditional capabilities. The jury is still out on the extent to which the new development will undermine their investment.
+
+It is, however, clear that the conversation around AI has fundamentally changed. The Economic Survey recognised this paradigm shift. Equipping all segments of the value chain with new technology while ensuring that jobs are not lost will be a major skilling challenge. The ball is now in the court of the country's policymakers, universities and industry leaders.
