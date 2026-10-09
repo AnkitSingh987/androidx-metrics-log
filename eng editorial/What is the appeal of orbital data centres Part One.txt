@@ -1,0 +1,24 @@
+Category: Editorial
+Title: What is the appeal of orbital data centres Part One
+
+What is the appeal of orbital data centres?
+
+In today's Finshots, we argue whether putting data centres into space makes sense economically. The Story On May 3, 2026, Bengaluru-based space-tech startup GalaxEye launched Mission Drishti. Now, this may sound like just another satellite launch. But the underlying technology is actually quite interesting.
+
+Traditionally, satellites have relied on either optical sensors or Synthetic Aperture Radar (SAR) sensors. Optical sensors work much like a regular camera, capturing visual imagery, while SAR uses radar waves to see through clouds, darkness, and poor weather conditions. Both are useful individually. But combining the two creates a much richer picture of Earth.
+
+The problem though, is that the data usually comes from different satellites, captured at different times and angles, creating inconsistencies. And that's what Mission Drishti attempts to solve. Instead of merging data later, GalaxEye built both sensors into a single satellite so they can observe the same target simultaneously.
+
+The real magic, however, happens in the software layer. AI models fuse the data from both sensors into a single, unified image with far higher accuracy than conventional approaches. Even after all this, there is still one bottleneck. Most of the heavy computation still happens on Earth, where GPUs process the raw satellite data after it is transmitted back from orbit to terrestrial data centres.
+
+But imagine, what if satellites themselves could run datacentre-grade AI models directly in space? That is exactly what companies are now chasing. And it is where the idea of orbital data centres starts becoming far more than science fiction. Earlier this week, Bengaluru-based space startup Pixxel announced plans to launch India's first orbital data centre satellite.
+
+The satellite, called Pathfinder, is expected to go into orbit as early as next year and will host datacentre-grade GPUs directly in space. Its first major workload is expected to involve Sarvam's AI models, which would analyse crops, infrastructure, and weather patterns directly in orbit. That last part is what we're going to focus on for now.
+
+Because Pathfinder wants to eliminate that entire loop of satellites capturing raw imagery and beaming it back to Earth, where data centres process the information. The idea is to do this processing in orbit itself using AI and transmit only the insights. In theory, that could improve efficiency for applications like defence, weather forecasting, precision agriculture, and disaster monitoring.
+
+But once you move past the novelty factor, a much larger question emerges. Why would anyone want a data centre floating in space in the first place? Well, the answer begins with three problems the technology industry is slowly running into on Earth. You see, AI infrastructure is becoming extraordinarily resource-intensive.
+
+Training and running large AI models now requires vast amounts of electricity, cooling infrastructure, land, and water. For context, a single hyperscale AI data centre can consume as much electricity as a small city. And as AI adoption accelerates, governments and companies are beginning to realise that raw computing power itself is becoming a strategic edge.
+
+This is where orbital computing starts to sound like an attempt to solve a very real bottleneck. The first advantage is power. Unlike terrestrial solar farms, satellites in orbit can theoretically access near-continuous solar energy without interruptions from weather or night cycles. That makes the long-term economics of power-intensive computing potentially attractive, especially if launch costs continue to fall.
