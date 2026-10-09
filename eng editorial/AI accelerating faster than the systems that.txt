@@ -1,0 +1,30 @@
+Category: Editorial
+Title: AI accelerating faster than the systems that
+
+AI accelerating faster than the systems that support it
+
+AI accelerating faster than the systems that support it Before we celebrate artificial intelligence, pause for a simpler question: Can we breathe? According to the World Health Organization, 99 per cent of humanity inhales air that exceeds recommended health limits. Air pollution is linked to about 6.7 million premature deaths every year.
+
+That puts it in the same league as tobacco. There is one crucial difference, though. Smoking is a choice. Breathing is not. If cigarettes were unavoidable, invisible, and imposed on everyone from birth, we would call it a civilisational emergency. That is exactly what air pollution is. This is not rhetoric.
+
+It is not a metaphor. It is the quiet failure of the most basic infrastructure any society depends on. Only after sitting with that reality should we talk about intelligence. We are living through an extraordinary surge of investment in artificial intelligence (AI). Hundreds of billions of dollars are flowing into computer models, and data centres.
+
+Bigger models. Faster inference. Cheaper compute. Smarter agents. Much of this is genuinely impressive. I am not against AI. I am against the belief that intelligence can be built independently of the systems that keep us alive. Every AI system depends on three things that do not come from the cloud: energy, water, and land.
+
+The International Energy Agency estimates that data centres already consume around 1.5 per cent of global electricity and are on track to approach 3 per cent by 2030. Large data centres can consume millions of gallons of water per day, comparable to the daily needs of a small city, often in regions already under water stress. AI is not weightless.
+
+It sits on land. It drinks water. It reshapes power grids. It runs entirely on nature's balance sheet. Here is the deeper problem. AI is accelerating faster than the systems that support it. That is not progress. That is evolutionary debt. There is a reason this pattern keeps repeating. Human intelligence evolved to optimise for short-term survival.
+
+We notice loud threats and visible gains. We respond to what is immediate, measurable, and urgent. We ignore slow, silent breakdowns until they turn into crises. AI feels like progress because it is visible and countable. Benchmarks improve. Costs fall. Capabilities scale. Air works best when nothing happens.
+
+When lungs function. When crops grow. When weather patterns stay within familiar bounds. Evolution did not train us to respect systems that succeed quietly. So we neglect them. This is why language matters. Air is not "the environment." It is infrastructure. We do not ask whether roads deserve protection.
+
+We do not debate whether electricity should be optional. We do not optimise bridges for quarterly returns. We build them to hold. Nature performs the same function at planetary scale. Forests regulate air and rainfall. Oceans buffer temperature. Soil stores carbon and water. Biodiversity creates redundancy and resilience.
+
+This is not ideology. It is engineering. Nature is the operating system. AI is the application layer. No operating system. No apps. Yet we increasingly talk as if technology can replace physics. It cannot. No amount of compute can photosynthesise. No algorithm can pollinate crops. No model can cool oceans or stabilise monsoons.
+
+At best, AI can help us understand these systems more clearly. At worst, it convinces us that intelligence alone is enough. History is unforgiving to civilisations that confuse cleverness with wisdom. The real question of this decade is not how fast AI can scale. It is whether we will redesign our economies to treat air, ecosystems, and living systems as long-term infrastructure rather than free inputs.
+
+That requires a different kind of capital. Patient. Governed. Verifiable. Designed to endure. Nature does not need virality. It needs durability. I work with technology. I believe in its potential. But the more I look at the future, the clearer this becomes. A hyper-intelligent species that cannot breathe is still extinct.
+
+The next decade will not be decided by how smart our machines become. It will be decided by whether our intelligence finally learns to value what keeps us alive. Maybe the real upgrade humanity needs is not artificial intelligence. It is attention to air. By Sathya Raghu V Mokkapati The writer is Co-founder and CEO, Soul Forest
