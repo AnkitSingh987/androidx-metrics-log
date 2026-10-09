@@ -1,0 +1,18 @@
+Category: Editorial
+Title: An AI layer supervising another Part Two
+
+An AI layer supervising another
+
+Qodo has also publicly highlighted multi-agent or agentic workflows, meaning the work is decomposed into narrower review roles rather than handled by one giant model prompt. One agent may check tests, another documentation, another security or standards compliance. That decomposition mirrors good engineering practice.
+
+A senior reviewer does not ask one vague question  -  "is this code good?"  -  but several concrete ones. Axiom takes the most radical path. Its premise is that the long-term answer to unreliable AI code is not just better prompts or broader code search, but formal verification. Axiom's platform, AXLE, is tied to proof verification and proof transformation, reflecting a formal-methods approach that asks whether code-related claims can be machine-checked rather than merely judged plausible.
+
+The philosophical leap is enormous. Instead of asking whether code looks right, formal methods ask whether a machine-checkable proof can establish that it is right. That is a very different standard from conventional code generation. Large language models work by statistical likelihood. Formal verification works by logical necessity.
+
+If a proof fails to verify, the system has not merely become uncertain; it has been shown to be wrong. That makes Axiom especially relevant in domains where "probably correct" is not good enough: cryptography, infrastructure, aerospace, medicine, or financial systems with strict correctness and determinism requirements. None of this means the code-fixing companies have solved software reliability.
+
+Public descriptions from these firms are still, understandably, marketing descriptions, and many internal details remain proprietary. It would be too strong to claim, for example, that every company here uses symbolic execution, satisfiability solvers, or reinforcement learning in the precise ways researchers describe those methods. In several cases, the public record supports broader claims  -  semantic indexing, context-aware review, test generation, multi-step workflows, formal proof checking  -  more clearly than it supports specific implementation details.
+
+Even so, the pattern is clear. Code generation is becoming abundant; assurance is scarcer and therefore more valuable. The first wave taught machines to imitate programmers. This new wave is teaching machines to imitate reviewers, testers, and, occasionally, theorem provers. In software, glamour may launch a market.
+
+Reliability is what usually turns it into an enduring industry in the end. By SIDDHARTH PAI Technology consultant and venture capitalist
