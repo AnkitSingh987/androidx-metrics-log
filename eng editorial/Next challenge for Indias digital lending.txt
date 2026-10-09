@@ -1,0 +1,30 @@
+Category: Editorial
+Title: Next challenge for Indias digital lending
+
+Next challenge for India's digital lending revolution
+
+Excessive unsecured credit and at high borrowing costs call for regulatory attention India's digital lending revolution has transformed access to credit. Loans that once required lengthy paperwork and multiple visits to a bank branch can now be sanctioned within minutes through a smartphone. Millions of first-time borrowers have entered the formal financial system because of this innovation.
+
+Yet this success has exposed an important regulatory gap. India has developed a comprehensive framework governing digital lending  -  covering disclosure, loan disbursal, data privacy, recovery practices and grievance redressal. However, two critical questions remain largely unanswered: how much a borrower ultimately pays for credit and how many simultaneous unsecured loans a borrower can accumulate.
+
+These have become the missing pillars of India's digital credit architecture. According to the Reserve Bank of India, personal loans account for 30.7 per cent of total bank credit, reflecting the rapid expansion of retail lending. Within this broader market, digital NBFCs account for 77 per cent of all personal loans sanctioned by volume, serving primarily young, first-time and thin-file borrowers through small-ticket loans.
+
+Digital credit is therefore no longer a niche product; it has become the principal gateway through which millions of Indians access formal finance. Financial inclusion, however, should not come at the expense of financial protection. Many digital loans carry short repayment tenures and mandatory upfront charges.
+
+Although lenders disclose borrowing costs as required under RBI regulations, the effective cost of credit can differ materially once fees and loan structure are considered. Consequently, borrowers may not always appreciate the true economic cost of borrowing when making financial decisions. Borrowing decisions The RBI's regulatory framework rightly places considerable emphasis on transparency through disclosure.
+
+Yet disclosure assumes borrowers make informed and rational financial decisions after comparing loan costs. Behavioural economics suggests otherwise. Individuals seeking credit to meet medical emergencies, household expenses or temporary cash-flow shortages rarely optimise borrowing costs. Immediate liquidity needs, financial stress and present bias often dominate decision-making, reducing disclosure to a necessary, but not sufficient, consumer protection mechanism.
+
+Pricing, however, is only part of the challenge. The current framework imposes virtually no restriction on the number of concurrent unsecured digital loans a borrower may obtain. Once one lender reaches its internal exposure limit, another lender may extend fresh credit. Credit bureau enquiries themselves can become signals for competing lenders to market additional loans.
+
+While every lender evaluates affordability independently, none necessarily assesses a borrower's aggregate indebtedness across multiple lending platforms. Borrower case studies demonstrate the consequences. Several households were servicing monthly instalments that exceeded their monthly incomes, forcing many to rely on fresh borrowing simply to repay existing loans.
+
+Although app-based loans often represented only a small share of total outstanding debt, they accounted for a disproportionately large share of monthly repayments because of their pricing and short repayment periods. This creates a cycle of repeated borrowing that can quickly become financially unsustainable. The RBI has already acknowledged that excessive pricing warrants supervisory attention.
+
+In 2024, it prohibited four NBFCs from sanctioning fresh loans after finding their lending rates and spreads excessive. These actions demonstrate that consumer protection concerns already form part of regulatory supervision. The next logical step is to complement supervisory interventions with clearer and more transparent market-wide standards.
+
+This is entirely consistent with the RBI's dual mandate. As the guardian of financial stability, it has moderated the growth of unsecured credit through macro-prudential measures. As India's consumer protection regulator, however, it must also ensure that expanding access to credit does not expose vulnerable households to unsustainable debt.
+
+The RBI already possesses broad statutory powers to regulate NBFCs, and the Supreme Court has reaffirmed that lending-rate regulation falls within its jurisdiction. The central bank has previously regulated lending rates in specific segments, demonstrating that intervention to address market failures is well within its policy mandate. The next phase of digital lending regulation should therefore focus on two reforms.
+
+First, the RBI should establish prudential limits on the number of concurrent unsecured digital loans that a borrower may hold by leveraging the existing credit bureau infrastructure. Second, it should provide greater regulatory clarity on what constitutes an excessive effective borrowing cost, considering all mandatory charges rather than relying solely on the stated interest rate. By Harsimran Sandhu The writer is Professor of finance, IMT Ghaziabad
