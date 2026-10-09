@@ -1,0 +1,16 @@
+Category: Editorial
+Title: How AI is redrawing the IT services map Part Two
+
+How AI is redrawing the IT services map
+
+The five largest Indian IT firms added a net 12,718 employees in FY25; in FY26 they shed 6,981. AI is driving that reversal by attacking routine work at the base, while an outcome-oriented organisation needs a smaller, senior-heavy, domain-aware shape that takes years to build. The people inside that flattening pyramid hear a reassuring half truth: AI won't replace you if you learn to use it.
+
+Clients that once bought hours from Indian vendors are increasingly building their own Global Capability Centres and hiring talent directly since AI lets smaller teams deliver more. "Jobs are just moving up the value chain" is inadequate: AI fluency protects the skill, not the job, when the business model itself is losing relevance. Much of this stays underexamined because almost nobody is incentivised to say it plainly.
+
+A CEO has little reason to tell an earnings call that the core business is shrinking; analysts and consultants have reason to keep the story optimistic. That may explain the appeal of the 20 to 25 per cent estimate, too: it gives a complex transition a reassuring boundary. The more useful question isn't what percentage fails, but how much value disappears before replacement value emerges, and who captures it.
+
+dislocation risk The real risk is dislocation: can the economy absorb displaced labour and capital as quickly as the old model releases them? A demand recovery won't restore the old headcount-to-revenue link, and a client with its own GCC has little reason to rebuild it. The long-term outcome may be positive.
+
+The transition can still be brutal. The harder questions are economic: how much revenue exists only because human effort is sold by the hour, what happens as clients insource that effort and whether replacement revenue can scale fast enough to matter. Indian IT can transform, and some firms will build businesses more valuable than what came before.
+
+But that doesn't mean the industry will cross the bridge intact. The real question is how much of it survives long enough to make the transition. AI may redraw India's IT services map. The damage will not be evenly shared. By Prateek Mital The writer is GM and Head AI Lab  -  Hitachi India. Views are personal
