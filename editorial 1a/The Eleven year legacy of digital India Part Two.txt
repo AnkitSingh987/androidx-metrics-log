@@ -1,0 +1,18 @@
+Category: Editorial
+Title: The Eleven year legacy of digital India Part Two
+
+The 11 year legacy of digital India
+
+Today, India accounts for nearly half of all real-time digital payments on the planet, with the IMF recognising UPI as the world's largest real-time payment system. It has become an anchor of indispensability for the 24 Nations with which India has formally signed Memorandums of Understanding (MoUs) for the replication and adoption of its digital governance platforms. Furthermore, UPI is now LIVE in 9 Countries, including the UAE, Singapore, and France.
+
+This philosophy of treating technology as a public good extends directly to health equity, facilitating ease of living. Through the eSanjeevani platform, India has delivered over 48+ Crore free tele-consultations, allowing patients in remote, underserved areas to consult specialists. Similarly, the world's largest vaccination drive was powered by an indigenous platform.
+
+Over 220 crore COVID-19 vaccine doses were administered and tracked transparently through CoWIN, establishing a robust digital backbone that healthcare systems across the globe studied. Looking at the Horizon As Digital India completes its 11th year, the mission is firmly pivoting toward frontier technologies, ensuring they are harnessed as public goods to solve challenges for India and the Global South. For years, the massive cost of computing power kept brilliant young innovators in smaller towns away from advanced technology.
+
+Under the IndiaAI Mission, India is systematically dismantling this barrier to boost the ease of doing business for startups. The government has established a massive, shared compute facility to democratize access. By offering world-class computing capacity to homegrown startups and students at just Rs 65 per hour, the aim is to spark grassroots innovation.
+
+The goal is to make India the AI Applications capital of the world with our talented workforce transforming service delivery and boosting productivity in enterprises in all sectors at home and abroad. Simultaneously, India is securing its hardware future. Under the Semicon India Programme, 12 Semiconductor manufacturing and packaging projects with an investment of Rs 1.65 Lakh Crore have now been approved across the country.
+
+Building on this momentum, the Union Budget 2026-27 announced the India Semiconductor Mission (ISM) 2.0. This new phase goes beyond manufacturing by focusing on semiconductor equipment and materials, designing full-stack Indian Intellectual Property (IP), and fortifying global supply chains. With 24 semiconductor design startups approved under the scheme, India is rapidly translating its capacity creation into deep technological depth, nurturing a vibrant domestic fabless ecosystem that designs the very chips powering the modern world.
+
+The true legacy of this initiative is in the mindset of a nation that now expects innovation, seamless business operations, and governance to be at its fingertips. By ensuring that technology acts as a tool for inclusion, accessibility, and sovereign strength, Digital India is quietly architecting the Viksit Bharat we envision for 2047. Today, India accounts for nearly half of all real-time digital payments on the planet, with the IMF recognising UPI as the world's largest real-time payment system By S Krishnan The writer is Secretary of the Ministry of Electronics and Information Technology (MeitY); Views presented are personal.
