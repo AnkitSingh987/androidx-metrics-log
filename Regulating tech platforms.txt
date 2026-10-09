@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Regulating tech platforms
+
+Regulating tech platforms
+
+RBI might be changing its perspective on the issue One of the most consequential developments in Indian finance today is Reserve Bank of India's growing examination of whether large digital platforms, e- commerce ecosystems, and embedded payment intermediaries should come under more direct financial regulation. The RBI appears increasingly focused not simply on who owns a banking licence, but on who controls financial behaviour at scale. That is an important distinction.
+
+India's digital economy has evolved far beyond the early phase of standalone fintech applications. A growing share of financial activity no longer originates within a bank branch or even within a traditional banking interface. Instead, it originates inside platforms that consumers use daily for shopping, communication, transportation, subscriptions, and business operations.
+
+Economic power The regulated financial institution often remains in the background. The platform owns the customer relationship. This evolution has altered the distribution of economic power within the financial system. Historically, banks controlled deposits, underwriting, and transaction infrastructure.
+
+Today, platforms increasingly control user engagement, transaction flow, merchant access, behavioural data, and financial discovery. In many cases, the platform, not the bank, determines which payment methods consumers see, which financial products merchants access, and how economic interactions are orchestrated digitally. That level of influence inevitably attracts regulatory attention.
+
+The RBI's emerging posture mirrors a broader global trend. Regulators in the US and Europe have begun reassessing whether large technology ecosystems should remain outside prudential-style oversight simply because they are not banks in the traditional legal sense. Apple Pay, Google Pay, super-app ecosystems, and large embedded finance platforms are no longer viewed merely as software interfaces.
+
+Increasingly, they are seen as strategically important financial infrastructure. The underlying concern is straightforward: systemic importance in the digital economy may arise from ecosystem control rather than balance-sheet size alone. This represents a major evolution in financial regulation. In the industrial banking era, systemic risk came primarily from leverage, liquidity mismatches, and interconnected balance sheets.
+
+In the platform economy, risk can emerge through concentration of data, transaction dependency, operational centralisation, and ecosystem influence. A major outage, governance failure, cyber incident, or disruption at a dominant platform can affect millions of consumers and merchants simultaneously  - even if the platform itself is not technically a bank. That changes the logic of supervision.
+
+Ironically, this environment may strengthen traditional banks. For much of the past decade, incumbent financial institutions feared becoming commoditised infrastructure providers serving platform ecosystems that controlled customer engagement. But tighter oversight of platforms could rebalance that equation.
+
+The RBI's evolving posture is likely to shape the next phase of global finance: the future regulatory perimeter will increasingly be defined by systemic influence rather than institutional labels. That transition carries profound implications. The most powerful companies in the digital economy are increasingly shaping economic behaviour itself.
+
+They influence how consumers transact, how merchants operate, how credit is distributed, how financial products are discovered, and how commercial ecosystems function digitally. In many respects, platforms have become the new financial gateways. India now appears to be confronting this transition earlier than many expected.
+
+By Puneet Gupta & Siddharth Shekhar Singh Gupta is Professor, GIFT International FinTech Institute, and Singh is Professor of Marketing, Indian School of Business. Views are personal
