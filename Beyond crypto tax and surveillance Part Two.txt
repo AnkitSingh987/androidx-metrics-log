@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Beyond crypto tax and surveillance Part Two
+
+Beyond crypto tax and surveillance
+
+Globally, crypto policy has shifted decisively towards regulation and institutional integration rather than prohibitions. The Basel Committee on Banking Supervision's decision to expedite its review of prudential standards for banks' crypto-asset exposures reflects this trend. Stablecoins, owing to their relative price stability and currency backing, continue to dominate the global policy agenda, with several jurisdictions advancing regulatory frameworks such as the US's GENIUS Act and the European Union's Markets in Crypto-Assets (MiCA) Regulation.
+
+The path ahead for India's crypto regulation remains a work in progress. While the government has so far refrained from introducing a comprehensive, standalone crypto law, recent reports indicate that the ministry of finance is engaging with Sebi and the RBI to establish a more structured regulatory framework for cryptocurrencies. Under this framework, Sebi may emerge as the primary regulator for crypto exchanges, while matters pertaining to cross-border transactions, capital flows, and investment could fall within the RBI's remit.
+
+Such a multi-stakeholder approach - leveraging institutional expertise and regulatory capacity - could provide much-needed clarity on the permissibility and supervision of various VDA services, while creating a more predictable environment for innovation and investment. The effectiveness of India's crypto framework will ultimately depend on its ability to combine regulatory clarity with proportionate, risk-based oversight. By Smita Jha & Ananya Giri Upadhya, Respectively Partner and Associate at Khaitan & Co
