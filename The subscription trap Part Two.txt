@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The subscription trap Part Two
+
+The subscription trap
+
+In the US, the Federal Trade Commission has spent years pursuing companies that use confusing subscription practices. Several firms have paid millions in settlements after making cancellation difficult or auto-renewal disclosures unclear. The FTC's proposed "Click-to-Cancel" rule rests on a revolutionary concept that sounds almost embarrassingly obvious: cancelling should be as easy as subscribing.
+
+Imagine the radicalism. If one click gets you in, one click should get you out. Not 12. Not a chatbot conversation. Not a customer retention interrogation. In India, despite the RBI regulations many companies are still getting away with it. There is a need for explicit customer consent, advance notifications before recurring charges, and additional authentication beyond certain thresholds.
+
+Customers should know what they are signing up for and should remain in control of recurring debits. Byju's scammed many. Sometimes the merchant blames the bank. Sometimes the bank points to the merchant. What makes this fascinating is that the entire system exploits a well-documented psychological bias known as status quo bias.
+
+Humans prefer leaving things unchanged. We postpone unpleasant administrative tasks, delay paperwork, avoid bureaucratic friction. Subscription businesses have industrialised this tendency. Ethical questions come up here. Good business creates value customers willingly pay for. Questionable business creates friction customers reluctantly endure.
+
+The distinction matters. Trust, once lost, is expensive to recover. Consumers generally forgive mistakes. They rarely forgive feeling manipulated. Ironically, many companies spend fortunes on customer acquisition while undermining customer loyalty through cancellation experiences that resemble escape rooms.
+
+Someone who enjoys your service might return later. Someone who feels trapped becomes a critic for life. The broader lesson extends far beyond streaming platforms. As digital commerce grows, so does the temptation to use what designers call "dark patterns"  -  interfaces engineered to nudge users towards decisions they might not otherwise make.
+
+Pre-ticked boxes. Hidden disclosures. Confusing cancellation paths. Subscription defaults. All are designed by people who understand human psychology exceptionally well. The World Cup customer only wanted to watch football. Instead, he received an advanced lesson in behavioural economics, digital design, recurring mandates, and the enduring creativity of new revenue models.
+
+Which raises another question for businesses everywhere. If a customer genuinely wants your service, why make it difficult for them to leave? And if they don't want it anymore, why continue pretending they do? The most valuable subscription any company possesses is not a recurring payment. It is trust.
+
+Written by M Muneer By Rita McGrath & M Muneer, Respectively professor, Columbia Business School, and founder, Valize; and Fortune-500 advisor, startup investor, and co-founder, Medici Institute for Innovation
