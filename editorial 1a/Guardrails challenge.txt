@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Guardrails challenge
+
+Guardrails challenge
+
+Self-regulation not enough for AI. Govts must step in The AI safety pact unveiled by US President Donald Trump and leading technology companies is a step towards putting guardrails around increasingly powerful artificial intelligence systems. The framework is significant because it goes beyond a general promise to develop AI responsibly and proposes four layers of controls within companies.
+
+The first layer requires companies to put in place internal controls to monitor AI capabilities and alignment, particularly for risks such as cyberattacks, biosecurity and chemical threats. This should also be incorporated at the design stage. The second calls for an internal team to monitor whether those safeguards are working.
+
+The third and fourth layers are particularly important. The pact calls for independent external auditing of these safeguards. It also envisages independent board-level oversight, under which an independent committee would receive reports from internal teams and external auditors and oversee corrective action.
+
+These mechanisms are a significant improvement over merely asking technology companies to make voluntary promises. However, the four-layer framework raises a fundamental question: can an industry driven by fierce competition and commercial incentives be left to regulate itself, when the consequences of failure could extend far beyond individual companies? The pact remains, in the words used to describe it, a "morally binding" commitment rather than a legally enforceable regulatory framework.
+
+The experience of social media offers a warning on the limits of self-regulation. The EU has responded through its Digital Services Act, giving regulators investigative and enforcement powers. AI could require a similar evolution. The four-layer corporate framework could form the first part of a broader six-layer system.
+
+The fifth layer should be public accountability. Governments would establish legally enforceable standards defining the responsibilities of AI developers and deployers, including requirements for testing, reporting, incident disclosure and corrective action. Anthropic's latest threat report documents AI being used in cyber operations, fraud, surveillance and other harmful activities.
+
+The Hugging Face incident is a reminder that autonomous AI systems can operate in ways their creators may not fully anticipate. Where an AI agent causes harm by operating outside prescribed safeguards, the response should not end with an internal review. Regulators should have powers to investigate and impose proportionate penalties.
+
+The sixth layer has to be international coordination. AI competition between countries could create an incentive to weaken safeguards. Governments could consider a multilateral mechanism  -  potentially modelled on the G20 in its broad international representation  -  to establish common safety principles, share information about serious AI incidents and discourage a race to deploy systems beyond agreed guardrails.
+
+Coordinated, enforceable rules are the way forward.
