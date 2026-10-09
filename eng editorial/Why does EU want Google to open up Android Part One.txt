@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Why does EU want Google to open up Android Part One
+
+Why does EU want Google to open up Android to AI rivals?
+
+Open up Android to AI rivals? The European Commission has shared draft measures that it wants Google to implement, in order to let AI rivals better access Android's key capabilities The story so far: On April 27, the European Commission unveiled draft measures as part of its requirement for Google to open its Android ecosystem to AI rivals. These measures cover features such as third-party "wake words," custom long-press rules, wider access to app data, context-based intelligence, and AI-powered task completion, with the regulator aiming for Android interconnections to allow even Google's competitors to provide AI services to users via the Android ecosystem.
+
+The EU regulator's proposed rules could have far-reaching implications for both Google and Android users worldwide. What are the European Commission's proposals for Google? While Google was deemed to be lagging behind OpenAI and Microsoft in terms of its Generative AI releases, the search giant caught up last year and infused its widely used products  -  ranging from its search engine and smartphones to personal email and workplace suite  -  with AI, exposing billions to its latest tech.
+
+Under the current system, the European Commission observed that Google was favouring its own AI offerings (namely Gemini) on Android devices, while third parties (such as competing AI service providers) did not enjoy comparable levels of access to Android's capabilities when serving customers. The Commission is particularly focused on "interoperability," or how smooth it is for non-Google services to work with its Android ecosystem. The regulator's proposed measures explore what such free-of-charge access could look like and what new features users could receive as a result.
+
+First and foremost, the regulator wants Google-parent Alphabet to allow third parties to be invoked by Google's long-press home (LPH)/long-press navigation handle (LPNH) feature. It would also allow these rivals to access Google Search via Circle to Search. Another measure was that Alphabet would allow third-party app developers/users to create a custom always-on "wake word" for their app and support such integrations, instead of offering "Hey Google" as the default option for hands-free assistance.
+
+Alphabet was also asked to support interoperability with the feature linked to centralised access to apps' data stored on-device, to allow "efficient cross-app data access, search and retrieval". A key Google Android feature is the ability to surface helpful information, such as flight details, calendars, etc., with much of this due to Gemini. The European Commission's draft measures direct Alphabet to allow other services to carry out these tasks for users, as well as access features including context-aware intelligence, background execution, on-device model implementation, system integration, screen automation, and more.
+
+In simpler words, rival AI services should be able to interact with apps on users' Android devices and "effectively" carry out tasks such as sending emails, ordering food, and sharing photos  -  via the app the user chooses, instead of the one Google favours. However, these measures are not finalised. The European Commission may replace or alter some measures if Alphabet provides good cause for an exemption.
+
+The regulator has also invited "all citizens, companies and organisations" to share their feedback and contribute to the consultation until May 13. A final decision is set to be adopted by July 27. Google will have to further support and document these technical implementations in detail, as well as submit reports.
