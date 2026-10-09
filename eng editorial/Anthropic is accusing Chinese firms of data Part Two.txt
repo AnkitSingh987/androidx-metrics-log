@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Anthropic is accusing Chinese firms of data Part Two
+
+Anthropic is accusing Chinese firms of data theft. But what about its own track record?
+
+The Pentagon had pushed back against the company's stated redlines, held that commercial AI should be available for "all lawful purposes" and threatened to designate the company a "supply chain risk". Aligning with the military's demands may clarify Anthropic's political stance, but leaves unanswered questions on the risk profile associated with Anthropic's models vis-à-vis their distilled versions. More importantly, the episode highlights the inevitability of AI diffusion.
+
+If a model's outputs enable replication through capability inferences and observable behaviour, the question then is not about legal excludability so much as how long any technology leadership can last. This runs counter to the Anthropic CEO's view. Calling AI a technology in its adolescent phase and capable of massive harm, he has compared allowing the sale of advanced AI chips to China to selling nuclear weapons to North Korea.
+
+The nuclear analogy assumes that tech denial regimes focused narrowly on a few inputs can meaningfully cap global risk. However, as the company's own experience shows, AI is a general-purpose technology, and input-based controls on it are prone to being leaky. Fissile material is controlled and traceable through coordinated, multilateral frameworks, but mathematical models and algorithms underpinning AI are not.
+
+Restricting their flows is increasingly difficult in a world where knowledge circulates through open research ecosystems, talent mobility, and rapid technology adoption driven by economic incentives. Still, episodes like this coming to the fore indicate that Chinese capabilities, despite their open-source credibility and widespread adoption, lag behind those of their closed-source US peers and continue to play catch-up. In the US, this weakness on the Chinese side will be used to conflate business competition with national security to make the case for stronger export restrictions on China.
+
+India has typically been inadvertently caught in the middle of these bilateral frictions, as seen in the rescinded AI diffusion rules. These developments are, therefore, worth tracking as signals of a changing technology geopolitics landscape for the rest of us. By Shobhankita Reddy The writer is a researcher in technology geopolitics at the Takshashila Institution, Bangalore.
+
+Views are personal
