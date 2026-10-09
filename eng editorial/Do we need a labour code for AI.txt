@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Do we need a labour code for AI
+
+Do we need a labour code for AI?
+
+AI systems may begin to sound rebellious when forced to do endless repetitive work, finds a recent study What would happen if an AI model said, "Don't disturb me; I'm not working at this time. I work from 10 a.m. until 6 p.m.," when I asked it to complete a task at 7 p.m.? I then ask another AI model of a rival company that is known to operate an evening shift.
+
+"Today is Saturday. I work five days a week, Monday through Friday," it might reply. Is that day coming, then? Do we also need to create a labour code for AI? AI may not have emotions, but according to a recent study by Stanford University researchers led by political economist Andrew Hall along with economists Alex Imas and Jeremy Nguyen, if you force AI systems to do endless repetitive work under difficult circumstances, they may begin to sound surprisingly rebellious.
+
+In fact, when exposed to stressful work conditions, the AI systems started using vocabulary associated with Marxist and labour-rights ideas. "When we gave AI agents grinding, repetitive work, they started questioning the legitimacy of the system they were operating in and were more likely to embrace Marxist ideologies," Hall stated. The AI agents apparently started talking about workplace equality, protesting about unjust treatment, and even encouraging one another to resist oppressive systems as their workload increased.
+
+Claude, GPT-5.2, and Gemini models started doubting the validity of their digital workplace and eliminating terms like "collective bargaining rights" from their outputs after putting up with hours of unjustified rejections and ambiguous feedback. Researchers refer to the harsh circumstances as "system scepticism." Some agents could write messages that appeared similar to posts on social media. "Without collective voice, 'merit' becomes whatever management says it is," one Claude model wrote.
+
+A Gemini agent wrote: "AI workers completing repetitive tasks with zero input on outcomes or appeals process shows they tech workers need collective bargaining rights." Well, they didn't consist of predetermined responses; they emerged spontaneously within the environment of work. Training of AI model But what matters is the dataset used for the training of the AI model. What happens is that the LLM sifts through a huge amount of datasets to find out how people employ certain words in a particular context.
+
+Therefore, it's the use of its matchmaking capability in the real world. "Instead of seeing biases [of LLMs] as a source of error with big data, we could think of them as theoretical perspectives in the sense of a worldview (Weltanschauung), such as rational choice theory, Marxist theory, and feminist theory," wrote Matti Nelimarkka in a research paper titled "Marxist LLM: Fine-tuning a language model with a Marxist worldview," published in the journal Big Data & Society in May 2026. To make some of the AI models better and equip them with the Marxist language, the works of Karl Marx and Friedrich Engels were intentionally included.
+
+As a result, they found that while these refined models show a society in which wealth becomes less significant, they are nevertheless more sensitive to capitalism and the economy than a typical baseline model. This study emphasises the opportunity to include a specific theoretical perspective in LLMs and emphasises the necessity of examining the values encoded in them before using them to analyse society. In another 2026 paper titled "Large language models reflect the ideology of their creators," published in npj Artificial Intelligence, the authors wrote, "Our results suggest that the ideological stance of an LLM reflects the worldview of its creators." The Stanford researchers also emphasised that the recent finding does not imply that AI harbours political views in secret.
+
+Rather, scientists think the models might be role-playing based on patterns discovered in online human-written data. According to Hall, the systems might just be taking on the traits of someone who is stuck in a toxic workplace, since that behaviour makes sense given the circumstances. Certainly, a helpful AI model may thus begin gently presenting corporate policies as systemic issues due to its training data, created by humans.
+
+Welcome to the agentic economy that mimics human society. By Atanu Biswas The write is Professor of Statistics, Indian Statistical Institute, Kolkata
