@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Why a solid foundation in good old fashioned Part One
+
+Why a solid foundation in good old fashioned science is the ultimate AI survival tool
+
+Old fashioned science is the ultimate AI survival tool Technologies will continue to evolve at accelerating speed. The laws governing energy, matter, stability and causality will not. An education grounded in those enduring principles prepares the youth for repeated reinvention in a world where change is the only constant Across campuses today, the message to students is unmistakable: Learn AI or risk being left behind.
+
+Machine learning electives close within hours of registration. Coding bootcamps promise industry readiness in months. Recruiters speak fluently about neural networks and deployment pipelines. For many students, the direction seems obvious. Yet beneath this rush lies a question: How long will today's tools remain tomorrow's advantage?
+
+The frameworks students master in their first year often look different by the time they graduate. Programming environments evolve, libraries are rewritten, and entire platforms disappear as automation absorbs layer after layer of routine implementation. In a world where AI systems can now generate code, design architectures, and optimise complex workflows with minimal oversight, the shelf life of narrowly technical training is shrinking.
+
+Aligning education with emerging technologies is both sensible and necessary. Universities must prepare students for the industries they will enter. The difficulty begins when responsiveness to market demand slowly displaces foundational learning. A curriculum shaped primarily by immediate employability can produce graduates whose expertise is tightly bound to current platforms rather than to durable intellectual frameworks.
+
+When technologies shift, such specialisation can limit opportunity instead of expanding it. The real question is not whether to teach AI but whether doing so comes at the cost of cultivating minds that can outgrow any single technological wave. What endures across technological cycles is the ability to reason from fundamentals.
+
+To be sure, modern AI rests on deep mathematical structures like linear algebra, calculus, probability, and optimisation, which form the internal grammar of machine intelligence. Mastering them is intellectually demanding and valuable. But computational first principles describe how models calculate, while the scientific first principles describe how the world behaves.
+
+Scientific training does more than transfer knowledge; it shapes how one thinks and questions. It develops the discipline to identify assumptions, trace causality, test limits, distinguish correlation from mechanism, and ask whether an answer is even physically plausible. These habits allow professionals not merely to operate sophisticated systems but to challenge them.
+
+They build the confidence to question a model's output, to notice when optimisation violates real-world constraints, and to anticipate failure modes before they surface in costly ways. As automation expands, the premium shifts subtly from implementation to judgement. And judgement is formed over years of grappling not only with equations but also with the constraints those equations must ultimately respect.
+
+Technological success today is often narrated in terms of software breakthroughs and algorithmic advances. Yet beneath those visible achievements lie scientific foundations that determine what is actually possible. The rise of electric mobility, for example, depended as much on progress in battery chemistry as on improvements in digital control systems.
+
+Advances in artificial intelligence have similarly relied on innovations in semiconductor design and energy management. Even fields that appear purely computational remain shaped by physical limits. Software defines what we interact with, but scientific principles define how far those systems can ultimately go.
+
+History reinforces this pattern. Nations that lead in artificial intelligence today built their capabilities on sustained investment in fundamental research long before AI became commercially fashionable. The semiconductor revolution emerged from deep theoretical and experimental work. The internet grew out of publicly funded scientific inquiry.
