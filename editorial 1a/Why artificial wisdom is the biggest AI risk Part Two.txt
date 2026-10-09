@@ -1,0 +1,12 @@
+Category: Editorial
+Title: Why artificial wisdom is the biggest AI risk Part Two
+
+Why artificial wisdom is the biggest AI risk
+
+Organisations are increasingly conducting research, coding, legal drafting, and financial analysis using AI. This creates an unprecedented form of systemic risk: decisions increasingly influenced by intelligence that nobody is qualified to verify. Ironically, the age of AI might make genuine expertise more valuable than ever; the rarest skill will be the ability to determine whether machine-generated answers are actually correct.
+
+The need for regulation If a pharmaceutical product causes harm, manufacturers can be held accountable. However, unlike traditional products, AI systems have largely operated without clear liability. The world, therefore, requires a new governance architecture for the responsible deployment of AI. Encouragingly, society is already beginning to redraw the boundaries of accountability for digital platforms.
+
+For example, Meta Platforms has faced lawsuits alleging that aspects of its platform design contributed to harm among young users. The world needs both technical and institutional safeguards, backed by a global non-proliferation agreement on disruptive AI, that allow humans to limit or shut down systems operating outside their intended boundaries. Humanity has avoided nuclear catastrophe for eight decades.
+
+The hope is that it should be able to navigate AI too. However, doing so will require governing wisely than ever before. Saumitra Bhaduri is Professor at the Madras School of Economics
