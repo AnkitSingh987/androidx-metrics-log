@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Right to Disconnect Drawing the line after Part One
+
+Right to Disconnect: Drawing the line after work
+
+Until the Bill directly addresses how digital labour complies with existing labour laws, it continues to rely on a framework designed to regulate physical workplaces The Right to Disconnect Bill has been introduced as a private member's bill, a form of legislation that is rarely enacted. It comes in the context of India's recent consolidation of labour law through the four labour codes, which regulate working hours, overtime, and employer control. Against this background, the Bill marks a pivotal moment in Indian labour law.
+
+In this age of digital technologies, work increasingly extends beyond the physical workspace. Therefore, it is only prudent for the legislature to reconsider how labour law responds to constant connectivity. However, it does so in a framework that regulates work primarily through time-based constructs.
+
+Indian labour law is yet to define what constitutes as 'work' in a digital economy. While the Bill regulates after-hours communication, it does so without clarifying the scope of 'work'. This omission becomes crucial when the Bill is read alongside other codes governing working time and employer control.
+
+Therefore, we examine unresolved questions concerning the definition of 'work', the scope of the proposed right, and its potential constitutional character, while drawing a comparison as well. Some ambiguity The Bill provides employees the right to not respond to work-related calls or mails beyond the prescribed working hours. However, it fails to address whether such after-hours engagement falls within the legal constructs of work.
+
+This ambiguity is particularly obvious in the interaction of the Bill with the Occupational Safety, Health and Working Conditions Code, 2020, which continues governing working hours and overtime in Indian labour law. However, the Bill does not clarify whether after-hours digital engagement amounts to "work" under the Code. This inadvertently creates a conceptual gap where communication is regulated without being integrated in the legal framework governing working time.
+
+As a consequence, the right to disconnect operates more as a behavioural norm than a labour standard. Approach of other jurisdictions The gaps become apparent when compared with jurisdictions that have already imbibed the right to disconnect in their legal regimes. In the European Union, employer control became a key parameter for assessing working time.
+
+Through judicial precedents, an expansive definition was adopted, which included on-call time, standby periods, and other forms of availability, even where no active work is performed but the employer continues to exercise control. This principle further evolved through decisions such as SIMAP, Tyco, and Jaeger, where the European Court of Justice equated employer's control with work. Similarly, France does not try to redefine work.
+
+Instead, its labour law demarcates working time and rest time. Periods of availability under employer control are considered working time, and digital communication is integrated into this framework through collective bargaining. Germany enforces strict working time and rest period regulations as well.
+
+These comparisons are not offered for replication in India, but to engage with an unresolved legal question: when does an employee's time belong to the employer? The Indian labour code contains mandatory rules, prescribing limits on working hours, and contractual terms negotiated through employer policy and agreements. The Right to Disconnect Bill does not specify whether the given right is a mandatory labour standard or its term can be modified via a contract.
