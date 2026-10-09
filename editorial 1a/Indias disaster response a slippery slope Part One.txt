@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Indias disaster response a slippery slope Part One
+
+India's disaster response, a slippery slope for federalism
+
+Federalism There is evidence of a more conditional and centralised model of a disaster response financing system The inter-governmental transfer of resources for disaster response reveals a growing asymmetry between the Union and the States of India, reflected in the widening gap between assessed needs and actual disbursements. This imbalance, seen most recently in the Centre's release of funds to Kerala after the Wayanad landslides, raises a critical question. Is India's fiscal federal structure shifting from a cooperative to a more conditional and centralised model of disaster-risk finance?
+
+The tragedy in Wayanad, in July 2024, which claimed nearly 300 lives and destroyed thousands of homes, brought sharp focus to this issue. Against Kerala's loss of ₹2,200 crore, the Union approved only ₹260 crore, barely 11% (₹1,200 crore is the estimated loss while ₹2,200 crore is sought by the State in the memorandum for recovery). This mismatch, not unique to Kerala, signals an erosion of cooperative federalism.
+
+Disasters today are fiscal stress tests for States, and as climate shocks intensify, India's disaster-financing framework is showing visible strain. There is a drift India's disaster-response financing framework, established under the Disaster Management Act, 2005, rests on a two-tier structure. The State Disaster Response Fund (SDRF), financed jointly by the Centre and States in a 75:25 ratio, 90:10 for Himalayan and north-eastern States, provides immediate relief for shelter, food, medical care and compensation.
+
+The National Disaster Response Fund (NDRF), fully funded by the Union government, supplements this when a calamity is classified as severe. In principle, the design appears balanced, but in practice, it has drifted towards central control. First, relief norms are outdated and rigid. Compensation ceilings, ₹4 lakh for each life lost and ₹1.2 lakh for a fully damaged house have barely changed in a decade.
+
+These amounts meet subsistence needs but not reconstruction costs, leaving States fiscally exposed after every disaster. Second, ambiguity in classification invites discretion. The Act does not define what constitutes a 'severe' disaster, giving wide latitude to decide eligibility for NDRF aid. Third, aid releases are procedural, not automatic.
+
+Unlike systems where objective indicators trigger support, India's process depends on sequential clearances, State memorandum, central assessment, and high-level approval which cause delays when urgency matters the most. Finally, the Finance Commission's allocation criteria are weak. Using population and total geographical area to gauge exposure ignores actual hazard patterns.
+
+Further, the disaster vulnerability is proxied by poverty rather than a robust disaster-risk index, producing allocations that are misaligned with people's real exposure to floods, landslides or cyclones. The Wayanad episode exposed deep institutional flaws. The Centre cited Kerala's unspent SDRF balance of ₹780 crore and an earlier ₹529 crore interest-free loan under the Capital Investment Scheme to justify the cutting of aid.
+
+Yet, these balances often reflect committed works, not idle funds. SDRF instalments arrive late in the fiscal year, while disasters are seasonal, making temporary balances inevitable. Moreover, SDRF rules restrict spending to immediate relief, not reconstruction or livelihood restoration, forcing States to retain reserves for liquidity.
+
+Further, the Centre delayed classifying the Wayanad landslides as a severe disaster, limiting Kerala's access to higher NDRF support. States such as Himachal Pradesh, Uttarakhand, and Assam received larger packages for comparable calamities. Similar mismatches marked Tamil Nadu after Cyclone Gaja (2018) and Karnataka during the 2019 floods.
+
+Across cases, procedural rigidity, slow approvals, and widening gaps between losses and aid reveal a system where cooperative federalism has yielded to bureaucratic negotiation. Learning from global practices Many countries now use data-driven, transparent disaster financing. The Federal Emergency Management Agency (FEMA) of the United States applies per capita damage thresholds.
