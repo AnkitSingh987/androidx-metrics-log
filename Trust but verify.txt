@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Trust but verify
+
+Trust, but verify
+
+The RBI's new principles-based governance overhaul empowers bank boards to focus on critical risks and strategy by delegating routine matters, enhancing accountability, and improving financial health oversight. The Reserve Bank of India's (RBI) overhaul of bank-board governance is a welcome recognition that good oversight cannot be measured by the length of a board's agenda. From October 1, banks will have greater flexibility to decide which matters require the board's attention and which can be delegated to committees or management, marking a shift from detailed prescription towards a more principles-based framework.
+
+Over the years, regulatory requirements have steadily expanded the range of matters placed before bank boards, often with good reason: banks deal overwhelmingly with other people's money, are highly leveraged and can transmit the consequences of poor decisions across the financial system. But excessive prescription carries costs too. When boards must work through an ever-growing list of operational and compliance matters, genuinely important issues such as strategy, risk, and governance can get buried in bulky agendas.
+
+The RBI's new framework seeks to restore that balance. Boards will retain responsibility for critical areas such as business strategy and financial soundness, appointments and remuneration of key personnel, governance, risk management, and compliance, while gaining greater discretion to delegate routine matters. This is sensible because directors should not function as a parallel management team.
+
+The change is particularly timely as banking risks become more complex. Traditional concerns over credit quality and asset-liability mismatches now coexist with cyber threats, digital fraud, outsourcing risks, artificial intelligence, and rapidly evolving payment systems. Directors have finite time and attention; requiring them to approve relatively routine matters can detract from scrutiny of risks that could threaten the institution.
+
+Delegation, properly designed, should therefore strengthen rather than weaken governance. There is, however, a danger in confusing delegation with diminished responsibility. Greater freedom must bring greater accountability. India's financial sector has seen institutions run into trouble despite apparently complying with prescribed governance processes.
+
+Problems involving concentrated lending, related-party transactions, weak internal controls, or succession have often accumulated over time. The failure in such cases was not necessarily the absence of rules but the inability  -  or unwillingness  -  of boards to ask difficult questions early enough. A principles-based regime therefore raises the bar.
+
+Independent directors must be genuinely independent, risk and audit committees must possess adequate expertise, and board minutes should demonstrate substantive debate rather than ritual approval. When serious governance failures occur, responsibility should be identifiable; collective decision-making cannot become collective anonymity. Delegating an operational decision cannot mean delegating responsibility for its consequences.
+
+The change also raises the bar for the RBI. A prescriptive regime makes it relatively easy to determine whether a bank has complied with a checklist; assessing whether its board has exercised sound judgement is considerably harder. Supervision will increasingly have to evaluate board effectiveness, the quality of challenge to management, and whether emerging risks receive adequate attention.
+
+This is nevertheless the right direction for financial regulation. Mature institutions should not require regulators to prescribe every item their boards must consider; regulation should define responsibilities and desired outcomes while giving institutions flexibility in achieving them. But principles-based regulation succeeds only when discretion is matched by clear responsibility and credible consequences for failure.
+
+The RBI is right to declutter bank boardrooms and free directors to concentrate on the issues that truly determine a bank's health. The test of the new regime will not be whether boards have fewer boxes to tick, but whether the time gained leads them to ask more of the questions that matter  -  before problems become crises.
