@@ -1,0 +1,20 @@
+Category: Editorial
+Title: AI and a gathering storm of unchecked power Part One
+
+AI and a gathering storm of unchecked power
+
+Corporate control of AI raises urgent questions about power, accountability and a weakening of democratic safeguards On April 19, the American tech-giant Palantir tweeted a 22-point summary of its CEO Alexander C. Karp's book, The Technological Republic (co-authored with Nicholas Zamiska). In it, the company decries corporate inclusivity, the equality of cultures, and, more worryingly, the limits of soft power.
+
+"The ability of free and democratic societies to prevail requires something more than moral appeal," it says. "It requires hard power, and hard power in this century will be built on software." Palantir then proceeds to point out that the question is no longer whether Artificial Intelligence (AI) will be used to build weapons, but who it will build them for and for what purpose. It is difficult to read Palantir's programme and not feel a foreboding sense of anxiety about where AI is taking us.
+
+It has after all crept into every stream of life, often with devastating consequences. With every passing day, it is evident that these companies will shape how people interact with each other, how the economies of the world develop, and even how nations wage wars. Indeed, Palantir's tweet is no corporate dogma.
+
+Among the more striking influences of AI in recent times is the news of its use in the United States' attacks in Iran. Reports have shown that the company's AI-powered defence platform, the Maven Smart System, had a substantial role to play in selecting the targets, including the primary school in Minab, Iran, where American forces killed between 175 and 180 people, most of them girls between the ages of seven and 12. What is eerily disquieting The speculative dystopias from a few years ago are now with us in the present.
+
+No doubt, we have reached this moment due to an accretion of choices that we have made over many years. But so eerily disquieting is the lack of regulation over its use and growth that AI's potential appears to concern even the savants of today's technological world, Sam Altman of OpenAI among them, more than it does the state. In a 13-page document released on its website, titled "Industrial Policy for the Intelligence Age: Ideas to Keep People First", OpenAI claims that the technology it is building is coming at a pace far faster than society is prepared to handle.
+
+The paper argues that in normal times, markets can work on their own and competition can lead to better living standards and expanded opportunity. "But the magnitude of the changes we expect and the potential risks we foresee demand even more," it says. "We are entering a new phase of economic and social organization that will fundamentally reshape work, knowledge, and production.
+
+It requires not just incremental policy responses but ambitious policy ideas for tomorrow." To that end, governments, according to OpenAI, should implement common sense regulation, which, far from entrenching incumbents, would "help protect children, mitigate national security risks, and encourage innovation". But the absence of regulation could not be more glaring. OpenAI's rival, Anthropic, which operates Claude, has a resident philosopher and ethicist, Amanda Askell, supposedly doing the job for it.
+
+Ms. Askell has written up what is now described as "Claude's Constitution"  -  known to the corporation's employees as the "soul doc". It purports to provide the large language model (LLM) a set of moral precepts. In this case, it seeks to ensure that Claude is "broadly safe", "broadly ethical", "compliant with Anthropic's guidelines", and "genuinely helpful".
