@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Why Meta is betting on CRED Part Two
+
+Why Meta is betting on CRED
+
+Well, because, once you become someone's preferred way to pay, you have a much better chance of becoming their preferred place to borrow, invest or manage money. Think about the last time you ordered food or booked a cab. You didn't just make a payment. You paid, earned rewards, stored your card, maybe bought insurance, and perhaps even used a buy-now-pay-later option - all without leaving the app.
+
+That's called embedded finance. The idea is simple. Instead of treating payments as the end of a transaction, companies use them as the starting point for a much larger financial relationship. Once people trust an app with their money, it becomes easier to introduce adjacent products such as loans, insurance, investments, subscriptions and shopping, all within the same ecosystem.
+
+And that's what makes payments so strategically valuable. The companies at the centre of these transactions don't just process payments - they build long-term financial relationships. That creates opportunities to offer loans, insurance, investments, commerce and other financial services from the same platform.
+
+Over time, these insights can become the foundation for an entire financial ecosystem. Which explains why nearly every major technology company has spent years trying to secure a foothold here. Google built Google Pay from scratch, and it's now one of the top two UPI apps in the country. Walmart acquired PhonePe as part of the Flipkart deal, and it's the single largest UPI player.
+
+Amazon has Amazon Pay. Even Apple is actively negotiating with banks to bring Apple Pay to India. However, Meta remains the notable exception despite owning one of India's most widely used consumer platforms. India now processes over 18 billion UPI transactions every month. The companies that dominate these transactions don't just move money  -  they own some of the most valuable consumer relationships in the digital economy.
+
+Every year Meta is absent is another year its rivals deepen those relationships and strengthen their position. That may also explain another part of the deal. Alongside the investment, CRED founder Kunal Shah has confirmed that he's moving to WhatsApp. If the investment aligns Meta with one of India's strongest fintech ecosystems, Shah brings something equally valuable: first-hand experience building it.
+
+Which brings us back to CRED. Today, it has about 10 million users, making it one of the largest communities of high-credit-score consumers. Unlike WhatsApp Pay, CRED isn't trying to convince people to trust it with their money. It already has that trust. CRED only accepts users with a credit score above 750.
+
+These are affluent, high-spending users who also use CRED to make UPI payments, pay rent, access loans and increasingly manage other parts of their financial lives. They're also the kind of customers that banks, insurers and premium brands spend years trying to acquire. In fact, nearly half of CRED's active users now use at least three different products on the platform.
+
+Collectively, they processed over ₹8.5 lakh crore worth of payments through CRED in FY25. More importantly, they've built a habit, and habits are incredibly difficult to create. People don't switch payment apps the way they switch social media apps. Once they're comfortable paying through a particular platform, they tend to stick with it.
+
+That's one reason PhonePe and Google Pay have remained so dominant despite intense competition. And that's what makes Meta's interest in CRED so interesting. In FY25, the company reported operating revenue of ₹2,735 crore while narrowing its net loss to ₹1,457 crore. It's certainly moving in the right direction.
