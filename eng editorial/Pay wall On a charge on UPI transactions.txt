@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Pay wall On a charge on UPI transactions
+
+Pay wall: On a charge on UPI transactions
+
+Removing UPI's free nature will not only be unpopular but also unfair The government's decision to allow banks and payment processors to levy a charge on UPI transactions, while still pending, has already led to several policy questions. No official decision has yet been announced, but the preparations are apparent. The only official change that has been made is the amendment to the Payment and Settlements Systems Act that will now allow the government to notify which types of transactions can attract a charge.
+
+This was done through the Taxation and Other Laws (Amendment) Bill, 2026, which was passed in the Lok Sabha recently without a debate. Before this law, UPI and RuPay debit card transactions were expressly exempt from any charges. Government sources say that the charge could be allowed only for transactions conducted by large merchants with turnovers of more than ₹1 crore-₹1.5 crore and for transactions above ₹2,000 in value.
+
+This would limit the charge to only about 5% of all UPI transactions. However, the amended law gives the government the ability to widen this scope. The fear also is that merchants will pass this cost on to consumers, who will move back to cash, which remains free to use. That said, the issue must also be looked at from the point of view of the payment ecosystem.
+
+UPI was made free in 2020. The payments players have argued that they have been bearing the cost of maintaining and running UPI since then. As Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, "somebody has to pay" for UPI. Presumably, he meant that "somebody" should no longer be the payment processors or banks.
+
+However, the burden of the cost has not solely been borne by these players. Taxpayers are already bearing some of it. In 2021, the government introduced a scheme where it paid these payment processors and banks a subsidy to partially cover the cost of processing transactions up to ₹2,000 done by small merchants.
+
+The government has already paid about ₹11,349 crore on this, with another ₹2,000 crore budgeted for 2026-27. The question is whether consumers and merchants should be asked to pay an additional charge when some of their taxes are already being used for this purpose. There is also some anger over the perception that the government pushed people towards UPI through demonetisation, only to now allow it to become chargeable.
+
+Finance Minister Nirmala Sitharaman has argued that such a charge will help payment players invest more on infrastructure, innovation, and security. The RBI has the resources to pay for UPI's development. Using this would entail a small reduction in the vast surplus that it transfers to the Centre each year, but it would save the government from an increasingly unpopular decision.
