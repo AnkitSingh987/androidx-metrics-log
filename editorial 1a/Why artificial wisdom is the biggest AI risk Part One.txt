@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Why artificial wisdom is the biggest AI risk Part One
+
+Why artificial wisdom is the biggest AI risk
+
+AI enthusiasts often position AI as a substitute for human cognition. In doing so, society is gradually internalising a dangerous misconception that AI generates knowledge The debate surrounding Artificial Intelligence (AI) often revolves around a deceptively simple question: is AI enhancing humanity or destroying it? Like every major technological revolution before it, AI is generating both optimism and profound anxiety.
+
+There is little doubt that, if deployed responsibly, AI can dramatically enhance productivity across every domain of human activity. Yet these opportunities come with substantial risks. Many commentators have painted doomsday scenarios ranging from mass unemployment to existential threats. However, not all AI risks are equally dangerous.
+
+To navigate the AI age effectively, one must distinguish between risks according to both their impact and the difficulty of mitigating them. Need to reduce risk Three risks deserve particular attention. The most widely discussed is the large-scale disruption of cognitive labour. For the first time, machines are not merely replacing physical tasks but appear capable of performing intellectual work once thought to be uniquely human.
+
+History, however, cautions against predictions of mass unemployment; technological progress has rarely eliminated entire professions. Instead, it has automated specific tasks while creating new forms of employment and productivity. The steam engine did not destroy labour; it created new industries. Technology redistributed labour rather than rendering humanity obsolete.
+
+AI will likely follow a similar trajectory. Some occupations will shrink, others will expand, and entirely new professions will emerge. The transition will be painful and require substantial investment in reskilling, but humanity has navigated such transformations before and can do so again. The second risk lies in the political and economic consequences of an unprecedented concentration of power.
+
+The economics of AI are inherently capital-intensive. Developing frontier models requires enormous investments in computing infrastructure, energy, specialised talent and proprietary data. Only a handful of companies  -  and an even smaller number of countries  - possess the necessary resources to compete in this high-risk, high-return race.
+
+As a result, ownership and control of AI capabilities are becoming highly concentrated. History teaches that concentration of strategic resources rarely produces stable outcomes. Whether the resource was gold or oil, concentrated ownership has often translated into geopolitical leverage and, at times, coercive behaviour.
+
+AI risks becoming another strategic chokepoint. Fortunately, the world has experience managing such challenges through legal institutions, international treaties and negotiated frameworks. The third risk is unique to AI and potentially the most pervasive because it is the least understood: the curse of "artificial wisdom." AI enthusiasts often position AI as a substitute for human cognition.
+
+In doing so, society is gradually internalising a dangerous misconception that AI generates knowledge. It does not. At its core, an AI system is trained on vast amounts of data to learn patterns and statistical relationships. It uses sophisticated algorithms to predict the most probable next step in a sequence.
+
+By repeatedly making these predictions, it can generate human-like text, summarise information and perform many language-based tasks. The distinction is fundamental. Knowledge is not the same as information. Knowledge requires context, judgment, experience and an understanding of consequences. Only a human mind with domain expertise can evaluate whether an AI-generated output is useful and appropriate for the problem at hand.
+
+The issue becomes even more serious when AI generates synthetic information that is more persuasive, accessible or appealing than genuine information. In such circumstances, individuals and institutions may struggle to distinguish fact from fabrication, creating fertile ground for manipulation, misinformation and other unethical uses. The challenge extends far beyond individual users.
