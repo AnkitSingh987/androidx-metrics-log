@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Gauging the services sector Part Two
+
+Gauging the services sector
+
+Guidelines and methods for measuring short-term production activities in the services sector by national agencies and international organisations can be found in the OECD Compilation Manual for Index of Services Production. As stated in the manual, "an ISP measures changes over time in the volume of output of the services sector. More precisely, it is defined as the ratio of the volume of output produced by the services industries in a given time period to the volume produced by the same industries in a specified base period." In fact, even if Indian intricacy would prevent any direct adaptation, these could work as guidelines.
+
+"As the most dynamic and dominant engine of the Indian economy, it [the services sector] has long been central to economic transformation, consistently driving growth, generating employment, and attracting investment across decades," according to the approach paper. Building an ISP will undoubtedly be difficult. The services sector is diverse in that it includes both traditional activities like trade, hospitality, and transportation that are still essential for creating jobs and domestic consumption, as well as high-value, contemporary services like IT, financial services, real estate, and professional services.
+
+This diversity is also reflected across states. Some states make substantial contributions through high-productivity, modern services, while others are more concentrated in traditional sub-sectors. In addition to its great diversity, the country also boasts a sizeable informal chunk. One important source of information on formal services in industries including trade, transportation, hospitality, infotech, education, etc.
+
+is the Annual Survey of Incorporated Services Sector Enterprises (ASISSE), which primarily covers corporate entities. However, an ISP might use a combination of administrative, GST, and AISSE data. The GST Network has emerged as a powerful data source for production and outward supplies across different sectors of the economy.
+
+However, we lack administrative data sources for a number of significant industries, including real estate, professional services, retail commerce, and so on. Therefore, to create an overall ISP, an ISP that covers roughly 70% of the GVA of services is suggested. Another significant challenge is selecting a suitable price deflator.
+
+Keeping all these in mind, an ISP, even if it's a less-than-ideal one, may be a welcome addition to the list of crucial economic indicators to gauge the state of the economy. By Atanu Biswas, Professor of Statistics, Indian Statistical Institute, Kolkata
