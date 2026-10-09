@@ -1,8 +1,0 @@
-Category: Editorial
-Title: Ethics of AI and the edge of expression Part Three
-
-Ethics of AI and the edge of expression
-
-We must establish rigid legal firewalls around data collection, ensuring that egocentric data harvesting can never be used as a coercive tool to strip workers of their livelihood without clear compensation and long-term societal support. We must look at the technology for what it truly is, that is, learning algorithms and machine inferences that excel at sorting massive datasets and automating repetitive digital tasks, but remain completely blind to the deeper textures of human experience. By maintaining a sharp skepticism toward its limits and an unyielding commitment to human rights, we can prevent AI from becoming a tool of absolute exploitation, ensuring instead that it remains a well-regulated assistant to human ingenuity.
-
-By RAJDEEP PATHAK (The writer is Programme Executive, Gandhi Smriti and Darshan Samiti.)

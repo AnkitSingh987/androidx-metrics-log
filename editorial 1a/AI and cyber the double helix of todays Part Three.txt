@@ -1,8 +1,0 @@
-Category: Editorial
-Title: AI and cyber the double helix of todays Part Three
-
-AI and cyber, the double helix of today's security threats
-
-Those steeped in defence aspects already know the gap that exists between warning and understanding of what might happen, and how critical this is in strategic terms. High-powered AI systems may often prove unreliable as they may demonstrate a bias towards national security given that algorithms often display such biases. The world, hence, needs to reach an understanding on how best to deal with this new technology which can, and could, end or make the future of the world.
-
-What we have seen in Ukraine and West Asia is not even the tip of this iceberg. Better to "cross the river by feeling the stones" is a better maxim than 'blind prejudice or unadulterated endorsement of a new technology'. M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal

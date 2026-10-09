@@ -1,6 +1,0 @@
-Category: Editorial
-Title: The AI crisis no ones talking about Part Three
-
-The AI crisis no one's talking about
-
-Until then, regulators may be forced to walk a tightrope, allowing flexibility for critical digital infrastructure while placing limits on carbon-intensive backup power. So yeah, jet engines may keep AI servers running for now, but it also makes one thing clear: The future of artificial intelligence will be shaped as much by energy policy as by algorithms.
