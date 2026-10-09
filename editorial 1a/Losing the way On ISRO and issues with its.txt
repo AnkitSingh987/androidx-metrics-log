@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Losing the way On ISRO and issues with its
+
+Losing the way: On ISRO and issues with its NavIC constellation
+
+ISRO must fix issues before launch of next second-generation satellites ISRO's NavIC constellation, for which it has launched 11 satellites since 2013, is in operational distress. Only three satellites remain capable of providing position, navigation, and timing (PNT) services, leaving the constellation unable to fulfil its purpose of replacing the U.S.'s GPS system over the Indian subcontinent. A PNT constellation requires at least four PNT-capable satellites, and India had only four until ISRO said an atomic clock onboard the IRNSS-1F satellite failed on March 13.
+
+The constellation's first-generation satellites use rubidium atomic clocks made by Swiss company SpectraTime, and which have been dogged by failure. ISRO's latest attempt to launch a second-generation satellite, NVS-02, was abortive after the machine was left in the wrong orbit. IRNSS-1F, launched in March 2016, completed its 10-year design life just three days before its clock failed.
+
+Eight other satellites have either been decommissioned, have failed to reach orbit or have bad clocks. In 2018, ISRO transitioned to using indigenous rubidium atomic clocks, developed by the ISRO-Space Applications Centre. NVS-01, launched in May 2023, was the first to carry the device; all second-generation NVS series satellites will too.
+
+Part of NavIC's genesis was the U.S.'s refusal to share GPS data over Kargil during the 1999 war, and it continues to function largely as a defence programme managed by ISRO. However, while the space sector reforms in 2020 vouchsafed ISRO for R&D and NewSpace India for commercialisation, the absence of a national space law leaves ISRO acting as both designer and operator of NavIC, overextending the agency. Equally, India lacks a counterpart to the GPS Directorate or EUSPA, which respectively manage the GPS and Galileo constellations.
+
+The new generation of rubidium clocks also faces procurement challenges and ISRO has proposed equipping each satellite with five atomic clocks instead of the previous three. The constellation has been degrading faster than it can be replenished, due to ISRO's poor launch rate. This problem stems from several factors, including issues with the PSLV, an insufficient budget that must maintain a PNT constellation, an upcoming human spaceflight programme, several earth-observation satellites, and R&D for new rockets.
+
+ISRO is also hand-holding start-ups that have yet to get a grip on launching rockets to low-earth orbit. Meanwhile, the Union government has encouraged electronics manufacturers to support the L1 band of the NVS series for better interoperability with GPS while expecting its use by the armed forces. For all these reasons, ISRO's plan to launch three more second-generation satellites in 2026 does little to inspire confidence.
