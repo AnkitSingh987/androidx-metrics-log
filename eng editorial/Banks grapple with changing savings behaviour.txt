@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Banks grapple with changing savings behaviour
+
+Banks grapple with changing savings behaviour
+
+Banks need to deal with structural liquidity mismatches created by money moving into alternative investments from bank deposits The deepening of financial markets, along with increased financial literacy and quick access to bank savings through digital channels, has fuelled a gradual shift of bank deposits into alternative investments, including mutual funds, equities, bonds, small savings, G-secs, gold, silver, real estate, and derivatives. The customer profile of banks is shifting toward young, tech-savvy customers having a higher risk appetite for exploring non-bank investment options. The increased flow of bank deposits moving back and forth between alternative investments in financial markets and the banking system in a different form is creating risks.
+
+The business model may need to be recalibrated to align with the evolving transformation in asset and liability composition, tenor, and pricing. The deposit churn A common argument is that deposits that move to other institutions should eventually return to the banking system after the round trip, as the receiving institutions will use banks to route them. If a bank customer moves funds from a savings account to alternative financial instruments, the system's liquidity might eventually recover, but the ALM structure and interest rates will change drastically.
+
+The flight of deposits from banks to financial markets and their return to banks will be subject to certain "liquidity leaks" and a major "pricing trap". While most money remains in the banking "pipes", a significant portion leaves the system temporarily or permanently. Even when that money returns to the bank via a Mutual Fund Institution's bank account, it is placed in high-cost bulk deposits or CDs (Certificates of Deposit), where the bank might have to pay 7.5 per cent or more.
+
+Thus, banks might be losing low-cost retail deposits and replacing them with "expensive" wholesale funding. This narrows their net interest margin (NIM), which is why many banks introduce differentiated deposit schemes with attractive interest rates to prevent deposit outflows and protect their NIM. Leak of liquidity Not all deposits that leave the bank may return to the banking system.
+
+Some may go as taxes that get parked with the RBI. This money is effectively withdrawn from the commercial banking system until the government spends it and returns it to the economy. As of early 2026, government cash balances have hovered between ₹1.5 lakh crore and ₹4 lakh crore, creating a temporary liquidity shortfall.
+
+Physical cash withdrawals have surged. In the 14 months leading to January 2026, currency withdrawals amounted to ₹4.4 trillion  -  three times higher than the previous year's trend. Every rupee held in a physical wallet is a rupee that cannot be multiplied as a bank deposit. To stabilise the rupee against global volatility, the RBI often sells dollars and "mops up" (absorbs) rupees.
+
+This is a permanent removal of liquidity from the banking system. The "churn" of money moving between banks and alternative investments through markets creates constant friction, often choking banks' lendable resources and slowing the velocity of money. Deposits don't simply "revolve" into alternative investment instruments; they create structural liquidity mismatches, higher funding costs, and systemic risks  -  despite total household savings remaining stable in the long run.
+
+The RBI's support through liquidity adjustment facility (LAF) can be only temporary. Ultimately, banks will need to recalibrate their business models to manage their operations while protecting their NIM. Through non-core banking services, banks should galvanise institutional accounts of wealth management entities and serve them with a priority tag.
+
+Customer service quality could raise deposit stickiness at the margin. Similarly, the non-funded products should be used to serve corporate accounts actively raising funds through bonds and the ECB route, with specially trained employees to improve retention of funds. SLBC forums and lead bank relationships should be explored for government accounts.
+
+Banks will have to gear up for higher liquidity and pricing competition as deposits flee to other investment channels and lose much of their sheen on their return journey back to banks. By K Srinivasa Rao The writer is Adjunct Professor, Institute of Insurance and Risk Management. Views expressed are personal
