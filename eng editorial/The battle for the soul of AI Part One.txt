@@ -1,0 +1,16 @@
+Category: Editorial
+Title: The battle for the soul of AI Part One
+
+The battle for the soul of AI
+
+AI is too powerful a technology, and its capabilities too far-reaching for its control to be left entirely in the hands of private actors WHO MUST BE in control of AI? That question lay at the heart of the recent stand-off between the Pentagon and AI lab Anthropic over the use of the latter's next-generation AI assistant and family of large language models, Claude. Anthropic, one of the leading players in the AI field, claims that Claude is designed to be not only fast, accurate, and capable of complex reasoning but also secure and safe.
+
+The fight with the Pentagon erupted over Anthropic's refusal to allow its AI model to be used for certain purposes like domestic surveillance within the US or be militarised for generating autonomous weapons. Perfectly understandable for a company that values clear guard rails for its AI usage, preferring to call its AI models "constitutional AI". The Trump administration responded harshly by declaring Anthropic a "supply chain risk", a designation normally reserved for suspect foreign supply firms.
+
+A little while later, Anthropic's close competitor, OpenAI  -  where Anthropic founder Dario Amodei previously worked and then left over ethical issues  -  snatched the opportunity to avail of the US government's massive orders and became a supplier to the Pentagon. The absence of like-mindedness among AI leaders has done the damage. The intense rivalry between the top AI firms such as Anthropic, OpenAI, Perplexity, Elon Musk's xAI, and even Google and Microsoft is well known.
+
+There is a blitz race among them to bring out the most advanced, most intelligent and biggest models, and to gain scale in terms of users and revenues -  the mantras are bigger, faster, hyper-intelligent, multipurpose. In the process, cute little concerns like safety and usage restrictions can fall by the roadside. These were flagged by Anthropic's Amodei and he has paid a heavy commercial price for doing so.
+
+In his essay "The Adolescence of Technology", Amodei warns of the threats that AI brings to humanity such as the emergence of AI-empowered terrorism, autonomous weapons, AI-based mass surveillance, and, frighteningly, the possibility to kill millions through the development and abuse of biological weapons. The problem is further complicated by the real-life concern that if one AI lab even agrees to in-build some ethical restraints on the capabilities or end use of AI, other competitors may forge ahead unmindful of such moral hazards. Similar warnings have been outlined by Mustafa Suleyman, author of The Coming Wave who was previously founder of Inflection AI and is now the head of Microsoft AI.
+
+Sometime back, an article in The Economist highlighted four ways in which powerful AI can go wrong and cause immeasurable harm to human civilisation at scale. Principal among these is "misuse" by a malicious individual or group for causing deliberate damage. Second is "mis-alignment" between what was wanted by its creator and what the AI itself might desire  -  a case of intelligent AI going rogue.
