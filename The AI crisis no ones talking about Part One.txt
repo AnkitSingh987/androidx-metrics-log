@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The AI crisis no ones talking about Part One
+
+The AI crisis no one's talking about
+
+In today's Finshots, we're talking about the energy crisis that is going unnoticed by the masses. The Story When people talk about artificial intelligence, the conversation usually drifts toward chips, algorithms, and trillion-parameter models. The assumption is that if you have enough GPUs (Graphics Processing Units) and enough data, the rest will somehow fall into place.
+
+But over the past year, another constraint has started to surface, and it has nothing to do with GPUs or code. You see, modern AI data centres are nothing like traditional server farms. Hyperscale campuses can demand hundreds of megawatts of continuous power, equivalent to a mid-sized city. Let's take a look at why with one simple example: A watt-hour (Wh) is a unit of energy measuring electrical consumption, representing the energy used when one watt of power is consumed for one hour.
+
+It's calculated as Watts × Hours and tells us the total amount of energy required to perform something. A typical Google search consumes about 0.3 Wh of electricity. However, one ChatGPT request consumes about 2.9 Wh of electricity. Considering 9 billion searches a day, this would require about 10 TWh of additional electricity in 1 year.
+
+And all of these are rerouted only to a handful of servers that these companies run. The problem is that power grids were never designed for such a demand to appear this quickly in a single location. Transmission lines, substations, and grid upgrades take years to plan and build. AI infrastructure, on the other hand, is advancing in a matter of months.
+
+Meanwhile, each major AI advancement demands significantly more energy than the last. AI's energy demand is set to go from just 8 TWh in 2024 to a staggering 652 TWh by 2030. That's over an 80x increase in electricity consumption just by AI in 6 years. We can clearly see increased demand in this estimate by the IEA: Compared to 2022, this demand for AI data centres in 2026 is set to grow immensely.
+
+And that gap is now being bridged in a way that we probably never expected. One of OpenAI's data centre partners, Crusoe Energy, has ordered 29 gas turbines from Boom Supersonic to power its facilities. Yup, you read that right. The company that is set to bring back supersonic flight commercially is also about to help power your late-night ChatGPT requests.
+
+Sidebar: Supersonic flights are aircraft designed to transport passengers at speeds faster than the speed of sound. They were banned in the US and most other regions around the world due to noise pollution from sonic booms. However, that ban was lifted in June 2025 through a US presidential executive order.
+
+And they're not the only company. Elon Musk's xAI is already using large methane-fuelled turbines to keep its AI clusters running (and has also been fined for it). Retired aircraft engines like the PE6000, once bolted to long-haul aircraft and military transports, are being converted into mobile power plants.
+
+This also makes sense from the point of view of reducing waste. Rather than scrapping jets entirely at the end of their flight lives, these engines find a second life in the energy sector, and that shift could unlock economic value beyond data centre operations. Park them near a data centre, hook them up to a fuel supply, and you have off-grid power in a matter of days.
