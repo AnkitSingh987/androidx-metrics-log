@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The Green Compliance loophole Part One
+
+The Green Compliance loophole
+
+In today's Finshots, we talk about the green compliance loophole that could make or break our recycling goals. The Story Summer is here and we're all feeling the heat this time. In our morning editorial calls, we talk about how each of us are dealing with it. It could be something as simple as keeping all the windows open all day long or something as expensive as buying a 1.5 ton air conditioner.
+
+Others stick to simpler fixes like coconut water or buttermilk. But every time you tear open a packet of buttermilk, there's a small thought that lingers. That plastic wrapper and straw you just used… is it really getting recycled? India actually tried to fix the recycling system at home not by just enforcing it, but by creating a system of incentives.
+
+For context, under the E-Waste Management Rules 2022 and plastic waste management rules, the companies that sell electronics or packaged goods have to ensure that whatever they're selling in the market eventually gets recycled. And this isn't a small problem to solve. India generates over 1.6 million tonnes of e-waste every year, along with millions of tonnes of plastic packaging waste.
+
+So obviously these companies can't go around collecting every plastic wrapper or outdated appliance themselves. Even attempting to do that in a country as vast as India would be a logistical nightmare. That's why the system works a little differently. Instead of doing all the heavy lifting themselves, the companies can just outsource their recycling to specialised recyclers.
+
+These recyclers specialise in processing non-biodegradable waste like plastics and electronics. And when they do that, they are issued something called an EPR certificate. EPR stands for Extended Product Responsibility and each certificate represents a certain quantity of waste that gets processed. So if a company sold thousands of tonnes of products that fall within these categories, it can simply buy enough EPR certificates to match the number and show that it has met its recycling obligations.
+
+And if some of their products are refurbished, they can carry over their EPR. Simply put, India didn't just create the rules for recycling, it created a market for it. On paper, that sounds like a win for everyone. The companies have a neat and streamlined way to comply with the rules and recyclers get paid for doing the work.
+
+And the system could scale it efficiently over time. Every party, from the manufacturer to the recycler (called PIBO or Producer, Importer Brand Owner and Bulk consumer) has to register under the EPR framework. But when compliance becomes something that can be bought and sold, the incentives can turn into something else altogether.
+
+Companies are rewarded for showing proof that recycling has happened. And this is where things run into trouble. Because for many companies today, recycling isn't just about regulatory compliance. It's also tied to their ESG (Environmental, Social, and Governance) goals. Investors, especially large institutional ones, increasingly track how companies perform on environmental metrics, including how they manage waste.
+
+So these EPR certificates don't just help companies meet government targets. They also help them show that they're ticking the right boxes on sustainability. Which means the incentive isn't just to recycle better. It's to show that you're compliant, both to regulators and to investors. But instead of asking 'is the waste being recycled properly?' the system asks, 'do you have enough certificates to show compliance?' Now think of the recycler's side of the equation, where their revenue depends on how many certificates they can generate and sell.
