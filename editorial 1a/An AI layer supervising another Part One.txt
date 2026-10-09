@@ -1,0 +1,24 @@
+Category: Editorial
+Title: An AI layer supervising another Part One
+
+An AI layer supervising another
+
+There is a small irony at the centre of the AI coding boom. The companies that dazzled the software world by letting users generate code from plain English have also created a second market: tools built to inspect, test, and repair the code those models produce. In other words, one layer of artificial intelligence is now being built to supervise another.
+
+That market exists for an obvious reason. Systems such as ChatGPT and Claude can produce working code with remarkable speed, but they are still prediction engines, not infallible programmers. They are good at producing plausible answers, and plausible code is not always correct code. A function may compile and even pass a basic demo while still failing on edge cases, violating internal conventions, introducing security flaws, or breaking dependencies elsewhere in a large codebase.
+
+This is where a newer class of companies has found its opening. Rather than competing only on who can generate more code, firms such as Augment Code, Qodo, Sweep, and Axiom are focusing on what comes after generation: code review, defect detection, test creation, and, in Axiom's case, mathematical verification. The shift is subtle but important.
+
+The value is moving from speed alone to assurance. Augment Code's public pitch is built around what it calls a Context Engine. The idea is that fixing code requires understanding more than a single file or diff. A bug may come from how services interact, how data flows through an API, or how a change in one module ripples across many others.
+
+Augment says it semantically indexes a codebase and maps relationships across files, dependencies, architecture, and history. That richer context lets its review system flag logic errors, security vulnerabilities, and breaking changes with more precision than tools that only inspect a narrow patch. Qodo, formerly Codium, occupies a similar but slightly broader position.
+
+Its emphasis is "review first, not copilot first". Publicly, Qodo describes itself as an AI code review and quality platform with deep multi-repo context, agentic workflows, test generation, governance, and standards enforcement. That description matters because it captures the real shape of this industry.
+
+The problem is not merely to write a function. It is to decide whether the function is safe, consistent with team practice, adequately tested, and acceptable in a production pipeline. Sweep is an instructive example of how fluid this category remains. It first drew attention for turning software issues into code changes and pull requests, and is now positioned as a coding agent and autocomplete assistant with explicit attention to editing failures.
+
+The practical lesson is that the fixing layer can take several forms: issue-to-pull-request automation, review assistance, or repair suggestions during code editing itself. In each case, the commercial bet is the same: developers will pay not only for code generation, but also for reduction in downstream debugging pain. What algorithms sit underneath these promises?
+
+Public materials support some claims more clearly than others. The first is semantic retrieval. Instead of treating code as ordinary prose, these systems index functions, files, and dependencies so they can retrieve the relevant context for a bug or review task. That usually involves code embeddings, repository indexing, dependency mapping, and search over large codebases.
+
+The second is static analysis, the older discipline of inspecting code structure without executing it. Static analysis helps identify suspicious patterns, unreachable branches, API misuse, and missing checks. The third is test generation: the system proposes unit tests or scenario tests designed to expose edge cases, then uses failures as signals for repair.
