@@ -1,0 +1,22 @@
+Category: Editorial
+Title: AI in banking Learn from the past Part One
+
+AI in banking: Learn from the past
+
+History shows that the formidable challenge of adopting new technology can be tackled if all stakeholders engage through patient dialogue In August 2025, Reserve Bank of India released a Committee report on the Framework for Responsible and Ethical Enablement of Artificial Intelligence (FREE-AI) in the Indian banking system. In response, an apex trade union, the All India Bank Officers' Association (AIBOC), wrote to the RBI Governor that "a top down, time-bound imposition, absent social dialogue" will "create fresh stresses on already stretched Public Sector Banks (PSBs)." One year later, India's largest private sector banks have reduced their workforce by nearly 10,000 employees, adopting AI to automate operations. The Governor recently said that AI is the new playbook and will reshape everything about banking.
+
+This tussle between regulators, banks, and bank unions takes one back in time, specifically to the 1980s, when a similar struggle was seen. Computers first came to India in the mid-1950s. By the mid-1960s, RBI, State Bank of India (SBI), and Life Insurance Corporation of India (LIC) had installed their first computers for basic data processing.
+
+The Bank Nationalisation Act of 1969 led to significant expansion of bank branches and banking activity. Nationalisation demanded banks to furnish information and data about the achievement of various social banking goals such as priority sector loans, rural branches etc. The 1969 Banking Commission and a Study Group of National Institute of Bank Management (NIBM) suggested decentralising data processing activities.
+
+In the 1970s and 1980s, Committees were formed to study different aspects of banking, with most suggesting that computerisation was the only way forward. Very early on, the banking unions had started worrying about potential job losses due to computerisation. In 1966, the first agreement was signed between Indian Banks' Association (IBA) and the All India Bank Employees' Association (AIBEA).
+
+It specified that banks could use accounting and cash register machines for specific functions like ledger & statement pasting of deposit accounts and reconciliation of inter-branch accounts. However, not much progress was made as machines was limited. The unions also kept resisting mechanisation. Disputes were also seen between RBI and its employees.
+
+In 1981, a National Industrial Tribunal under Justice Chintaman Tukaram Dighe heard the disputes between RBI its staff. While the major disputes were related to RBI's work norms and promotional schemes, the issue of mechanisation also came up. RBI argued that mechanisation was needed for improving both operations and customer service.
+
+The Unions countered that mechanisation could lead to the displacement of staff and reduction in job opportunities. The Tribunal supported RBI and encouraged the bank to use computers, provided computers should not cause displacement of more than 10% of staff. The Dighe judgment led to another agreement between IBA and AIBEA in 1983.
+
+The agreement was more flexible as the union agreed to installing microprocessors/ minicomputers and mainframe computer systems to support specified functional areas - clearing operations, inter-branch reconciliation, remittance and foreign exchange dealings. In the same year 1983, RBI constituted the first major committee on the mechanisation of banking under then-Deputy Governor C Rangarajan. The Committee, noting the agreement between IBA and AIBEA, proposed mechanisation in two stages.
+
+In stage I (1985-1987), regional/ zonal offices, head offices, and 2,500 branches were to be mechanised. In stage II (1988-89), an additional 6,000 branches were to be mechanised with 20,000 machines. The input/output formats were standardised to streamline the data flow from branches to regional offices.
