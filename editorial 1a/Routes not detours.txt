@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Routes not detours
+
+Routes, not detours
+
+The CAFE-III norms set tighter fuel-efficiency targets from April 2027, promoting technology-neutral pathways including EVs, hybrids, and efficient ICEs to drive cleaner mobility and reduce emissions. The government's notification of the third phase of Corporate Average Fuel Economy (CAFE-III) norms gets an important principle right: the transition to cleaner mobility cannot be reduced to a choice between the internal combustion engine (ICE) and electric vehicles (EVs). Taking effect from April 2027, the norms set progressively tighter fleet-level fuel-efficiency requirements while allowing manufacturers multiple technology pathways to meet them.
+
+Battery electric and range-extended EVs receive the highest super credit, at three times their volume, while plug-in hybrids, strong hybrids, and flex-fuel vehicles also receive varying recognition. This is sensible for a market still navigating the economics and infrastructure of the transition. The framework, which emerged from consultation between the government, regulator, and industry, provides manufacturers a predictable five-year road map for investment and innovation.
+
+Technology neutrality has advantages. It allows automakers to manage compliance costs and product portfolios instead of forcing every vehicle segment towards a single technology at the same pace. Hybrids and more efficient ICE vehicles can reduce fuel consumption and emissions in the near term, even if they are not the eventual destination.
+
+The framework also recognises technologies such as start-stop systems, regenerative braking, and high-efficiency air-conditioning, allowing conventional vehicles to contribute to efficiency gains. The inclusion of ethanol blends, compressed natural gas, and biofuels provides flexibility. This matters because charging infrastructure is still developing, electricity generation remains dependent on coal, and battery and critical-mineral supply chains remain concentrated.
+
+Disruptions in rare-earth supplies have demonstrated how quickly global chokepoints can become domestic industrial problems. Credit trading and the option to purchase credits through the Bureau of Energy Efficiency (BEE) give manufacturers flexibility in managing compliance. That, however, cannot become an argument for delaying the inevitable.
+
+Transitional flexibility should make the shift to cleaner mobility manageable, not preserve the status quo indefinitely. Former Niti Aayog CEO Amitabh Kant's criticism that the norms do not push electrification hard enough therefore merits consideration, even if making EVs the overriding destination immediately risks underestimating practical constraints. CAFE-III is hardly indifferent to electrification: the three-times super credit for battery EVs provides manufacturers a powerful incentive to expand EV portfolios.
+
+As those portfolios grow, compliance itself should increasingly favour electrification. The priority must be to ensure that the breathing space offered to other technologies is used to build capabilities in batteries, power electronics, charging infrastructure, and software rather than postpone investment in them. Technology neutrality works only if competing pathways produce genuine efficiency gains while industry develops the capabilities required for a zero-emission future.
+
+The real test of CAFE-III, therefore, is not whether it produces the fastest possible shift to EVs over the next few years. It is whether the framework reduces fuel consumption and emissions now while preparing Indian industry for a globally competitive, increasingly zero-emission future. That requires regulation flexible enough to accommodate market realities but stringent enough to keep manufacturers moving forward.
+
+The progressively tighter targets, incentives for electrification, and BEE-administered credit mechanism should maintain pressure on manufacturers to improve efficiency and invest in cleaner technologies. The auto industry needs time to navigate a complex transition, but that time must be used to build technologies, infrastructure, and supply chains for the next phase of global mobility. Technology neutrality is valuable precisely because it provides different routes towards the same objective.
+
+It loses its purpose if those routes become detours. The destination cannot be obscured by the flexibility of the journey.
