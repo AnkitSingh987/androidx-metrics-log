@@ -1,0 +1,26 @@
+Category: Editorial
+Title: UPI fees The economics of free payments
+
+UPI fees: The economics of 'free' payments
+
+People will stick with UPI but larger purchases may shift to cash or bank transfers if merchants transfer the UPI fees The Taxation and Other Laws (Amendment) Act, 2026 changed Section 10A of the Payment and Settlement Systems Act, giving the Centre power to specify which payment modes remain protected. A September 14 gazette notification, followed by a September 15 NPCI circular, now protects UPI payments up to ₹2,000, while effective from October 15, a 0.4 per cent MDR will apply to person-to-merchant UPI payments above ₹2,000, with a ₹300 cap for payments above ₹75,000. Person-to-merchant transactions in select sectors attract a lower rate or a flat fee, while person-to-person transfers remain free.
+
+Small merchants receiving up to ₹1 lakh a month through UPI QR codes are also exempt. The introduction of Merchant Discount Rate (MDR) on the erstwhile free popular mode of non-cash transaction has stirred quite a debate. Who should pay for a system that users so far regarded as free, and what would be the pros and cons?
+
+UPI moves money instantly between bank accounts through an account-linked ID or a QR code. Beginning in 2016, it grew rapidly after demonetisation. In August 2026, UPI processed about 24.5 billion transactions worth nearly ₹30 trillion. Incentives like the zero-MDR drove that growth. The government also supported low-value transactions by approving subsidies to payment processors, which stood at ₹1,500 crore for payments of up to ₹2,000 to small merchants for 2024-25.
+
+The ease of transaction and instantaneous settlement were clear advantages over NEFT, which settles in one hour and requires sharing of account number and IFSC. Hence, UPI could compete with cash, so far. UPI feels free because the payment processors bear its costs. Transaction processing and settlement, server maintenance, complaints handling, and fraud monitoring are as costly as ₹20,700 crore annually, according to the Parliamentary Standing Committee.
+
+Government support covers a minuscule share. That arrangement was easier when rapid adoption was the priority. But UPI is now a mature network. It needs continued spending to ensure security, reliability and capacity. Middle path A 0.4 per cent MDR is a middle path. The fee gives banks and payment firms income to offset costs and invest in upgrades.
+
+Since it applies to person-to-merchant transactions above ₹2,000, only about 4 per cent by volume, but roughly two-thirds by value, everyday payments remain protected. However, fees on those high-value transactions are not trivial for businesses with thin margins. A merchant charged an MDR may not bear all of it.
+
+It can absorb the fee, raise prices or transfer it back onto customers as a service fee. How much is passed to customers will depend on competition and margins. Will it push people away from UPI? Probably not by much. UPI is quick and familiar. Yet some larger purchases may shift to cash or bank transfers if merchants transfer the UPI fees.
+
+Credit Cards are not competitive since the present value of a typical 1.6 per cent transaction fee discounted over an average 30-day credit period at a 6 per cent cost-of-capital rate is approximately 1.1 per cent. However, with NEFT mandated to be free by RBI, some of the high-value transactions may shift to NEFT. Some high-value transactions might also be split into batches of transactions below ₹2,000, unnecessarily burdening the system by increasing transaction traffic.
+
+With same-day clearing, the cheques may regain some relevance. Will these be regressive? Only time will tell. Digital footprints More important implications lie elsewhere. UPI has moved transactions from cash into the digital system. Digital footprints can help lenders assess cash flows for credit scores, make economic activities easier to trace for tax purposes, detect fraud, and even solve crimes.
+
+When transactions move back to cash, those footprints vanish. The government has tried to retain public benefit by supporting small merchants and low-value payments, while taxing higher ones. Neither the government nor banks need to bear the entire cost of a mature system. Larger merchants can contribute.
+
+A mixed funding model is fairer and more sustainable. By Meheresh Masanpally & Sayantan Kundu Masanpally is Assistant Professor of Strategy; Kundu is Assistant Professor of Finance at IMI Kolkata. Views expressed are personal
