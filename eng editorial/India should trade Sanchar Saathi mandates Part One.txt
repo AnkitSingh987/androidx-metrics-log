@@ -1,0 +1,18 @@
+Category: Editorial
+Title: India should trade Sanchar Saathi mandates Part One
+
+India should trade 'Sanchar Saathi' mandates for digital literacy
+
+The state's focus should shift away from "what's there to hide?" to a combination of "what's there to see?" and a mission to improve digital literacy The Indian government's ill-advised, and now withdrawn, directive to preload its 'Sanchar Saathi' app on every new smartphone sat at the intersection of two real concerns: the clear growth of cyberfraud and identity theft and the steady expansion of state access to personal data through tools that are difficult to audit. The government presented 'Sanchar Saathi' as a practical response to scams that exploit spoofed devices and anonymous accounts. But when the same app is given privileged access on hundreds of millions of devices, it structurally alters the country's capacity for surveillance.
+
+Manufacturers were told to ship the app so that it was visible when a user first used a device and to make sure users could not disable it. Reports indicated the app would be installed with privileged status, giving it broad access to device functions such as phone, SMS, and location, with updates pushed over the air. This sat uneasily with the fact that the Indian government already operates Sanchar Saathi as a set of portals and short codes.
+
+Today, users can verify a device's IMEI number by sending an SMS with the text "KYM" and their IMEI number to 14422 or by checking the number on the Sanchar Saathi or CEIR websites. These tools work without any omniscient apps on the phone. In a fortuitous (U-)turn of events, the government withdrew its directive on December 3 following overwhelming backlash from civil society groups, opposition political leaders, and digital rights activists.
+
+As The Hindu reported, the government will "no longer enforce the mandatory pre-installation requirement" and that "officials emphasised that users could uninstall the app at any time". Test of necessity The Hindu's editorial on December 3 pointed out that the directive would fail the test of proportionality the Supreme Court articulated in K.S. Puttaswamy (2017) because the same ends can be met by existing portals, USSD codes, and SMS-based checks.
+
+The 'Sanchar Saathi' app may also fail the test of necessity from the same judgment. (The third test is legality.) There's no doubt that cyber scams, including "digital arrest" frauds and investment schemes, have become more sophisticated everywhere. INTERPOL estimated that online financial fraud cost victims more than a trillion dollars worldwide in 2023.
+
+But in constitutional terms, "this is a serious problem" is insufficient justification; the state must show that there are no equally effective, less intrusive ways to address that problem. And in India, the record has run the other way for many years now. First, the country already has a telecom spam and fraud reporting system built around the TRAI 'DND' app and the short code 1909, which uses user complaints to disconnect and blacklist spam numbers.
+
+The Sanchar Saathi and CEIR portals also already support IMEI verification and blocking through SMS and web-based interfaces. The 'DND' app also had a cautionary tale. It was designed to read call and SMS logs so that users could report spam. Apple refused for years to allow that version into its store, regarding comprehensive access to phone logs as a serious violation of its privacy policies.
