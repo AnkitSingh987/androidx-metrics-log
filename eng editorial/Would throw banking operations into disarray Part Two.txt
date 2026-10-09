@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Would throw banking operations into disarray Part Two
+
+'Would throw banking operations into disarray': Why SC rejected oral hearings for accounts declared fraudulent
+
+By 2024, the RBI had formalised this process by updating its Master Directions to include a show-cause notice, a minimum 21-day response window, and a reasoned order. What remained unresolved was whether "being heard" required something more  -  a personal or an oral hearing  -  and whether borrowers had a right to see the forensic audit report that formed the basis of the classification. What the court said The SC has partly allowed the banks' appeals and reset the procedure for the fraud classification.
+
+It set aside HC directions requiring banks to grant a personal or oral hearing before declaring an account as fraudulent. The court held that such a requirement would be "practically inexpedient" given the number of cases handled by banks each year. The court noted RBI data showing 13,494 fraud cases in FY 2022-2023, 36,060 fraud cases in FY 2023 - 24, and 23,953 in FY 2024-25, warning that mandating oral hearings would paralyse decision-making and enable delay tactics by "recalcitrant borrowers".
+
+It also clarified the ruling in SBI v Rajesh Agarwal, stating it did not recognise any right to a personal hearing and that this can be done by written representation. On disclosure, however, the court upheld the borrower's entitlement. It said that banks have an obligation to furnish the forensic audit report to the borrower before passing an order classifying the account as fraudulent.
+
+The reasoning turned on what a report actually contains and why it matters. "The furnishing of findings and conclusion alone would not tantamount to compliance with the principles of natural justice," the court held. The reasons for those findings sit inside the body of the report. Without those reasons, a borrower cannot challenge the conclusions.
+
+"A complete sense of the findings and conclusions can be made only after reading to the contents of the report," it said. It allowed banks to redact portions of the report, but only where they relate to third-party or privacy, and cautioned against using redaction to withhold relevant material. The court upheld the RBI's broader fraud classification directions and said the three-step process "strikes a fair balance between promptitude and fairness and duly comports with the principles of natural justice ensuring fairness to the borrower." It also described fraud classification as, in part, "in the broad sense a housekeeping due diligence, internally carried out by the bank," and not a criminal trial.
+
+The evidence is predominantly documentary, including financial statements and transaction records, and that evidence is already within the borrower's knowledge. The court further addressed the comparison borrowers had drawn to wilful defaulter proceedings, where oral hearings are routinely provided. It held that fraud and wilful default are "of a qualitatively different order." A wilful defaulter has the means to pay and chooses not to, while fraud "involves an element of criminality," misappropriation, forgery, and cheating.
+
+The RBI is entitled to design different procedures for them, and courts should not "second guess the regulator" in such matters, it said. Written by: Amaal Sheikh
