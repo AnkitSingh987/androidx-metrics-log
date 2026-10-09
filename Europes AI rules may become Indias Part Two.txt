@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Europes AI rules may become Indias Part Two
+
+Europe's AI rules may become India's opportunity
+
+High-risk compliance is operationalised through paperwork and proof. Most providers will be permitted to carry out that conformity assessment themselves, but they will do so against harmonised technical standards still being drafted. The underlying work  -  governance measures, technical documentation, testing regimes  -  has to be done in volume.
+
+The scale of this obligation is likely to generate demand for quality legal and technical professionals, which India can provide. Indian professional services firms have supported clients across data protection, financial regulation and technical assurance. They can provide regulatory capability for the Act too.
+
+Tap the trade agreement A longer-term vision extends beyond compliance services. The Act creates a pathway for conformity assessment bodies established in third countries to be recognised and perform the functions of notified bodies, where the EU has concluded an appropriate agreement, and those bodies satisfy the requirements. This recognition is a question for treaty negotiation, and India has just signed a treaty capable of carrying it.
+
+The India-EU Free Trade Agreement that was concluded in January includes standing machinery and regulatory cooperation provisions. If India can secure institutional arrangements as part of its partnership with the EU, it could become not just a supplier of AI compliance services but also a participant in the EU's conformity assessment ecosystem. Going ahead, it would provide the legal gateway through which qualified Indian conformity assessment bodies could eventually perform functions recognised under the Act.
+
+Europe has written itself a mountain of compliances and India has the capacity to do it. There is a version of this where the rules India fears become the work it sells. Which version arrives is still being decided, and not for much longer. Mustafa Rajkotwala and Dhruv Jadhav are lawyers based out of Mumbai who focus on the technology law space
