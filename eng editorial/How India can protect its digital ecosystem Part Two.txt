@@ -1,0 +1,24 @@
+Category: Editorial
+Title: How India can protect its digital ecosystem Part Two
+
+How India can protect its digital ecosystem
+
+The Indian IT sector must pivot immediately from being "service providers" to "resilience architects". We must move from charging for the time it takes to fix a bug to charging for the integrity of a system that can defend itself. The physicist's lens As a physicist, I view this crisis through the lens of Epistemic Drift.
+
+This is the point at which the complexity of our digital foundations exceeds our human ability to verify their safety. We are building structures we can no longer see through. When we can no longer trust the very foundation of our software because an AI has found a 27-year-old "hole", the social contract of the digital age begins to fray.
+
+In physics, entropy is the natural slide into disorder. In the digital world, Mythos is an entropy engine. It can find and weaponise disorder faster than we can organise a defence. To counter this, we must stop thinking about "safety" as a lock on a door and start thinking about "resilience" as a biological immune system.
+
+I have often spoken of "sovereign resilience", but in the wake of Mythos, this must evolve from a policy suggestion into a biological necessity for the state. This requires a fundamental shift in our national architecture. First, we must acknowledge that sovereignty is compute. India cannot be a "Tier-2" participant in restricted US programs like Project Glasswing.
+
+We must use initiatives like BharatGen to build sovereign "Defensive LLMs". These are not chatbots for the public; they are internal "Guard Dogs" trained specifically on the India Stack to hunt for vulnerabilities and simulate attacks 24/7. We must be the first to find our own flaws. Second, we must move toward Autonomous Self-Healing.
+
+In a world of autonomous attacks, a human "admin" logging in to fix a server is a relic of the past. Our power grids, our telecommunications, and our financial stacks must be redesigned to detect an anomaly and "re-wire" their own logic in real-time. This is not about building better firewalls; it is about building a system that can "bleed" and still keep running.
+
+Finally, we need a Post-Audit Regulatory Framework. Our regulators, including the CS Setty Committee looking into banking risks, must stop focusing on the "prevention" of attacks. In the age of Mythos, the attack is an automated certainty. The only metric that matters now is Time-to-Resilience. How many milliseconds does it take for a bank to detect a breach, isolate it, and return to a "verified" state?
+
+That is the only audit that matters in 2026. The new atmosphere History shows us that whenever technology increases the speed of the attack, the only way to survive is to increase the speed of the adaptation. The tank made the trench obsolete; the aircraft made the battleship a target; and now, autonomous AI has made the static firewall a ghost of the past.
+
+The Mythos event is not a software update; it is a change in the digital atmosphere. It is the end of the era where we could afford to be surprised. For India to lead, we must stop trying to build better walls. We must build a more agile, self-correcting nation. In the age of autonomous intelligence, the only true fortress is the ability to adapt faster than the machine.
+
+The old walls have already been bypassed. It is time for India to learn how to move. By Nishant Sahdev The writer is a physicist at the University of North Carolina at Chapel Hill, and a columnist on AI, infrastructure, and global systems
