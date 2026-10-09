@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Indias laws as they are now cannot hold Grok Part One
+
+India's laws as they are now cannot hold Grok accountable
+
+The existing protections came into being at a time when online platforms truly had minimal control over the kind of content being posted on them. AI platforms continue to seek protection under such provisions The recent global outrage against X for allowing the generation of sexually explicit deepfakes through Grok - its AI chatbot - underlines the significant individual and societal harms that can arise from unchecked proliferation of AI platforms and applications, particularly for women and other vulnerable groups. Such groups have always been targets of bullying and harassment online.
+
+Even deepfakes as such are not particularly novel. Until fairly recently, photoshop and other similar photo and video editing software were used to create morphed images and videos of people, often in sexual contexts. What has changed with the growth in popularity of tools like Grok is the easy availability of the means to indulge in such malevolent behaviour.
+
+Previously, a malignant actor needed at least some understanding of how to operate editing software. Now, however, the only thing required is a one-line prompt. This development not only increases the friction of being online for vulnerable groups but in a country like India, where old handicaps of gender, caste, and religion still play a significant role, it also increases the risk of undermining the social fabric.
+
+Any new technological development must always be subject to some boundary conditions to mitigate its most apparent harms. AI, however, is particularly hard to police along these lines for three reasons. First, the question of liability for harms arising from the misuse of AI platforms is still an open-ended one across the world and is likely to remain so for the foreseeable future.
+
+The primary reason for this is that such platforms are designed to be recalibrated at least to some extent by end users in order to provide a more personalised experience. Therefore it is not just a question of how the company itself has trained the platform but also how the end user in question has retrained it through prompts and other mechanisms, allowing for the generation of output that the company might not have contemplated or would not have wanted if left up to it. Therefore, when a specific harm arises, it is quite plausible for the company to argue that they did not intend or foresee the harm in question.
+
+Second, this confusion is reflected in India's current legal framework for action against deepfakes, particularly Sections 66, 67, and 67A of the IT Act, and Sections 74 and 77 of the BNS. These laws draw on traditional notions of various kinds of gender-based violence to punish the disseminator of non-consensual sexual imagery and content online. What they do not do is provide any liability for the AI platform itself or the developer, leaving open a big legal loophole.
+
+Third, platforms like X can theoretically seek protection under the "safe harbour" provision of Section 79 of the IT Act, claiming to be a mere conduit for the content. These protections came into being at a time when online platforms truly had minimal control over the kind of content being posted on them and they could claim that they exercised due diligence by removing any illegal content as soon as it was brought to their notice. AI platforms continue to seek protection under such provisions.
