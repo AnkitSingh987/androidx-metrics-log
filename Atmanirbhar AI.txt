@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Atmanirbhar AI
+
+Atmanirbhar AI
+
+Private sector should seize initiative, with policy help The reported move by the US to restrict access to advanced AI models such as Anthropic's Mythos and Fable 5 for non-American citizens has once again exposed an unpleasant reality  - that countries that do not control foundational AI technologies will remain dependent on those that do. For India, the episode should serve as a wake-up call on AI sovereignty. Sovereignty matters because AI will increasingly shape economic activity, public services, defence capabilities and access to knowledge.
+
+The Centre has already acknowledged the importance of the sector through the IndiaAI Mission, backed by a ₹10,000 crore allocation. While this is a welcome start, it is not enough if India is serious about becoming a global AI power. True self-sufficiency in artificial intelligence rests on five interconnected layers: semiconductors and processors that provide computing power, data centre infrastructure, applications that solve real-world problems, large language models, and the energy needed to run AI systems at scale.
+
+India is attracting billions of dollars in investments into data centres, strengthening the infrastructure backbone required for AI. The country's software talent is developing applications across sectors ranging from healthcare and education to finance and governance. The semiconductor ecosystem has also begun to take shape, with companies such as the Tata Group preparing to roll out Made-in-India chipsets with government support.
+
+India remains behind global leaders in advanced nanometre capabilities, but the journey has begun. AI infrastructure is power-intensive, and India will have to significantly expand investments in renewable and nuclear energy. Recent investments suggest a growing recognition of the problem. That leaves perhaps the most critical layer: the development of sovereign AI models.
+
+Start-ups such as Sarvam AI, supported by government funding, have shown promise. However, if India wants to compete at scale, the private sector must step up. Indian corporations have historically underinvested in R&D, riding on innovations developed elsewhere. The latest US restrictions demonstrate why that approach is no longer sustainable.
+
+Unlike social media and messaging platforms, where network effects create near-insurmountable barriers to entry, AI presents a more level playing field. AI usage is largely personal or enterprise-driven, and the widespread availability of smartphones ensures direct access to users. Success depends less on building massive social networks and more on developing high-quality models capable of competing on cost.
+
+The government can provide targeted incentives. Ten-year tax holidays for frontier AI firms, procurement policies, and mandatory adoption of Indian AI models across government departments could create a viable domestic market. India must expand AI research, improve education and skills, encourage innovation-led entrepreneurship, and establish balanced regulations that protect citizens without stifling progress.
