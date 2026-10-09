@@ -1,0 +1,16 @@
+Category: Editorial
+Title: High and dry On gig workers social security
+
+High and dry: On gig workers, social security
+
+Social security for gig workers needs to be made accessible and secure in practice The day after the strike by a lakh or so gig workers across India on December 31, the CEO of one platform commended police intervention to help the platform meet demand. This backdrop was unmissable shortly after the Labour Ministry had published draft Rules to operationalise the refreshed labour codes for public consultation. According to the Rules, these workers will be inducted into the new framework only on social security, not on wages or working conditions, rendering their strike more urgent.
+
+While the Code on Wages will apply across sectors and job categories, it excludes gig work from an 'employment' relationship for wage purposes. Instead, it is being treated as distinct and the platform is only obligated to make a gross contribution to a social security fund. The workers' demands, including over algorithmic rate cuts and opaque incentive structures, thus remain unaddressed.
+
+Similarly, the OSH&WC (Central) Rules are built around employer compliance via the Shram Suvidha Portal, but this is a conventional model that does not address concerns of app-mediated work. Only the social security changes are concrete. The draft Rules here require gig workers to register on a portal and every aggregator to upload details of engaged workers and update them every quarter.
+
+The Centre may also notify additional eligibility conditions; in any case, a worker must have engaged for at least 90 days with an aggregator or 120 cumulative days across aggregators in the financial year. However, one calendar day can count as multiple days if a worker earns via multiple aggregators that day: if this helps workers qualify faster, it does not constrain platforms on how they organise work. The windows could also penalise workers for care-giving work or those responding to a demand slump beyond their control.
+
+To these ends, the draft Rules need to be redesigned so that the social security they promise is accessible and secure in practice. For instance, the 90- and 120-day thresholds must include explicit protections for illness, maternity and demand collapses, and should not lapse because a worker had a bad quarter. The Rules should also specify what benefits exist, how disputes will be resolved, the minimum benefits the Social Security Fund will support, and a time-bound claims and appeals process not dependent on platforms' goodwill.
+
+Finally, aggregators should give every worker a periodic statement of jobs, hours logged, earnings and deductions, and workers must be able to contest irregular data. Without these changes, the new regime will leave the insecurity that produced the strikes structurally intact.
