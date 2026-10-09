@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Beyond the Skyroot moment Part One
+
+Beyond the Skyroot moment
+
+India's first space-tech unicorn reflects both the promise and the limits of the country's deeptech transition Skyroot Aerospace's feat as the country's first space-tech unicorn is significant not merely because another startup has crossed the billion-dollar valuation mark, but because of the kind of company it is. Unlike most unicorns produced by India's startup ecosystem over the past decade, Skyroot is not built around consumer demand aggregation, discount-led scale, or convenience-led digital services. It is attempting to build launch vehicles in a business defined by engineering complexity, long development timelines, and heavy capital requirements.
+
+In that sense, the company's latest funding round represents less a routine startup milestone and more a test of whether India's long-discussed deeptech transition is beginning to acquire institutional depth. That distinction matters because India's startup ecosystem has increasingly found itself at the centre of a larger policy debate. Over the past two years, the government has repeatedly emphasised the need for startups to move beyond food delivery, quick commerce, and consumer Internet models towards sectors such as artificial intelligence (AI), semiconductors, robotics, defence, and space technology.
+
+Commerce and Industry Minister Piyush Goyal's criticism of delivery boys and girls becoming the defining image of the startup ecosystem may have been politically phrased, but the underlying concern reflected a broader anxiety about technological capability and industrial depth. Aspiration Gap Yet the available data suggest that the actual transition towards deeptech remains gradual. Analysis of Startup India recognitions shows deeptech startups, including those in AI, robotics, and semiconductor-linked ventures, accounted for only 5-7% of total recognitions in FY26, compared with roughly 4-5% a year earlier.
+
+AI-linked startups rose to 15-18% from 12-14% in FY25, indicating only an incremental shift in the composition of new ventures even as total startup recognitions crossed 55,000 during the year. Services, commerce, and consumer-facing models continue to dominate the ecosystem, leaving a substantial gap between policy aspiration and actual sectoral movement. Skyroot's rise sits squarely within that contradiction.
+
+On the one hand, it offers the government and investors a visible example of an Indian startup operating in a frontier technology sector traditionally dominated by state agencies and global aerospace firms. On the other hand, the attention surrounding the company also underlines how rare such ventures still are within the broader startup landscape. One space-tech unicorn does not by itself indicate the emergence of a mature deeptech ecosystem.
+
+The structural reasons for this are not difficult to identify. Deeptech businesses operate under economic conditions very different from those governing consumer Internet startups. Building a launch vehicle company requires years of research, testing, certification, and manufacturing before commercial revenues become predictable.
+
+The same is true of semiconductor design, robotics, or industrial AI systems. Capital intensity is higher, gestation periods are longer, and technical failure rates are significant. Venture investors accustomed to faster scaling cycles and clearer monetisation pathways have historically been reluctant to commit large pools of capital to such businesses.
+
+India's startup funding architecture evolved largely around sectors that could demonstrate rapid user acquisition and quicker exits. Consumer Internet and fintech businesses fit that model naturally because digital penetration and mobile connectivity created large addressable markets. Deeptech startups operate differently.
+
+Their growth depends not only on venture funding but also on research infrastructure, specialised engineering talent, procurement ecosystems, and long-term industrial demand. These are capabilities that develop gradually over time rather than across funding cycles. That partly explains why deeptech ecosystems globally tend to emerge in close conjunction with state capacity and institutional infrastructure.
