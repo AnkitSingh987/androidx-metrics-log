@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Just truths On DNA evidence and rights
+
+Just truths: On DNA evidence and rights
+
+DNA test for paternity, allowed as a last resort, must not violate other rights To protect children from the stigma of illegitimacy, the erstwhile Indian Evidence Act 1872 and the Bharatiya Sakshya Adhiniyam 2023 place the burden of proof on the party denying paternity rather than the party seeking confirmation. The Supreme Court of India first considered the challenges posed by DNA evidence in this regard, in Goutam Kundu (1993), where it held that DNA tests could not be ordered as a matter of routine and that courts must first assess whether a strong prima facie case had been made out. It reiterated this position in Shri Banarsi Dass (2005); both cases also reinforced the protection of legitimacy over any interest in forensic curiosity.
+
+Then, in the litigation mooted by Rohit Shekhar alleging that veteran politician N.D. Tiwari was his father, the Delhi High Court and the top court called for the test despite Mr. Tiwari insisting that his right to privacy was being violated. In Nandlal Wasudeo Badwaik (2014), the Court said that when reliable scientific proof confronts legal fiction, the former may prevail in the interest of justice; in Dipanwita Roy (2014), it acknowledged that refusing testing can lead to adverse inference.
+
+Both orders also confirmed the legitimacy of DNA tests based on need. Then, in K.S. Puttaswamy (2017), as it encoded the right to privacy  -  including of genetic data  -  as a fundamental right under Article 21, the Court introduced a constraint that prior paternity jurisprudence did not have to reckon with.
+
+The threefold test it set up, of legality, legitimate aims, and proportionality, was brought to bear in Aparna Ajinkya Firodia (2023), which concluded that DNA tests should be ordered only where they are necessary and proportionate, and not if a dispute could be resolved based on other evidence. In Ivan Rathinam (2025), the Court said neither privacy nor knowledge were absolute and that the judiciary also has to negotiate stigma and necessity. Its order in CP vs AP (2026) tied all these contentions together as it upheld a trial court's direction for a DNA test on the grounds that the disputed question of paternity could not be resolved by the existing material record and required a scientific determination, by applying necessity and proportionality considerations.
+
+In the post-Puttaswamy era, then, the Constitution protects bodily autonomy and restricts compelled genetic disclosure  -  but courts could order a DNA test if paternity is directly in issue, there is no other evidence on record capable of resolving the question, and the test would serve the interest of justice. Thus, by positioning DNA testing as a last resort, the courts have to ensure that while science may be infallible, the pursuit of truth is only just when it respects a person's rights.
