@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Wikipedia vs Grokipedia Part One
+
+Wikipedia vs Grokipedia
+
+How quarter-century-old 'free' online knowledge base is being challenged in AI era. In the 35th poem of his Nobel Prize-winning Gitanjali, Tagore expressed his desire for a world "where knowledge is free". Given that "free" and "freedom" go hand in hand, let's examine how Wikipedia's quarter-of-a-century-old "free" online knowledge base is being challenged in today's AI era.
+
+The initial driving force of Wikipedia, certainly, was a personal crisis. After being born on December 26, 2000, Kira, the daughter of American Internet entrepreneur Jimmy Wales, suffered from a life-threatening condition known as meconium aspiration syndrome. The hospital in San Diego offered an experimental treatment.
+
+A desperate Wales was searching the internet for info on that. However, he only received information from unverifiable sources. Scholarly publications did exist, of course, but they were typically incomprehensible to the common people. So Wales and his spouse relied heavily on the doctors, and fortunately, their daughter survived.
+
+However, the helplessness of lacking trustworthy information during those awful times motivated Wales to establish an online storehouse of information that would be free, accurate, complete, ubiquitous, and, crucially, accessible to billions of people. The idea for such a free encyclopaedia was already in his mind. However, it now got a special shape and drive.
+
+In January 2001, Wales co-founded Wikipedia. It doesn't require an "Open sesame" command, unlike Alibaba's treasure trove, we know. And it has grown over the past 25 years into a credible, massive repository that offers everyone free access to the entirety of human knowledge, with roughly seven million topics already covered.
+
+Wikipedia's primary source of funding is donations rather than advertising. Many individuals initially believed that Wikipedia would not last long. In contrast, this worldwide experiment of sharing knowledge online has become an integral part of contemporary living. Today, English-language Wikipedia is viewed 11 billion times a month.
+
+Many labelled Jimmy Wales a "communist" for founding Wikipedia as a nonprofit. He is also regarded by many as the last "decent tech baron". However, long before it became the world's largest collection of knowledge in history, Wikipedia had to overcome its main obstacle - getting strangers on the Internet to communicate and work together.
+
+The strangers needed to have faith in one another. According to Wales, "trust" is a valuable and living entity that needs to be fostered. His recent book, The Seven Rules of Trust, which outlines the fundamental ideas behind transforming the website, was just released on October 28. Interestingly, billionaire Elon Musk unveiled "Grokipedia", an AI-powered substitute for Wikipedia, just a day before on October 27.
+
+Today, the number of individuals resorting to ChatGPT, Gemini, or other AI tools for information may be increasing as AI quickly permeates our lifestyles. Thus, AI may be hindering Wikipedia's usage or popularity to some extent. Also, Musk was up against Wikipedia for quite some time. He has called Wikipedia "Wokipedia" and argued that it contains left-wing, biased, and "woke" content.
+
+According to Musk, Grokipedia is an answer to Wikipedia's "political and ideological bias". David Sacks, the Trump administration's AI and cryptocurrency czar, proposed the concept of Grokipedia. And Grokipedia is claimed to be far superior to Wikipedia and an essential step towards Musk's company xAI's objective of comprehending the universe.
