@@ -1,0 +1,20 @@
+Category: Editorial
+Title: How do we know climate science is credible Part Two
+
+How do we know climate science is credible?
+
+Finally, if scientists have an independent estimate of total sea level rise (from altimetry satellites that use radar, say) and an independent estimate of how much new water has been added (from the GRACE satellites that use gravity), they can estimate how much the ocean has 'expanded'. Then they compare this figure with Argo data about the ocean's heat content. If the two match  -  as they do  -  it would mean Argo arrived at the same result as altimetry and GRACE satellites but from completely different starting points.
+
+Balancing and filling Finally, the paper says the CERES-Argo cross-calibration is "circular". This is probably the most rhetorically effective piece for 'climate doubters' because it genuinely sounds damning. However, that is really because it misrepresents what a particular 'adjustment' does. CERES is a suite of scientific instruments in Earth orbit operated by NASA.
+
+Its name stands for 'Clouds and the Earth's Radiant Energy System'. The instruments measure incoming solar radiation and outgoing shortwave radiation (which includes visible light) and longwave radiation (mostly heat) at the top of the atmosphere. By subtracting the incoming rate of energy from the outgoing rate, scientists can say how much heat is being 'left behind' in the planet's atmosphere and on the surface.
+
+Now, the CERES instruments have been calibrated such that they are accurate to around 1% for shortwave radiation and 0.75% for longwave. This implies an absolute uncertainty of roughly 2 W/m2 in the net energy flux. The paper says the raw CERES uncertainty is around 3-5 W/m2, which is slightly inflated in favour of the paper's claims.
+
+To address this, a process called EBAF  -  short for 'Energy Balanced And Filled' -  makes a one-time change to shortwave and longwave fluxes at the top of the atmosphere to ensure the global mean net flux for July 2005 to June 2015 is consistent with the value measured by Argo: 0.71 W/m2. 'Balancing' and 'Filling' are separate adjustments. CERES instruments can't see through clouds, so 'Filling' patches gaps in the map where data is missing.
+
+However, the paper treats the whole EBAF product as if it is just the adjustment for calibration, i.e. 'Balancing'. Nonetheless, as things stand, the paper's circularity argument is partly correct: CERES data is 'corrected' using Argo data while Argo-derived estimates of the oceans' heat content are validated using CERES data.
+
+Devil in the difference But then the paper goes wrong. The 'Balance' of EBAF only adjusts the mean energy flux. It does not interact in any way with the increases and drops in the temperature data over time. That comes from the CERES instruments' raw data and is what contains evidence of the warming trend.
+
+Specifically, the CERES instruments continuously measure the radiation coming from the Sun into the atmosphere and the outgoing longwave and shortwave radiation at the top of the atmosphere. Then computers produce a monthly global mean net flux value for every month from March 2000 to the present. These raw monthly data are off from the 0.7 W/m2 measured by Argo, so EBAF 'adds' or 'subtracts' some flux from every monthly value in the record to bring the long-period mean in line with the Argo estimate.
