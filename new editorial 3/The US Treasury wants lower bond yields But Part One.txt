@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The US Treasury wants lower bond yields But Part One
+
+The US Treasury wants lower bond yields. But will it work?
+
+Bond yields. But will it work? In today's Finshots, we explain what the US Treasury is doing with bonds and why it doesn't seem to be working as intended. The Story Last month, the US Treasury announced that it would expand the buyback programme for its own long-term bonds. But this isn't anything new.
+
+The Treasury keeps buying back bonds. What was different this time was that it said it would double the size of its buyback. So, if it normally bought $2 billion worth of long-term bonds each week, it would now buy back $4 billion or more for a few months. We're saying "more" because 30-year Treasury yields (interest rates) had touched 5.31% last month, their highest level since before the 2008 financial crisis.
+
+And because these yields affect borrowing costs across the US economy, Treasury Secretary Scott Bessent had signalled larger buybacks to help tame borrowing costs. Basically, when there's a large buyer for long-term bonds, bond prices rise and yields fall. That's because bond prices and yields move in opposite directions.
+
+If prices rise, yields fall. If prices fall, yields rise. And the Treasury believed that this larger buyback would bring down yields and provide liquidity to older long-term bonds, which can become harder to trade. The logic is simple. When new bonds come in, investors tend to focus on them, while older bonds see less trading.
+
+So, with fewer buyers and sellers for old, long-dated Treasury bonds, the market becomes less liquid. The announcement immediately brought 30-year bond yields down to 5.19%. Source: Forbes But last week, when the actual size of the larger buyback was announced, 30- year bond yields climbed back up to 5.29%.
+
+That's because investors expected the US Treasury to buy back at least $10 billion worth of long-dated bonds. But the actual size came in at just $6 billion. Sure, it was larger than the $4 billion that the Treasury had promised. But here's the thing. Bond yields have also been rising because of global uncertainty, including inflation fears from tariffs and the US-Iran war, as well as oil prices topping $100 a barrel.
+
+So investors assumed the Treasury would buy even more long-dated bonds than promised. When that didn't happen, yields started climbing again. Now, what we told you so far was just the context. But buyback-size expectations aren't the only reason why 30-year Treasury bond yields went back up. There's more to it.
+
+So, let's break it down. First, let's start with how two institutions, the US Treasury and the Federal Reserve, influence interest rates, which in turn decide how much a borrower in the US, or indirectly worldwide, pays for long-term loans such as mortgages, bonds and private credit. The Federal Reserve, or Fed, is the US central bank.
+
+One of its main jobs is setting a target for the interest rate banks charge each other for loans. This one figure ripples through the economy because other interest rates, such as those for credit cards, business loans and savings accounts, are priced relative to it. So when the Fed raises or lowers this rate, it influences the cost of borrowing everywhere.
+
+But there's another tool at the Fed's disposal: quantitative easing (QE). This is when the Fed creates new money and uses it to buy long-term bonds. The US Treasury, on the other hand, has a completely different job. It's the government's accountant and borrower. It doesn't set interest rates. Instead, it manages how the government borrows money to fund its spending.
