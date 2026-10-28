@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The balkanisation of gig work Part One
+
+The balkanisation of gig work
+
+When states design their own rules in isolation, they create uneven playing fields The road to regulatory hell is often paved with uncoordinated legislation. As India attempts to formalise the social security net for its burgeoning gig economy, we are witnessing a fracturing of the national market that threatens to undo the very welfare gains it seeks to achieve. The recent legislative manoeuvres by states like Jharkhand and Karnataka, while born of a noble intent to protect the precariat, have stumbled into a thicket of economic distortion.
+
+By deviating from the architectural blueprint of the Central Code on Social Security (CoSS), 2020, these state-level bills are engineering a constitutional absurdity. The result is a balkanised regulatory regime that penalises domestic entrepreneurship and enfeebles the platforms relied upon to sustain gig livelihoods. This acts as a penalty on the digital model itself.
+
+It exposes a fundamental flaw in the current legislative trend: when states design their own rules in isolation, they create uneven playing fields that incentivise regulatory arbitrage rather than genuine welfare. The Parliament passed CoSS in 2020 with a vision of a unified national architecture. A delivery partner's livelihood does not adhere to the administrative boundaries of a district or a state.
+
+A student working in Ranchi today might move to a metro city like Delhi tomorrow, expecting their work history and accumulated benefits to travel with them. State-specific legislation ignores this reality. By erecting silos of welfare, states are creating a scenario where a worker's benefits are trapped in the jurisdiction where they were working.
+
+If Jharkhand has one set of rules and Karnataka another, does a worker migrating between the two lose their safety net? Do they have to register twice? The friction this introduces defeats the very purpose of the Central Code designed to offer a safety net as flexible and mobile as the workers it protects.
+
+It is crucial to recognise gig work as a socio-economic bridge. For many, it serves as a transitional pathway from unemployment to aspiration. Consequently, welfare mechanisms must be designed to accommodate this mobility. A significant yet often overlooked casualty of this patchwork approach is India's indigenous digital enterprise ecosystem.
+
+The majority of these platforms are homegrown success stories, forged by entrepreneurs who bet early on India's digital potential and fundamentally reshaped the service economy. They have brought efficiency, transparency, and traceability to sectors previously dominated by informal, cash-based networks. Entangling these companies in a labyrinth of divergent state regulations inflicts a structural blow to scalability.
+
+A startup in Hyderabad cannot afford to navigate 28 different compliance regimes, welfare boards, and definitions of 'turnover' or 'aggregator.' If every state acts as a separate regulatory island, the operational cost of expanding across India becomes prohibitive. We are already seeing signs of capital flight, with logistics companies hesitating to expand into states where the regulatory risk outweighs the market potential. Platforms may simply geofence their operations, avoiding states with punitive frameworks.
+
+Tragically, this hurts the consumer, the small business almost entirely hosted on the platform, and the workers in those states the most. The proposed legislation in Jharkhand offers a stark case study in this overreach. It proposes a Welfare Board with powers that dangerously blur the line between regulation and management.
+
+The Board is empowered to make recommendations regarding the 'pricing' and 'remuneration' of gig workers. This represents a slippery slope toward state-controlled pricing in a free market. The gig economy thrives on dynamic pricing. If a bureaucratic board begins to dictate minimum floors or pricing caps, the efficiency of the algorithmic matching process collapses.
