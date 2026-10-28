@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Atomic AI Why Indias compute boom is the Part Two
+
+Atomic AI: Why India's compute boom is the next climate governance test
+
+Internationally, they are being evaluated for industrial clusters with high and continuous electricity demand. For AI infrastructure, the appeal lies in: ●        Continuous zero-carbon generation ●        Reduced reliance on variable renewables without storage ●        Potential co-location with industrial parks Budget 2026 customs duty relief on advanced technology components lowers the cost of importing specialised equipment relevant to next-generation energy systems, including nuclear technologies. While not an AI-specific intervention, it signals openness to high-technology infrastructure investment.
+
+However, SMRs operate within India's tightly regulated nuclear framework. Licensing procedures, liability structures and environmental clearance processes are complex. Public acceptance of new nuclear facilities - particularly near urban clusters - cannot be assumed. Cost transparency is equally critical.
+
+Early-stage SMR deployment globally remains capital-intensive. Comparative evaluation against renewable-plus-storage systems is necessary to avoid technological lock-in. SMRs may form part of a diversified portfolio, but they are not a standalone solution. Water governance and ecological design Advanced reactor designs can reduce freshwater dependence relative to coal-based thermal plants, particularly if dry-cooling systems are deployed.
+
+Yet nuclear energy still requires long-term waste management and safety oversight. Simultaneously, data centres must shift toward closed-loop cooling, treated wastewater reuse and integrated aquifer recharge planning. Compliance with Water-Neutral Mandates must be embedded in infrastructure design rather than treated as compensatory obligation.
+
+The broader sustainability principle - captured in policy discourse under frameworks such as Planet Sutra - requires system-level integration. Efficiency gains at the algorithmic level cannot compensate for structural ecological misalignment. Climate justice and siting politics Infrastructure decisions redistribute risk.
+
+Communities hosting data centres bear groundwater pressure; those near nuclear facilities carry safety and land-use concerns. Transparent environmental impact assessments, participatory consultation and clear liability regimes are governance prerequisites. If AI is framed as serving public welfare - from agricultural advisories to disaster prediction - its infrastructure must meet public accountability standards.
+
+From Red AI to Green AI: The need for metrics Policy discourse increasingly contrasts "Red AI," characterised by resource intensity, with "Green AI," oriented toward sustainability. The distinction will remain rhetorical unless measurable standards are institutionalised. India could mandate disclosure of: ●        Carbon intensity per megawatt-hour consumed by data centres ●        Water withdrawal and recharge ratios ●        Energy sourcing composition Such transparency would allow regulators and citizens to evaluate whether AI expansion aligns with climate commitments.
+
+The governance frontier India's AI ambitions intersect directly with its decarbonisation pathway. The infrastructure that powers climate analytics, disaster forecasting and digital public goods must not intensify ecological stress. Whether through SMRs, expanded renewables with storage, or hybrid energy architectures, the essential task is regulatory coherence.
+
+Coordination between ministries of power, environment, electronics and atomic energy will determine outcomes more than any single technology choice. AI infrastructure is no longer merely a digital policy question. It is a climate governance frontier. The durability of India's AI transition will depend not on computational scale alone, but on the institutional capacity to align digital ambition with ecological limits.
+
+Sagari Gupta is a public policy researcher with over eight years of experience in social development, governance reforms, and data-driven policy analysis in India.
