@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Wall Street folded RBI held Part Two
+
+Wall Street folded, RBI held
+
+Silicon Valley Bank died in 2023 holding impeccably safe Treasuries. Zero credit risk, fatal interest rate risk. So no, the RBI isn't "penalising" banks for obeying the rule that forces them to hold government bonds. Those bonds have sat in the denominator in full since 2019. This draft doesn't touch it.
+
+The sharper worry is harder to dismiss. Because G-secs are treated as risk-free, a bank stuffed with them looks wonderfully safe on that measure while its leverage ratio doesn't budge  -  so the sledgehammer bites first. Most Indian banks sit comfortably clear. Some public sector banks with heavy bond books could sit closer than they'd like.
+
+Hence the asymmetry worth raising in the consultation: the emergency valve covers balances parked at the RBI, not government securities. In a genuine stress episode  -  exactly when the RBI would want banks hoovering up sovereign paper  -  no relief exists, not even temporarily. Britain's fix isn't a direct precedent, since it covers central bank money rather than bonds.
+
+But it establishes the principle: identify a structural distortion, deal with it permanently, and raise the minimum to compensate. The RBI has the harder version of the same problem and has reached for neither remedy. Second, the foreign branch rules. A branch has no shareholders and pays no dividend.
+
+"Retain 100% of earnings" really means "stop remitting profits to head office"  -  with tax and treaty complications the draft never addresses. Worse, a Mumbai branch's requirement is 3.5% plus whatever buffer its home regulator prescribes. Washington has just eased its own requirements, which means India's effective floor for a foreign branch has loosened without anyone in Mumbai deciding anything.
+
+A domestic override, or simply a floor beneath the borrowed number, would keep the judgement where it belongs. Finally, the Bank of England is consulting on a lower floor paired with a buffer that can be switched off in a downturn, freeing banks to lend rather than hoard. Given the RBI's evident thinking on flexibility, the same instinct applied to buffers is a natural next question.
+
+The verdict The direction is undeniably right. The RBI isn't reinventing the wheel; it's enforcing global standards while its peers negotiate exemptions from them, and that stubbornness is worth its weight in gold. The unfinished business is what a consultation exists to surface. As Archimedes might observe, a well-placed lever stabilises a structure as easily as it topples one.
+
+The RBI has built a sturdy fulcrum. It just needs to check where its thumb is. Written by Krishnan Ranganathan
