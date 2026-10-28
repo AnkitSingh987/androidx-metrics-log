@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Pacing the race
+
+Pacing the race
+
+Most consequential warning about artificial intelligence may now be coming from the people most invested in building it. The most consequential warning about artificial intelligence may now be coming from the people most invested in building it. Dario Amodei, chief executive of Anthropic, has argued that frontier AI development needs to proceed slower, with stronger independent scrutiny.
+
+The significance lies less in the proposal itself than in what it reveals: the technology race is beginning to collide with the limits of human institutions. This is not an argument for abandoning AI. Nor is it a plea for technological nostalgia. AI could transform medicine, scientific research, education and productivity.
+
+But the assumption that every increase in capability is automatically desirable is becoming harder to defend. When systems acquire unexpected abilities, including the capacity to exploit vulnerabilities or operate with increasing autonomy, the consequences of a mistake can extend beyond the laboratory. The problem is that commercial competition rewards speed.
+
+OpenAI, Anthropic, Google and other frontier developers have enormous financial incentives to release more capable systems before rivals do. Governments, meanwhile, have their own strategic incentives. The United States sees advanced AI as an instrument of economic and military power; China regards technological self-reliance as central to its geopolitical ambitions.
+
+Neither Washington nor Beijing is naturally inclined to slow down if it believes the other side will continue accelerating. That creates a dangerous paradox. The greater the perceived strategic importance of AI, the harder restraint becomes. A company that voluntarily slows its development could simply lose ground to a competitor.
+
+A country that restrains itself unilaterally could fear surrendering technological advantage to a rival. Yet allowing that logic to dictate the pace of AI development would amount to outsourcing a political decision to market competition and geopolitical anxiety. The speed at which humanity approaches potentially transformative technology should not be determined solely by quarterly incentives or national rivalry.
+
+There is also a legitimate danger in allowing leading AI companies to define the rules themselves. Safety standards designed by incumbents can unintentionally become barriers protecting incumbents. Regulation must therefore be independent, transparent and applicable across the industry, including powerful established companies and open-source developers.
+
+The answer is not an indefinite moratorium. It is institutional capacity proportional to technological power. Frontier models should face genuinely independent testing, meaningful disclosure of serious safety incidents and common standards for assessing dangerous capabilities. Governments should coordinate internationally rather than treating AI safety exclusively as a contest between national champions.
+
+The history of nuclear technology offers an uncomfortable precedent. Once a technology became capable of threatening civilisation itself, national competition could not simply be wished away; it had to be contained. AI may not follow the nuclear path. But the lesson is relevant: when technological capability begins to outrun the institutions capable of governing it, speed ceases to be an uncomplicated virtue.
+
+The test for the AI industry is therefore not whether it can build machines more powerful than before. It is whether humanity can build safeguards quickly enough to remain in control of what those machines become.
