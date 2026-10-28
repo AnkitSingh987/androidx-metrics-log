@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Relationship banking Part One
+
+Relationship banking
+
+What are trusted and authorised relationships? The DPDP framework requires banks to distinguish between trusted relationships and authorised relationships. "Madam, I'm sorry. I cannot hand over your husband's account statement unless you are authorised to receive it," the customer service executive of a bank said politely.
+
+The response caught the lady by surprise. Other customers waiting in the queue turned towards her. Embarrassed, she explained that she had been handling her husband's banking needs for years  -  depositing cheques, submitting loan documents and collecting financial records whenever he travelled. To the branch staff, she was a familiar face rather than a stranger.
+
+Yet, this time, familiarity was no longer enough. The account statement contained personal financial information, and the employee had to ask a simple but difficult question: Can the bank, as a Data Fiduciary, lawfully hand over the document to someone other than the account holder? Customers' dilemma This is no longer a hypothetical dilemma.
+
+Every day, spouses collect account statements, parents obtain documents on behalf of their children, sons and daughters assist ageing parents, and accountants or office assistants represent proprietors and small businesses. These practices have long been part of India's relationship-driven banking culture. The Digital Personal Data Protection (DPDP) framework, however, requires banks to distinguish between trusted relationships and authorised relationships.
+
+While the distinction is legally sound, implementing it at the branch counter is far from simple. The issue assumes greater significance because of the phased implementation of the DPDP framework. Following the notification of the DPDP Rules on November 13, 2025, organisations were given time to align their systems and processes.
+
+The substantive compliance obligations will come into force on May 13, 2027. As banks prepare for this transition, much attention has been paid to privacy notices, consent management and cybersecurity. Comparatively little attention has been given to a basic operational question: Who is authorised to receive a customer's financial documents?
+
+The answer is not always obvious. Financial documents such as account statements, loan sanction letters, repayment schedules and KYC records contain personal data. If a bank hands over such documents to an unauthorised bearer, it risks violating customer confidentiality and its obligations under the DPDP framework.
+
+On the other hand, refusing to hand over a document to a spouse, parent or long-standing representative often appears unreasonable to customers who have always viewed such interactions as part of normal family and business life. The challenge is particularly relevant in India. Unlike many Western economies, Indian households often function as economic units.
+
+Spouses routinely undertake banking activities for one another. Adult children assist ageing parents, while parents frequently manage banking requirements for their children. The same pattern extends to the MSME sector, where proprietors, partners and directors seldom visit branches for routine documentation.
+
+Instead, accountants, finance executives, office assistants, newly recruited employee and chartered accountants or representatives of Chartered accountants are entrusted with these responsibilities. These are not exceptions; they are everyday banking practices. The DPDP framework has not created this problem.
+
+Rather, it has exposed an operational gap that has existed for years. Banks have digitised account opening, KYC, payments, beneficiary registration, nomination and e-mandates. A customer can add a beneficiary online and transfer substantial sums after OTP authentication. Yet many banks still do not offer a comparable mechanism for a customer to digitally authorise another individual to collect something as routine as an account statement or a loan document from a branch.
