@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The challenge of Indias digital sovereignty Part Two
+
+The challenge of India's digital sovereignty
+
+And China. With an accelerating growth trajectory, India has been inching towards this critical zone while facing a daunting task: building its economic fortune on a technology infrastructure independent of foreign influence. The strategy to address this challenge must be multipronged. The denial of GPS access during the Kargil conflict spurred India to develop its own satellite navigation system.
+
+More recently, efforts to strengthen the domestic semiconductor ecosystem and migrate the email systems of some central government ministries to the homegrown Zoho platform reflect a growing commitment to digital and technological sovereignty. India's success in building indigenous payments infrastructure through UPI and RuPay has shown that vulnerabilities arising from foreign-controlled systems can be overcome. This model can be extended to cloud infrastructure, e-commerce platforms, authentication systems, and defence technologies.
+
+To de-risk dependence on foreign defence technologies, India could emulate aspects of the U.S.'s defence production and procurement model. While India has long recognised the importance of self-reliance in defence manufacturing, its heavy reliance on the public sector has not delivered the desired results. The absence of an indigenous modern fighter aircraft despite the programme having begun in the 1980s is a stark reminder of this shortcoming.
+
+In contrast, American defence platforms are largely developed by private corporations, with the government providing research funding and assured procurement. This creates a virtuous cycle in which companies develop cutting-edge capabilities while remaining aligned with national strategic interests. India has recently begun moving in this direction by inviting private-sector participation in the development of the Advanced Medium Combat Aircraft under a competitive framework.
+
+Another way to safeguard digital sovereignty is to develop critical technologies and digital infrastructure in partnership with other countries. This ensures mutual dependence, reducing the risk of unilateral actions that could undermine India's strategic interests. The BrahMos missile programme, jointly developed by India and Russia, is a notable example.
+
+A key advantage of this approach is that it enables India to build technological capabilities without risking international isolation, unlike China which allowed only indigenous companies to develop critical technologies. Seen in this context, two recent developments are encouraging. The first is the commencement of commercial production at Micron Technology's semiconductor Assembly, Test, Marking and Packaging (ATMP) facility in Sanand, Gujarat, established through India-U.S.
+
+technology cooperation. The second is India's decision to join Pax Silica, the U.S.- led initiative on AI and supply-chain security aimed at reducing dependence on Chinese technology and strengthening trusted technology partnerships. Close the R&D gap Above all, India must urgently raise its research and development (R&D) spending to levels comparable with global leaders.
+
+India's gross expenditure on R&D averaged just 0.74% of GDP between 2000 and 2020 against a global average of 2.07%. This persistent R&D spending deficit raises serious concerns about India's future technological and digital sovereignty. For a country of India's demographic scale and economic ambitions, seeking to approach parity with established powers, the question is not whether it can afford comprehensive technological sovereignty, but whether it can afford to forgo it.
+
+The extent to which India succeeds in mitigating the risks to its technological sovereignty will determine its economic competitiveness and strategic autonomy in an increasingly fragmented international order. Manish Verma is a Technology Strategist, Distinguished Fellow at Avinyum Foundation, a not-for-profit technology think tank, and a PhD (Practice Track) Scholar at the Indian Institute of Management Kozhikode. Previously, he worked as the Head of International Client Operations in a multinational financial technology firm; Sthanu R.
+
+Nair teaches Economics and Public Policy at the Indian Institute of Management Kozhikode; The views expressed are personal
