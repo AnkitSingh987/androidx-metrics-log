@@ -1,0 +1,18 @@
+Category: Editorial
+Title: On AI content labelling is a technical Part Two
+
+On AI content, labelling is a technical solution. But does it empower the user?
+
+This is precisely what we saw be operationalised in the regulation of dark patterns, that is, cognitively manipulative UI/UX design that can nudge users into making choices they may not have wanted to make. The core issue with a legal mandate for labelling synthetically generated content is that it functions as a brittle trust mechanism. Labels can be removed, altered or falsified.
+
+Their technical robustness and durability vary drastically, both in the case of visible and invisible marks. For example, there is data to suggest that invisible watermarks in text can be manipulated far more easily than in audiovisual content. There is also the question of whether low-stakes synthetic manipulation of content warrants a disclosure.
+
+Above all, transparency is more than a static label, but a process or story that can evolve and be scrutinised by users to make decisions. Simply because something was generated using AI does not mean it is misleading, and simply because something was not generated using AI does not mean it is harmless. In this context, certain provenance systems and verification standards, some of which are already in adoption, offer a more compelling frame than labels.
+
+Unlike the binary information captured by labels, provenance systems can document the history of a piece of content: Its origin, the transformation it has undergone, and the actors involved. They resemble a "chain of custody" in legal practice, where the integrity of evidence does not depend on a single label but a verifiable record of its journey. For example, the Coalition for Content Provenance and Authenticity (C2PA) has created Content Credentials that help identify synthetically generated content by embedding cryptographically signed statements into a digital file that records the origin and editing history of content.
+
+When creators or platforms create content using AI tools, they can automatically add credentials stating it as AI-generated. Users can then view such credentials to see a history of content, including whether it was created or significantly edited by AI, allowing them to make decisions about its authenticity and reliability. This, of course, is not an infallible technical solution either, and depends on voluntary opt-ins and user literacy.
+
+However, the implication for law is not that such provenance systems should simply replace watermarking by fiat, but that it should not confuse technical tools with policy goals. Watermarking is one tool, credentialling is another. The real policy question is: What do we want users to be able to do? If the goal is for users to be able to understand the origin or true nature of content, then technical solutions should be judged against that standard.
+
+India's draft amendments are a step towards accountability. Yet, if they stop at over-specifying a singular, brittle technical solution, they will have mistaken the tool for the goal. By Shruti Mittal The writer is a research analyst at Carnegie India
