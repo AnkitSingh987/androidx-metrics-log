@@ -1,0 +1,22 @@
+Category: Editorial
+Title: If AI is addictive where does the Part One
+
+If AI is addictive, where does the responsibility lie  -  with big tech or its users?
+
+The responsibility lie  -  with big tech or its users? Appeals to individual moderation or mindfulness have been shown with other addictions to be insufficient When I talk to my son, an engineering student, and we have a question or disagreement, he immediately turns to ChatGPT as his primary source of information and confirmation. He is not alone in this.
+
+The use of generative AI tools has exploded across different demographic groups. For many people, these tools can be entertaining, informative and beneficial. However, they also have a dark side. Generative AI is not formally recognised as addictive right now  -  the medical evidence is still being gathered.
+
+But there is a significant amount of data showing heavy use of chatbots and other systems that produce text, images and video leads to neural patterns and behaviour that are associated with addiction. In light of Meta's and YouTube's recent legal defeat in a landmark social media addiction trial, I believe it's time to ask whether a similar logic applies to generative AI  -  and how it could be addressed. The starting point would be to identify who carries responsibility for overuse of generative AI.
+
+The science on this is not settled, and there are some who counsel caution when using the term addiction. They propose the use of other expressions such as "problematic use". However, in a recent paper, our team of researchers suggest there is strong evidence to suggest that generative AI has addictive properties.
+
+Much-discussed examples include emotional dependency on chatbot companions, compulsive engagement with them, and the loss of real-world acquaintances and friends. A key factor here is that, as in all cases of addiction, the behaviour has negative consequences for the user which may affect both their personal and professional lives. If we follow the argument that generative AI is a candidate for addictive behaviour, then we also need to look at responsibility.
+
+Societies tend to find ways to deal with harm by holding people or groups responsible for fixing it. Those who could be accountable include legislators, regulators, industry and health systems. Historical examples Historical precedents such as smoking might offer insights into how the area of generative AI addiction could evolve.
+
+Older readers may remember when the Marlboro Man would appear before any feature movie in their local cinemas. It eventually transpired that not only was smoking addictive and bad for your health, but that tobacco companies knew this. Nevertheless, it was publicly denied. This led to lengthy and high-profile litigation, eventually resulting in large-scale financial payouts and changes to the industry.
+
+These changes included the plain packaging of tobacco products and gruesome warning labels on them. Gambling could be following a similar trajectory  -  and now social media companies may be taking their first steps into a similar process. A key question is whether the makers of a product  -  be it tobacco, gambling or social media  -  are aware of its addictive properties.
+
+Another important factor being considered is whether certain companies may even use the allegedly addictive properties of their products for corporate advantage. AI is not tobacco, of course, but there may be parallels to be studied. In our research, we have identified four groups of stakeholders that are now being called upon to address the challenges linked to the possibility of addiction to generative AI.
