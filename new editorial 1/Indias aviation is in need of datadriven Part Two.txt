@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Indias aviation is in need of datadriven Part Two
+
+India's aviation is in need of data-driven oversight
+
+Third, assessing fare behaviour during demand spikes. If an airline raises prices more aggressively on routes where it has a larger market share during holidays or peak periods, it may be leveraging its dominance. The usual resistance to data transparency stems from concerns over proprietary information, claims that data sharing creates a technical load, and fear of implicit coordination among competitors.
+
+A 10% random sample is reasonable Airlines might argue that their revenue management algorithms are their "secret sauce" and should be protected. A 10% random sample is a practical middle ground. By design, this framework collects a fraction of the data. This helps to protect the "how", i.e., the proprietary logic and code behind the algorithms while monitoring the "what", i.e., the price at which tickets were sold in the marketplace.
+
+And given the limited size of the sample, supplying this data should not pose a significant technical burden. Critics may also fear that transparency allows airlines to track each other's prices. In the age of real-time data scraping, this is simply the status quo, as airlines already have a good sense of what their competitors are charging.
+
+By releasing the 10% sample on a quarterly delay, regulators can reduce the chance of immediate fare alignment while preserving the dataset's usefulness for long-term policy planning. Thus, the DGCA must pivot from ad hoc fare caps and investigations to a data-first framework. It is time to let the algorithms compete but also let the regulator and the public keep score.
+
+Prerna Rakheja is an Antitrust and Competition Economist at Bates White, Washington DC. The views expressed are personal
