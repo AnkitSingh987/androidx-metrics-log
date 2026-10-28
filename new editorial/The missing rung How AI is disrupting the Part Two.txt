@@ -1,0 +1,18 @@
+Category: Editorial
+Title: The missing rung How AI is disrupting the Part Two
+
+The missing rung: How AI is disrupting the entry-level job market
+
+The Apprentices Act, 1961 (drafted to formalise the colonial-era system of trade training) covers a few lakh apprentices a year in a country with more than ten million annual labour-market entrants. The Industrial Training Institutes (about 15,000), were designed for a manufacturing economy that did not materialise. We are now dismantling the white-collar entry rung at precisely the moment the blue-collar one was never properly built.
+
+Policy Recommendations A standing committee can do several specific things. India has no equivalent of the US' O*NET, the database that decomposes every occupation into its constituent tasks. Without one, no Indian policymaker can know which tasks are being absorbed, which are growing, and where the frictions sit.
+
+Building one is unglamorous but necessary. Second, a modular, portable, verifiable digital credentialing system would let workers carry recognised skills across an economy where most work is informal and where degrees are increasingly poor signals. The National Credit Framework of 2023 marked a beginning.
+
+It has not yet been operationalised at scale. Third, the public procurement weight that government of India deploys could be used to nudge firms toward AI deployments that augment rather than substitute junior labour, the way procurement preferences have long been used for micro, small, and medium enterprises. Left to market forces alone, firms will adopt AI in whichever way is cheapest.
+
+That is what firms do. Ex ante nudges cost less than ex post labour-market repairs. Standing committees usually produce reports. The previous panel on skills, chaired by Sharada Prasad, submitted its findings in 2016. Its central recommendations on rationalising the skill development architecture are, broadly, still pending.
+
+We however have much higher hopes from this one. Lord Macaulay, in 1835, argued that English-language education would create a class of Indians who were Indian by blood and English by taste. The class he created became, eventually, the Writers. We are now unmaking the class without having decided what replaces it.
+
+Pecunia non olet, Vespasian is supposed to have told his son. Money does not stink. Neither, it turns out, does productivity. The smell is elsewhere. Written by Aditya Sinha & Aasheerwad Dwivedi
