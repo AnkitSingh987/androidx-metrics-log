@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The end of the free lunch Part One
+
+The end of the free lunch
+
+A modest charge on large UPI payments isn't a tax on digital India. It's the bill finally arriving at the table It is a peculiarity of Indian public debate that a country which cheerfully pays Rs 30 to have biscuits delivered to the doorstep should treat a modest charge for moving money through one of the world's most sophisticated payment systems as an outrage. The difference is not hard to spot.
+
+The delivery fee is visible; the cost of a UPI transaction has been hidden  -  first by regulatory fiat, then by the government and the payments industry quietly picking up the tab. That arrangement made sense when the Unified Payments Interface needed nurturing. It makes progressively less sense now.
+
+The government's notification late Monday evening opened the door to a merchant discount rate (MDR) on UPI payments above Rs 2,000. On Tuesday, the National Payments Corporation of India (NPCI) filled in the details: 0.4% on person-to-merchant payments above that threshold, capped at Rs 300 for transactions of Rs 75,000 and above, effective October 15. Person-to-person transfers stay free, as do all payments up to Rs 2,000; consumers pay nothing, apps cannot levy platform fees, and merchants cannot pass the charge on.
+
+Much of the criticism has proceeded as though every cup of tea paid for by QR code is about to cost more. It isn't  -  the framework now says so in writing. Consider the numbers. In 2025-26, transactions above Rs 2,000 made up only about 4% of person-to-merchant UPI payments by volume, but roughly two-thirds by value.
+
+The Rs 2,000 cut-off is reasonably clever: a revenue stream for the ecosystem, while the overwhelming majority of everyday transactions stay untouched. Nor is UPI any longer a fledgeling public good in need of protection from pricing. In August it processed 24.51 billion transactions worth Rs 29.9 lakh crore  - nearly 800 million a day.
+
+Running a network of that scale  -  servers, switches, cyber-security, fraud monitoring  -  costs an estimated Rs 20,000 crore a year, even if the consumer has been taught to believe the transaction costs nothing. The zero-MDR rule of 2020 had its logic. India wanted a shift from cash to digital payments, and abolishing the merchant charge speeded adoption.
+
+Few public-policy experiments can claim success on this scale. But a subsidy is meant to create a market, not become a permanent substitute for one. Once a market reaches critical mass, the question changes: not how to subsidise adoption, but how to make the thing pay for itself. UPI has never been free; someone has always paid.
+
+Banks and payment firms absorbed costs, while the government periodically compensated parts of the ecosystem  -  reportedly Rs 8,730 crore between 2021-22 and 2024-25. Yet a parliamentary standing committee found this covered barely 11% of the industry's costs. The case for keeping a vegetable vendor's Rs 300 payment free is easy to make; the case for the exchequer subsidising a Rs 20,000 payment to a large retailer is a good deal harder.
+
+Consumers understand such distinctions perfectly well elsewhere. They pay convenience fees to book tickets, platform charges to order food, and delivery fees  -  sometimes startling ones  -  for ten-minute groceries. Credit-card payments carry an MDR of 1.5-2.5%. Only the fee for moving money instantly between bank accounts has acquired the status of a tax on digital India.
