@@ -1,0 +1,18 @@
+Category: Editorial
+Title: India should trade Sanchar Saathi mandates Part Two
+
+India should trade 'Sanchar Saathi' mandates for digital literacy
+
+After a compromise, Apple added system-level tools to report spam and finally approved a narrower version of the app. The new 'Sanchar Saathi' mandate recalled the same pattern but on a much larger scale and with a state-made app that was both privileged and non-removable on most devices. Against the background of unresolved questions about the use of Pegasus spyware against journalists, politicians, and activists in India, there is a clear trust deficit about any measure animated by a centralising impulse.
+
+Cynical solution Second, a privileged app that sits on almost every smartphone is an attractive target not only for overreach by state agencies but also for criminal actors who manage to compromise either the app itself or its update channels. Cybersecurity research has repeatedly shown that once attackers obtain a foothold within a widely deployed system component, they can move laterally at scale. The directive was objectionable because the government couldn't reasonably demand that citizens accept this additional system risk when the core function of device authenticity checks could be delivered through more narrow channels that are accessed only on-demand and don't persist in the background.
+
+Third, and perhaps most importantly, the directive was an arguably cynical solution. Digital frauds lean heavily on social engineering: scamsters succeed not when they steal money or credentials but when they create fear, urgency, and a sense of false authority in a user's mind. A recent Bank for International Settlements review of digital fraud highlighted that many incidents exploited users rather than technical flaws, and recommended customer education as much as technical measures to remedy the problem.
+
+The OECD's work on digital financial literacy has similarly framed the safe use of digital payments as a competence that can be taught and practiced. Changing user behaviour is more desirable than threatening to compromise the (digital) integrity of individuals and their rights. This way, individuals will acquire the skills and disposition to resist all scams rather than only those that rely on digital illiteracy and fear of authority.
+
+While this way is also more laborious and time-consuming, its gains will be more powerful and durable. Evidence from Global South countries supports such a focus. In Kenya, researchers studying phone-based scams in 2023 developed a measure of "scam identification ability" and tested a gentle education intervention based on common tips.
+
+They found that generic advice didn't improve users' overall ability to distinguish scams from genuine messages and sometimes made users over-cautious, as a result of which they misclassified even legitimate communication. The lesson isn't that behaviour change is irrelevant but that it can't be adjusted by sloganeering. It has to be continuous, culturally sensitive, tailored to local patterns of scamming, and compatible with the ways in which telecom providers and government agencies really communicate.
+
+Digital literacy India already has the building blocks for such a mission. The Reserve Bank of India has long run e-BAAT sessions and other outreach programmes on safe digital banking, warning users not to share PINs, passwords, and OTPs and explaining typical fraud scripts. The 'RBI Kehta Hai' campaign has taken these messages to mass media and digital platforms with a focus on responsible banking and fraud prevention, leveraging the broad appeal of celebrities such as Poorvisha Ram, Umesh Yadav, and Amitabh Bachchan.
