@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Quantum deadline Adapt or be exposed Part One
+
+Quantum deadline: Adapt or be exposed
+
+Regulators, governments must respond to impending cyberwarfare threats and prepare post-quantum cryptography plans The capture of Nicolas Maduro succeeded not through sheer military might but through digital disruption, sending shockwaves across the world, showing that cyberwarfare can topple regimes without traditional combat. Yet as disruptive as this was, it pales in comparison to the looming quantum threat - "Q-Day" - the moment when quantum computers will be capable of breaking today's encryption standards, unleashing systemic havoc across every sector of society. Knowing that classical encryption like RSA and ECC is vulnerable to quantum algorithms, adversaries are undertaking "harvest now, decrypt later" attacks through which they are stockpiling encrypted data today to unlock tomorrow.
+
+Without migration to post-quantum cryptography, sensitive financial, military, and health records face exposure. This is not just an IT issue; it is a critical boardroom priority and national security challenge demanding urgent action. Imagine a scenario where global banking systems collapse overnight as transactions are decrypted and manipulated, accounts drained, payment networks disrupted, and stock exchanges thrown into chaos.
+
+The ripple effects would trigger market crashes, erode trust in financial institutions, and destabilize economies worldwide. Also consider the possibility of military communications, satellite controls, and encrypted command systems being taken over. Adversaries might spoof signals, disable radar, or hijack drones, on a global scale, undermining deterrence and sovereignty.
+
+In another scenario, hospitals could lose access to patient records, with data stolen or altered, endangering lives, while power grids, water systems, and telecom networks are simultaneously disrupted, plunging cities into chaos. The interconnectedness of modern infrastructure means that a quantum-enabled attack could cascade across multiple sectors at once. The urgency of preparing for Q-Day cannot be overstated.
+
+The three-year horizon suggested by IonQ's CEO Niccolo de Masi is already alarmingly short. A wake up call Bain's latest study delivers a wake-up call. The study predicts that 70 per cent of executives expect quantum-enabled cyberattacks within five years while the rest believe it could happen in just three.
+
+Yet most organizations are still stuck in passive mode-waiting for someone else to lead the response. Quantum computing research is accelerating, and breakthroughs often arrive earlier than expected. Complacency is dangerous. Moreover, the "harvest now, decrypt later" strategy means that even if Q-Day is years away, the damage is already being prepared.
+
+The threat is not hypothetical; it is active and ongoing. Regulators across sectors should prepare detailed post-quantum cryptography (PQC) migration plans, replacing vulnerable methods like RSA and ECC with quantum-resistant algorithms even before the more powerful quantum computers arrive may be from China. Organizations must also generate Cryptographic Bills of Materials (CBOMs)  - inventories of cryptographic assets, protocols, and dependencies.
+
+CBOMs reveal where weak algorithms are embedded, enabling prioritized migration. Without them, institutions may not even know their risks. Regulators should launch PQC pilots without waiting for full certification, since real-world testing exposes interoperability and performance issues early and ensures migration is underway before Q-Day.
+
+Alongside PQC algorithms, which use mathematics to resist quantum attacks, Quantum Key Distribution (QKD) adds a physics-based layer of protection by making key interception detectable. This defence-in-depth approach is vital for sectors managing sensitive, long-lived data, and organizations can accelerate resilience by partnering with established firms and start-ups offering quantum-safe solutions. Roadmaps and timelines In finance, regulators should enforce PQC adoption in banks, payment networks, and stock exchanges, with quantum-safe protocols for SWIFT transfers and interbank communications.
