@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Busting the myth about RBI interventions Part One
+
+Busting the myth about RBI interventions
+
+The widespre ad misconception that the Reserve Bank of India's (RBI) "intervention" (selling dollars), in India's inter-bank "foreign exchange" (forex) market, by itself, depletes India's dollar reserves, needs to be cleared. he widespre ad misconception that the Reserve Bank of India's (RBI) "intervention" (selling dollars), in India's inter-bank "foreign exchange" (forex) market, by itself, depletes India's dollar reserves, needs to be cleared. Not one dollar of reserve is, or can be, depleted by RBI's intervention alone.
+
+RBI's exchange control regulations disable every "player" of the forex market (RBI itself can be a player by intervening) and all banks licensed by RBI to remit forex out of India in a vacuum. Forex outgo takes place only for import (goods or services) transactions, or for transactions approved under the Foreign Exchange Management Act, 1999 (FEMA), administered by the RBI. But why does RBI intervene at all?
+
+Under Section 40 of the RBI Act, 1934, which continues to operate till date, the RBI is required to sell and buy forex to/from banks (authorised persons) at a specific rate to be decided by the Central Government having regard to India's obligations to the International Monetary Fund (IMF)! This rate is the prime determinant of the rupee's external value. Once RBI fixes the benchmark, the inter-bank forex market moves and operates within a range.
+
+RBI does not fix the benchmark on a daily basis, but when it intervenes, the benchmark is fixed. Now turn to the mechanism of intervention. Assume today the rupee is trading at about Rs.94.70/dollar. Assume forex reserves today are 670 billion dollars. Assume also that the RBI intends today to strengthen the r up e e a little, say, to around Rs.93.50/dollar.
+
+Then, in order to achieve this objective, the RBI may supply (sell) dollars to a bank operating in India's inter-bank forex market. This is called RBI's intervention. Normally the intervention takes place through large PSU banks. So, if today the RBI sells, say 10 billion dollars to a bank, India's forex reserves will drop to $660 billion dollars from $670 billion.
+
+But then, the PSU bank will now be sitting on a $10 billion dollar long position which it cannot hold overnight without RBI's specific prior approval. Under RBI regulations, at the close of business hours each day, every bank has to be square or near square (limit fixed by RBI) in its forex positions  -  long or short. These 10 billion dollars, or a part thereof, can be used by the PSU bank for commercial transactions with the bank's customers, like for example, for import of goods or services.
+
+The $10 billion, or a part thereof, can also be used by the bank for dollar-rupee speculative trading during the course of the day in the inter-bank forex market in India, subject to daylight limit, as may be clamped by the RBI for the bank. The $ 10 billion, or a part thereof, can further be used (bought) by another bank, either for commercial purposes or for dollar-rupee speculative trading within the Indian forex market. At the close of business hours, assume hypothetically that the PSU bank is left with 7 out of 10 billion dollars.
+
+These 7 billion dollars will have to be sold back to the RBI in terms of exchange control regulations, unless the RBI specifically permits otherwise. It may be noted that the RBI monitors overnight open positions, long or short, of each bank strictly. Each bank is required to remain within the limit set by the RBI.
