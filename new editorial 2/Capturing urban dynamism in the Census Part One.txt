@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Capturing urban dynamism in the Census Part One
+
+Capturing urban dynamism in the 2027 Census
+
+Census Capturing a comprehensive snapshot of the Indian populace requires recognition of transitional urban areas The 2027 Census will be the world's largest administrative exercise of its kind. The bedrock of India's policy, scheme design, and fiscal allocations, the Census provides a snapshot of the lived reality of citizens. The 2027 Census will have dedicated mobile apps for digital data collection, geo-tagging of buildings, and a real-time digital monitoring platform to improve the accuracy and efficiency of the exercise.
+
+Recognising transitional areas Capturing a comprehensive snapshot of the Indian populace requires another critical step: recognising transitional urban areas. According to official communications, Census 2027 proposes to retain the same definition of an urban area that was used in Census 2011 to ensure uniformity of comparison. However, India already has a comparatively conservative definition of what constitutes 'urban' with a threefold criterion: population size, population density, and economic parameters.
+
+It also follows a binary classification of urban and rural, which does not capture peri-urban areas that are often located on the peripheries of cities and in villages that are transitioning to urban in situ. For instance, studies by the World Bank show that even in 2010, the share of India's population living in areas with urban-like features was 55.3%. However, Census 2011 recorded only a 31% urban population share, suggesting the existence of significant unseen and unrecorded urbanisation.
+
+The UN Statistical Commission has introduced a global method, the 'Degree of Urbanisation', for a clearer delineation of urban, peri-urban, and rural areas. The Census 2027 could adopt a similar intervention to recognise peri-urban areas that typically fall under rural governance, and could benefit from targeted attention for planned growth and provision of basic services. Delhi is set to be among the world's five largest agglomerations (by population), based on UN estimates.
+
+The 'true extent' of Delhi's agglomeration includes the contiguous cities of Gurugram, Faridabad, Noida, and Ghaziabad that span three different States/Union Territories. The UN considers such agglomerations by their true extent rather than by administrative boundaries, but the Census records them separately by their constituent urban local bodies, districts, and State boundaries, thereby obscuring the scale of their massive, interconnected urban footprint. Such agglomerations should be recognised endogenously as well in the Census, as they have interconnected economies and shared labour markets.
+
+A spatial approach How can this be done? The Census 2027 could adopt a spatial approach through an open-access geo-statistical portal with due regard for data anonymity, security, and interoperability with other national datasets. Such visual dashboards can dynamically reveal the true spatial extent of agglomerations highlighting where peri-urban growth is occurring.
+
+In addition to standard tabular data downloads, thematic visualisations like maps can spotlight areas that are under-provisioned in basic services or have high population density, thus providing deeper insights for effective implementation of municipal schemes. Municipal bodies could also be encouraged to update their information in real-time (instead of waiting for the next decennial Census) based on agreed protocols and processes with the Census. This will also foster a spirit of healthy competition among urban local bodies to showcase their progress in improving access to basic services.
