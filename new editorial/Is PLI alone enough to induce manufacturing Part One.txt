@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Is PLI alone enough to induce manufacturing Part One
+
+Is PLI alone enough to induce manufacturing?
+
+In today's Finshots, we explain why subsidies alone cannot build a manufacturing powerhouse, and what it really takes to create an industrial ecosystem. The Story If you look at India's industrial policy over the last decade, a clear pattern begins to emerge. Whether it is semiconductors, battery storage systems, electronics, defence equipment, or solar panels, the government's ambition extends far beyond simply consuming these products.
+
+The real goal is to manufacture them at home. To make that happen, thousands of crores of rupees have been earmarked under Production Linked Incentive (PLI) schemes. Under the PLI scheme, the government offers companies financial rewards for manufacturing products in India and selling more of them over time.
+
+The idea is simple. The more you produce and sell, the more support you receive. Apart from this, certain customs duties have been tweaked, import restrictions have been introduced, and local content requirements have become increasingly common. This domestic push also happens to coincide with a major geopolitical realignment.
+
+As global corporations look to diversify away from China under the China+1 strategy, countries like India have a rare window to capture investments that might have gone elsewhere a decade ago. The latest illustration of this shift comes from the solar energy space. At last week's AGM, Reliance Industries announced plans to scale its renewable energy and battery manufacturing capacity from around 40 GWh in the first phase to over 120 GWh annually.
+
+Once this capacity is commissioned, it will make Reliance one of the world's largest manufacturers of lithium iron phosphate (LFP) batteries. This massive expansion builds on capabilities developed over the past year, including solar wafer production, which is one of the most technologically complex and strategically critical layers of the solar value chain. Around the same time, the government extended the deadline for enforcing rules that require solar projects to procure domestically manufactured solar cells, conceding that local production capacity still needs time to catch up with demand.
+
+At first glance, these seem like two completely unrelated developments: one is a corporate expansion announcement, and the other is an administrative deadline extension. But together, they point to a much larger question: can governments actually engineer a manufacturing industry into existence? After all, factories do not spring up overnight simply because a government wishes for them.
+
+And private companies invest capital only when they believe they can earn a reliable return over the next decade or two. And that is precisely where industrial policy becomes far more complicated than simply handing out subsidies. Most people assume that governments build national industries primarily by writing big cheques.
+
+In reality, subsidies are often the least interesting part of the story. Imagine you are in the shoes of Reliance management. Building a high-tech solar wafer facility is not like opening a few retail outlets. It requires thousands of crores in upfront capital, sophisticated manufacturing technology, specialised technical talent, years of construction, and complete confidence that customers will keep buying your output long after the ribbon-cutting ceremony is over.
+
+Now ask yourself a simple question: would you make that multi-thousand-crore commitment if solar developers could indefinitely import cheaper Chinese wafers and cells whenever global prices dropped? Probably not. This is because, beyond direct financial incentives, manufacturers need absolute certainty that a reliable domestic market will exist for what they produce.
