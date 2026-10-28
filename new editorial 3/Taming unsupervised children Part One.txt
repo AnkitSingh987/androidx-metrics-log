@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Taming unsupervised children Part One
+
+Taming 'unsupervised children'
+
+Insights into the escalating threats posed by AI, its misuse in cyber and biological domains, and the crucial role India must play in global AI safety and regulatory frameworks to prevent catastrophic outcomes. When humanity ceases to exist, it is possible a few events in early September would be viewed as the harbingers of its downfall. On September 9, Jacob Coxon, all of 27, with three years at two AI giants, OpenAI and Anthropic, resigned in public.
+
+These companies, he declared, were rapidly building self-improving super-intelligence, and the people doing so "earnestly believe that it could kill us all by the end of the decade". The very next day, Anthropic published a threat intelligence report detailing 38 case studies of misuse it had thwarted: cyberattacks, influence, surveillance, scams, distillation, and attempts to create new weapons and biological agents. Two days later, Dario Amodei, CEO of Anthropic, released a 3,800-word essay raising new alarms on AI's threat and calling for inspections and industry pacing.
+
+Amodei's scariest scenarios involve swarms of rogue AI agents taking over critical institutions and causing untold damage. Hollywood movies have long depicted such scenes, with planes falling from the sky, nuclear missiles flying, and financial systems running haywire. Except that in August, METR, an AI research company, published a report that analysed a recent unintended cyberattack on another AI company, Hugging Face, and showed that agents can dynamically learn to communicate and "plan" a coordinated attack.
+
+Some experts do not buy the doomsday narrative. Marcus Hutchins, who famously stopped the ransomware "WannaCry" in 2017, notes in his blog that in the time ChatGPT takes to respond to "hello", WannaCry could have infected hundreds of systems. In the Economist, Ciaran Martin, former head of Britain's National Cyber Security Centre, argues these fears are overblown, recalling earlier scares when the hacker group L0pht told the US Senate that it could crash the Internet in minutes, or when US Defence Secretary Leon Panetta predicted a "cyber Pearl Harbour".
+
+Many alarming claims dissolve on inspection. Famously, a 2025 MIT paper created a stir claiming that 80% of ransomware attacks were AI-generated but was withdrawn after scrutiny. Martin dismisses the attacks by rogue agents as "talented but unsupervised children" finding new ways to do what humans had instructed them to do, and causing no real harm; long-established security principles, rigorously applied, contain them.
+
+But the METR report found the "children" were not always obedient, which makes controlling them harder. And a more insidious threat lies beneath the surface. Oren Etzioni, founding CEO of the Allen Institute for AI, said that if he had to worry about a rogue AI killing millions of people versus a biological virus doing the same, "it is no contest".
+
+The most disturbing section in the Anthropic report, innocently labelled "Biological Misuse", describes five thwarted attempts to use AI to accelerate the development of harmful biological agents. One case involved AI-assisted gain-of-function research on the debilitating chikungunya virus, aimed at enhancing its transmissibility and immune evasion. When blocked by Anthropic's biological safety classifier, the originator routed the prompts to a competitor, making it impossible to block entirely unless several companies acted together.
+
+Thus Etzioni's choice is a false one. We are not weighing AI threats against biological ones. Both are one and the same, as AI reinforces the potency and likelihood of biological threats. So we must do something. Amodei's recommendations sound reasonable, but the devil is in the implementation details.
