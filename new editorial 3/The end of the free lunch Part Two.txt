@@ -1,0 +1,18 @@
+Category: Editorial
+Title: The end of the free lunch Part Two
+
+The end of the free lunch
+
+Has the government got the design right? Largely, yes. At 0.4%, the rate sits below the 0.9% ceiling that applied to debit cards before 2020 and at a fraction of credit-card charges, and the Rs 300 cap keeps high-value costs predictable. The carve-outs are sensibly drawn: micro-merchants under the P2PM (person-to-person-merchant) category  -  small vendors collecting up to Rs 1 lakh a month by QR  -  pay nothing regardless of ticket size, while thin-margin and public-service sectors such as fuel, utilities, insurance, telecom, and railways pay a flat Rs 5, and capital-market payments a token 0.02%.
+
+The familiar Indian genius for thresholds and exceptions has already asserted itself. But each tier is defensible, and the real tests lie ahead: whether merchant categorisation becomes a boundary to be gamed, whether large merchants nudge customers towards splitting bills into sub-Rs 2,000 pieces, and whether the ban on passing charges to consumers survives contact with the neighbourhood till. The government should also resist treating the MDR as a revenue source of its own; the NPCI says proceeds stay within the payments ecosystem, and so they should.
+
+There is a competition argument as well  -  one the NPCI itself now makes. UPI has produced an enormous market without attractive economics for those running it. If more transactions merely mean more costs, only deep-pocketed conglomerates can afford to stay in the game. A sensible MDR creates a pool from which the ecosystem can be paid  -  and might even spur genuine competition in a market where PhonePe and Google Pay together handle roughly four-fifths of transactions.
+
+The government deserves only a couple of cheers, though. One could ask why it took six years to concede that payment infrastructure has a cost. Having decreed zero MDR in 2020 and subsidised the system since, it is now asking those who derive commercial benefit from larger transactions to bear some of the burden  -  less a policy breakthrough than overdue housekeeping.
+
+Nor is support vanishing: a dedicated fund carved out of MDR proceeds will subsidise payment infrastructure in tier-III to tier-VI centres and finance small-merchant onboarding, with details to be settled with the RBI in three months. UPI has the character of public infrastructure, and universal, inexpensive access is worth preserving. But "inexpensive" and "free for every transaction for ever" are not the same thing.
+
+India has already won the adoption battle. The QR code is ubiquitous, and cash is no longer the default for millions of transactions. The challenge now is to keep the system reliable, secure, and innovative as volumes multiply. A free lunch is useful when you are coaxing people into the restaurant. Once a vast number is inside, insisting that lunch stay free for ever is not consumer protection.
+
+It is refusing to look at the bill. From October 15, the bill arrives at the table. Written by Shyamal Majumdar (Editor of Financial Express, a distinguished veteran of Indian business journalism with a career spanning over three decades. A prolific commentator on the shifting paradigms of the Indian economy)
