@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Will Apple Pays entry create a ripple or a Part One
+
+Will Apple Pay's entry create a ripple or a splash?
+
+Apple is entering the premium card segment, tapping into its ecosystem of phone users. How it approaches UPI is a question Apple Pay is reportedly set to enter the Indian market by October 2026, marking the culmination of talks that have run on and off since 2023. For years, the company watched from the sidelines as India built the largest real-time retail payments system in the world, one that today processes billions of transactions every month through the Unified Payments Interface.
+
+Apple's own contactless wallet is already active in more than ninety countries, and its absence from India, now among Apple's fastest-growing markets outside China, has become an increasingly conspicuous gap. That gap looks set to close, though the manner of Apple's entry says as much about India's payments landscape as it does about Apple's own strategy. Cards first, UPI a distant promise Apple Pay's first phase in India will be built around credit cards on the Visa and Mastercard rails, the same framework the service uses across most of its existing markets.
+
+iPhone and Apple Watch users will be able to store card details in Apple Wallet and tap to pay at point-of-sale terminals, with Face ID or Touch ID securing each transaction. For months, Apple has reportedly been negotiating with India's largest card issuers, including ICICI Bank, HDFC Bank and Axis Bank, over how the interchange fee on each transaction will be shared, a negotiation that goes to the heart of how Apple monetises payments worldwide. What Apple Pay will conspicuously not do at launch is support UPI.
+
+To offer UPI transactions, Apple would need clearance from the National Payments Corporation of India. This body runs the network and would have to onboard a sponsor bank to route transactions, much as every other UPI app does. Industry reports suggest UPI support may only arrive in a later phase, if it arrives at all in the near term.
+
+Why does the fee structure explain the sequencing? The distinction between cards and UPI matters commercially more than it might appear. Most UPI transactions in India carry a zero-merchant discount rate, a policy the government has defended as essential to keeping digital payments free and universal for everyday use.
+
+Card transactions, by contrast, carry an interchange fee that is shared between the card network, the issuing bank and, in Apple's case, the wallet provider itself. Apple Pay's initial focus on cards is therefore less an accident of sequencing and more a reflection of where the fee revenue actually sits. The company gets an immediate foothold in India's growing premium credit card segment while, for now, sidestepping the zero-fee UPI rails that dominate everyday transactions but generate no direct revenue for wallet providers such as Apple.
+
+Domestic impact What does this mean for domestic players? For India's homegrown payments ecosystem, the immediate impact is likely to be narrower than the headlines suggest. UPI volumes remain overwhelmingly concentrated in PhonePe and Google Pay, which together account for more than four-fifths of monthly transactions, with PhonePe alone processing close to half of all UPI volume.
+
+Because Apple Pay will not touch UPI at launch, this duopoly is not directly challenged in the near term, and Paytm, RuPay and the broader NPCI architecture continue to operate exactly as before. The effect will be felt at the margins of the premium card business. Banks that issue high-value credit cards stand to gain from a likely uptick in contactless spending once tap-to-pay becomes available on iPhones.
