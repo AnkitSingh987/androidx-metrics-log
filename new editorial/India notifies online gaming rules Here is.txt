@@ -1,0 +1,22 @@
+Category: Editorial
+Title: India notifies online gaming rules Here is
+
+India notifies online gaming rules: Here is what you need to know
+
+Rules: Here is what you need to know India's online gaming market has expanded rapidly in recent years, with millions of users and increasing monetisation. However, concerns over addiction, fraud, and regulatory arbitrage prompted the Centre to step in with a unified national framework India's long-awaited reckoning with its online gaming sector has finally arrived. The government on Wednesday notified the rules to operationalise the Promotion and Regulation of Online Gaming Act, paving the way for the sector's digital-first regulator and setting out a framework that will not require mandatory registration or prior classification for most online social games.
+
+The Promotion and Regulation of Online Gaming Rules, 2026, which MeitY finalised after extensive inter-ministerial consultations, are scheduled to come into force on May 1. Its parent Act, passed last year, had put a definitive stop to the burgeoning real money gaming sector in the country, which impacted highly valued start-ups like Dream11, PokerBaazi, Winzo, and Mobile Premier League, among others. India's online gaming market has expanded rapidly in recent years, with hundreds of millions of users and increasing monetisation through real-money formats.
+
+However, concerns over addiction, fraud, and regulatory arbitrage  - with different states following different rules  -  prompted the Centre to step in with a unified national framework. What exactly has been notified? The rules establish the Online Gaming Authority of India (OGAI) as the sectoral regulator, housed under the MietY.
+
+This authority has wide-ranging powers, including determining whether a game qualifies as an Online Money Game (played after depositing user fees/based on monetary stakes), Online Social Game (not involving staking money), or esports (competitive organised games involving skills like physical dexterity and strategic thinking). It can also issue directions, hear complaints, and impose penalties. Its composition is entirely government-led, with representatives from ministries including Home Affairs, Finance, Information & Broadcasting, Sports, and Law.
+
+A key feature of the framework is the "determination and registration" system, which is not universally mandatory. Games are required to seek formal determination only in specific cases  -  such as when directed by the regulator, when offered as esports, or when the government notifies certain categories based on factors like transaction value or scale. Similarly, registration becomes compulsory only under notified conditions or for esports offerings.
+
+Determination decisions are game-and provider-specific, and remain valid unless the game's payment structure changes. The rules also significantly expand the compliance perimeter by bringing financial institutions directly into the regulatory net. Banks, payment gateways, and other intermediaries must verify a game's regulatory status before facilitating transactions.
+
+In the case of online money games, which are banned, they are required to act on OGAI directions  -  including suspending or restricting payments  -  effectively making the payments layer a key enforcement tool. On user-facing aspects, the framework mandates a two-tier grievance redressal system. Gaming platforms must first provide an internal mechanism, after which users can escalate complaints to OGAI, with a further appeal available to an Appellate Authority within the government.
+
+The rules also introduce data localisation obligations, requiring gaming platforms offering social games or esports to store traffic and related data within India. At the same time, OGAI is empowered to issue future directions on areas such as advertising, user safety, and operational compliance, leaving significant room for regulatory evolution. The rules also introduce the concept of user safety features  -  technical, procedural, operational, behavioural or system-related safeguards appropriate to the risk profile of the game.
+
+These include age verification and age-gating, time restrictions, parental controls, user reporting tools, counselling support, and fair-play and integrity monitoring. Service providers are required to disclose their user safety features and internal grievance mechanisms at the time of application for determination or registration. Written by: Soumyarendra Barik
