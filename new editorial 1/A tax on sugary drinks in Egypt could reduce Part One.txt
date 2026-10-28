@@ -1,0 +1,20 @@
+Category: Editorial
+Title: A tax on sugary drinks in Egypt could reduce Part One
+
+A tax on sugary drinks in Egypt could reduce disease and save $1.8 billion in healthcare costs: modelling study
+
+Egypt could reduce disease and save $1.8 billion in healthcare costs: modelling study Raising sugary drink prices by 20% is projected to cut obesity, diabetes, heart disease and strokes, delivering major health gains for young people and women in particular Non-communicable diseases  - heart disease, stroke, diabetes, cancer  -  are no longer just a rich-country problem. Across Africa, they are becoming the leading cause of death, driven in part by a simple and overlooked culprit: what people drink. Globally, 2.2 million new cases of type 2 diabetes and 1.2 million new cardiovascular disease cases were attributable to sugar-sweetened beverages in 2020 alone, with the highest burdens falling on sub-Saharan Africa.
+
+A recent time-series study across nine African countries found that rising sugary drink sales between 2010 and 2024 were closely associated with increasing rates of type 2 diabetes, particularly in countries undergoing rapid urbanisation. Yet most African governments have done little about it. As health economists working on these diseases, we wanted to quantify exactly what a targeted tax on sugary drinks could achieve, and whether the numbers were large enough to compel action.
+
+Our study focused on Egypt, one of the most populous countries in the region and one where the health and economic burden of non-communicable diseases is already severe. Egypt's obesity rate among adults has risen from 22 per cent to 32 per cent over the past two decades. Non-communicable diseases account for 84 per cent of all deaths in the country.
+
+About 60 cents of every healthcare dollar is paid directly out of pocket by patients and their families. Egypt currently applies a general 14 per cent sales tax to all drinks and a general excise tax on non-alcoholic drinks. But it has no specific excise tax targeting sugary beverages. Excise taxes are sales taxes that apply to specific goods or services.
+
+We asked: what would happen if Egypt did tax sugary drinks? We used a proportional multi-state life table model  -  a tool that tracks disease through a population over time  -  to project the health and economic effects of a tax that raised sugary drink prices by 20 per cent. This is the level the World Health Organization recommends as the minimum needed to have a meaningful public health impact.
+
+When prices rise by this amount, people buy fewer sugary drinks. Consuming fewer sugary drinks means taking in fewer calories. Fewer calories mean lower body weight at the population level. Lower weight means fewer cases of obesity-related diseases: diabetes, heart disease, stroke, cancer and tooth decay.
+
+The model follows these chains of cause and effect across the entire Egyptian population over their lifetimes. The results are significant, even under conservative assumptions. They show a marked drop in non-communicable diseases as well as significant savings to the country's healthcare costs. Based on our modelling we recommend that governments in Egypt and across Africa increase taxes on sugary drinks.
+
+Significant impact Our modelling shows that over 25 years, a 20 per cent tax on sugary beverages in Egypt could prevent an estimated 350,000 cases of obesity, 250,000 cases of type 2 diabetes, 56,000 cases of heart disease, 39,000 strokes, 2,700 new cancer cases, and nearly 31 million instances of tooth decay. The healthcare cost savings over that same 25-year period are estimated at $1.8 billion  -  roughly 8 per cent of Egypt's entire health budget in a single year. And because we excluded indirect costs such as lost wages and reduced productivity from illness, the broader economic benefit is likely higher.
