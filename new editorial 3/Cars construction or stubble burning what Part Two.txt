@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Cars construction or stubble burning what Part Two
+
+Cars, construction or stubble burning, what really pollutes Delhi's air? We need better data to fight pollution
+
+Second, carry out extensive air quality modelling to understand the impact of interventions. Once robust, regularly updated emission inventories are in place, air quality models like the ones that power Delhi's Air Quality Early Warning System can be run. Multiple scenarios can be modelled to understand the impact of various interventions, like reducing vehicular emissions, construction restrictions, or regulating industrial emissions, before formulating policies for them.
+
+Although Delhi's AQEWS is more than 80 per cent accurate according to the latest analysis by CEEW, its Decision Support System does not model the impact of actionable interventions Once the modelling exercise provides a set of interventions, stakeholders can then select the most suitable set based on potential impact, cost, and implementation feasibility. Third, invest in a long-term, real-time source apportionment programme to understand the sources better. While modelling can tell us what's polluting, where and how much, it should be validated with careful real-time measurements.
+
+This programme should run for multiple years for us to know the impact of both short-and long-term interventions. The 40 Continuous Ambient Air Quality Monitoring Stations across Delhi can give us the concentrations of pollutants, but they cannot point to the sources. To get this information, we need to perform source apportionment studies to determine the chemical composition of pollutants like PM2.5.
+
+This chemical composition can then be tied back to the sources and validate the findings of the modelling. In the winter of 2022-23, the Delhi government had commissioned a Real-time Source Apportionment (RTSA) study at one site, in collaboration with a consortium of institutions. RTSAs can tell us the contribution of various sources in real time, unlike the traditional method of collecting samples and sending them to specialised laboratories for analysis.
+
+Delhi must resume operations at its RTSA site. Further, state governments, in collaboration with CAQM, should establish multiple RTSA sites in theb NCR and surrounding areas. Moreover, these sites should operate throughout the year. Delhi's air pollution is a multi-sectoral problem. Solving it requires interventions to target emissions at the source level.
+
+While we know enough to act on air pollution and urgently, we can act better if we know better. Any delay in gathering knowledge and insights, or in implementing different sectoral interventions, will only worsen the crisis. The patient is in critical care and needs urgent interventions, even as treatments and diagnostic data for chronic care are refined and advanced.
+
+By Mohammad Rafiuddin and Arunabha Ghosh Rafiuddin is programme lead, CEEW, and Ghosh is CEO, CEEW and member (NGO), CAQM. Views are personal.
