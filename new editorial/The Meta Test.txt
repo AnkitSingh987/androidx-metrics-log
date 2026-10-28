@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The Meta Test
+
+The Meta Test
+
+Meta's agreement to pay up to $18 billion to settle claims that Facebook and Instagram harmed children marks a significant shift in the battle over the responsibilities of social media companies. Meta's agreement to pay up to $18 billion to settle claims that Facebook and Instagram harmed children marks a significant shift in the battle over the responsibilities of social media companies. The money is substantial.
+
+The more consequential part of the settlement, however, is what it says about who should bear the burden of keeping children safe online. The agreement follows a case brought initially by 29 US states, but the settlement extends across almost the entire United States. Meta will introduce restrictions including a default two-hour daily limit for teenage users, overnight blocking of notifications, school-hour limits, hidden likes and greater parental control.
+
+If other major platforms adopt comparable restrictions, the daily limit could fall to one hour. These measures matter because they challenge a business model that has traditionally treated engagement as an asset. The longer users remain on a platform, the more opportunities there are to collect data, display advertising and reinforce habitual use.
+
+Children, with less developed capacity to regulate their own behaviour, are particularly vulnerable to that logic. The settlement also exposes the weakness of relying primarily on parental vigilance. Meta has developed scores of safety tools, but a system that requires parents to understand, locate and activate dozens of controls effectively transfers responsibility from the platform to the household.
+
+Safety by default represents a different principle: the company that designs the environment should carry a substantial part of the responsibility for making it safe. Yet the settlement should not be mistaken for a global child-safety regime. Its legal obligations arise from US litigation and apply within the American regulatory framework.
+
+A teenager in India, Britain or elsewhere does not automatically acquire the same protections simply because Meta has agreed to provide them to American users. That does not make the settlement internationally insignificant. Quite the opposite. It creates a benchmark that regulators elsewhere can use.
+
+If a two-hour limit, night-time restrictions and stronger parental controls are considered necessary to protect American children, governments in other countries will have an obvious question to answer: why should their children receive weaker protection? The pressure will also extend beyond Meta. Social media companies compete for users, attention and advertising.
+
+If only one platform imposes meaningful restrictions, users may simply migrate to another. That is why the emerging contest is less about individual corporate responsibility and more about establishing common rules across an industry. The most important consequence, therefore, may not be the $18 billion payment.
+
+It is the possibility that child safety is becoming a condition of operating a social platform rather than a collection of optional features. America has not regulated the world's social media industry through this settlement. But it may have begun something more consequential: establishing a standard that the rest of the world will increasingly be expected to match.
+
+It is up to other countries to take the cue.
