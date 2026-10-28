@@ -1,0 +1,20 @@
+Category: Editorial
+Title: How are cryptocurrency exchanges in India Part Two
+
+How are cryptocurrency exchanges in India vetting customers?
+
+However, DEXs are also attractive options for money launderers, scammers, hackers, and those financing terrorism. In order to effectively address these threats, Indian regulators will have to go far beyond issuing guidelines. How do crypto exchanges vet Indian customers? WazirX founder Nischal Shetty stated that leading Indian exchanges were already following global best practices and bank-level compliance standards, with the FIU's new rules formalising existing ones.
+
+Some of WazirX's own KYC processes include the core identity, selfie check, and bank verification requirements under FIU/PMLA norms. WazirX, which experienced a hacked multi-signature wallet in July 2024 and the loss of around $230 million in assets, resumed operations last year after its restructuring in Singapore. "The updated guidelines also highlight liveliness detection for new users, and geo tagging to ensure the ID verification details match with the user location(exceptions apply under different conditions), which are already in place in our user onboarding process.
+
+We also have an instant verification process enabled with DigiLocker where it securely shares a new user's KYC documents (Aadhaar and PAN) with WazirX," Mr. Shetty told The Hindu. Another popular exchange, CoinDCX, had implemented KYC processes that included personal ID checks, face match and liveliness checks, geographic validation, and bank account verification.
+
+In July 2025, CoinDCX also suffered a security breach that cost it around $44 million, but customer assets were not affected. Meanwhile, ZebPay COO Raj Karkara hailed the new enhanced AML and KYC protocols for crypto exchanges, highlighting their role in supporting the wider acceptance of crypto in India. "Measures such as liveness detection and geo-tagging during the onboarding process help strengthen user verification, improve transparency, and ensure greater accountability across platforms, aligning the industry with evolving global compliance expectations," he stated.
+
+Furthermore, ZebPay and CoinDCX were both collecting users' photos as part of the KYC process for more than a year at least, according to their websites Periodic KYC re-verification was routine at multiple crypto exchanges even before the rules were updated, while several Indian exchanges also offered KYC via Digi-Locker. In essence, FIU-IND's updated guidelines do not introduce drastic changes to the existing KYC framework for crypto exchanges. What is the legal status of cryptocurrency in India?
+
+Both investors as well as business leaders in India have called for greater regulatory clarity surrounding cryptocurrencies. Many traders continue to hope that their concerns will be handled at a parliamentary level or addressed in the annual budget. However, past government debates have only reiterated basic arguments about legality and security.
+
+These measures lag far behind the more advanced crypto legislation being drafted in the U.S., Europe, and East Asia that is meant to stimulate fintech entrepreneurship, increase exchange registrations, and regulate stablecoin issuance. Though virtual digital assets such as cryptocurrencies see capital gains taxed at 30% and a TDS rate of 1% in India, there is almost no reliable safety net for Indian investors in case they are scammed, hacked, or subjected to unfair terms by private players. Many crypto investors consciously trade through Indian exchanges in order to comply with Indian laws and taxation requirements, but are met with a regulatory landscape that is vague and discouraging.
+
+By Sahana Venugopal
