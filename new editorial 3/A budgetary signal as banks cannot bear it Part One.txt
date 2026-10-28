@@ -1,0 +1,24 @@
+Category: Editorial
+Title: A budgetary signal as banks cannot bear it Part One
+
+A budgetary signal as banks cannot bear it all
+
+There is an attempt in Budget 2026 to rebalance India's financial system by moving risks away from banks and into markets Budget 2026 has initiated, albeit limited, some important shifts in India's approach to financial-sector reform. There are proposals to introduce a market-making framework for corporate bonds, develop total-return swaps and bond-index derivatives, establish an Infrastructure Risk Guarantee Fund, and recycle Central Public Sector Enterprises (CPSE) real estate assets through dedicated Real Estate Investment Trusts (REIT). But all these reflect an implicit recognition of a deeper structural problem: Indian banks are shouldering risks that functioning markets absorb elsewhere Overburdened balance sheets When Indian banks struggle, weak governance, political interference, and poor risk management are the usual explanations.
+
+Each contains some truth. Taken together, however, they miss the larger issue. Over time, India has asked its banks to bear risks that, in more mature systems, are priced, traded, and distributed through markets. This has quietly overburdened bank balance sheets and made the financial system more fragile than it needs to be.
+
+The problem begins with a structural imbalance. India has built a reasonably deep government bond market, supported by the Reserve Bank of India and a predictable issuance framework. Government securities outstanding are close to 90% of GDP, comparable to many large economies. The same cannot be said of corporate bonds.
+
+At around 15%-16% of GDP, India's corporate bond market is less than half the size of China's and barely a quarter of that in the United States or Germany. This gap matters because economies do not stop needing long-term finance simply because markets are missing. When bond markets are shallow, someone else must step in.
+
+In India, that "someone" has been banks. Today, banks carry roughly 60%-65% of all non-financial corporate debt, compared with about 30% in the U.S. and 40% in Europe. The difference is not managerial skill or prudence; it is architecture. Where markets can price and redistribute credit risk, banks lend selectively.
+
+Where they cannot, banks become the default warehouse for risk. Vulnerability and recapitalisation This is not what banks are designed for. Banks fund themselves largely through short-term deposits and are sensitive to confidence. Yet, they are expected to finance projects such as highways, power plants, ports, and telecom networks that take 15 years or 20 years to generate cash flows.
+
+This mismatch in duration forces banks into extreme maturity transformation, increasing vulnerability to shocks. The consequences have been visible and costly. When projects stalled or cash flows disappointed, losses were not absorbed gradually by markets. They landed abruptly on bank balance sheets.
+
+The fiscal cost followed. Since 2017, the government has injected more than ₹3.2 lakh crore into public sector banks. These recapitalisations stabilised the system, but they also quietly transferred private credit losses onto the public balance sheet. This is the hidden tax of a bank-centric financial system.
+
+There is also a less visible opportunity cost. Capital tied up in long-term corporate loans is capital that is not available to small firms, exporters or first-time borrowers. This helps explain a familiar paradox that even after repeated clean-ups and capital injections, bank credit to small and medium enterprises remains constrained.
+
+India's corporate bond market remains shallow by international standards. Bonds outstanding amount to less than 15% of GDP, compared with over 80% in the U.S., around 55%-60% in Germany, and 45%-50% in China. Issuance is overwhelmingly through private placements, ownership is concentrated among a narrow set of institutional investors, and secondary market liquidity is weak.
