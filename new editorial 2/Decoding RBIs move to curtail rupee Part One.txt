@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Decoding RBIs move to curtail rupee Part One
+
+Decoding RBI's move to curtail rupee speculation
+
+RBI is trying to reduce arbitrage trades between onshore and offshore markets What is NOP-INR? Net Open Position in rupee, or NOP-INR, refers to the net foreign exchange exposure of Authorised Dealers (ADs), primarily commercial banks, in the domestic market. In simple terms, it captures the difference between a bank's long and short positions in foreign currency, predominantly the US dollar, against the rupee.
+
+NOP-INR is calculated by aggregating positions across various segments, including spot, forwards and swaps in the over-the-counter (OTC) market, as well as Exchange-Traded Currency Derivatives (ETCDs) such as futures and options. While ETCDs are cash-settled, they are still included in NOP as they contribute to overall exchange rate risk. What has RBI directed banks to do with respect to their rupee positions?
+
+On March 27, the Reserve Bank of India directed that ADs maintain their NOP-INR positions in the onshore deliverable market within $100 million at the end of each business day. Banks have been given time until April 10, 2026, to comply. The emphasis on "onshore deliverable market" refers to positions arising from transactions within India that involve actual foreign exchange exposure, primarily spot, forward and swap positions.
+
+While ETCDs are part of NOP calculation, the policy intent is to restrain excessive participation in the deliverable segment, where real demand and supply of dollars happen. Notably, the circular does not refer to offshore positions as an indirect impact is expected. Onshore vs offshore market The onshore market refers to the domestic foreign exchange market within India.
+
+It includes spot, forwards, swaps and ETCDs traded on domestic exchanges. This market is regulated by the RBI. In contrast, the offshore market consists of Non-Deliverable Forward (NDF) contracts traded outside India, in financial centres such as Singapore and Dubai. These contracts are cash-settled (mainly in US dollars) and do not involve actual exchange of rupees.
+
+The offshore market is dominated by global banks and hedge funds and operates for longer hours than the onshore market. Despite being separate, the two markets are closely linked with arbitrage playing a significant role in this. Banks often take positions across both segments to exploit price differences i.e., arbitrage trades.
+
+Why has RBI taken this step? The rupee has been under sustained pressure in recent weeks, driven by global risk aversion particularly due to the Iran conflict. This has led to persistent demand for dollars  -  considered a safe-haven  -  and frequent record lows for the domestic currency. In such an environment, banks are believed to have built sizeable long-dollar (buy) positions.
+
+Banks have been buying dollars in onshore market and selling in offshore NDF market, to take advantage of the price difference. So, by capping NOP-INR, the RBI is effectively limiting the purchase of dollars for these arbitrage trades. This also forces them to unwind existing exposures, thereby leading to sale of dollars and purchase of rupee, which can help rupee stabilise.
+
+The measure was expected to provide near-term support, but the rupee's movement on Monday suggests that underlying pressures remain strong. While the local currency gained initially, it started declining and gave up all the gains. In fact, the rupee marked a fresh all-time low of 95.23 on Monday. Nevertheless, the cap may have prevented sharper depreciation in the future by restricting additional positioning.
