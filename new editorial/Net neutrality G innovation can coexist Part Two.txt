@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Net neutrality G innovation can coexist Part Two
+
+Net neutrality, 5G innovation can coexist
+
+It enters the territory of prohibited prioritisation. The policy objective, therefore, is not to prohibit slicing, but to prevent its misuse. Importantly, India does not need an entirely new regulatory architecture to address this issue. The foundations already exist within the current licensing and net neutrality framework.
+
+What is required instead is a clear understanding and disciplined implementation of three basic principles: neutrality obligations must apply fully within internet access services; specialised slices must remain genuinely non-substitutable for internet access; and such slices must not degrade baseline internet quality for ordinary users. With these conditions, network slicing ceases to be a threat to neutrality and instead becomes an essential capability for the digital economy. Indeed, prohibiting slicing altogether would carry serious consequences for India's tech ambitions.
+
+5G was never designed solely for faster smartphone downloads but to be the First G going outside Telecom. Its transformative value lies in enabling Industry 4.0, modern agriculture, intelligent transport systems, telemedicine, smart manufacturing, critical communications, and machine-to-machine automation. Many of these applications simply cannot function reliably on best-effort internet architecture alone.
+
+India's digital aspirations  -  from advanced manufacturing to connected healthcare and public safety systems  -  will increasingly depend on precisely the kinds of differentiated technical capabilities that network slicing can provide. The challenge for policymakers, therefore, is not whether slicing should exist, but ensuring that it remains an infrastructure capability rather than becoming a mechanism for commercial discrimination within the open internet. That balance is both achievable and necessary.
+
+Correctly deployed within clearly defined regulatory boundaries, slicing is not merely permissible. It is indispensable for unlocking the full potential of 5G and future digital networks in India. Written by TV Ramachandran With research inputs by Neha Hathiari
