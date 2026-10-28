@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The reality behind falling net FDI Part One
+
+The reality behind falling net FDI
+
+India's net FDI has declined sharply despite strong gross inflows, underlining the impact of disinvestment/capital repatriation; an understanding of these trends requires looking beyond aggregate inflow, outflow figures; investor classes, modes of entry, and exit strategies can have important implications for technology transfer, industrial development, and external sustainability India's net foreign direct investment (FDI) has declined drastically in recent years. Critics see the weak net flows as a sign of weakness, while the Chief Economic Adviser points to the large inflows and rising manufacturing FDI as evidence of strength. He links weak net flows to profit repatriation and outward investment by Indian companies.
+
+However, this debate overlooks a major issue. By focusing on overall numbers, both sides ignore the changing composition of international capital and the Balance of Payments (BoP) mechanisms that govern inflows and outflows. For BoP purposes, net FDI is calculated as the difference between inflows and outflows after adjusting for the repatriation of capital.
+
+From the peak of $44.0 billion in 2020-21, net FDI fell to less than $1 billion in 2024-25. It recovered to $7.6 billion in 2025-26. The corresponding gross inflow was $94.6 billion. It is necessary to note that India's liberal FDI policy, introduced in 1991, initially emphasised technology acquisition, export promotion, and foreign exchange conservation.
+
+Over time, policy increasingly prioritised attracting larger inflows, while concerns regarding future external payment obligations and investment quality receded. Three types of FDI FDI is often viewed as a uniform, long-term commitment that brings technology and management skills to the host country. FDI can fall into three different investor classes, each with distinct capabilities, strategies, and exit timelines.
+
+The first category is real FDI (RFDI), consisting of traditional multinational enterprises with the technology, brands, and capabilities to establish production and services. These generally represent long-term commitments. The second category comprises financial investors, including private equity funds, venture capital firms, sovereign wealth funds, and asset managers.
+
+Their main goal is capital growth and planned exits. The third category includes diaspora investments and special purpose vehicles (SPVs). These involve capital raised abroad and funneled through offshore financial centres, sometimes including the round-tripping of Indian funds. Data on remittance-level FDI from the past four years, from 2022-23 to 2025-26 up to December, show that RFDI made up 41.9% of "effective inflows." Financial investors followed closely with a 40.5% share, while the remaining 17.6% came from the diaspora and SPVs linked to India.
+
+The business model of financial investors suggests future exits that result in large-scale capital repatriations. A notable example occurred in 2025 when Singapore's Temasek exited Schneider Electric India Ltd., earning $6.4 billion on an investment of $637 million made in 2020. Total recorded divestment in CY 2025 was $52 billion, with 45 major foreign private equity and venture capital exits accounting for $29 billion in outflows.
+
+Based on an analysis of effective inflows, FDI in India's manufacturing sector has declined across three consecutive four-year periods. Most notably, RFDI into manufacturing accounted for only 10.6% of total effective inflows during the most recent four-year period. Not fresh capital A major blind spot in gross FDI figures is the mixing of new capital injections with corporate accounting changes, such as intra-group ownership reorganisations, mergers, share swaps, and the conversion of earlier non-equity instruments such as external commercial borrowings (ECBs) and convertible debentures.
+
+While capital structures change, no new capital flows into the country. Approximately $40 billion of the $560 billion in equity inflows to India from 2014-15 to 2025-26 (up to December) fall into this category. Large transactions, such as Bosch and Meesho Technologies, can skew annual inflow and sectoral trends.
