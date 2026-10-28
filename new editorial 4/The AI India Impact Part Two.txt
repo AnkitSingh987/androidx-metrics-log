@@ -1,0 +1,14 @@
+Category: Editorial
+Title: The AI India Impact Part Two
+
+The AI India Impact
+
+The Indian IT industry has faced similar upheavals before, and one hopes the current slump is a temporary occurrence rather than a long-term hit. At the same time, AI will probably also create new types of jobs, but that could happen with a time lag and will necessitate training people in new skills and at scale. At the societal level, the spread of near-realistic deepfakes makes it difficult for the public and even institutions to distinguish facts from fiction.
+
+These tools can be manipulated for political and other aims. AI creations carry the biases of the data on which they are fed or trained. Dark algorithms can perpetuate discrimination in activities such as recruitment and loans. AI can be used as a malignant tool for government surveillance and targeting of opponents or dissenters, something that was a point of disagreement between the Pentagon and Anthropic.
+
+AI, it is feared, can hugely exacerbate economic disparities in societies as the economic fruits can be captured by the rich and tech corporates. Finally, it can bring about an existential crisis as the AI creatures become more intelligent and more powerful than humans. As people like Amodei point out, we should be worried about the evolution of powerful AI that can morph into an "AI country" populated by artificial superintelligence and dark power with no ethical guardrails.
+
+India's focus at the AI summit and otherwise has been at the deployment level, with the aim of delivering equitable growth, improving public services, and addressing the country's most pressing challenges while ensuring safety, ethics, and inclusivity. India's flourishing startup ecosystem and an abundance of AI related talent, encouraged also by the government's AI Mission, has seen the birth of several deployment-level apps and tools, as well as indigenous foundation models like Sarvam AI. High levels of investment in AI-specific infrastructure, both from global giants and Indian corporates such as by Reliance, Adani and Google, Meta and Yotta, bode well for the accelerated growth of AI technology in the country.
+
+These will likely spur the development of AI at scale and its deployment in a host of fields. Some of this is already happening. By Vinod Dhall, Former Chairman, Competition Commission of India, and Senior Adviser, Touchstone Partners
