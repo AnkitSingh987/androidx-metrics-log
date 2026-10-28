@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The chain reaction begins Part One
+
+The chain reaction begins
+
+Reactor in Tamil Nadu achieved something six decades in the making. The celebration is warranted. So is the sober accounting of what it unlocks Three days before the Prototype Fast Breeder Reactor (PFBR) at Kalpakkam achieved criticality, the Indian Navy commissioned INS Aridhaman, its third nuclear-powered ballistic missile submarine, in Visakhapatnam.
+
+The two events were not coordinated for effect. They didn't need to be. Together, they mark what India's strategic establishment has spent 60 years building - the full architecture to sustain, expand, and independently evolve a nuclear capability across civilian, military, and technological lines. On April 6 at 8:25 PM IST, the 500 MWe sodium-cooled reactor built by BHAVINI achieved first criticality - a self-sustaining fission chain reaction without external neutron input.
+
+Electricity generation follows after power ascension and Atomic Energy Regulatory Board (AERB) clearance. What criticality confirms is more profound - the physics holds, the engineering is sound, and India's nuclear programme has entered Stage Two. Most reactors consume fuel. A fast breeder creates more than it burns, surrounding its core with a blanket of uranium-238 or thorium-232 that absorbs fast neutrons and transmutes into fissile plutonium-239 or uranium-233.
+
+The PFBR does not merely generate power. It manufactures its own successor fuel. India holds limited uranium but 25% of the world's thorium. Homi Bhabha's three-stage programme was designed around this - in stage one, heavy water reactors burn uranium and produce plutonium; in stage two, fast breeders use that plutonium and breed more, while enabling future thorium-based U-233 breeding; and in stage three, thorium reactors close the cycle entirely.
+
+India does not have the uranium to sustain a large nuclear programme. It has the thorium to sustain an enormous one. France built Superphenix, the only commercial-scale breeder, then shut it down in 1998 under political pressure. Japan's Monju suffered a sodium fire and was decommissioned in 2016. The US killed its breeder programme over proliferation anxieties.
+
+Liquid sodium reacts violently with water and ignites in air. The technology defeated plans with far larger budgets than India's. Russia alone persisted, operating the BN-600 since 1980 and BN-800 since 2016. China is building the CFR-600. India now joins this list, not by purchasing the technology but by developing it under international denial.
+
+A project sanctioned in 2003, due in 2010, achieving criticality in 2026, is what a scientific establishment accomplishes when it refuses to quit. India imports 85% of its crude oil and over half its natural gas. Its uranium procurement depends on non-proliferation frameworks that can be tightened or revoked.
+
+The fast breeder programme removes that ceiling, anchored by reprocessing capabilities at Kalpakkam and Tarapur. Each FBR breeds surplus plutonium to fuel additional reactors. The programme compounds - more reactors, more fuel, more reactors. India targets 100 Gw of nuclear capacity by 2047. Without the breeder route, that is a diplomatic aspiration hostage to supply agreements.
+
+With it, 100 Gw becomes an engineering schedule. Solar supply chains remain concentrated in China. Battery minerals sit in a handful of jurisdictions. A closed thorium cycle depends on nothing outside India's borders. Fast breeders can significantly expand plutonium availability within a closed fuel cycle.
+
+The reprocessing infrastructure the programme generates has long-term strategic implications that intersect with deterrence credibility. A nation that breeds and fabricates its own fissile material holds its deterrent in its own hands. The deeper transfer is technological. Sodium-cooled fast breeders demand high-temperature materials science, corrosion resistance against a violently reactive coolant, radiation-resistant alloys, and extreme thermal hydraulics.
