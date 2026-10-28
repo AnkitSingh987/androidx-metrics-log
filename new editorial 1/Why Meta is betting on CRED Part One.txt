@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Why Meta is betting on CRED Part One
+
+Why Meta is betting on CRED
+
+In today's Finshots, we explain why Meta is the last Big Tech company yet to crack India's payments market and what it's doing about it. The Story For years, CRED has occupied a strange place in India's startup ecosystem. It's one of the country's most recognisable fintech brands, commands a fiercely loyal user base, and has steadily expanded from credit card bill payments into lending, UPI, rent payments and wealth products.
+
+Yet every conversation about the company circles back to the question: How exactly does CRED make money? And it's a fair question. Because for all its popularity, CRED remains a company that's still figuring out the economics of its business. While revenue has grown steadily over the years, profitability is yet to catch up.
+
+But despite being loss-making, investors haven't stopped backing the company. In fact, the list of believers may have expanded this week to include one of the biggest names in technology. According to reports, Meta is set to invest around $900 million in CRED at a valuation of roughly $3.5 - 4 billion.
+
+That's well below the company's peak valuation of over $6 billion but still among India's most valuable fintech startups. Much of this capital is expected to go directly into CRED, giving the company fresh capital to expand. Which is where the story gets interesting. Because the bigger question isn't why CRED wants Meta's investment.
+
+It's why Meta wants CRED. Let us explain. Meta isn't short on users. It owns Facebook, Instagram and WhatsApp, which are three of the world's largest consumer platforms. In India alone, WhatsApp reaches hundreds of millions of people. And, it even has its own payments product, WhatsApp Pay. So why look outside, you ask?
+
+If payments are already built into WhatsApp, why invest in another fintech? Why buy a company that's still chasing profitability? Well, the answer begins with a simple fact. While Meta may own one of India's biggest messaging platforms, it has never managed to dominate payments. In fact, Meta was one of the earliest big tech companies to bet on India's UPI revolution.
+
+It launched WhatsApp Pay in 2018, hoping to turn the country's most popular messaging app into its next payments platform. But things didn't quite go according to plan. India's payments regulator, the National Payment Corporation of India (NPCI), didn't want any single app to dominate UPI. To keep the ecosystem competitive, it proposed a 30% market-share cap on UPI transactions.
+
+In WhatsApp Pay's case, it imposed separate onboarding limits. That meant WhatsApp Pay could initially onboard only one million users. The limit was later raised to 20 million and eventually 100 million users, before being removed altogether in late 2024. But by the time those restrictions were finally lifted in late 2024, the race had already been won.
+
+Google Pay and PhonePe had become the default way millions of Indians paid for everything from groceries and cab rides to utility bills and restaurant meals. Together, they now account for more than four out of every five UPI transactions. WhatsApp Pay, meanwhile, processes less than 0.4% of the country's UPI transaction volume, as of June 2025.
+
+Which leaves Meta with an unusual problem… It owns one of India's largest digital platforms, but it still doesn't own one of India's biggest digital habits. And in today's internet economy, that may matter more than the number of users you have. Which brings us to another important question: Why does Meta care so much about payments in the first place?
