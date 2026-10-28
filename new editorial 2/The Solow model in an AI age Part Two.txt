@@ -1,0 +1,14 @@
+Category: Editorial
+Title: The Solow model in an AI age Part Two
+
+The Solow model in an AI age
+
+So higher savings and investments can lead to higher income but not long-term growth. Second, to break out of the steady state, the economy needs a new technological shock. The model did not explain where the technology comes from and assumed it is an exogenous factor. Third, the model explains that if both poor and rich countries deploy the same amount of capital, it is the poor ones that will grow faster than the rich nations.
+
+This is because rich countries face diminishing returns on capital accumulation whereas poor countries do not face diminishing returns at the start of their growth journey. It also cautions that rich countries which do not strive for technological progress will stagnate, as is the case with most developed countries. Future economists worked on the limitation of the Solow model  -  assuming technological shock is manna from heaven.
+
+In the 1980s, Paul Romer (2018 Nobel Prize winner) said growth is driven by internal factors such as education and research and development. According to him, even if capital and land diminish, new ideas to organise economic activity remains unlimited. Robert Lucas, the 1995 Nobel Laureate, emphasised the importance of human capital in an economy's growth, enriching the models.
+
+William Nordhaus, a co-winner of the Nobel with Romer, built on the Solow model to add environmental costs of production. The history of growth models from a depressing Malthus to cheering Solow is, in essence, the economic history of humanity as well. To conclude, how does the Solow model help us assess the impact of AI?
+
+Current discussions hover around whether AI is a technology, a capital-augmentation investment, or a labour-replacement shock. Once debates settle which of the three is better suited to AI, we can think about the impact of AI on economic growth. As of now, we find AI everywhere but not in growth. To paraphrase Solow's famous quip on computers in 1987, "You can see the AI age everywhere but in the productivity statistics." Written by Amol Agrawal The author teaches at the National Institute of Securities Markets
