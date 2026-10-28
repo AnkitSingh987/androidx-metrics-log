@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Tax on mobile data usage isnt a good idea
+
+Tax on mobile data usage isn't a good idea
+
+Isn't a good idea Apart from being legally fragile, the tax would result in double taxation and price out marginal users "No government can exist without taxation. The money must necessarily be levied on the people; and the grand art consists of levying so as not to oppress." This quote is believed to have been used between the 18th and 19th centuries while discussing the proper limits for taxation. The government is reportedly examining a levy on mobile data consumption  - a flat charge of ₹1 per GB  -  with the Department of Telecommunications asked to submit a feasibility report by September 2026.
+
+The proposal, it is said, serves a dual purpose: augmenting telecom revenues and curbing the growing digital addiction among children. Both objectives, however admirable in isolation, do not justify the tax. The proposal is Constitutionally vulnerable and would be practically unworkable. Attractive revenue The revenue rationale gives clear signs of double taxation.
+
+India consumed approximately 229 billion GB of mobile data in FY25. At ₹1 per GB, the projected revenue is around ₹22,900 crore. This figure sounds impressive until one remembers that consumers already pay 18 per cent GST on every mobile recharge. A data consumption levy would, in effect, be a second tax on the same transaction  -  once when the plan is purchased, and again each time the data is used.
+
+The GST Council has carefully constructed a framework where the supply of telecom services is taxed at the point of service. Introducing a usage-based levy outside the GST architecture raises the question: Under which Entry of Schedule VII does Parliament derive the power to enact this? If it is treated as a tax on services, it must be within GST.
+
+If it is levied as a fee or cess, it must demonstrate a direct nexus with the service rendered. A flat per-GB charge with no regulatory quid pro quo satisfies neither description. The second justification  -  reducing screen time among children  -  is also problematic. Taxation is a blunt tool which does not distinguish between who watches what on the same network.
+
+A ₹1 per GB levy falls with equal and indiscriminate force on everyone. If the concern is digital addiction among minors, the appropriate instruments are regulatory  -  age verification mechanisms, content restrictions, parental controls mandated under the Information Technology Act and its rules. To levy a general tax on the entire population to address the behavioural choices of a subset is disproportionate and could be challenged under Article 14 of the Constitution.
+
+One must also examine what this proposal would do to India's digital achievement. Over the last decade, India has built one of the world's most envied digital ecosystems  -  affordable data, deep 4G penetration, and a rapidly expanding 5G network. The Economic Survey has also celebrated India's data democratisation.
+
+A consumption tax on data would effectively reverse this by pricing out the most marginal users  -  precisely those for whom digital access is still aspirational. Contradictions There is another anomaly that is worth noting. Budget 2026 offers a tax holiday until 2047 to foreign cloud companies using Indian data centres.
+
+The government's intent here is clear  -  position India as a global hub for cloud and AI infrastructure, attract investments of over $200 billion, and integrate into global digital supply chains. But the data consumption tax proposal runs in the opposite direction. These two policies, considered together, reflect an internal contradiction.
+
+The comparison with other jurisdictions is equally instructive. Most countries that seek to tax the digital economy do so by targeting the revenues of large technology platforms  -  the Googles and Metas of the world  -  rather than the consumption behaviour of ordinary citizens. A retail data tax of the kind being considered here has few precedents globally.
+
+The better course is to rationalise the existing levy structure on telecom operators  -  spectrum usage charges, licence fees, and the AGR regime  -  rather than create new and legally fragile imposts. If digital addiction is a genuine public health concern, Parliament has the tools within the existing statutory framework to address it. What it need not do is to innovate new methods of taxation when existing regulations provide ample scope to augment revenues.
+
+By Mohan R Lavi The writer is a chartered accountant
