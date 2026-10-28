@@ -1,0 +1,24 @@
+Category: Editorial
+Title: AIs next challenge is industrialisation Part One
+
+AI's next challenge is industrialisation
+
+India must strive to become the world's most credible laboratory for deploying AI inside real economic systems Many years ago, on the shop floor of a plant manufacturing heavy engineering equipment, we watched a robotic welding cell come alive. The trials went exactly as promised; clean welds, consistent cycle times, an engineer beaming beside the control panel. The machine worked.
+
+What took the next 18 months was something else. Qualifying the wire feed across three shifts. Training operators who had welded by hand for 20 years to trust a system they could not see inside. Building a maintenance regime that did not exist yet. By the time that cell ran reliably across volumes, the technology had become the smallest part of the story.
+
+A near-identical lesson came from the digital side. When a Dealer Business Management System was deployed across a national dealer network of a large automobile company, provisioning took weeks; operational alignment took nearly two years standardising workflows, cleansing field data, converting users from manual habits. The technology was again the smallest part of the story.
+
+We think about both examples when we sit through AI demonstrations today. The question is no longer whether AI works. The demonstrations have settled that. What remains unsettled is whether organisations can deploy it reliably and at scale. The first phase of AI was a demonstration phase and a remarkable one.
+
+Models that write serviceable code, draft contracts, summarise board papers and pass examinations were, a few years ago, improbable. But it has stopped being the interesting question. Inside many organisations today, almost every function can show a pilot. Far fewer can show AI embedded in how the organisation runs, week after week, without a champion keeping it alive.
+
+The gap between a pilot and a system is not a technology gap. It is an industrialisation gap. And it is exactly the gap manufacturing spent a century learning to close. Why pilots are easy Pilots succeed for reasons that have little to do with the technology. Data is curated by the team that wants the pilot to work.
+
+Users are the most capable people in the building. The problem is narrowed until it fits inside what the model can do. None of this is dishonest. It is how any controlled trial behaves. Scaling removes every one of those conditions at once. The data that looked clean in one plant turns out inconsistent across 12.
+
+The workflow built for an early-adopter team must survive contact with a function that never asked for it. Accountability, informal during the pilot, must now be designed. Who owns the decision when it goes wrong? India's own transport policy offers a precise illustration. In 2015, Rule 118 mandated Speed Limiting Devices on commercial vehicles, sealed by the transport authority to prevent tampering.
+
+The device worked exactly as specified. But a sealed component is not a monitored system: without live tracking behind it, seals were routinely broken and devices bypassed. Compliance on the road stayed inconsistent for years. The lesson was not that the device failed. It was that a component, however well engineered, cannot industrialise itself.
+
+A factory floor, an enterprise network, a national regulatory mandate: three domains, one lesson. Scale is also financial. Running millions of decisions every day costs far more than running a few thousand test queries. The gap catches most organisations by surprise. The answer is leaner AI purpose-built for specific tasks, not large models for everything.
