@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Wall Street folded RBI held Part One
+
+Wall Street folded, RBI held
+
+India adopting Basel III to the letter, right when the rest of the world is watering theirs down Give me a lever long enough and a fulcrum on which to place it, and I shall move the world," Archimedes famously declared. Central bankers aren't exactly known for their dramatic flair  -  their speeches are usually designed to cure insomnia. But they know exactly what the Greek mathematician meant: unchecked borrowing can move the global economy, usually right off a cliff.
+
+The RBI's August 2026 consultation paper  -  Eleventh Amendment Directions  - is a high-stakes game of regulatory poker. India is adopting global banking rules (Basel III) to the letter, right when the rest of the world is watering theirs down. Bank safety rules come in two flavours. The clever ones say a bank should set aside less against a government bond than against a loan to a shaky startup.
+
+Then there's the leverage ratio  -  the sledgehammer. It doesn't care what you own. It just asks how big your pile of assets is, and how much of your own money sits underneath it to absorb losses. A hard floor beneath the clever rules, which banks have always been rather good at gaming. India's floors aren't moving: 4% for the biggest banks, 3.5% for the rest, both above the 3% global minimum and both unchanged since 2019.
+
+The drama, effective April 2027, is how you count the pile  -  plus a new straitjacket for Indian branches of foreign giants. Where the RBI gets an A+ Let's be honest: almost nothing here is original. The emergency escape hatch for money parked at the central bank (reserves) is lifted from Basel. The formula for measuring derivatives?
+
+Standard issue. The disclosure forms? A line-for-line copy. That's exactly the point. The RBI's great virtue is stubborn fidelity to a text wildly out of fashion everywhere else. Consider the alternatives. Europe had written the escape hatch into law, used it when Covid hit, and switched it off again in 2022  -  orderly in, orderly out.
+
+Britain went further, permanently taking central bank money out of the calculation in 2016 and raising its minimum to 3.25% to compensate. America had written down nothing: it improvised an emergency rule in 2020, let it lapse in 2021, then spent years relitigating the wreckage in the Treasury market, an argument concluded only this April. That's the case for writing the fire drill before the kitchen catches fire.
+
+And the RBI adds a sensible catch: use the escape hatch, and the minimum goes up to compensate, so nobody quietly loosens the safety net. Then there's the neat fix for "window dressing"  -  shrinking your riskiest short-term book the night before results day, then piling back in the morning after. The draft makes banks publish the quarter-end number, the daily average, and an explanation of why the two diverge.
+
+The RBI isn't policing this daily itself; it's putting the numbers on the table and outsourcing discipline to the market. Good luck explaining a convenient 40% dip to investors with a straight face. One loose thread: banks must clear the minimum at all times, yet measurement is quarter-end unless the RBI permits otherwise.
+
+Making averaging the default would close that gap for nothing. Where it gets harder The leverage ratio is deliberately blind to risk. That isn't sloppiness; it's the design. Before 2008, banks got very good at loading up on whatever the rules treated as harmless, sovereign paper included  -  which is exactly why carving out an exception for government bonds would reopen the loophole the sledgehammer slams shut.
