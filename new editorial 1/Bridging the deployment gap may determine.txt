@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Bridging the deployment gap may determine
+
+Bridging the 'deployment gap' may determine whether AI is diminishing or remaking India's IT companies
+
+Gap' may determine whether AI is diminishing or remaking India's IT companies At the India AI Impact Summit, Infosys chairman Nandan Nilekani highlighted a widening "deployment gap" between AI capability and enterprise adoption, arguing that India's IT services firms can stay relevant by embedding AI into complex business workflows rather than just building models. When Nandan Nilekani speaks about technology cycles, it is worth listening. At the recent India AI Impact Summit, the Infosys chairman identified what he called a "deployment gap" - the widening distance between the extraordinary power of artificial intelligence (AI) and the far more modest capacity of businesses to absorb, integrate, and operationalise it.
+
+In effect, it was a defence of India's software services industry at a moment of existential anxiety. For three decades, India's information technology (IT) services firms have thrived on labour arbitrage, process expertise, and global delivery. They built and maintained enterprise systems, modernised legacy architecture, and managed digital transformation for the world's largest corporations.
+
+Predictability was their currency: billable hours, multi-year contracts, and steady margins. Generative AI unsettles that model. If software can write code, test applications, generate documentation, and automate support, what happens to the millions of engineers whose time underpins the services business?
+
+Investors are already questioning whether AI will compress headcount-driven revenues and erode the industry's foundational economics. Nilekani's answer Nilekani's answer is that AI does not eliminate the need for services; it changes their nature. The opportunity lies less in building ever more powerful models - many are being developed by global technology giants - and more in embedding those models into the messy, compliance-heavy reality of enterprises.
+
+AI must be deployed before it can deliver value. There is logic here. Most large organisations struggle not with access to technology but with integration. Data remains siloed, workflows rigid, and incentives misaligned. Deploying AI requires cleaning data, redesigning processes, retraining staff, and ensuring regulatory compliance.
+
+It is as much organisational surgery as software implementation. This is terrain Indian IT firms understand. Decades of working with banks, retailers, and manufacturers have given them deep process knowledge. Embedding AI into those processes is less about inventing intelligence than about contextualising it - tailoring models to specific workflows and constraints.
+
+Deployment Gap Yet the deployment-gap thesis should not become a comfort blanket. AI is not simply another tool to be layered atop existing systems. It threatens to automate the very tasks that once justified large teams. The shift from effort-based billing to outcome-based pricing is inevitable. Clients will increasingly pay for productivity gains, not person-hours.
+
+That transition will be uncomfortable. Outcome-based contracts require vendors to share risk and build intellectual property. They demand reusable platforms and product thinking - capabilities Indian IT firms have historically approached with caution. A culture rooted in customisation must evolve toward scalable, AI-enabled solutions.
+
+Talent is another constraint. While India produces engineers at scale, advanced AI skills are globally contested. Bridging the deployment gap will require mass reskilling - turning traditional programmers into AI integrators, data curators, and governance specialists. The broader point remains: technological power alone does not create economic value.
+
+Deployment does. History is filled with innovations that dazzled but failed to diffuse. The winners are often not those who invent breakthrough technologies but those who embed them seamlessly into everyday operations. For India's software services industry, this is both warning and opportunity. If AI merely reduces billing hours, the sector will contract.
+
+If, however, firms succeed in becoming the systems integrators of the AI age - stitching intelligence into core business processes across industries - they could extend their relevance for another generation. The AI wave is real and so is the automation threat. But so is the deployment gap. Bridging it may determine whether India's IT champions are diminished by AI - or remade by it.
