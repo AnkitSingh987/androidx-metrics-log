@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The US just forced Anthropic to cut off Part Two
+
+The US just forced Anthropic to cut off access to Indian users. That's why India needs its own lawfare
+
+At present, the answer is unclear. That uncertainty is itself a vulnerability. India does not need a sweeping or confrontational blocking regime. But it does need a narrowly tailored framework establishing that foreign legal commands affecting Indian users, Indian infrastructure or Indian commercial rights do not automatically acquire force within India.
+
+They must first be tested against Indian law. Further, the second requirement is redundancy. India does not need to win a hundred-billion-dollar frontier-model race to reduce its exposure to abrupt external cut-offs. It needs to eliminate single points of failure. The country has already demonstrated through UPI, Aadhaar and ONDC that digital public infrastructure can be built at national scale.
+
+The same logic should now extend to compute capacity, open-weight models, cloud diversity and procurement strategy. Vembu's preference for smaller models fits naturally within this approach, not as the entire solution but as one component of it. The third element is leverage. Lawfare is not only defensive.
+
+India's domestic market is itself a source of jurisdictional power. Any platform operating here accepts Indian law as the price of entry. Reciprocity should therefore become part of regulatory thinking. Market access cannot mean that Indian users remain exposed to abrupt service withdrawal because another government changes its administrative position.
+
+A provider capable of being ordered to disconnect Indian customers without notice is, in commercial terms, an unreliable counterparty. Our procurement frameworks and sectoral regulations should recognise and price that risk rather than ignore it. The fourth element is the forum dimension. Trade law, investment treaties, the WTO and emerging technology governance arrangements are not side stages.
+
+They are arenas in which legal argument frequently substitutes for harder forms of pressure. India already understands this logic in other domains. The challenge is to bring the same seriousness to technology, data and AI governance, where our posture has too often been reactive rather than strategic.
+
+None of this requires the language of decoupling. Indeed, the argument is stronger without it. The point is not that India should isolate itself from global technology markets. The point is narrower and more defensible: No state should allow essential services to depend entirely on the continuing discretion of another country's administrative machinery.
+
+The dispute between Anthropic and the United States government may yet be resolved. But the vulnerability exposed by the episode will return, in other technologies, through other legal instruments and under other flags, because the underlying logic now favours it. Globalisation promised a world in which borders mattered less.
+
+What this moment reveals is that borders did not disappear. They migrated into law, code, and infrastructure, where they are harder to see and easier to weaponise. India's challenge is to stop being merely the object of other states' lawfare and to begin acting as the author of its own. By Aditya Kashyap and Kartikey Singh Kashyap is a practising advocate at the Supreme Court of India and central government counsel, and Singh is a lawyer based in New Delhi
