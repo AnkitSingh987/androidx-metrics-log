@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Why did the US Supreme Court reject Trumps Part One
+
+Why did the U.S. Supreme Court reject Trump's tariffs? | Explained
+
+Court reject Trump's tariffs? | Explained What authority did the Trump administration rely on to impose tariffs? Can Trump still impose tariffs after the ruling? What role does Congress play in tariff powers? Will businesses receive refunds for the tariffs they paid? Does the ruling limit future Presidents' trade powers?
+
+The story so far: On February 20, the U.S. Supreme Court delivered a decision that could reshape the legal boundaries of presidential trade power. The court held that the International Emergency Economic Powers Act (IEEPA), which U.S. President Donald Trump relied on, does not authorise a President to impose tariffs.
+
+It struck down the sweeping reciprocal and drug-trafficking-related tariffs imposed by Mr. Trump in 2025, calling them unconstitutional. What authority did Trump rely on? So far, Mr. Trump has used the IEEPA, a 1977 law that allows the President to regulate certain economic transactions after declaring a national emergency to address an "unusual and extraordinary threat" originating outside the country.
+
+IEEPA emerged out of the Trading with the Enemy Act, which was passed in 1917 when the U.S. entered the First World War, to regulate trade with enemy nations. It has been used to freeze foreign assets held in American banks, block financial transfers, and impose sanctions on hostile governments and terrorist groups.
+
+However, before 2025, it was never used to impose tariffs. After returning to office for his second term, Mr. Trump declared national emergencies tied to drug trafficking from Latin American countries and trade imbalances. His administration imposed 25% tariffs on most goods from its neighbours, Canada and Mexico, 10% tariffs on most goods from China, and a separate reciprocal tariff programme imposing at least a 10% duty on imports from virtually all trading partners.
+
+Some countries, including India, were hit with even higher rates. Why did the Supreme Court strike the tariffs down? The U.S. Constitution gives Congress the power "to lay and collect taxes, duties, imposts and excises." Congress also has the power to regulate trade with foreign countries, and tariffs fall squarely within that authority.
+
+The court concluded in a 6-3 ruling that the IEEPA does not authorise the President to impose tariffs. Chief Justice John Roberts, in his opinion, cited a hodgepodge of tariffs announced by Mr. Trump. "The President asserts the extraordinary power to unilaterally impose tariffs of unlimited amount, duration, and scope," Justice Roberts wrote in his opinion.
+
+"In light of the breadth, history, and constitutional context of that asserted authority, he must identify clear congressional authorisation to exercise it." Does this mean Trump can no longer impose tariffs? No. The decision only forbids the use of IEEPA, but Mr. Trump was quick to announce a workaround.
+
+Shortly after the Supreme Court ruling, his administration announced a new temporary import duty, which went into effect on February 24 for a period of 150 days. "We will get back to the same tariff level for the countries. It will just be in a less direct and slightly more convoluted manner," U.S. Treasury Secretary Scott Bessent said after the Supreme Court ruling.
+
+Mr. Trump alluded to using Sections 122, 301, and 232 to levy tariffs. Section 122 is part of the Trade Act of 1974. It permits the U.S. President to impose tariffs of up to 15% on a country to address "a large and serious United States balance-of-payments deficit." The tariff can be applied for a maximum of 150 days unless extended by Congress.
