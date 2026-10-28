@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Major trial for Meta large question for Big
+
+Major trial for Meta, large question for Big Tech
+
+WHO data shows that adolescents also rely on social media for peer support and social interaction. Five years after a whistleblower revealed that Meta had ignored evidence of Instagram's potentially harmful impact on teenagers, a case brought by four US states - California, Colorado, Kentucky and New Jersey - alleging that the company deliberately made Facebook and Instagram addictive for children, could help determine how Big Tech designs and operates its products in the years ahead. The trial comes months after a landmark case in which a jury held Meta and YouTube responsible for a young user's social media addiction and ordered them to pay $6 million in damages.
+
+Just days ago, a New Mexico court, describing Meta as a "public nuisance" akin to air pollution, ordered the company to pay $567 million for endangering children. If the positioning of social media platforms as neutral tools for connection has been coming under scrutiny for the past few years, these cases bring fresh urgency to the question of what technology companies owe their users. The latest trial is the culmination of a joint investigation launched by 29 US states after former Meta employee Frances Haugen leaked thousands of pages of internal research in 2021.
+
+The disquieting revelations have been reinforced by subsequent studies, including 2024 WHO data that has linked addiction-like behaviour to poorer mental and social well-being among young users. Meta and other platforms have been accused of designing their products to produce precisely this behaviour. Infinite scroll, auto-playing videos and other features have allegedly helped create a "frictionless" experience in which there is every incentive to keep going.
+
+Of course, the same WHO data shows that adolescents also rely on social media for peer support and social interaction. The harder questions are about what happens when keeping users hooked becomes the overriding design principle: Were the harms known? Were they ignored? And did companies double down on the features, even at the cost of users' mental health?
+
+The implications of these questions extend far beyond social media in the AI age. They go, indeed, to the heart of how any transformative technology is designed, governed and made accountable.
