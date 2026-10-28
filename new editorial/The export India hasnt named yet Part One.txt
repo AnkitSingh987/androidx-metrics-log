@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The export India hasnt named yet Part One
+
+The export India hasn't named yet
+
+A huge hidden workforce is involved in data annotation, the raw material for every AI model. They must be made visible, valued and supported There is a revealing moment in Aranya Sahay's critically acclaimed film Humans in the Loop, set among data-labelling workers in rural Jharkhand. Nehma, an Adivasi woman, is told to label caterpillars as pests so that a farming machine can learn to target them.
+
+She refuses. Having spent her life near the forest, she understands what the instruction overlooks: these caterpillars only eat the decaying parts of a plant. They save the crop, not destroy it. This scene captures a truth we often overlook: Artificial Intelligence does not understand or perceive the world on its own.
+
+It sees the world through the eyes of countless people like her, whose labour quietly shapes the intelligence we increasingly rely on. This hidden human labour is an essential pillar of the AI economy, and India contributes more of it than almost any other country. The work has a plain name, data annotation, and a repetitive nature often involving drawing boxes around pedestrians in dashcam footage, transcribing speech, tagging tumours in medical images, hour after hour.
+
+Yet, this is the raw material from which every AI model is created. India is responsible for about 36 per cent of the world's image and video labelling, hosts the largest workforce on the planet, and supports the biggest tech firms. The work now also reaches small towns and villages, impacting the lives of people who had few other options.
+
+However, India is not the only player. China handles about a tenth of the global workload, treating it as a serious industrial infrastructure and organising it into dedicated labelling centres. Chinese analysts report a shortfall of tens of millions of workers. This work has also spread to the Philippines, Kenya, Rwanda, and Eastern Europe.
+
+Africa is the fastest-growing frontier, expected to create well over a million jobs. A further cluster has emerged in Latin America, notably in countries facing real challenges, such as Venezuela, Colombia, and Peru. The pattern is clear, this work goes where people are capable, available, and, most importantly, affordable.
+
+Here lies an uncomfortable truth that often goes unnoticed. Despite its scale, much of it goes through informal digital platforms, and it does not show up properly in trade statistics. Instead, it gets lumped under a vague "computer and related services" category, rather than being identified for what it is: one of the country's real, fast-growing exports.
+
+How vulnerable the upper levels of the AI industry became evident when Anthropic's two most capable models, Mythos 5 and Fable 5, were suddenly cut off from international users for national-security reasons, just days after their launch. Models that received huge attention went dark within hours. This episode matters less than what it exposed: the prized components of the AI stack, namely, the frontier models, advanced chips, and associated regulations, can be disabled by decisions made far away.
+
+India recognises this predicament and is right to invest in its own models and chip industry. However, there is a third essential aspect, simpler and already in its possession, that deserves equal attention: the data that every model, whether domestic or foreign, must learn from. This layer resides here, shaped by the judgment of the country's own people, and no external order can turn it off.
