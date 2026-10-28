@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Algorithms ailments and the human touch Part One
+
+Algorithms, ailments, and the human touch
+
+While AI holds potential to curb delays, support clinicians, and bring expert knowhow, the human element becomes even more critical in healthcare Artificial intelligence (AI) is being rapidly adopted across healthcare. Diagnostic tools, predictive systems, and large language models are influencing everything from medical imaging to patient support. With this progress, however, a narrative has emerged that suggests AI may eventually replace the doctor.
+
+A recent editorial in Nature Medicine made an important point that deserves wider attention. It stated that claims about medical AI must be supported by proper evidence. The stronger the claim, the stronger must be the evidence required. In the current excitement around AI, it is a principle that is increasingly forgotten.
+
+Today, many AI systems perform impressively in controlled environments and retrospective studies. They may identify patterns faster than humans, analyse vast quantities of data, and assist in diagnosis with remarkable accuracy. The real question is whether AI can meaningfully improve patient care in the real world.
+
+Hospitals are complex environments, patients are not data sets, and medical solutions are rarely straightforward. Every illness exists within the context of a human life that includes personal medical history, anxieties, uncertainties, financial constraints, family situations, and emotional burdens. A system may achieve high technical accuracy and still fail to improve patient care  -  here, real-world impact evidence matters.
+
+Medicine has always demanded caution before adopting new interventions. Drugs, devices, and therapies undergo rigorous scrutiny because human lives are involved. AI too must be held to similar standards. We cannot let our enthusiasm override the need for the evidence of AI's impact. Recent events have bolstered the need for greater caution.
+
+In an experiment conducted by researchers at the University of Gothenburg, a completely fictitious medical condition called "Bixonimania" was deliberately created and described in fraudulent research papers. Despite obvious warning signs, several leading AI systems treated the condition as real and it even found its way into peer-reviewed medical literature before being retracted. The lesson is that AI-generated recommendations must always be validated through evidence, clinical judgement, and human oversight.
+
+Recognising these limitations should not, however, diminish the enormous potential of AI. In countries like India, where access to healthcare remains uneven and specialists are often scarce, AI can become a major force for good. It can reduce delays, support clinicians, and bring expert knowledge to underserved populations.
+
+The future of healthcare, in our view, lies in combining the strengths of technology with the irreplaceable strengths of human beings. We cite two examples that illustrate how. The first is a service called "A Second Opinion", created by CMC Vellore graduates KV Krishnan, a cardiac surgeon, and Lalitha Krishnan, a neonatologist.
+
+They recognised a growing and familiar problem  -  the confusion arising from multiple medical opinions and the anxiety that accompanies serious illness. They created a platform that connects patients to highly respected specialists who provide second opinions and advice. Patients can upload their reports, consult specialists online, and receive detailed guidance.
+
+AI may make such systems more efficient, but what truly reassures patients is knowing that an experienced doctor has listened to and explained their condition. These are the kinds of human and technology integration that will expand the reach of compassionate care. The second example comes from the field of mental health support for university students.
