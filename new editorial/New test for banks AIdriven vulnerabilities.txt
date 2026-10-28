@@ -1,0 +1,22 @@
+Category: Editorial
+Title: New test for banks AIdriven vulnerabilities
+
+New test for banks: AI-driven vulnerabilities shift cyber threats from isolated breaches to system-wide shocks
+
+Vulnerabilities shift cyber threats from isolated breaches to system-wide shocks Finance Minister Nirmala Sitharaman flags AI-driven cyber threats as a rising financial stability risk, with initiatives like Project Glasswing reshaping banking security frameworks. Finance Minister Nirmala Sitharaman's meeting with bank chiefs last week is best read as an early signal that artificial intelligence (AI)-led cyber risk is moving out of information technology operations and into the core of financial stability. The reference to an "unprecedented" threat, even without naming specific systems such as those being developed by Anthropic, marks a shift in official thinking.
+
+At the centre of current concerns are two linked initiatives: Project Glasswing, a collaborative effort to use advanced AI for large-scale vulnerability detection, and the underlying Claude Mythos model, which is designed to identify and, in controlled settings, test software weaknesses across systems. What is changing is not merely the scale of cyber threats but their nature. In a banking system built on tightly interconnected digital infrastructure, vulnerabilities discovered and exploited at speed can transmit across institutions, turning what would once have been isolated breaches into events with systemic implications.
+
+The concern, therefore, is the possibility of cascading disruptions. Decoding the shift in operational terms The shift is best understood in operational terms. Identifying a flaw in software, building an exploit around it, and deploying it has traditionally required time and specialised skill. Emerging AI systems compress this cycle by automating large parts of the process - scanning vast codebases, flagging weaknesses, and, in some cases, demonstrating how they might be exploited.
+
+Initiatives such as Project Glasswing bring together global technology firms including Amazon, Google, Microsoft, and CrowdStrike to test such capabilities in controlled environments. The intent is defensive, but the implications are wider. If machines can discover and operationalise vulnerabilities faster than systems can be patched, the balance between attack and defence shifts in ways that existing cyber frameworks are not designed to handle.
+
+India's banking system is not uniquely vulnerable, but it is not yet configured for this shift either. Public and private sector banks operate a mix of legacy core systems and newer digital layers, often dependent on global software stacks and cloud infrastructure. The finance ministry's call for a coordinated response through the Indian Banks' Association recognises that preparedness cannot remain institution-specific.
+
+Yet coordination must extend beyond banking. Similar digital dependencies exist in payments, telecom, power, transport, and government systems, suggesting that the risk, and the required response, cut across sectors. There is also a governance question: if access to advanced systems such as those under Glasswing is limited to a small group of firms, defensive capabilities risk being concentrated within a narrow club, leaving others dependent on them for critical insights.
+
+The policy response will need to evolve along pragmatic lines. Banks must invest in continuous monitoring and stronger defensive capabilities, but individual upgrades will not suffice without a wider architecture for information-sharing and rapid response. Regulators may need to incorporate AI-driven scenarios into cyber stress testing and establish structured engagement with developers of frontier models whose capabilities have system-wide implications.
+
+At the same time, India will have to align with emerging global norms rather than act in isolation. AI-enabled cyber risk is inherently cross-border, embedded in shared technologies and platforms; fragmented national approaches will offer limited protection. Equally, global arrangements must avoid becoming restrictive groupings.
+
+The benefits of such initiatives will need to flow across jurisdictions if resilience is to be strengthened meaningfully. The task, then, is to build an adaptive and inclusive framework that recognises AI as a dual-use capability and manages it with the same seriousness as other sources of systemic risk.
