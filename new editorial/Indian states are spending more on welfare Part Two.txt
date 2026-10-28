@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Indian states are spending more on welfare Part Two
+
+Indian states are spending more on welfare, but the RBI handbook tells only part of the story
+
+In states such as Odisha, according to the RBI handbook, the infant mortality ratio (IMR) has declined from 32 (2022) to 30 (2023). But the most recent National Family Health Survey (NFHS) data highlights the poor state of urban IMR. Just as the data quoted in RBI's statistics, in NFHS-Odisha data, the overall IMR had reduced from 65 (NFHS-3) to 36.3 (NFHS-5).
+
+But urban IMR had actually increased from 21 (NFHS-4) to 31 (NFHS-5). RBI data does not provide urban IMR data to understand if the pattern is repeating itself. Sector-specific datasets in health and education, the National Achievement Survey (NAS), and the National Sample Survey Office (NSSO), among others, do present an in-depth picture.
+
+It can also be argued that the RBI handbook cannot cover all indicators at the sector level. But as a snapshot into social welfare at the state level, the handbook cannot be a limited one. Select indicators for sectors must present a comprehensive picture of access and outcomes across rural and urban areas, at the state and sub-state level.
+
+We argue for the inclusion of the following indicators and data points in the RBI handbook. First, state-level aggregations should be disaggregated between urban and rural. The state of infrastructure, uptake and outcomes differ significantly, and more policy interventions targeting social welfare challenges in urban areas are needed.
+
+Accessible and regularly released data on urban facilities and outcomes are an important need. Second, the most incisive data of the state of health and education are included in the handbook. Some of the important data points are: Enrolment figures in government and private schools must be made available which can highlight the uptake of government versus private facilities.
+
+For health, uptake of facilities right from the extension clinic to the hospital in rural and urban areas (included as part of one question in NFHS data) must be included. Third, for each key indicator, the intra-state disparity should be represented. This can be easily done by including the range of data points for each indicator at the sub-state level between the best and worst-performing districts in the state.
+
+The RBI Handbook remains an indispensable resource for understanding the fiscal trajectories of India's states. But as social sector budgets expand, the limits of aggregate indicators become increasingly apparent. The next phase of fiscal scrutiny must ask harder questions  -  not just about how much states spend on social sectors, but about what that spending delivers, where it is directed, and for whom it ultimately works.
+
+Taken together, these patterns point to a deeper problem in how social sector spending is tracked and interpreted. Without clarity on the composition of expenditure, its spatial distribution, and its link to outcomes, rising budgetary allocations risk creating an illusion of progress. Priyadarshini Singh is Fellow, CSEP.
+
+Anoushka Gupta is Research Associate, CSEP. The views expressed are personal
