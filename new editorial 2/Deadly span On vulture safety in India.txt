@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Deadly span On vulture safety in India
+
+Deadly span: On vulture safety in India, threat of electrocution
+
+India's power infrastructure is emerging as a big threat to vultures Whereas for many decades the chief concern about vulture safety was centered on chemical threats, the threat of electrocution posed by India's expanding power infrastructure may supersede it. In the 1990s, India's vultures suffered one of the world's worst population crashes, nosediving 99.5% by 2007 from a high of around four crore in the 1980s; the white-rumped, Indian, and slender-billed vultures were nearly wiped out. The culprit was diclofenac, a painkiller for cattle that wrecks vulture kidneys.
+
+The government banned the use of diclofenac, with additional bans in 2023 to mitigate threats posed by aceclofenac and ketoprofen, among some other NSAIDs. The birds' decline left carcasses exposed for longer, supporting feral dog populations and leading to rabies outbreaks; a 2024 study in American Economic Review estimated that human mortality thus rose 4% and the associated damages cost India $69.4 billion a year. While electrocution has not become as deadly as NSAIDs have been, the fragility of the vulture population and the proliferation of unsafe power infrastructure warrant early action.
+
+One official survey reported in 2025 that vultures were nesting at only 50% of their historic nesting sites. It is no trivial detail that the raptors' wide wingspans mean a large individual can contact two conductors at once. They also have a habit of perching on elevated structures, are attracted to open landscapes, and have incentives to congregate where the availability of food is predictable, a risk enhanced by people dumping food waste around electrical installations.
+
+As The Hindu reported based on a recent study in the Journal of Threatened Taxa, "relocating a livestock carcass dump 2.4 km away from high-tension power infrastructure near Uttarakhand's Dehradun may have saved these large scavengers from … electrocution". An assessment prepared for the State Climate Resilient Power System Development Project also noted an Egyptian vulture and some steppe eagles had been electrocuted on medium-voltage, rather than high-voltage, lines. Research has noted that persistent mortality due to electrocution alone could render a local population extinct.
+
+Avian electrocution is also likely under-documented in India since dead birds can be removed by humans or scavenged. As the study indicated, one inexpensive solution is to separate vulture feeding sites from power infrastructure. Other measures to protect raptors, and even other birds, especially near settlements, include insulating conductors, increasing the gap between energised and grounded components or otherwise preventing a bird from bridging them  -  non-trivial considering vulture wingspans  -  and installing safe perches.
