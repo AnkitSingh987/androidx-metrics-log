@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Parents and companies need to act against
+
+Parents and companies need to act against social media harms
+
+To act against social media harms Platforms often introduce safeguards only after problems emerge rather than building protections into their systems from the start. This places an unreasonable burden on children and parents In 2017, a 14-year-old girl in the United Kingdom took her life after being exposed to a stream of harmful online content. Like most teenagers, she used social media regularly.
+
+After a legal battle, a coroner concluded that the content she encountered online had contributed directly to her death. The case became a catalyst for the UK government to strengthen its laws regulating digital platforms. Sadly, the tragedy was not unique. Globally, evidence has been mounting that excessive use of social media is harming children's mental health.
+
+Research across several countries shows that heavy social media use is linked to a two-to three-fold higher risk of suicidal ideation and self-harm among adolescents. In The Anxious Generation, Jonathan Haidt traces the sharp decline in youth mental health to the rise of smartphone-based childhood. Between 2010 and 2020, rates of depression among teenagers rose sharply, including a reported 145 per cent increase among girls and 150 per cent among boys in some datasets.
+
+Against this backdrop, governments are reconsidering how young people access social media. In December 2025, Australia passed legislation raising the minimum age for social media use from 13 to 16. Critics often describe such measures as a "ban", but that framing misses the point. The aim is not to "ban" young users; it is to protect them from the harmful effects.
+
+Raising the age limit will not solve every problem, but it may be a sensible place to begin. Social pressure often drives children to join platforms. When most of a child's peers are online, parents feel compelled to allow access even if they have reservations. A higher age threshold could help reset expectations and reduce pressure on families who want to delay the exposure.
+
+The current minimum age of 13, after all, was never based on research about adolescent development. It originates from the US's 1998 Children's Online Privacy Protection Act, which set 13 as the age at which companies could collect children's data without parental consent. At the time, social media platforms did not exist.
+
+Nearly three decades later, the same age threshold exists. Meanwhile, digital technologies have evolved dramatically. Social media platforms rely heavily on engagement-driven design: Algorithms, endless scrolling, and constant notifications, all intended to keep users online as long as possible. Children are particularly vulnerable because their brains are still developing.
+
+The prefrontal cortex, responsible for impulse control, judgement and long-term decision-making, is not yet fully developed. Teenagers are, therefore, less equipped to resist persuasive design features or critically evaluate what they encounter online. Adolescence is also a time when social validation becomes important.
+
+A study across 26 districts in India found that nearly half of adolescents reported feeling distressed when their posts did not receive enough "likes". There are also serious safety risks. Technology-facilitated child sexual exploitation is expanding worldwide, affecting 300 million children. The Annual Status of Education Report 2024 found that nearly 90 per cent of adolescents aged 14-16 have access to a smartphone at home, and social media remains a dominant activity.
+
+Despite evidence of harm, safety-by-design remains the exception, not the norm. Platforms often introduce safeguards only after problems emerge rather than incorporating protections from the start. This reactive approach places an unreasonable burden on children and parents to manage the risks embedded in the platform design.
+
+Parents certainly have a role to play, but companies that profit from these platforms must also be held accountable. Raising the minimum age for social media access to 16 should be seen as one step in a broader effort to protect young users. Governments must ensure platform accountability, push for stronger safety-by-design standards and greater transparency around algorithms and platform practices.
+
+It may even encourage companies to design truly age-appropriate platforms, allowing children to benefit from technology rather than be harmed by it. Written by: Shireen Vakil The writer, a child protection and digital safety expert, was head of safety policy at Meta
