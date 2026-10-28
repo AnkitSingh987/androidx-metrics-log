@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Make children safer online not just Part One
+
+Make children safer online, not just platforms more compliant
+
+Meta's settlement puts the spotlight on platform responsibility. But children's safety requires digital literacy, parental guidance and safer offline spaces Meta recently settled a $17.1 billion case with several US states concerning allegations about the impact of apps such as Facebook and Instagram on children's mental health. Under the settlement, the company must make several changes to its apps, including incorporating daily usage limits and "nighttime blocks" for teenagers, "enhanced age assurance measures" to prevent children from using them and the depersonalisation of feeds, meaning that a child's feed would serve random content rather than content tailored to their interests.
+
+Many have hailed the decision as a step towards holding platforms  -  or a platform, in this case  -  accountable. But such framing is problematic because it places the platform, rather than the child, at the centre of the problem. Once platforms become the focus, the policy response gravitates towards imposing more obligations on them: More restrictions, more compliance requirements, more monitoring, and more technical safeguards.
+
+Asking what more can platforms be required to do is not the same as asking what children really need to be safer online. The first problem with a platform-centric child safety approach is that it often produces measures that are easy to announce but difficult to enforce. The requirement for Meta to introduce age-gating, where the platform verifies the user's age before admitting them, is one example.
+
+Children are sophisticated and motivated users of technology and routinely find ways around such measures. In Australia, where children under 16 are prohibited from accessing social media, a study found that more than eight in 10 children continued to access these platforms. The second problem is that a platform-centric child safety approach can ignore what children need to be safe or have positive experiences online.
+
+The move to restrict personalisation illustrates this tension. Poorly designed recommendation systems can expose children to harmful content, but removing personalisation does not automatically make a service safer. It may expose children to irrelevant or inappropriate material, while making it harder for beneficial educational or support services to reach them.
+
+An Esya Centre study of 1,032 children across India found that 73 per cent would feel uncomfortable or unsafe if they encountered depersonalized feeds. Three in four also said that restrictions on recommendations would negatively affect their ability to discover educational and non-educational products. Instead of focusing on eliminating every risk from the online environment, which is next to impossible, decision-makers must look at how to equip children to deal with those risks.
+
+We already do this for the physical world. Children are taught how to cross roads, recognise stranger danger, and understand inappropriate behaviour. They need equivalent guidance online: What not to share, how to respond to unsolicited contact, how to recognise manipulation, when to block or report someone, and when to seek help.
+
+Yet digital literacy and sensitisation receive far less policy attention than bans, age gates and screen-time restrictions. According to the World Health Organisation, comprehensive safety sensitisation programmes can reduce digital violence victimisation, perpetration and associated risk behaviours. Commendably, India has already made a nod to such an approach, with the 2026 Economic Survey calling for a digital wellness curriculum in schools.
+
+It remains to be seen how widely and appropriately this will be implemented. The third problem is that even platform safety measures need to reflect how and why children engage with the online world. For many children, digital spaces provide community, expression and support that may not be available offline.
