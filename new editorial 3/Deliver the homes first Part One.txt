@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Deliver the homes first Part One
+
+Deliver the homes first
+
+Supreme Court has bridged a gap where IBC fell short; legislature must close it in law The Supreme Court's (SC) February 5 order in the Supertech matter answers a question that has vexed the insolvency ecosystem since the Insolvency and Bankruptcy Code (IBC) first confronted real estate stress: whose claim deserves primacy when a developer collapses, the bank or the homebuyer? Hopefully, the 7th amendment to the IBC, slated for the ongoing Budget session of Parliament, will provide an authoritative answer. Invoking Article 142 to uphold the National Company Law Appellate Tribunal's December 2024 direction appointing NBCC to complete Supertech's 16 stalled housing projects, the court held that other claims will be considered only after homes, as promised by the developer, are delivered to the buyers.
+
+Any surplus, it added, may thereafter be distributed among other claimants in a manner the tribunals consider just and equitable. The IBC rests on a distinction between financial creditors and operational creditors. Financial creditors - banks, financial institutions, and bondholders - sit on the committee of creditors and exercise commercial wisdom over the fate of the corporate debtor.
+
+Operational creditors - suppliers, service providers, and employees - have claims but no governance rights. The 2018 amendment deemed homebuyers to be financial creditors and gave them representation at the decision-making table through authorised representatives. However, resemblance to banks is only formal.
+
+A bank can absorb haircuts, write off losses against capital, and move on to the next transaction. A family that has paid instalments for 15 years towards a flat in Noida cannot do the same. The court does not engage with the doctrinal question of whether homebuyers are properly classified as financial creditors.
+
+Instead, through Article 142, it establishes a hierarchy of outcomes: homes first, creditor recoveries next. This is a judicial assertion that in real estate insolvencies, the delivery of the promised product to the consumer must take precedence over the distribution of the debtor's estate among its creditors. This reliance on Article 142 is both the order's strength and vulnerability.
+
+The provision empowers the SC to pass such orders as are necessary to do "complete justice", particularly when existing legal frameworks prove inadequate. Here, over 50,000 homes booked between 2010 and 2012 had remained undelivered for over a decade. Faced with such prolonged failure of the statutory process, the court stepped in.
+
+Extraordinary remedies do not create a stable doctrine. Article 142 is inherently case-specific and does not substitute for a clear statutory rule governing future real estate insolvencies. The next bench confronted with the next failed developer will have to decide afresh whether the facts warrant a similar invocation.
+
+The Supertech order nonetheless carries implications beyond the immediate relief to homebuyers. It reinforces an emerging principle that in real estate insolvencies, project completion is the primary objective, with financial distribution a secondary consideration. This inverts the usual logic of the IBC, where resolution plans are evaluated primarily for the value they deliver to creditors.
+
+In Supertech, the relevant metric becomes consumer delivery. The SC also directed that no court or forum shall interfere with the implementation of the NBCC takeover, effectively creating a litigation-free corridor for completing stalled projects. This reflects a recognition that repeated litigation has often compounded delays in large real estate insolvencies and frustrated the objective of delivering homes.
+
+The deeper structural issue, however, remains unresolved. Real estate firms in India occupy a position that the IBC was not originally designed to address. They are hybrids: conventional businesses that borrow from banks and engage contractors, but also financial intermediaries that collect customer funds to finance construction.
