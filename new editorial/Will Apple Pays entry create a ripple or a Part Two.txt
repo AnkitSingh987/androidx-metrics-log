@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Will Apple Pays entry create a ripple or a Part Two
+
+Will Apple Pay's entry create a ripple or a splash?
+
+Still, they will also cede a slice of interchange revenue to Apple, a trade-off that Indian issuers have historically resisted more firmly than their counterparts elsewhere. The more interesting long-term question is what happens if and when Apple pursues UPI integration. Because UPI is a shared public rail rather than a closed loop network, Apple would be plugging into the same infrastructure that PhonePe, Google Pay and Paytm already use, competing on user experience and ecosystem loyalty rather than on privileged access to payment rails.
+
+That is a fundamentally different competitive dynamic from markets where Apple Pay operates as a closed alternative to existing systems, and it should keep the playing field relatively level even if Apple eventually does arrive on UPI. Way forward The coming months should bring more clarity as Apple finalises interchange terms with issuing banks and works toward its reported launch window. Domestic UPI players would do well to keep deepening loyalty, credit and merchant tools rather than treat Apple's arrival as an existential threat, given how narrowly scoped the initial rollout is.
+
+For regulators, the more consequential decision lies further ahead, in how the National Payments Corporation of India eventually treats any future application from Apple for UPI access, since that single choice will determine whether Apple Pay becomes just another app on India's shared public rail or remains confined to the smaller, if still lucrative, premium card segment. Either way, Apple's entry is best read as a sign of how mature and attractive India's payments market has become, rather than as a disruption to a system that already serves well over a billion users. By P Saravanan & A Paul Williams Saravanan is a Professor of Finance and Accounting at IIM Tiruchirappalli; Williams is the Head of India at Sernova Financial
