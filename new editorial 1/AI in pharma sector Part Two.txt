@@ -1,0 +1,10 @@
+Category: Editorial
+Title: AI in pharma sector Part Two
+
+AI in pharma sector
+
+Equally important is upskilling quality teams in data literacy and AI fundamentals, engaging regulators early to align expectations, and adopting AI strictly as a decision-support tool rather than a replacement for human expertise. Challenges and the Path Forward Despite its potential, AI adoption in pharma quality comes with challenges such as integration with legacy systems, data standardisation and validation, change management and skill gaps and regulatory uncertainty. These can be addressed through phased implementation, strong governance models, cross-functional collaboration, and continuous engagement with regulators.
+
+The pharmaceutical industry stands at the threshold of a quality transformation. AI offers the opportunity to move beyond reactive compliance toward predictive, intelligent, and resilient quality systems. By embedding AI into quality operations, companies can reduce human error, improve efficiency, strengthen compliance, and ultimately enhance patient safety.
+
+Preparing for an AI-first era is no longer optional, it is essential. Organisations that invest today in intelligent quality systems will not only meet regulatory expectations but will define the next best benchmark practices of excellence in pharmaceutical manufacturing. By Rajiv Desai The writer is Senior Technical Advisor, Quality and Regulatory, Indian Pharmaceutical Alliance
