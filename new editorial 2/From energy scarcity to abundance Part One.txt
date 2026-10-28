@@ -1,0 +1,20 @@
+Category: Editorial
+Title: From energy scarcity to abundance Part One
+
+From energy scarcity to abundance
+
+Leveraging renewable energy while balancing material overreach could lead us to a path of energy abundance For decades, arguably for the entirety of human history, those with control over coal, oil, gas, and even steam and wood dictated the pace of global development, currency flows, cities' locations, production costs, national boundaries, and the determinants of war. That assumption is now obsolete. Nikolai Kardashev, in 1964, presented a model classifying three types of energy - planetary (available on the planet), stellar (from the stars), and galactic (from our galaxy).
+
+Let's take the first. Our civilisation consumes only a miniscule 20 terawatts (TW) of the 173,000 TW the sun delivers to us every day. The rest is reflected, absorbed or dissipated. However, our vastly improved grasp of various technologies is changing the equation substantially. The combined impact of a convergence of technologies is getting us to an inflection point that could potentially lead us to an age of energy abundance.
+
+Solar power now generates electricity at the lowest marginal cost imaginable - cheaper than coal, gas, or nuclear sources in most markets. Solar's diurnal rhythm is complemented by wind energy, with nightly and seasonal generation. Hydroelectric power provides reliability and grid stability, acting as a 'mechanical battery' for load-balancing and inertia.
+
+Battery storage - spanning lithium-ion, sodium-ion, gravity storage, flow batteries, and emerging chemistries now enable power to be stored at scale and released precisely when demand peaks. Lightning rod charging systems now allow electrified vehicles to absorb intense power bursts in seconds rather than minutes, eliminating range anxiety. Together, these systems deliver unprecedented outcomes - power that's continuous, reliable, carbon free, and omnipresent - with grid orchestration overcoming intermittency and local deficits.
+
+Then there's waste. We produce billions of tons of waste annually from agricultural residue, municipal garbage, animal by-products, and sewage. Advanced gasification methods will convert organic waste, traditionally burned or buried, into green hydrogen, an energy asset that powers fuel cells, hi-temperature industrial furnaces, back-up grid stabilisers, and long-range transportation.
+
+By-products (oxygen and bio-slag) can be usefully deployed too, completing a true circular energy loop - from waste to hydrogen to power to fertiliser to food to renewable biomass. The elimination of landfills would be a major advancement while creating decentralised energy incomes for rural communities through green hydrogen micro-plants at the same time. If terrestrial renewables establish abundance, space energy promises permanence of that state.
+
+Physicist Freeman Dyson once imagined gigantic solar collectors surrounding the stars. A more feasible but hypothetical structure is the Dyson swarm - countless independent satellites capturing energy from stars while orbiting them and sending it back to the earth via precision laser or microwave transmission. With artificial intelligence (AI) becoming ubiquitous, it's also forcing discussions around energy efficient data centers (DCs).
+
+OpenAI's Sam Altman has talked about a Dyson sphere-like structure of AI DCs enveloping the earth to tap solar energy. Google's Sundar Pichai has already announced Project Suncatcher, which will put solar powered DCs into space by 2027, partnering with Planet Labs. DCs in space address adjacent issues too - like the vast real estate requirements, power outages from undersea cables, disruptions from natural disasters,  and the overarching matter of data sovereignty - as the UN Outer Space Treaty 1967 protects against national appropriation.
