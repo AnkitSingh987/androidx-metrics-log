@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Capturing urban dynamism in the Census Part Two
+
+Capturing urban dynamism in the 2027 Census
+
+The dynamic modifications to ward and municipal boundaries to which statistical data are tagged often make it difficult to study the changing patterns over time. One of the ways to mitigate this issue is to use static spatial grids (such as a 1x1 km grid) as an additional overlay, amenable to administrative boundaries. Data interpolation from irregular administrative boundaries to regular grids could lead to distortions, and if the grids are too minute, they can also pose privacy and social concerns.
+
+This can be overcome with blended indicator-based themes that only show underserved areas and mask sensitive information such as caste or income groups. Similarly, blended data of age, ability, housing conditions, and service provision levels, when overlayed with climate hazard data, provides insights on vulnerable areas that require climate-proof investments. The overlays could also enable trend analysis once time series data get spatialised into the grid.
+
+Globally, such geo-statistical formats have been adopted successfully by Mexico's INEGI and Britain's Ordnance Survey and Environmental Information Data Centre. India could also explore adopting a similar context-relevant and anonymised adaptation to enable targeted actions for a rapidly urbanising India. Even as India's fertility rates decline, the country continues to grow on the back of its past population momentum.
+
+In this context, adopting a geostatistical approach with a modular framework along with the current statistical portal can greatly support policymakers, academia, the private sector, civil society groups, and home-grown startups to build innovative solutions. The approach can also be integrated with other government platforms such as Gati Shakti or Digital Postal Index Number, which divides India into a 4m X 4m grid-addressing system and is aligned with the 2022 National Geospatial Policy. A geo-statistical approach holds the potential to maximise impact while steering India towards a more inclusive and resilient urban future.
+
+Rejeet Mathews, Program Director in the Sustainable Cities and Transport Program at WRI India. Raj Bhagat Palanichamy, Senior Program Manager in the Sustainable Cities and Transport Program at WRI India. Views are personal
