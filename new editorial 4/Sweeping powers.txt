@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Sweeping powers
+
+Sweeping powers
+
+IT rules should curb harmful content, not free speech The Ministry of Electronics and Information Technology's proposed amendments to the Information Technology Rules have opened yet another front in India's long-running tension between free speech and state regulation of the digital sphere. The latest draft seeks to expand the government's oversight beyond traditional publishers to encompass ordinary users who post news and current affairs content online. In effect, this marks a structural shift because the Inter-Departmental Committee (IDC), which was previously largely confined to content from recognised publishers, can now examine "matters" relating to user-generated content on intermediary platforms.
+
+A thread on X discussing a local protest, a YouTube commentary on a policy decision, or a LinkedIn post critiquing a political speech could now fall within the ambit of "news and current affairs". The Ministry can, on its own motion, refer any content-related "matter" to the IDC. The language of the amendment appears unconstrained: there is no requirement for a formal complaint, no obligation to establish a violation of the Code of Ethics, and no guarantee that affected parties will be heard prior to such referral.
+
+This effectively reconstructs the oversight mechanism into a more centralised and executive-driven process. Further, by making compliance with government advisories, directions and guidelines a condition for retaining safe harbour protections under Section 79 of the IT Act, the amendments introduce a powerful lever. Intermediaries, wary of losing legal immunity, may be incentivised to err on the side of caution, potentially leading to over-compliance and pre-emptive takedowns.
+
+This raises the spectre of a "backdoor" mechanism for content removal, bypassing the procedural safeguards typically associated with formal blocking orders. Yet, the government's concerns are not without merit. The proliferation of fake news, rumours and inflammatory content on social media platforms has had tangible consequences, including threats to public order and communal harmony.
+
+Unlike traditional media, which is bound by editorial checks and accountability structures, individual users operate without institutional filters. The central question, therefore, is not whether regulation is necessary, but whether the proposed framework strikes the right balance. The absence of clear procedural safeguards and definitional precision could leave room for selective enforcement, particularly against content that is politically inconvenient rather than genuinely harmful.
+
+Several provisions of the 2021 IT Rules are already under judicial scrutiny. Given the challenges pending before the Delhi High Court, it would be prudent for the government to wait for the court's decision. A more calibrated approach may lie in strengthening enforcement mechanisms within the current legal framework, improving response times, enhancing platform accountability, and investing in digital literacy, rather than creating broad, discretionary powers that risk misuse.
