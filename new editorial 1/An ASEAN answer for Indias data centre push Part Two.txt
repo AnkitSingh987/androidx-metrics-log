@@ -1,0 +1,16 @@
+Category: Editorial
+Title: An ASEAN answer for Indias data centre push Part Two
+
+An ASEAN answer for India's data centre push
+
+Data governance adds another layer of uncertainty. India's Digital Personal Data Protection Act allows cross-border transfers unless restricted, but lacks global adequacy benchmarks, challenging cloud and data-centre operators seeking compliance certainty. Competitive Federalism is shaping the boom. Unlike Malaysia's coordinated national strategy, India's States are the principal architects of data-centre growth.
+
+Maharashtra and Tamil Nadu were early leaders, benefiting from mature IT ecosystems and connectivity, but today face saturation pressures  - land costs, grid congestion, and longer timelines for incremental capacity. In competition, Telangana and Andhra Pradesh offer cheaper land, competitive tariffs, renewable integration, and streamlined processes  -  appealing to AI-ready hyperscalers. Malaysian lessons Malaysia offers a blunt lesson  -  success needs more than market size or subsidies.
+
+It demands prioritization, sequencing, and stability. In Malaysia, power planning preceded construction, with grid access, pricing, and timelines resolved upfront, backed by accountability and fast-track approvals. To accelerate growth in data centre sector, India must adopt tiered sustainability standards, including Power and Water Usage Effectiveness metrics, with clear thresholds for different facility sizes.
+
+Ensuring power certainty through early-stage grid access and firm renewable energy commitments should be prioritised to mitigate delays and risks. Incentive schemes must be designed to reward green infrastructure, renewable energy sourcing, and carbon-efficiency measures, fostering sustainable operations. Additionally, unified planning and site-zoning rules should be implemented to streamline approvals and minimise conflicts with residential zones.
+
+Finally, establishing a multi-stakeholder task force comprising industry players, utilities, and regulators will be critical to coordinate planning, grid expansion, and water management, while enforcing timelines and accountability for seamless execution. India's opportunity is huge but not guaranteed; capital is mobile, hyperscalers impatient, and competition rising. With scale and talent, India can lead the data centre boom  -  what matters now is execution.
+
+By Anuj Gupta & Karishma Maniar Shah Gupta and Maniar Shah are the India Managing Director and Director, respectively, at BowerGroupAsia
