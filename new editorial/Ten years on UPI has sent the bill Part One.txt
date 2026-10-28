@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Ten years on UPI has sent the bill Part One
+
+10 years on, UPI has sent the bill
+
+India's Unified Payments Interface (UPI) has entered its second decade by acquiring something it was designed to suppress: a transaction price. India's Unified Payments Interface (UPI) has entered its second decade by acquiring something it was designed to suppress: a transaction price. From October 15, the National Payments Corporation of India (NPCI) will levy a 0.4 per cent Merchant Discount Rate (MDR) on Person-to-Merchant (P2M) UPI payments above Rs 2,000, capped at Rs 300 for transactions of Rs 75,000 and above, with a flat Rs 5 charge for railways, telecom, insurance, and fuel.
+
+Consumers and every Person-to-Person (P2P) transfer, regardless of size, remain untouched. The announcement revives a decade-old argument: was India's most celebrated public good ever truly free, and does charging for it now threaten the cashless economy it was meant to build? UPI's first decade was extraordinary by any measure.
+
+Annual transactions rose from roughly 2 crore and worth Rs 0.07 lakh crore in FY17 to 24,162 crore worth Rs 314 lakh crore in FY26  -  around 12,000- fold rise in volume and roughly 4,500-fold rise in value. The corresponding fall in average ticket size, from about Rs 3,900 to roughly Rs 1,300, shows UPI displacing small daily cash purchases as much as it enabled big-ticket digital ones. UPI now accounts for around 85 per cent of India's digital-payment volume.
+
+Transactions above Rs 2,000 make up barely 4 per cent of merchant-payment volume but around two-thirds of its value  -  the statistical skew that lets NPCI claim 96 per cent of merchant transactions are unaffected. That is true, but it elides the difference between MDR's statutory and its economic incidence: a merchant who formally bears the levy may still recover it through higher prices or thinner discounts. UPI's first decade subsidised adoption; its second is monetising scale.
+
+UPI is free at the point of use, not free to operate. A parliamentary committee cited an industry estimate of Rs 20,700 crore in annual operating costs against a government allocation of just Rs 2,000 crore for FY27  -  about a tenth of the cost. Banks and payment providers need revenue to fund capacity, cybersecurity, fraud prevention, and dispute resolution.
+
+In August 2026, PhonePe and Google Pay together processed 77.9 per cent of UPI volume and 81.6 per cent of value, monetising the relationship through lending and advertising while paying nothing for the rails beneath them  -  an asymmetry Parliament's finance committee separately flagged. The Payments Council of India pressed for MDR's return since the zero-MDR mandate began in January 2020, writing directly to the Prime Minister in March 2025. Read this way, the new framework looks less like a tax on citizens than a longdeferred settlement between the state and an industry it can no longer wholly subsidise.
+
+Will this push transactions to cash, and at what cost? India's cash-to-GDP ratio has fallen from its pandemic peak of 14.4 per cent in FY21 to about 11 per cent in FY26, even as currency in circulation hit a record Rs 41.7 lakh crore, growing 11.9 per cent in FY26. But cash plumbing is already strained: ATM cash-management costs are projected to exceed Rs 20,000 crore annually, and intended cash-loading fell to 64 and 57 per cent of requirement in March and April 2026.
+
+An RBI study of UPI and cash demand finds that greater adoption is associated with lower cash demand nationally and across states, though the relationship is non-linear. The converse is a legitimate risk: if MDR redirects payments to cash, households and merchants may hold more currency outside banks. Deposits finance bank credit; currency outside banks does not.
