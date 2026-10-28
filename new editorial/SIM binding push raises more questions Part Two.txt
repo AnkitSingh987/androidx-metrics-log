@@ -1,0 +1,16 @@
+Category: Editorial
+Title: SIM binding push raises more questions Part Two
+
+SIM binding push raises more questions
+
+Risk-based verification models and targeted fraud-tracing mechanisms can address specific threats without imposing blanket requirements on all users. The question, therefore, is not whether security measures are necessary, but whether SIM binding is the least disruptive and most effective tool available. The 90-day implementation timeline adds another layer of concern.
+
+Rushed compliance increases the likelihood of brittle technical solutions, inconsistent enforcement, and high compliance costs with limited real-world benefit. Poorly implemented safeguards can undermine both security outcomes and user trust. A strategic, risk-based approach could meet cybersecurity objectives without imposing blanket SIM binding.
+
+Targeted fraud detection, behavioural analytics, and telecom-assisted monitoring offer scalable solutions that protect users while preserving sector flexibility, innovation, and growth. Any assessment must, therefore, weigh security gains against operational costs and user friction through a cost-benefit analysis. Meaningful stakeholder engagement is critical at this stage.
+
+App developers, cybersecurity experts, and technical specialists must be involved in designing steps that are effective and proportionate. Individuals should understand the long-term implications of linking messaging accounts to SIMs, including effects on privacy, device flexibility, and data exposure. The focus needs to be on education, grievance redress mechanisms, and sustained trust-building efforts.
+
+The SIM-binding push highlights a larger policy challenge - how to secure digital ecosystems without over-regulation. India's digital success has been driven by scale, accessibility, and seamless functioning. Security is essential, but so is certainty. Policymakers must pause, consult, carry out regulatory impact assessment exercises and adopt a risk-based, evidence-driven approach before scaling such interventions.
+
+By Pradeep S Mehta, Secretary-general, CUTS International, a global public policy research and advocacy group With inputs from Krishaank Jugiani, senior research associate, CUTS
