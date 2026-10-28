@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Wikipedia vs Grokipedia Part Two
+
+Wikipedia vs Grokipedia
+
+As the name "Grokipedia" suggests, its information is validated by xAI's chatbot "Grok". Despite their pledge to present objective facts, criticisms that it supports Musk's right-wing beliefs have already started to surface. For instance, the US Capitol riot on January 6, 2021, is attributed to "widespread claims of voting irregularities", a theory advanced by Donald Trump and his supporters to undermine Joe Biden's 2020 triumph.
+
+According to TIME, one wouldn't know about Musk's Nazi salute during Trump's second inauguration by looking him up on Grokipedia. The first version of Wikipedia (v0.1) came up with around 885,000 entries - still much smaller than Wikipedia. However, the primary distinction is not in its size but rather in its underlying philosophy.
+
+The foundation of Wikipedia is human cooperation and voluntarism. Its pages are edited and reviewed by thousands of volunteers worldwide using the neutrality and citation guidelines. On the other hand, Grokipedia, a mark of Musk's campaign against "human bias", is powered by AI. Although they promise swiftness and objectivity, the AI-generated summaries and AI-validated sources leave little opportunity for clarification or debate.
+
+Also, a large number of Grokipedia articles claim to have been derived from Wikipedia. Shades of uncertainty still exist. "AI biases" are well-known, and they are frequently results of the operating programmes and the underlying training data. For instance, AI draws a Black George Washington or uses slang.
+
+At the same time, there are numerous unsettling instances of "hallucinations" of AI; that is where AI presents a bouquet of manufactured information - those are non-existent facts. Accordingly, the information provided by the AI-built encyclopaedia will often be questioned. However, the emergence of Grokipedia as a substitute was not taken lightly by Wikipedia.
+
+They see it as an existential conflict against the machine and also against the richest individual on the planet. Within hours of Grokipedia's arrival, Wikipedia posted a banner on its homepage, "Created by people, not machines. Owned by a non-profit, not a billionaire", a calm but clear reaction. Today, 25 years of "free" knowledge is facing tough obstacles.
+
+Grokipedia is an experiment that questions who should be responsible for online truth, as Musk directly challenged the world of human-edited Wikipedia. Will an AI-powered Grokipedia someday replace Wikipedia? Can AI be relied upon to write the truth more than humans? Furthermore, what happens if Grokipedia turns into a paid service after Wikipedia loses the war?
+
+The answers remain unclear. However, they are crucial to humanity. By Atanu Biswas The writer is a professor of statistics, Indian Statistical Institute, Kolkata
