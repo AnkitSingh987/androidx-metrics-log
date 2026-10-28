@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Indias AI value paradox Part Two
+
+India's AI value paradox
+
+Much of the ecosystem remains oriented towards implementation over foundational innovation. This creates a talent paradox: a vast workforce with strong execution capability, alongside a growing but still limited base engaged in building core technologies. The emerging need is for "T-shaped" talent; professionals with deep domain expertise combined with the ability to apply AI tools across functions.
+
+This will require continued evolution in both corporate training and academic ecosystems. Even as infrastructure expands, enterprise adoption of AI is progressing unevenly. AI is firmly on boardroom agendas. Large enterprises are building internal capabilities and experimenting across functions. However, mid-sized firms remain more measured, reflecting cost, organisational readiness and uncertainty around returns.
+
+Many organisations are developing structured approaches to measuring returns on AI investments. As a result, experimentation often precedes large-scale deployment. A deeper issue is structural. Many firms are moving from layering AI onto existing processes to redesigning operations around it. Evidence suggests a small group is realising significant gains, while many remain in earlier stages.
+
+The startup divide India's startup ecosystem reflects a similar duality. A segment risks falling into 'AI-washing', where artificial intelligence is emphasised even when the underlying technology is limited. Some firms act largely as intermediaries, building interfaces on top of global AI models rather than developing original capabilities.
+
+At the same time, a smaller group pursues deeper innovation. Startups such as Sarvam AI and Krutrim are building language models tailored to India's linguistic diversity. Qure.ai is applying computer vision to healthcare diagnostics, while CropIn is using AI to improve agricultural outcomes. These efforts suggest that India's AI innovation may evolve through domain-specific solutions, complementing global developments with locally relevant applications.
+
+India's digital infrastructure expansion is real and significant. Robust data centres, connectivity and computing capacity are essential for participation in the AI economy. India's progress so far reflects a clear policy push towards building digital public infrastructure and enabling large-scale private investment in data centres and connectivity.
+
+This has created a foundation few emerging economies have matched. The next phase will require an equally sustained focus on innovation capability and enterprise transformation. Capturing the full value of artificial intelligence will depend on how this transition is managed. Policymakers will need to complement infrastructure incentives with support for research and indigenous model development.
+
+Enterprises will progressively move from experimentation to embedding AI in core operations, while investors support deep-technology ventures with longer horizons. India already possesses key advantages; scale, talent and data. The opportunity now is to translate these strengths into sustained innovation.
+
+If current trends continue, India may host a significant share of AI infrastructure. The larger opportunity lies in ensuring it also participates in creating the intelligence that runs on it. The real challenge lies beyond the data centres; in building the capabilities that determine how value is created and captured in the age of artificial intelligence.
+
+Even as infrastructure expands, enterprise adoption of AI is progressing unevenly. AI is firmly on boardroom agendas By Vipin Sondhi & Megha Singh Chauhan Sondhi is former MD & CEO of Ashok Leyland and JCB India, and Chauhan is with the Policy Unit of Quality Council of India. Views are personal
