@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Why the rupee has fallen steeply Part One
+
+Why the rupee has fallen steeply
+
+Despite the economy doing well, there was sustained foreign capital outflow which put pressure on the rupee and affected the sentiment around it Between early December 2025 and the end of March 2026, the rupee moved from 84.68 to 94.65 against the dollar  -  a fall of nearly 11.8 per cent in under four months. By most historical standards, that is an unusually sharp descent for a major emerging-market currency. What makes this episode particularly intriguing is that it unfolded against a backdrop of strong macroeconomic fundamentals: India's GDP growth remained strong, inflation was benign, and the government's fiscal balances were sound, supported by fiscal consolidation.
+
+In April 2026, the Reserve Bank of India stepped in with a clutch of corrective measures, and the rupee rebounded to around 93.3 to the dollar. But the question lingers  -  why did the rupee fall so hard, so fast, when the economy was, in most respects, doing rather well, especially compared to its peers? The usual textbook explanations do not justify the sharp depreciation.
+
+The relative purchasing power parity theory, which holds that the currencies of high-inflation countries should weaken against those of low-inflation countries, offers little help here. Indian CPI inflation during this period was not running any higher than America's. The trade deficit, which had increased substantially in October 2025 to a merchandise gap of $41.7 billion, had subsequently shrunk and stabilised.
+
+Once the services trade is included, the overall deficit in subsequent months looks manageable. Fiscal position, public debt, and monetary aggregates showed no major signs of distress either. Why did the rupee fall then? The real reasons lie elsewhere  -  in the capital account. Since 1991, India has routinely run a current account deficit comfortably financed by strong inflows of foreign direct and portfolio investment.
+
+That regularity seems to have taken a setback. RBI data show that net FDI flows have been negative every single month from September 2025 through January 2026, the last month for which figures are available. Data from National Securities Depository Ltd (NSDL) tells an interesting story on the portfolio side: seven of the nine months beginning July 2025 have seen net foreign institutional outflows, and March 2026 set a record for FII selling.
+
+Between late February and early April, foreign institutional investors were persistent net sellers in the cash equity market. This sustained outflow of foreign capital has not only put pressure on the rupee but also affected sentiment around it. Interest rate differentials An interesting trait of capital flows is that they often tend to chase the interest rate differential, adjusted for the perceived country risk parameter, reflecting sentiment about a particular currency.
+
+Thus, even with unchanged fundamentals across two countries, if a country is perceived to have become more (less) risky by the not-so-rational market players exhibiting herd behaviour, there may be sharp changes in capital flows and consequent exchange rate movements. Once sentiment turns, the currency market begins to form expectations that can affect the behaviour of various economic agents. For example, if foreign investors expect, say, a 10 per cent depreciation ahead, then a 12 per cent rupee return on an Indian asset shrinks to a meagre 2 per cent in dollar terms  - reason enough to diversify to other markets with higher expected returns.
+
+Exporters and remittance senders, anticipating a better exchange rate tomorrow, sit on their dollars today. Importers, fearing the opposite, rush to stock up. Speculators also try to take advantage. Each of these reactions, individually rational, collectively drags the currency down further. A strong expectation of depreciation, in other words, can become a self-fulfilling prophecy.
