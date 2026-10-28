@@ -1,0 +1,18 @@
+Category: Editorial
+Title: The AI India Impact Part One
+
+The AI India Impact
+
+India's focus has been at the deployment level, high investment in infra bodes well for AI Growth Attending the Global AI Impact Summit was a rare and rarified experience - listening to the thoughts of world leaders in this breakthrough technology that promises earth-shaking possibilities. It is probably correct to say that artificial intelligence (AI) could be the harbinger of the next Industrial Revolution - 4IR - after the previous revolutions brought about by the steam engine, electricity and mass production, and internet/digital technology. The visions painted by technology leaders such as Google's Sundar Pichai and Demis Hassabis, Open AI's Sam Altman, Anthropic's Dario Amodei, Meta's Alexandr Wang, and our own experts/inventors such as Sarvam AI's founders, plus the presentations at the tech companies' stalls, gave a dazzling display of the potential of AI for mankind.
+
+The impact of AI in the fields of science, health, education, agriculture, climate change, finance, commerce, and more are unfolding with dazzling or, as some feel, alarming speed. In medicine, AI promises personalised treatment instead of a one-size-fits-all, helping radiologists to detect critical diseases, or automatically producing medical notes after listening to doctor-patient conversations. In fact, India's AIIMS is cooperating with Google to raise the level of quality in health services and patient care.
+
+In agriculture, AI has been harnessed for early plant disease detection and cure recommendations, in weather prediction and in advice on ideal planting times and water use, fertiliser and pesticide usage, predicting diseases in cattle, and so on. AI deployment has accordingly led to a substantial increase in yields in various use cases. AI in education is enabling individualised teaching according to the specific needs of each student, providing round-the-clock coaching, and relieving teachers from drudge work like tabulating attendance or grading multiple choice questions.
+
+In governance, AI can and is helping individuals to connect to essential services in multiple languages. Prevention of fraud and ensuring compliance with legal and regulatory mandates is an area of growing deployment of AI, especially in financial businesses such as banking, insurance, and stock market operations. The list of uses where AI can be an essential tool is expanding by the day.
+
+Several Indian startups are using the services of Google and other AI biggies to relay the above benefits to Indian citizens. Large Indian corporates are prioritising the use of AI to bolster their services and products, including for enhancing productive efficiencies. On the other hand, there is no shortage of pessimists about the future with AI.
+
+There can be no doubt that agentic AI will automate and thereby replace many white-collar jobs, in particular the routine ones such as data entry and customer service, as well as entry-level jobs like data analysts. Already, the announcement by Anthropic of the launch of its Claude Cowork sent shock waves through the software industry globally including in India, and led to a steep fall in their stock market valuations. At the summit, however, a few significant collaborations were announced.
+
+For example, Infosys and Anthropic announced that the Indian IT firm will be developing AI solutions for targeted industries such as financial services and telecom. The Tata Group announced a tie-up with OpenAI that will likely enable access for thousands of its employees to advanced ChatGPT. However, the Indian software leaders were slow to wake up to the potential of AI to disrupt their business models.
