@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Can India reap AI gains
+
+Can India reap AI gains?
+
+That hinges on having ownership of AI capability Artificial intelligence, particularly generative AI and agentic AI, is increasingly being positioned as the productivity engine of this decade. The promise is compelling: faster coding, automated customer service, instant research, lower operating costs, and smarter decision-making. For India, AI could unlock major productivity gains across industries.
+
+But the more important question is not whether AI will create value. It is: who will ultimately capture that value? To understand this, one must look beneath the visible AI applications. At the core of generative AI lies the large language model (LLM), which powers chatbots, copilots, enterprise agents, retrieval-augmented systems (RAGs), and a growing ecosystem of AI applications.
+
+These systems work by processing massive volumes of text through transformer architectures and continuously predicting the next token to generate responses. Strategic layer The real strategic layer, however, is the foundation model itself  -  the base intelligence layer on which AI applications are built. Today, this foundational layer is dominated by global technology firms such as OpenAI, Google, Anthropic, Meta, and leading Chinese AI companies.
+
+Equally critical is compute infrastructure, particularly GPUs (graphics processing units). Foundation models require enormous parallel computing power for both training and inference. If foundation models are the brain of AI, GPUs are the engines that make them operational. Yet this layer too remains heavily concentrated, with Nvidia dominating advanced AI chips globally.
+
+This creates India's strategic dilemma. Indian businesses will inevitably adopt AI across customer service, coding, testing, HR, finance, marketing, legal review, and back-office operations. Firms will become faster and more efficient, while reducing operational costs. However, there is also the risk that India could simultaneously automate domestic jobs while paying foreign AI platforms for the intelligence powering those very systems.
+
+In such a scenario, Indian companies may improve productivity, but the highest-margin value could flow outward  -  to the owners of foundation models, GPUs, cloud infrastructure, and AI platforms. India could emerge as a large consumer and implementer of AI, while core AI ownership remains concentrated abroad. This would create a new form of digital dependency.
+
+India has begun responding to this challenge. Initiatives such as Sarvam.ai, Bharat Gen, and Gnani.ai represent important early steps towards sovereign AI capability. Yet these efforts alone may not be sufficient. India still trails the US and China in frontier foundation models, access to advanced GPUs, deep AI research ecosystems, cloud infrastructure, and large-scale private capital.
+
+However, India can build meaningful strengths in Indian-language AI, voice AI, and enterprise applications serving public-sector and domestic use cases. Catching up at the frontier level, though, will require sustained investment and long-term strategic commitment. Therefore, the debate is no longer "AI or no AI." The real question is whether India will remain merely a user of AI, or become an owner of AI capability.
+
+India needs affordable AI compute, sovereign foundation models, high-quality domestic datasets, AI-ready public infrastructure, strong governance frameworks, and large-scale workforce reskilling. Indian IT firms must also evolve beyond manpower-based billing models towards AI-led, IP-led, and outcome-based platforms. AI can undoubtedly become India's productivity engine.
+
+But without domestic control over models, compute, data, and platforms, it may ultimately become a productivity engine for someone else. By Harsimran Sandhu & Susmi Routray Sandhu is Professor of Finance, and Routray is Professor of Information Technology Management, IMT Ghaziabad
