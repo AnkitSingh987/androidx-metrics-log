@@ -1,0 +1,16 @@
+Category: Editorial
+Title: A cloud system for agriculture Part Two
+
+A cloud system for agriculture
+
+In a single stroke, the data centre's load becomes the demand that finances rural electrification, not the one that starves it. All in all, this model can create an extraordinary win-win situation for farmers, Google, and the government. For the farmer, land works twice over, produces a high-value crop, and generates a dividend from the power company that they partly own.
+
+For Google, it can buy while earning the farmers' lifelong trust. A gigawatt or even a few hundred megawatts sourced from farmer-owned agri-PVs is a legacy story the company can tell for decades to come. In a country where large projects live or die on social licence, that goodwill is not a soft sentiment.
+
+It is the cheapest insurance Google can ever buy. For the state government, the model dissolves the very conflict that could have otherwise dogged its proudest investment. Instead of being forced to choose between the cloud and the cultivator, it can point to an arrangement in which the former pays for the later.
+
+It is now for Sundar Pichai and Chandrababu Naidu to work with farmer producer companies, cooperatives, and rural entrepreneurs to set up at least 5,000 agri-PV systems of 1 Mw each across the state. Assuming each 1-Mw agrivoltaics system costs ~` 4 crore, we estimate an investment of Rs 20,000 crore, ($2.2 billion) to fulfil the self-sustaining captive energy requirement for Google. As mentioned earlier, innovative blended financing instruments and guaranteed buyback can ensure that funding does not become a stumbling block.
+
+More importantly, there will be minimal burden on the state or national budget, as it would be a market-based mechanism. The choice that Andhra Pradesh faces is not between development and farmers. It is between two different kinds of development models. In one model, land is acquired, power is drawn, and what is left behind is a one-time rent and a long-lasting grievance.
+
+The other model treats farmers as co-owners, the agri-PV system as an asset, and the data centre as a customer. Being a proponent of the very licence (DDL) that makes it possible, Andhra Pradesh is uniquely placed to show the rest of the country how the cloud can shower prosperity on agri-households. By Ashok Gulati, S Baskar Reddy, and Kalyan Chakravarthy Guntuboyina Gulati is Distinguished Professor at ICRIER, Reddy is Executive Director, Global Agri-Entrepreneurship Academy, and Guntuboyina is Regional Manager, International Cooperation (Asia) at Wageningen University, Holland
