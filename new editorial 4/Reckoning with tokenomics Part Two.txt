@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Reckoning with tokenomics Part Two
+
+Reckoning with tokenomics
+
+Other thought-provoking survey findings relating to AI highlight the dominance of OpenAI, that a majority of enterprises are moving to production from pilots, and that companies spending more on AI are not gutting the rest of their software stack yet. The narrative has moved to how much value is being extracted from each token. User-side and engineering optimisation: User-side optimisation definitely starts with consciousness about high costs.
+
+To reduce token consumption, users must trim prompts, precluding verbosity, and repeat instructions. It's best if the format for the output sought is defined in the question itself, as opposed to repeating vague instructions. Feeding entire documents when only a few paragraphs are relevant is inappropriate.
+
+Engineering-side optimisation to make the system consume fewer tokens involves retrieval that presents only relevant parts, compressed summaries, and prompt templates that don't repeat large instruction blocks. Well-engineered systems focus on breaking tasks into stages, and caching reusable content. They store facts, preference, policies, and context to the model in natural language separately outside the prompt, as structured metadata, injecting only what's necessary at the moment of inference.
+
+Both will define AI's economic scalability. Token chaos is no longer theoretical, opening up areas of technical, operational, economic, and governance risks. There have been cases of rare token sequences or "glitch tokens" triggering bizarre model behaviours. There have also been cases of erroneous routing of requests to the wrong servers or "context-window routing errors" called out last year by Anthropic, innocuous token strings causing "model hallucination", and hostile token streams inducing "memory poisoning".
+
+Then there's the general lack of comprehension when a smart 500- token prompt shaped by relevant constraints and context outperforms a noise-filled 5,000 token-prompt. Token paradox: Gartner is predicting that with increasing licence fees and token consumption, the cost of AI coding tools will exceed average salaries of developers by 2028. The fact that developers are becoming so reliant on AI mystifies the cost equation.
+
+Tokenomics is about the translation, compression, and governance of human intent within machine intelligence. A defining question of the AI era is whether the monetisation of (artificial) intelligence will deprioritise its inherent utility and the spirit of innovation. Written by Anil Nair The author is the founder of ThinkStreet
