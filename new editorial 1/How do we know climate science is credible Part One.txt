@@ -1,0 +1,20 @@
+Category: Editorial
+Title: How do we know climate science is credible Part One
+
+How do we know climate science is credible?
+
+The answer to whether a new paper doubting the reality of climate change could be right is not that one of its authors is a 'clarinet instructor', that its rhetoric is often obscure, that some of its other authors have done questionable things in the past or even that it has not passed peer-review by a 'prestigious' journal On March 10, a journal called Science of Climate Change published a paper calling into question the foundations of climate change. The paper concluded that after accounting for some sources of uncertainty in the climate data, the 'correct' changes in the oceans' heat content and Earth's energy imbalance are practically zero.
+
+In other words, the oceans are not warming, Earth's surface is not accumulating heat, and global warming is not happening. The paper is more sophisticated than it seems at first sight and makes three claims with different levels of merit. There is value in addressing them in detail because doing so reveals how we know that climate science is credible.
+
+Heat, maths, Argo The paper's foremost claim is that temperature is an intensive property  - meaning its value does not depend on the mass of the material  -  and thus scientists cannot average it in a meaningful way when estimating the amount of heat oceans hold. Scientists have already addressed this claim. First, by the same logic, we cannot measure average air temperature, average atmospheric pressure, average sea level rise, and so on.
+
+Second, and more importantly, scientists do not just measure and average the temperatures of different water bodies to determine the heat content. They also calculate the thermal energy. Temperature is nothing but the average kinetic energy of the atoms or molecules in a body. And thermal energy is the total kinetic energy of the water molecules.
+
+This is an extensive quantity  -  it depends on the number of molecules  -  and can be averaged. Its value has been increasing over time as well, and it also clarifies that the way scientists are handling the temperature data is correct. Next, the paper takes issue with the Argo floats data. According to the U.S.
+
+National Oceanic and Atmospheric Administration, "Argo is an international program that collects information from inside the ocean using free drifting [devices called] profiling floats. These floats drift with the ocean currents and move up and down between the surface and a mid-water level. The floats are distributed over the global ocean to measure temperature and salinity in the upper 2,000 m." According to the paper, the data the floats collect have some gaps, which has created uncertainties in the final processed data that have gone underreported.
+
+To the paper's credit, scientists have already raised and addressed the numbers it has cited on phenomena called mesoscale aliasing and deep ocean ignorance in the research literature. However, the paper's authors inflate these uncertainties and add them up in unscientific ways. For instance, some of the errors they add up have the same underlying cause, so adding them as if they were separate errors ends up counting the same causes more than once.
+
+To avoid this pitfall, oceanographers run the whole calculation in different ways and check whether they keep getting roughly the same answer. They check whether the calculation predicts temperatures at locations where they actually have measurements to compare with  -  and whether the overall estimate holds up when they remove data from the calculations. This way, they make sure their methods are robust and don't over-count uncertainties.
