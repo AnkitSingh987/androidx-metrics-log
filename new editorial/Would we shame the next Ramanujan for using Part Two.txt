@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Would we shame the next Ramanujan for using Part Two
+
+Would we shame the next Ramanujan for using AI?
+
+But the same judgement needs to be cast on the tool creators who have shown little accountability for using, without permission, content from the internet. The recent lawsuit by WikiHow alleges OpenAI scraped more than 11,000 articles without permission. The latter is being accused of infringing at least 1,200 copyrights.
+
+As one would expect, OpenAI says the models have been trained on publicly available data grounded in fair use. If that's not a double standard, I don't know what is. The argument only works if accountability runs both ways. Glaring imbalance One can argue that the situations don't stack up equally, but ethically, the imbalance is glaring.
+
+Regulations are still playing catch-up, and tool creators find their position easy to defend since laws on the topic are as dated as the colour TV. Recently, in India, the court refused to grant an interim injunction to Asian News International (ANI), which had appealed against OpenAI using its content to train models. The case was tried under an act drafted in 1957.
+
+Accountability aside, this topic needs to be seen through another lens that is central to the existence of the human race: cognitive development. Decades ago, I completed two master's degrees, which also means two dissertations. The ability to think, reason, and solve complex problems had a profound impact and laid the foundation for my career.
+
+This is discussed in Bloom's taxonomy (1956), which Anderson and Krathwohl revised in 2001. This taxonomy argues that writing can happen across levels, but creating original text sits at the highest level of the cognitive hierarchy. Just like Ramanujan and Druckenmiller, not everyone can operate at this level, but that doesn't mean they aren't great at analysis, evaluation, and application.
+
+This is where GenAI comes to the rescue. The world will benefit more if these mavericks spend more time in their field than learning how to write better. Extent of involvement But to ask for disclosure from users is fair. What is also fair is a promise from the creators of these tools. Instead of finding new ways to target original content under the guise of compliance, the focus must shift to tagging the content.
+
+A great place to start is using "extent of involvement" as the core premise. The spectrum can range from AI-originated at one end to an authorised writing partner at the other, with human-reasoned, AI-drafted and human-authored, AI-edited in between. Such classifications are critical since AI-written content is now the new normal.
+
+In fact, LLM writing will soon merge with human writing, and the difference will be hard to tell. Bottom line: denying people the right to use these tools simply because they don't speak a language you do is akin to how East never got a chance to put its history on a world map. Sit with that for a while.
+
+By Sanchit Vir Gogia The writer is the Chief Analyst at Greyhound Research (part of The House Of Greyhound), a global, award-winning, technology research, advisory, consulting & education firm
