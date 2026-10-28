@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The tricky case for plastic banknotes Part Two
+
+The tricky case for plastic banknotes
+
+And this is where the real challenge begins. So far, we've only talked about why the RBI might be considering trials for polymer notes. But while almost every other piece of news seems to be celebrating the move, there are a few big hurdles the RBI could run into. The first challenge is that India would have to rely heavily on importing polymer substrate from a handful of global manufacturers that have been making it for decades.
+
+That means the upfront cost of switching to plastic notes could be substantial. And that's even before you factor in the cost of designing new notes and upgrading printing plates. Now, you could argue that India is the world's second-largest producer of BOPP (Biaxially Oriented Polypropylene) films, which form the base material for polymer notes.
+
+So, if the country ever decides to make the switch, couldn't it eventually manufacture the substrate at home? Well, not so fast. The world's first polymer banknote, issued by the Reserve Bank of Australia (in 1988), was printed on CCL Secure's specially developed GUARDIAN substrate. It took nearly two decades of research and development to perfect, and it's still used by more than 40 countries today.
+
+So even if India decides to manufacture polymer substrate domestically, building that kind of capability isn't something that can be scaled up overnight. Secondly, this isn't even the first time the RBI has flirted with the idea of polymer banknotes. The central bank has tried to run pilot projects at least four times since 2009.
+
+But one of the biggest hurdles was that ATMs struggled to dispense polymer notes reliably. Now, technology has certainly improved since then. But there's still no concrete evidence to suggest that India's ATM network is fully equipped to handle polymer notes. The problem is fairly straightforward. Polymer notes are more slippery than paper ones, making them harder for ATM rollers to grip and dispense.
+
+You could look at the UK as an example. It completed its transition to polymer notes in 2022. But after introducing its first polymer note in 2016, it had to spend more than £45 million upgrading cash vending machines. And if you include cash-counting machines as well, the bill rose to nearly £240 million or about £340 million in today's money.
+
+That's a staggering ₹4,300 crore. Sure, the RBI could avoid some of these costs by introducing polymer notes only for lower denominations like ₹10 and ₹20, which change hands more frequently in everyday transactions. But there's a catch. The ₹500 note is the most widely circulated note in the country, followed by the ₹10 note.
+
+And the government is also planning to roll out ATMs that dispense smaller denomination notes as cash in circulation has climbed to a record ₹42.97 lakh crore since 2017 and there seems to be a genuine crunch of small notes. So if ATMs are eventually expected to dispense more small-value notes, the cost of upgrading the country's cash infrastructure isn't something you can simply rule out. And finally, there's one criticism of polymer notes that might sound a little silly at first.
+
+But they don't fold as easily as paper notes. Which means you can't casually slip one into your jeans pocket anymore. Chances are, it'll just spring back or even slip out. So yeah, while more than 60 countries may already be using polymer notes, that doesn't automatically make them the best choice for every country.
