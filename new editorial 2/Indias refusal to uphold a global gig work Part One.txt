@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Indias refusal to uphold a global gig work Part One
+
+India's refusal to uphold a global gig work law
+
+India's next transformative public infrastructure revolution India made identity, payments, and data free. Intelligence is next. No other country has deliberately built all three as a digital public infrastructure (DPI) stack at India's scale. Others have developed only pieces of this. Estonia has a world-class digital identity system, but nothing comparable to UPI.
+
+Brazil's Pix is an excellent free payments rail, but it stands alone. Singapore has Singpass and SGFinDex, while Europe has open banking and data portability. India's genuine claim to global leadership in public digital infrastructure lies in this unique combination. Its distinctiveness is not any single component, but the integration of Aadhaar, the Unified Payments Interface (UPI), and DEPA/Account Aggregator as interoperable public digital rails.
+
+Between September 2016 and 2019, the cost of a gigabyte in India fell from about $4 to under 30 cents, making it among the cheapest in the world. The result was not a telecom story. It was a civilisational one: 500 million people came online in half a decade, powering India's digital economy such as payment volumes, the startup ecosystem, the direct-benefit transfers reaching the last village.
+
+Aadhaar enrolled 1.4 billion people and turned identity verification from an expensive paper process to a low-cost API call. UPI made digital payments effectively free, processing around 20 billion transactions a month at near-zero cost. India made data free not by subsidising it, but by letting one player absorb the fixed costs of a nationwide 4G network, price at marginal cost, and force every incumbent to match or die.
+
+India should not be in the capital race to the bottom which we would lose to hyperscalers, and it is the intelligence equivalent of nationalising the telecoms. India crashed the price of data by engineering conditions and competition. So, the target is inference, not training: relentlessly drive down the cost of using a model.
+
+It released spectrum, created a demand shock, and let ferocious competition do the rest. The state built the road and set the rules; the market crashed the price. A billion people came online not because data was gifted, but because its cost fell below the threshold of thought. And the case for making it free  -  or as close to free as a gigabyte of data is  -  is not utopian.
+
+It is the same case, run on the same playbook that worked three times before. This is the model India should now apply to its fourth foundational utility: intelligence itself. Intelligence is no longer a luxury software product; it is foundational infrastructure. The trade running against India The global artificial intelligence (AI) race is currently operating under an extractive economic model, and India  -  despite its immense demographic dividend  -  is on the losing side of the trade.
+
+India serves as the world's digital quarry. India supplies an outsized share of the world's raw intelligence. Its engineers build and fine-tune the frontier models of Silicon Valley. Its digitised public life  -  languages, documents, transactions, behaviour  -  becomes training data. Its universities and diaspora furnish a disproportionate slice of the research talent behind every major laboratory.
+
+Each day, Indians generate vast data; Indian engineers build Silicon Valley's frontier models; and Indian workers label datasets to make them safer. Yet, Indian startups must rent that intelligence back as dollar-priced API tokens, subject to export controls and hosted on distant servers. India exports talent, data, and usage, then imports the finished intelligence at high-margin, per-token prices on terms set in San Francisco.
