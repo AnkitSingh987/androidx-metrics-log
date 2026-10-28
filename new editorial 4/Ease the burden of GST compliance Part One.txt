@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Ease the burden of GST compliance Part One
+
+Ease the burden of GST compliance
+
+Restoring input tax credit neutrality would reduce manufacturing costs, improve compliance, and strengthen export competitiveness India's goods and services tax (GST) recently entered its 10th year, and the collections are far more stabilised now than they were when its rate structure was rationalised in September last year. But even after a decade, GST's compliance requirements remain complex and tedious, especially for smaller businesses which may not have the wherewithal to comply with the regulations. The GST Council, which hasn't met for more than 10 months now (its last meeting was held in the first week of September 2025) should expedite the date of its next meeting and take the tax reforms journey further.
+
+There are many sweeping changes that the GST Council can consider and recommend to the government. First, make e-invoicing mandatory for all the GST registrants and for all types of supplies irrespective of their turnover limit. Currently, GST registrants having an annual turnover above Rs 5 crore are required to issue e-invoices for business-to-business and business-to-government supplies.
+
+For business-to-consumer supplies and export transactions, e-invoice isn't mandatory. This results in a complex process of aggregating the turnovers, which leaves room for errors to creep in. Also, large taxpayers have to manually track the quantum of input tax credit (ITC) for supplies received from smaller taxpayers.
+
+Making e- invoice compulsory for every taxpayer will help in getting the full data into the GSTN (GST Network) servers at source, reducing the possibility of errors to a large extent. Second, do away with the requirement of generating e-way bill for the supply of goods. This needs to be done after incorporating certain details such as mode of transport, transporter, vehicle number (in case of road transport, etc.) in the e-invoice itself.
+
+This will save a lot of duplication of effort that the businesses are currently undergoing. Almost 800 crore e-way bills have been generated as of June 30. Also, given the condition of roads and heavy traffic in most parts of the country, especially during the monsoon season, the period during which the e-way bill is valid proves insufficient.
+
+An eight-hour window is provided for extending the validity of the e-way bill that is issued. If for some reason the eight-hour window is missed then a fresh e-way bill needs to be issued, posing a burden on the taxpayer. Third, introduce a PAN-based "one nation, one GSTIN (GST identification number) system" by doing away with the requirement of a pan-India business to obtain GST registration in every state of operations.
+
+Having multiple GSTINs leaves such businesses with an ITC balance in the respective credit ledgers due to the requirement of registering in every state/Union Territory of operations. For a given tax period, it may so happen that in one state of operations (say X), there is an ITC balance but there is no output liability for that tax period; at the same time, in another state of operations (Y) it has an output liability with no ITC balance available to adjust. This is a double whammy where businesses are then required to discharge the GST liability in cash in state Y and continue to carry forward the ITC balance in state X.
