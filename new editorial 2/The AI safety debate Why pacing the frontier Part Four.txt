@@ -1,0 +1,14 @@
+Category: Editorial
+Title: The AI safety debate Why pacing the frontier Part Four
+
+The AI safety debate: Why 'pacing the frontier' comes with pitfalls
+
+If the US slows more than the size of its lead, he argues, Chinese projects could overtake it. Any global agreement would therefore require sufficiently strong verification to prevent one country secretly continuing to develop more capable systems. That has made the proposal easy to read in Beijing as an attempt to institutionalise an American technological lead, a premise China's foreign ministry dismissed this week.
+
+The fear in Washington DC that any roadblocks for American tech majors could potentially lead to China creeping ahead, University of Montreal's Prof. Krueger said, it is not a "sensible argument". "China also doesn't want AI to destroy the world. But it does point at something real: the need for international verification of any international agreement.
+
+Fortunately, this seems like a solvable problem. Building ever more powerful AI requires massive investments in sophisticated computer chips. These chips are very difficult to make, and require extremely specialized technology. As a consequence, if we act today to put verification into place (that is, get rid of or monitor the chips and the factories that build them), I believe we can make it practically impossible for anyone to build more powerful AI in secret," he told The Indian Express.
+
+The Chinese are evidently not holding back their punches either. "Fear-mongering, confrontation and vicious competition will only hamper efforts toward sound global AI governance," spokesperson Guo Jiakun said when asked about the calls from Amodei, Altman and Musk. The state-backed Global Times went further, describing Amodei's combination of pacing and tougher technology restrictions on China as a "Cold War" approach.
+
+Written by: Soumyarendra Barik, Anil Sasi
