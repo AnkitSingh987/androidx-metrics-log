@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Taxi drivers rarely die of Alzheimers how Part Two
+
+Taxi drivers rarely die of Alzheimer's  -  how complex mental maps and spatial reasoning protect your brain
+
+Where map specialists fit in Cartographers, urban planners and geospatial analysts spend their working days in sustained spatial reasoning. A geographic information system specialist might use a computer to overlap population data on flood exposure maps to find who is at risk, or read satellite imagery to map land cover after a wildfire. Researchers juggle several layers of data, coordinate systems and scales at once.
+
+Does spatial reasoning through a screen engage the hippocampus the way moving through a real city does? While a taxi driver navigates from inside the scene at street level, GIS researchers picture space from above as a map  -  what cognitive scientists call allocentric reasoning. But these two perspectives overlap in the brain: The hippocampus also builds maps from outside viewpoints, not just from a navigator's own position.
+
+Research on cognitive maps points toward the same conclusion as the study on taxi drivers. In 2023, researchers ran a machine learning model on more than 22,500 people in a national dataset and were able to predict which ZIP codes had higher rates of Alzheimer's with 84% accuracy based on how complex the environment was. Those living in spatially complex surroundings  -  the kind that force active map building, such as dense street networks with numerous intersections, diverse points of interest and landmarks, and multiple path options  -  were less likely to develop Alzheimer's.
+
+A follow-up study tied geospatial complexity in one's environment to greater volume in the brain's spatial navigation regions. The researchers hypothesized that routinely building cognitive maps exercises the very circuitry that Alzheimer's attacks first. Repeatedly engaging the cognitive systems involved in spatial navigation could help delay symptoms of disease.
+
+However, these two studies focus on where people live, not the work people do. Whether spatial reasoning through a screen exercises the same circuitry as real-life city navigation remains untested. Protecting your brain The implications of whether sustained spatial reasoning protects the brain reach beyond mapmakers and cab drivers.
+
+Studies have repeatedly found a link between mentally complex occupations and delayed cognitive decline and lower dementia risk, even after accounting for education. Research on cognitive reserve  -  the brain's capacity to continue functioning despite disease  -  can help explain why two people with a similar disease burden can show markedly different levels of cognitive impairment. If demanding spatial thinking protects the brain, then how societies design schooling, professional training and retirement all become questions of brain health.
+
+Spatial reasoning can be trained, and training opportunities are already widespread. GIS and remote sensing instruction are available through geography, engineering, public health and environmental science programs worldwide. If sustained engagement with spatial reasoning can help the brain strengthen the circuitry that Alzheimer's attacks first, its value reaches well beyond the technical skills it builds.
+
+Hatim Sharif, Professor of Civil and Environmental Engineering, The University of Texas at San Antonio
