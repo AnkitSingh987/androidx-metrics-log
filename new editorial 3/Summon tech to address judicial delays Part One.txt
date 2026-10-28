@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Summon tech to address judicial delays Part One
+
+Summon tech to address judicial delays
+
+Indian judiciary can move towards accessible, efficient, and timely justice for all by incorporating measures that embrace artificial intelligence. Over the years, much efforts have been made and significant expenditure incurred for modernising judicial and legal processes to make justice accessible to every citizen. Despite this, the judicial backlog in India has grown from about 93 lakh pending cases in courts in 1984 to around 5.3 crore pending cases as of this July, with a few lakh more cases pending in tribunals.
+
+The fact that it is not possible to accurately address three critical concerns that a litigant faces - the outcome of the case, the time of the verdict, and the total cost of litigation - reflects the uncertainties inherent in Indian litigation. The government has invested heavily in technology through the three phases of the e-Courts Project kicked off in 2011. In the first phase (2011-2015), 935 crore was allocated for the computerisation of courts, establishing the Case Information System, and basic infrastructure.
+
+In the second phase (2015- 2023),1,670 crore was earmarked for e-filing, integrated case management, grievance redress, and digital payments. In the ongoing third phase (2023-2027) `7,210 crore has been allocated for the digitisation of documents, launching virtual courts, expanding cloud infrastructure, and providing e-Sewa Kendras for accessible court services. The age of artificial intelligence (AI) is upon us.
+
+Wittingly or unwittingly, it pervades most aspects of our lives. It can be magical when put to good use, and offers transformative potential for the judicial process. A critical need for the effective, secure, and compliant functioning of a legal AI portal is a dedicated data repository. The repository would need to comprise all (central and state) statutes, rules, regulations, delegated legislations, as well as judgments from courts and tribunals.
+
+Handling procedural matters too is an urgent priority. Adjournments, routine administration, and jurisdiction disputes consume 45-55% of court time. AI can alleviate these through automated decision-making support. The importance of research and applying binding precedents cannot be emphasised enough.
+
+AI models trained on tagged data can automate query-based legal research. Further, in the case of supporting structured pleadings, AI relies on natural language processing (NLP) techniques to interpret documents and can therefore facilitate the creation of structured AI-assisted pleadings. As a seasoned practitioner knows, this could be a game changer.
+
+A perusal of pleadings filed in courts over the past 40 years shows a dramatic increase in their size over the years. From two-three pages being the norm in the 1970s to over 50 pages being common in 2025 and from annexing a handful of exhibits to the pleading (and producing all the relevant documents at the trial), it is now common to annex every document that is remotely relevant. The Supreme Court had occasion to comment on this in Annaya Kocha Shetty vs.
+
+Laxmibai Narayan Satose (both deceased by then), reported in 2025 SCC OnLine SC 758: "…Such lengthy pleadings would even upset Polonius from Shakespeare's Hamlet. Every word that is not a help is a hindrance because it distracts. A reader who realises that a brief is wordy will skim it; one who finds a brief terse and concise will read every word…The effort of pleading and evidence should be to be concise to the cause and must not confuse the cause…" Similarly, AI can be of immense help in supporting and creating structured judgments.
