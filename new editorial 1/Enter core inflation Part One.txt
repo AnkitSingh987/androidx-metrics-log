@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Enter core inflation Part One
+
+Enter core inflation
+
+Public sharing of its projections will have market implications The first-ever core inflation forecast by the RBI came as a surprise. A market request, according to the RBI governor, it does not represent any policy shift as headline inflation remained the target and primary goal, even as core inflation always figured in monetary decisions. He added that the different inflation components and their drivers were important and it was the right time  - following the quinquennial review of inflation targeting  -  to share their internal core projections with the public.
+
+From this it appears the core inflation forecast (CIF), which reflects demand dynamics, is an intermediate diagnostic. Its analytical service is to help markets/bond investors "look through" supply-driven headline inflation volatility  -  detect the signal from the noise, as it were. Though a first for India, this practice is widespread across advanced and emerging economies with varying degrees of formality, a near-versus medium-term trajectory of inflationary pressures integrated with an explicit narrative on second-round effects, and how core informs but does not determine monetary decisions.
+
+What are the implications for market expectations and anchoring? Does a CIF improve transparency and understanding but can create uncertainty and confusion about the future path? There is the possibility that a supply-demand decomposition with separate projections will prompt guesses about the weights assigned to core at different stages of monetary policy decisions.
+
+An explicit CIF raises the salience of the measure, creating implicit expectations that it matters in a defined way. This introduces the risk of misreading the underlying signal. For example, inferring the RBI will not react to transitory supply-induced spikes  -  e.g. food, fuels, other cost shocks  -  to the headline but instead, calibrate policy to the underlying trend inflation, markets may not expect tightening or an aggressive response.
+
+This anchoring function may lower term premia, flattening the short end of the yield curve during supply shock episodes. Hence, markets can directly price disclosure of the RBI's supply-vs-demand assessment into the term structure. Whether the CIF is a pointer to future action  -  a forward rate indicator  -  is an open question, however.
+
+It depends upon information from the decomposed headline-core (H-C) gap, type of shock, and its longevity embedded in the projections and their accuracy. Consider three possibilities: H >, =, or < C. The first is a classic supply shock  -  a temporary relative price shift that central banks "look through"  -  with the challenge of real-time distinction (temporary or enduring), duration (un)certainty, the timing, and degree of action, e.g., none, limited, or precautionary frontloading against the entrenchment risks.
+
+The second is unequivocal. The third can again pose difficulties because supply shocks like oil-commodities-imported inputs infiltrate quickly into core, questioning the clean demand signal from the persistent component of inflation (CIF). History shows H-C inflation gap is not stable (see chart), which undermines its signalling properties, i.e.
+
+nature and persistence of supply pressures; hence, its discriminatory power and predictive ability. In 2019-24 for example, H stayed mostly above C with enlarged gaps  -  an average 1.98- and 1.48-points lasting above a year in October 2019-November 2020 and in July 2023-December 2024 -  against a modest 60-bps wedge in January 2014-August 2016. Food inflation, averaging an annual 10.2 and 8.5% each month, was the prominent driver of the recent gaps.
