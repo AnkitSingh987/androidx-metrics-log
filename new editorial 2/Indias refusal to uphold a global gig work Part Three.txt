@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Indias refusal to uphold a global gig work Part Three
+
+India's refusal to uphold a global gig work law
+
+When intelligence becomes nearly free, sectors constrained by scarce human capital transform. A rural doctor, aided by AI trained on Indian data, can treat more patients with fewer errors; India's 300 million students get 24×7 personalised AI tutors in local dialects; a Karnataka farmer can settle a crop-insurance claim by voice in Kannada, with AI accessing land records. The next great equaliser In sum, free identity and cheap data did not make Indians rich; they made mass participation frictionless.
+
+Free intelligence can do the same. Nobody foresaw that near-free data would create the world's largest payments system, short-video platforms, and QR-code vegetable vendors. Near-free intelligence could be just as generative if the state primes it with token entitlements for students and teachers, citizen services in local languages, and affordable tools for 60 million small businesses.
+
+India's leadership in the AI economy is contingent on developing an open-source ecosystem with open weights, no-kill-switch models that expand competition, choice, opportunities and innovation. The goal is not better chatbots; it is making cognition no longer a class privilege. By Srivatsa Krishna (IAS Officer)
