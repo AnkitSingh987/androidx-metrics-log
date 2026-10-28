@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Delhis air generally clears by midJanuary Part One
+
+Delhi's air generally clears by mid-January. Here's why it hasn't
+
+By mid-January. Here's why it hasn't The air crisis in Delhi is not waiting for better evidence. It suffers from blurred boundaries, fancy nomenclature, and the repeated use of complexity as a brake on action Traditionally, Delhi's air begins to clear by mid-January. This year, it didn't. This year, the calendar slipped by about 10 days.
+
+Like everything else in this strange winter, November's pollution peak shifted, the stubble burning advanced, as did the arrival of fog. The city found itself gasping through yet another severe AQI episode, precisely when relief usually arrives. Why the delay is an important question pointing towards climate change, ENSO-neutral conditions, an unusually wet monsoon in North India.
+
+But while scientists argue causes and models, Delhi's residents were once again trapped in a pollution crisis, and quick fixes predictably failed. It was at this moment that the Supreme Court stated that the exact, scientific source of emissions must be identified before implementing solutions for mitigation. Delhi's own apex air-quality body swiftly stated an expert committee finding that vehicular emissions are the dominant primary source of PM2.5.
+
+This is not a revelation. It has been known for more than a decade, ever since India's first air-quality forecasting system, System of Air Quality Forecasting and Research (SAFAR), developed by the Ministry of Earth Sciences in 2010, was launched with emission inventories of Delhi NCT, the foundation of forecasting science. SAFAR's 2010 inventory showed that fossil-fuel-based transport accounted for roughly 35 per cent of PM2.5 emissions in Delhi.
+
+When updated in 2018, this share rose to around 40 per cent. These numbers have been available, peer-reviewed, and policy-relevant for over a decade. Equally well-established is the fact that PM2.5, not PM10, is the real public-health emergency. Yet policy responses continue to chase visible dust with water sprinklers.
+
+Shifting focus to PM2.5 would not only save our health, but it would also save enormous amounts of water currently used on cosmetic solutions. Recent findings attribute 23 per cent of PM2.5 emissions to transport, while earlier figures in public discourse placed transport's share at 40 - 45 per cent. This appears contradictory.
+
+In reality, both figures are technically correct  -  but only when geography is made explicit. The relative share of transport emissions changes rapidly with distance. In the core National Capital Territory, transport contributes as much as 40 - 45 per cent of PM2.5 emissions. As one moves outward, roughly every 15 - 20 kilometres, transport's share declines by about 5 per cent, as emissions from biofuels  - residential burning, cow dung, brick kilns  -  start to become more prominent due to surrounding rural areas.
+
+Move further still, and coal-fired power plants enter the inventory sources that are absent within Delhi but significant in the wider NCR. When reports fail to clearly specify which region they refer to, they leave citizens, media, and policymakers guessing. Percentages without spatial boundaries do not clarify reality; they obscure it.
+
+A second layer of confusion is added by the way emissions are classified. Recent reports assign 27 per cent of PM2.5 to "secondary particle formation". While scientifically valid, this framing is misleading for policymaking. Secondary particle formation is not an emission source. It is an atmospheric process  -  the chemical transformation of gases such as sulfur dioxide, nitrogen oxides, and volatile organic compounds into particulate matter.
