@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Census will still fail to count Indias Part One
+
+Census 2027 will still fail to count India's disabled citizens
+
+To count India's disabled citizens The Census returns once in a decade, and if this occasion is missed a generation of disabled Indians will grow up undercounted, underbudgeted and invisible to the state. Self enumeration for Census 2027 commenced on August 17 in the snowbound districts of Jammu and Kashmir, Ladakh, Himachal Pradesh and Uttarakhand, ahead of door-to-door enumeration from September 1 and the national count in February 2027. Having examined the disability question that will be put to every resident, we find the apprehension of undercount to be well-founded.
+
+Of the 40 questions notified by the Ministry of Home Affairs, the 13th concerns disability. Question 13(a) asks whether the respondent is a person with disability; if the answer is affirmative, 13(b) invites the selection of up to three types from a list of nine: Seeing, hearing, speech, mobility, intellectual disability, mental illness, acid attack, chronic neurological disease and, now, blood disorder. A step backward The revision appears to be an improvement.
+
+The categories have increased from eight in 2011 to nine, blood disorder has been introduced, and the obsolete term "mental retardation" replaced with intellectual disability. These corrections are welcome and long overdue. The Rights of Persons with Disabilities Act, 2016 expanded the schedule of recognised conditions from seven to 21, including dwarfism, muscular dystrophy, specific learning disabilities, autism spectrum disorder, cerebral palsy, thalassemia, haemophilia and sickle cell disease.
+
+Each confers entitlement to certification, reservation and welfare. None will appear on the instrument that will enumerate the country. The omission carries material consequences. In many instances we have noted, autism is already recorded as intellectual disability at certification, by boards lacking the capacity and intent to distinguish between them.
+
+To offer intellectual disability without a separate entry for autism is not merely to leave that error uncorrected but to reproduce it at national scale, and a person mis-recorded at the doorstep is directed toward inappropriate services for a decade. The exclusion is not inadvertent, and in one respect the schedule has regressed. The option for multiple disabilities and the residual category of any other, both available earlier, have been withdrawn.
+
+Question 13(b) permits three selections, though it remains unclear whether these will be recorded as one instance of multiple disability or as duplicate counting. Flawed categorisation Nor does the classification withstand scrutiny. The nine options are the broad heads of the Act until acid attack is encountered as a freestanding entry, when under the statute it is a condition situated within locomotor disability.
+
+Placing a narrow sub-condition beside umbrella terms such as mobility invites the question of what governed the selection. No substitution fills gaps The customary reply is that the Unique Disability ID database will supply what the Census omits. It does not. UDID registration reaches approximately half the disabled population and demands precisely the access to certification and transport that remote India lacks.
+
+National Sample survey (NSS) estimates prevalence; they cannot give absolute numbers. Backward among backwards Enumeration is proceeding in the least accessible districts in the country. We have worked on training material for Census enumerators, and there is no guidance on what "chronic neurological condition" consists of, how to enquire where a respondent hesitates to disclose a mental illness, or how an enumerator without clinical training might recognise intellectual disability at the doorstep.
