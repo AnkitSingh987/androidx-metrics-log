@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Thirsty data centres thin regulation Who is Part One
+
+Thirsty data centres, thin regulation: Who is watching India's water?
+
+Regulation: Who is watching India's water? None of the major state data centre policies in India currently require operators to disclose water consumption through a centralised reporting system India's Artificial Intelligence (AI) boom represents a once-in-a-lifetime economic opportunity. With one of the highest rates of AI adoption among enterprises globally and billions of rupees committed through the IndiaAI Mission, the country is rapidly emerging as a leader in the AI revolution.
+
+The question is whether India's regulatory framework is evolving quickly enough to ensure that the infrastructure powering this growth remains sustainable, particularly when it comes to managing the significant water resources required to cool and operate data centres. According to IBM's global research, 59 per cent of Indian enterprises have already adopted AI  -  the highest share among all countries surveyed. Deloitte similarly ranks India first in Generative AI adoption across the Asia-Pacific region.
+
+The Government of India (GoI)has reinforced this momentum through the IndiaAI Mission, committing Rs 10,300 crore over five years to accelerate the country's AI ecosystem. As AI adoption scales, every query is ultimately powered by data centres  -  the thirsty physical infrastructure that consumes significant volumes of water for cooling. As India scales this infrastructure, it has an opportunity to build regulatory safeguards that protect critical resources such as water while supporting the country's long-term economic ambitions.
+
+India generates nearly 20 per cent of the world's data but currently accounts for only 3 per cent of global data centre capacity. As the country seeks to bridge this infrastructure gap, data centre capacity has expanded fourfold  -  from about 375 MW in 2020 to nearly 1,500 MW in 2025  -  with further growth expected in the coming years. This rapid expansion is driving a parallel surge in demand for cooling infrastructure, which the Office of the Principal Scientific Adviser to the GoI estimates will grow from a US$ 2.1 billion industry today to more than US$ 7 billion by 2030.
+
+Cooling, however, depends heavily on water. Data centres are already estimated to consume around 150 billion litres of water annually nationwide, a figure projected to more than double by the end of the decade. As India scales the infrastructure underpinning its AI ambitions, managing this growing water footprint will become an increasingly important policy challenge.
+
+This challenge is particularly pronounced in Karnataka, which reportedly hosts approximately 32 data centres, nearly 30 of them concentrated in Bengaluru  - a city that has faced recurring water shortages in recent years. According to Deloitte's projections, a single 20 MW data centre can consume roughly 1.4 million litres of water per day, equivalent to the daily needs of around 27,000 urban households. This additional demand comes at a time when Bengaluru already relies on nearly 2,000 MLD of water from the Cauvery to meet citywide demand that can reach as high as 3,000 MLD, while thousands of government-operated borewells are reportedly running dry.
+
+Against this backdrop, Karnataka's Data Centre Policy commits to ensuring uninterrupted water access for data centres on a 24/7 basis, without expressly specifying how competing demands for water would be managed during periods of scarcity. This governance gap is becoming increasingly relevant as the state's data centre footprint continues to expand, with several new facilities already in the pipeline. The challenge is not unique to Karnataka.
