@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Fund of options
+
+Fund of options
+
+Third-party MF payments fine, not salary deductions In a bid to widen market participation, the Securities and Exchange Board of India (SEBI) is looking to relax one of its long-standing rules governing mutual funds (MFs)  -  the mandate that fund houses should not accept third-party payments towards investments in MFs. Currently, MFs are allowed to accept only payments that originate from the verified bank account of the investor in whose name the scheme will be held, with redemption proceeds also credited into the same account. However, SEBI in a recent consultation paper, has sought feedback on allowing third-party payments for MFs in three special cases.
+
+One, allowing listed and EPFO- (employees provident fund) registered firms to auto-deduct MF contributions from employee salaries akin to EPF and NPS (National Pension System) deductions. Two, allowing AMCs (asset management companies) to pay part of their distributor commissions in the form of units. Three, allowing investors to nominate verified organisations for direct donations out of their MF balances.
+
+Stringent Know-Your-Customer rules and electronic payment modes have made verification of money trails quite easy. The risk of mutual funds being used for money laundering if third party payments are allowed seems negligible. Competing products such as insurance already allow third-party payments. Therefore, enabling payment of distributor commissions in kind or setting up investor donations to third party beneficiaries is unexceptionable.
+
+However, allowing employers to auto-deduct sums from employee salaries towards SIPs (systematic investment plans), needs more debate. The challenges that can arise from putting mutual fund SIPs on the auto-deduct menu can be fourfold. One, even with EPF deductions, there is a pervasive problem of smaller firms failing to deposit employee contributions with the EPFO.
+
+Before allowing employer organisations to auto-deduct MF SIP contributions from employee salaries, safeguards against such defaults need to be spelt out. Two, as investment products, mutual funds are very different from EPF which is a simple fixed income product. Investors need guidance on what products and asset mix they ought to choose.
+
+It is unclear how employers will provide the right advice. After the initial choice, MF investments also need periodic course correction in the case of poor performance, which the employer organisation will need to handle. Three, mutual funds carry market risks. Therefore, it is desirable that individual investors make a conscious decision to sign up, rather than have it embedded automatically into their employment contracts.
+
+Finally, with EPF contributions already taking up 10-12 per cent of the employees' salaries and the NPS taking off as a retirement vehicle, it is moot if there is room for workers to add a third automated saving to their salary menu. Given the slow growth in household incomes, too many such vehicles eating into the monthly pay cheque can shrink disposable income and impact consumption.
