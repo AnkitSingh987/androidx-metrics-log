@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Substance over form
+
+Substance over form
+
+SC Tiger Global order attacks tax arrangements The recent Supreme Court ruling in the Tiger Global case is a watershed. The apex court lays down two broad points. First, it has held that a mere shell company in Mauritius cannot be regarded as a Mauritius-based entity for the purpose of claiming tax benefit under the Double Taxation Avoidance Agreement (DTAA) between India and Mauritius, even if it produces a Tax Residency Certificate.
+
+Second, the order says that the tax is payable in India and not in Mauritius, and spells out the reasons for saying so. Tiger Global owes India over ₹14,000 crore in capital gains tax, interest and penalties for its sale of shares in Flipkart Singapore to a Luxembourg entity, as part of the share transfer to Walmart. The two broad principles are sound.
+
+To take the first, a company with a Mauritius address must have its effective management in Mauritius as well. It has been established that Tiger Global's Mauritius arm was managed out of its US office. The Mauritian shell entity was created for the purpose of leveraging the DTAA, so it is not a bona fide operation.
+
+The second strand to this judgment links up to Section 9 (1)(i) of the Income Tax Act (amended post Vodafone verdict of Supreme Court in 2012)  -  namely, income from indirect transfer of shares in an entity that derives substantial value from assets situated in India shall be deemed to be taxable in India. In this case, Tiger Global, supposedly based in Mauritius, sold its shares in Flipkart Singapore. But the latter derives its value from its Indian operations, and hence the transaction is liable to be taxed in India.
+
+What is perhaps less explicit in the SC ruling is the application of the "grandfathering" clause under the amended DTAA. Prior to 2017, the DTAA capital gains deals were more likely to be taxed in Mauritius than in India. So, grandfathering implies that gains on investments made before 2017 will continue to be taxed in Mauritius, which is fair.
+
+But the court makes a crucial distinction between "arrangements" and "investments". Investments made prior to 2017 will operate under the earlier DTAA provisions. But an "arrangement", as in Tiger Global's case, is subject to examination under the General Anti Avoidance Rules as a tax-avoidance scheme.
+
+Investors could now seek a clarification from the government on how it will regard all 'arrangements'. Bona fide entities should not be deprived of the grandfathering benefit. Global investors will be closely watching the government's moves post the Tiger Global judgment. The judgment does shake up comfort derived from DTAAs but in a global environment where tax avoidance is being frowned upon  -  witness the OECD moves for basic minimum corporate tax  -  India is within its rights to question treaty abuse.
+
+The Tiger Global case could increase capital costs for Indian companies sourcing foreign capital as investors build in the tax-risk into their calculations. What is important, though, is that the government remains consistent in its application of rules.
