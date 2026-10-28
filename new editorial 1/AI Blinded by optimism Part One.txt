@@ -1,0 +1,24 @@
+Category: Editorial
+Title: AI Blinded by optimism Part One
+
+AI: Blinded by optimism
+
+We are not facing another industrial revolution. We are facing the industrialisation of cognition. That difference must serve as the basis for our policy response As the recent AI Summit concluded, one question lingered in public discourse: Will I lose my job? While many responses from the stage were optimistic or evasive, the IMF Managing Director's warning of significant employment disruption turns this question from casual curiosity into a legitimate concern.
+
+There are three core issues in the current 'AI revolution' that need serious attention. The first is job loss, the second is the major shift it brings to education, and the third is its impact on the healthcare sector. We will concentrate on the first two. Many delegates responded to the first issue, recalling past technological shifts, such as the Industrial Revolution, the mechanisation of mills, and the computer revolution.
+
+Some mentioned retraining and predicted an increase in client-facing roles. Overall, they seemed to avoid addressing the core issue. Every technological revolution has brought both benefits and displacement. The Industrial Revolution shifted labour from agriculture to manufacturing. The transition was gradual.
+
+Mill automation displaced workers but expanding service sectors absorbed them. The computer revolution became a productivity tool, creating entirely new industries. The present AI revolution is fundamentally different. Earlier revolutions replaced physical drudgery. Generative AI tools are not merely machines; they are digital entities capable of performing reasoning, synthesis, and structured decision support.
+
+This revolution replaces cognitive abilities. It attempts to build a powerful digital clone with superhuman abilities. Hierarchy of cognition Every profession has a hierarchy of cognition. Juniors use operational cognition, which encompasses algorithmic execution. As we move up the ladder, algorithmic execution is replaced by cognitive compression, the ability to compress years of knowledge into a capsule for decision-making.
+
+The AI revolution is, in fact, a form of cognitive automation capable of mastering both types of cognition. Entry-level white-collar roles across sectors are clearly vulnerable, not just computer programmers. But it is a mistake to assume senior roles are immune. AI's ability to compress millions of documents into actionable knowledge capsules challenges even experienced professionals.
+
+The real competition is no longer the colleague sitting next to you. It is a system with vast computational memory, continuous retraining, and no cognitive fatigue. The term "retraining" becomes ambiguous when the competitor is being retrained faster and at scale. The question one has to answer is: Can I go up the value chain faster than AI?
+
+Can I be the David in my fight with the Goliath? The real danger for India is the possible erosion of the demographic youth bulge, especially among white-collar youth. If this segment weakens, consumption slows, investment patterns shift, and the macroeconomic impact becomes significant. Unlike previous revolutions, displaced youth today have limited alternative sectors to absorb them quickly.
+
+Large-scale manufacturing is not an alternative, as its contribution to employment is only through a trickle-down effect. Agricultural absorption is unrealistic. Informal sectors lack stability. If cognitive automation spreads faster than job creation in adjacent sectors, the demographic boon risks becoming a demographic bane.
+
+A frequently proposed safety valve is large-scale employment as AI evaluators, auditors, or regulators. This is intellectually comforting but structurally flawed. Meaningful evaluation requires mastery of the domain equal to or greater than that of the system being assessed. When AI continuously re-trains and aggregates global knowledge, staying consistently ahead of it becomes unrealistic for large populations.
