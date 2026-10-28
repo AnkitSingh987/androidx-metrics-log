@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The Hotel California of Indian investing Part One
+
+The Hotel California of Indian investing
+
+From tax treaties to Tiger Global, recent developments signal the definitive decline of Mauritius as India's preferred investment conduit For decades, the road to Mumbai didn't run through India - it ran through Mauritius. This island nation wasn't just a source of capital; it was the toll gate for global FDI. But as the 'Hotel California' of Indian investing, investors are finding that checking out is easy, but leaving is impossible.
+
+Data from the RBI and DPIIT show that India has attracted over $1 trillion of FDI this millennium, with most of it coming between 2015 to 2025. Of this, Mauritius is the single largest source of FDI to India. In the private equity-venture capital (PE-VC) world, a Mauritian structure was considered as hygiene.
+
+Two powerful engines drove this dominance - the favourable double tax avoidance agreement (DTAA) with India which granted zero capital gains to investors, and the low cost of operations in Mauritius. The India-Mauritius DTAA taxed capital gains from share sales in the country of residence (Mauritius). Mauritius' zero capital gains tax meant that investments in India through Mauritius suffered no taxation.
+
+Due to this, Mauritius dominated capital flows into India, especially into unlisted entities. Until recently, India's taxation structure was fundamentally against unlisted companies, who suffered capital gains at 20% as opposed to none for listed securities. It was only recently that the tax rates for listed and unlisted securities were normalised.
+
+The fall of Mauritius came down to two sticks and a carrot. The first stick was the 2016 DTAA amendments. The issue with Mauritius was that it was primarily a conduit for capital. Investors from the world over pooled capital in Mauritius to invest into India, taking advantage of the favourable DTAA. This prompted Indian authorities to renegotiate the DTAA in 2016, ending this treatment in a phased manner.
+
+The second stick was the "Principal Purpose Test" (PPT) and substance. 2024 saw the insertion of the PPT and an emphasis on substance. If the principal purpose for setting up the Mauritius vehicle was for tax avoidance, then the DTAA wouldn't apply. The crux was an assessment of whether the investment and divestment decisions were taken in Mauritius or if it was a mere conduit for capital into India This spawned an entire industry of 'substance structuring,' where partners and directors scrambled to prove that decisions actually originated in Mauritius.
+
+Despite a 2025 clarification that the PPT wouldn't apply to pre-2017 investments, the allure of Mauritius faded. Finally, the carrot was Gujarat International Finance Tec-City-International Financial Services Centre (GIFT-IFSC). It is the only tax-free way to invest into Indian equities. The Government of India announced a scheme to allow for the tax free redomicile of funds to GIFT-IFSC, giving an off-ramp to funds domiciled in Mauritius.
+
+This scheme is expected to see a flurry of applications due to the recent case involving Tiger Global. Tiger Global is amongst the storied investors worldwide and played an outsized role in India's largest startup exit - Flipkart. When Walmart bought Flipkart, Tiger stood to gain around $1.2 billion from its investment.
+
+An exit of such magnitude drew the immediate scrutiny of Tax Authorities. This led to high-stakes litigation that forced a re-examination of the landmark Union of India v. Azadi Bachao Andolan (2003) case, a landmark ruling. Central Board of Direct Taxes issued Circular No. 789 on April 13, 2000. The circular stated that a Tax Residency Certificate (TRC) issued by the Mauritian authorities would be conclusive evidence of residency.
