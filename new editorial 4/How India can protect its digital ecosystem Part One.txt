@@ -1,0 +1,22 @@
+Category: Editorial
+Title: How India can protect its digital ecosystem Part One
+
+How India can protect its digital ecosystem
+
+In the age of Mythos, building firewalls is a relic of the past. Systems must now detect an anomaly and "re-wire" their own logic in real-time In May 1940, the world's military elite believed that the Belgian fortress of Eben-Emael was the most impregnable structure ever built. It was a masterpiece of concrete and steel, designed to withstand any imaginable siege.
+
+Yet, it fell in just 15 minutes. It wasn't destroyed by a massive army, but by a handful of paratroopers using a new, secret technology: the shaped charge. The defenders were prepared for a war of attrition; they were erased by a war of speed and specific intelligence. Last month, the global cybersecurity landscape hit its own Eben-Emael moment.
+
+For 27 years, a subtle flaw lay dormant in the code of OpenBSD  -  an operating system whose entire reputation is built on being the world's most secure foundation. For nearly three decades, the finest human auditors, state-sponsored "red teams", and automated scanners looked at that code and saw a fortress. Then came Mythos.
+
+Developed by Anthropic, Mythos is not a chatbot; it is a Reasoning Agent for Cyber-Offense. It did not just "suggest" a bug; it understood the systemic logic of the flaw and autonomously executed a 32-step exploit in seconds. It achieved an 83.1 per cent success rate in reproducing known hacks on its first attempt.
+
+This is what I call the "End of Surprise". When a machine can hunt for "zero-days" (previously unknown flaws) at a scale and speed that humans cannot register, the concept of a periodic security audit is no longer a safety measure. It is a dangerous hallucination. The shockwaves from Mythos have fundamentally rewritten the geopolitical script.
+
+After months of advocating for a "light touch" approach to AI, the Trump administration has executed a stunning pivot towards what can only be described as the Nationalisation of Intelligence. Reports from Washington suggest a new framework where the Pentagon and the NSA will act as the ultimate gatekeepers for "frontier" AI models. By mandating military-led safety tests before any public release, the US is treating high-level AI as a dual-use weapon system, akin to nuclear enrichment technology.
+
+This is "Fortress America" in digital form. The realisation has dawned: in a world of Mythos-class agents, a leaked model is not a commercial loss; it is a national security catastrophe. For India, however, following this defensive, gatekeeping model would be a historic strategic blunder. We are a nation built on Digital Public Infrastructure (DPI)  -  from the UPI rails that power our economy to the Aadhaar stack that defines our identity.
+
+Our strength is our openness. If we wait for Western "safety certificates" while our systems remain exposed to the tools they have already unleashed, we are essentially building our own Maginot Line and waiting for the Blitzkrieg. The Indian valuation cliff The threat to India is not just a matter of national security; it is a matter of national business.
+
+Our IT services giants  -  TCS, Infosys, Wipro  -  have spent three decades building a global empire on the "billable hour". Thousands of engineers are employed to conduct manual audits, patch vulnerabilities, and maintain legacy code. Mythos represents a "Valuation Cliff" for this model. If an AI can perform a month's worth of security auditing in five seconds at near-zero marginal cost, the human-led audit becomes a bottleneck rather than a service.
