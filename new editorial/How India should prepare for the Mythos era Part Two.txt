@@ -1,0 +1,14 @@
+Category: Editorial
+Title: How India should prepare for the Mythos era Part Two
+
+How India should prepare for the Mythos era
+
+From individual hygiene to legal architecture, the response has to be layered. For individuals, basic cyber hygiene is critical for protecting their devices, networks, and data. This includes using unique, strong passwords managed with a password manager, enabling multi-factor authentication, regularly installing software updates, and backing up data.
+
+Most organisations will not have immediate access to Mythos via Project Glasswing, and the goal is to reduce the capability gap between themselves and such "elite defenders". Adopting open-weight AI pipelines for defensive purposes, and developing human expertise to contextualise, triage, and prioritise the abundant noise that AI-revealed gaps can be, is essential. The Government of India is reportedly in talks with Anthropic.
+
+This is a welcome initiative and must be leveraged to assess security threats to critical infrastructure, such as power, telecoms, and financial platforms. The resilience of India's Digital Public Infrastructure (DPI) should be prioritised in such proactive endeavours. The current Indian legal framework  -  governed by rigid six-hour CERT-In reporting mandates and conditional Section 79 Safe Harbour  -  is functionally incompatible with the "Mythos Era".
+
+The law must pivot from penalising discovery to incentivising remediation. Companies must be granted a legal safe harbour while they undergo AI-driven patching. Further, organisations such as CERT-IN and pillars of the AI mission, like the AI Safety Institute, need strengthening and capacity-building support.
+
+Written by: Bharath Reddy, Shobhankita Reddy The writers are researchers in technology geopolitics at the Takshashila Institution, Bengaluru. Views are personal
