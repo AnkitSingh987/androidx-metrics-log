@@ -1,0 +1,20 @@
+Category: Editorial
+Title: On AI content labelling is a technical Part One
+
+On AI content, labelling is a technical solution. But does it empower the user?
+
+A technical solution. But does it empower the user? Watermarking is one tool, credentialling is another. The real policy question is: What do we want users to be able to do? If the goal is for users to be able to understand the origin or true nature of content, then technical solutions should be judged against that standard A few days ago, a customer used an AI-generated image of cracked eggs to claim a refund from a food delivery app and went viral, thereby sparking debate about AI-assisted fraud.
+
+Earlier this week, a deepfake of Aishwarya Rai Bachchan questioning Prime Minister Narendra Modi on India's alleged losses to Pakistan was widely circulated before fact-checkers debunked it. These incidents highlight the growing potential of synthetic content to disrupt online information ecosystems and cause tangible harm such as fraud, misrepresentation and harassment. This is pushing policymakers worldwide to search for solutions that could mitigate such risks and empower users.
+
+One such solution currently gaining traction is the use of technical measures such as watermarks, detection tools, and content filtering to identify AI-generated material online. And yet, there is a persistent view within AI policy analyst circles that such solutions cannot resolve the social harms associated with synthetically generated content. The refrain is familiar: Technical solutions are inadequate when elevated to policy.
+
+This view is not wrong, but it misses a crucial point. By dismissing technical solutions outright, we risk overlooking the genuine value they can provide when properly conceived and strategically aligned with well-defined policy goals. The question is not whether technical tools are sufficient on their own, but whether they can serve as effective instruments within a broader policy framework.
+
+When designed and deployed with clear objectives, technical solutions have a legitimate and important role to play in addressing the challenges posed by synthetic content. Last month, India released draft amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. If enacted into law, social media intermediaries that enable the creation and dissemination of AI-generated content will be legally bound to take technical measures to label or watermark such content.
+
+In the event that they enable the creation of such content, they would need to embed a visible, permanent, and unique identifier on such data to inform users that what they are consuming is synthetically generated. The draft provisions prescribe a 10 per cent threshold for the label, in terms of surface area in case of visual content and initial duration in case of audio content. In the event that they are a significant intermediary  -  having amassed 5 million registered users in India  -  they will have to ensure that their users make a declaration every time they upload synthetically generated content.
+
+Such user declarations will then need to be verified by the intermediary and reflected in the content before it can be uploaded and shared. If non-compliant, intermediaries will be stripped of their safe harbour protection and may be held legally liable for such content. According to an explanatory note appended to the draft amendments, the underlying policy objective is to empower users and ensure greater transparency by mandating the disclosure of synthetically generated content.
+
+This is a well-intentioned policy move. However, in the absence of trust and confidence regarding their authenticity or permanence, disclosures can do little to empower users. Users are also only meaningfully empowered when the information made transparent to them enables them to exercise their own agency.
