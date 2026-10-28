@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Bullying Anthropic On AI firm Anthropic Part One
+
+Bullying Anthropic: On AI firm Anthropic versus U.S. government
+
+U.S. government The U.S.'s demands for maximum flexibility on AI use are dangerous Over the last few days, the U.S. Department of Defence unceremoniously cast out the AI firm Anthropic, which develops the coding assistant Claude, and designated the firm a "supply chain risk", the kind of cattle branding reserved for firms that are compromised by hostile foreign states.
+
+The reason was simple: Anthropic refused to relent on allowing its tools to be used for widespread domestic surveillance and fully autonomous weaponry. The high-octane conflict with the U.S. government  -  which accused Anthropic of following a "woke" and "radical" agenda  -  is a shocking escalation, despite prior concessions that would allow the U.S.'s defence establishment's use of Claude, which helps create and update code bases quickly.
+
+The conflict also sends a chilling message  -  a great power can do anything, with or without safeguards, to attain a strategic upper hand. This is a dangerous message to send in a multipolar world where shared standards around safety are increasingly difficult to achieve. This is no longer the world of the Bletchley Park AI safety summit.
+
+It was a gathering that acknowledged the rapidly growing power of AI systems, and the shared global imperative to ensure that high-stakes risks be mitigated. What resonance does that worthy message have when the country on the frontier of AI development so publicly disavows any form of safety control for war, at a time when a reckless attack on Iran  -  with, reportedly, some assistance from Claude  -  is grinding on? Firms need to show some backbone when dealing with outrageous demands that could have chilling consequences in their home country and around the world.
+
+After all, if the U.S. demands the policy space for domestic surveillance in such a full-throated fashion, where does that leave countries where infiltrating the political opposition with spyware on their phones is already the norm? Anthropic showed this backbone, and it deserved the solidarity of its peers.
+
+Sadly, that is not what happened, as ChatGPT maker OpenAI appeared to give the U.S. defence department the flexibility it sought just hours after Anthropic became persona non grata. Despite OpenAI's assurances that its agreement provides key safeguards, AI safety has been harmed, with the other superpower and a host of middle powers around the world watching closely.
+
+Firms may not be the ideal characters to take a stand  - taking into consideration, after all, their profit motivations  -  but as strong institutions are worn down around the world, there are few places to look to for leadership on safety. When a firm with billions of dollars at stake says 'no', it is not a promising sign of things to come when another steps in to say 'maybe, yes'. Reckless wreckers: On threats to nuclear facilites Damaging nuclear facilities under an unstable regime poses great risks Nuclear facilities have faced unprecedented threats of late.
+
+Since its capture by Russian forces in 2022, Ukraine's Zaporizhzhia nuclear power plant has faced repeated shelling and drone strikes. While Russia wished to be the sole nuclear-armed successor to the Soviet Union, Israel has viewed Iran's nuclear programme as an existential threat and has attacked its weapons sites since 2024. In 2025, the U.S.
