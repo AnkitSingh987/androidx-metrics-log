@@ -1,0 +1,22 @@
+Category: Editorial
+Title: AIs next investment cycle belongs to Part One
+
+AI's next investment cycle belongs to applications
+
+AI profits will come from real applications The artificial intelligence (AI) industry has reached a crossroads. For years, companies poured money into infrastructure such as data centres, chips and underlying models. Now, the big question is not about AI working, but whether it can be profitable.
+
+The solution lies in concrete AI applications, and not just having more training or larger GPU clusters. AI infrastructure versus AI applications In 2025, companies spent around $320 billion on AI infrastructure. Despite this huge investment, foundation model businesses have thin profit margins. High inference costs cut into revenue and competition keeps prices down.
+
+For instance, OpenAI reached $13 billion in annualised revenue by August 2025 but still lost $5 billion in 2024. This approach is not sustainable; it is a short-term fix supported by venture capital and corporate money hoping for better returns. The story is different for AI applications. In 2025, businesses spent $19 billion on AI applications, making up more than half of all generative AI spending.
+
+This is over 6% of the total software market, reached just three years after ChatGPT was launched. More importantly, this spending proves real market demand: companies are no longer only testing AI. They are using it widely. At least 10 AI products now bring in over $1 billion in annual recurring revenue, and 50 products make more than $100 million.
+
+Meta's $2 billion purchase of Manus in December 2025 shows this shift. Manus, a Singapore startup, launched its AI agent just nine months earlier and quickly reached $125 million in annual revenue by supplying a simple but effective AI product that gets tasks done  -  not just talks about them  -  thus proving both technical ability and business success. Investors want companies with real customers, not just technology.
+
+By the third quarter of 2025, there were 265 private equity deals involving AI applications, a 65% increase from the previous year, and 78% were add-on acquisitions for existing portfolio companies. Strategic mergers and acquisitions in AI hit record highs by Q3, with deal values up 242% from the year before. Where the real value is Real value is emerging in the departmental AI segment.
+
+In 2025, coding tools made up $4 billion of the $7.3 billion departmental AI market, making them the largest segment. Half of all developers now use AI coding tools every day, a number which rises to 65% in top-performing companies. When ServiceNow bought Moveworks or Nvidia purchased several AI startups, these were not infrastructure deals.
+
+They were investments in companies that help customers achieve real business results with AI. The foundation model landscape itself tells the application story. Anthropic now commands 40% of enterprise LLM spending, up from 24% last year and 12% in 2023, while OpenAI's enterprise share fell to 27% from 50% in 2023.
+
+Anthropic did this by dominating coding applications, where it holds a market share of 54% compared to OpenAI's 21%. Applications drive infrastructure adoption and foundation models, not the other way around. Morgan Stanley reports that generative AI reached a 34% contribution margin in 2025, its first profitable year, and this could rise to 67% by 2028 as infrastructure costs fall and efficiency improves.
