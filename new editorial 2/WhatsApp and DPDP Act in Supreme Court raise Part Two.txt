@@ -1,0 +1,16 @@
+Category: Editorial
+Title: WhatsApp and DPDP Act in Supreme Court raise Part Two
+
+WhatsApp and DPDP Act in Supreme Court raise a question: Do citizens control their data, or does their data control them?
+
+For a law that touches every Indian's digital life, the parliamentary process was astonishingly brief. The Bill was discussed for less than an hour in each House, and in the Lok Sabha, only nine MPs spoke before it was passed. The content of the law is equally worrying. It changes the Right to Information (RTI) Act by removing the "public interest" safeguard.
+
+Previously, officials' personal information could be disclosed if it served the public interest, for e.g. in exposing corruption. The new law makes it harder to access such information. Journalists have noted that requiring consent from people under investigation makes reporting on corruption or misuse of public funds nearly impossible.
+
+There are also worries about sweeping discretionary powers the government now holds under the Act. Government agencies can be exempted from rules that apply to everyone else, giving the state access and control over personal data. With WhatsApp accused of "theft" of user data, the DPDP Act does little to reassure that the state itself will respect privacy.
+
+As a result, last week, the Supreme Court heard multiple preliminary petitions challenging the DPDP Act as unconstitutional. In many ways, the WhatsApp and DPDP cases together form a stress test for Indian constitutionalism in the digital age. They force a reckoning: Do citizens control their data, or does their data control them?
+
+Can citizens' rights survive the twin pressures of corporate dominance and state power? More than ever, the Court must define what privacy truly means and how it functions when our online lives are inseparable from our offline lives. The judgments will shape not just data governance, but the balance of power between the individual and the institutions that govern them.
+
+Written by: Insiyah Vahanvaty Vahanvaty writes on constitutional debates and Indian politics. She is the author of The Fearless Judge: Life and Times of Justice AM Ahmadi
