@@ -1,0 +1,26 @@
+Category: Editorial
+Title: West Asias digital fault lines Part Three
+
+West Asia's digital fault lines
+
+Regardless of whether networks are terrestrial, subsea, satellite, or cloud-based, none function without stable electricity. Power grids are now digitally managed and interconnected, often operating over internet protocol (IP)-based communication systems. This creates a circular dependency. Telecom depends on power, and power depends on telecom for monitoring and control.
+
+A failure in one can cascade into the other. Resilient and redundant power supply must be treated as core digital infrastructure. As AI becomes embedded in network operations, optimising traffic, detecting fraud, and predicting failures, the stakes increase. A vulnerability in telecom is no longer a dropped call.
+
+It can trigger financial compromise, supply chain disruption, or breakdown of essential services. In the digital economy, resilience is the foundation. India must shift from scale to strategic depth. Firstly, India must accelerate sovereign digital infrastructure. This is not isolation but reduced dependency.
+
+Investment in domestic data centres, AI compute capacity, and cloud ecosystems must increase rapidly. If data is the new oil, compute is the refinery. India must own more of it. Secondly, AI governance in telecom must be sector-specific. Networks are critical infrastructure and AI systems within them must meet higher standards of transparency, accountability, and reliability.
+
+India needs a telecom-specific AI governance framework aligned with national risk. Thirdly, network resilience must become a national priority. The concentration of subsea cables and geopolitical chokepoints creates a structural vulnerability. India must invest in diversified landing points, satellite backup systems, and resilient cross-border pathways.
+
+Waiting for disruption is not strategy. Fourthly, India must build a trusted telecom ecosystem through secure supply chains, indigenous technology development, and stronger cybersecurity frameworks. In a fragmented digital world, trust will define global partnerships. Equally important is the architecture of digital communication.
+
+Most global data flows rely on standard IP protocols. While this enables interoperability, it also creates exposure for strategic and classified networks. India must explore an Indianised, secure IP layer or equivalent protocol framework for critical and strategic IT networks. Designed with sovereignty, security, and resilience at its core, it would reduce dependency risks and strengthen protection of sensitive communications.
+
+Trust is becoming the currency of the digital economy. Finally, telecom operators are no longer just service providers. They are also the custodians of the digital backbone. Their role in securing networks, integrating AI, and enabling trusted services defines national resilience. This cannot be industry alone.
+
+Policy and industry must act together. The developments in West Asia show that digital disruptions might be sudden, interconnected, and far-reaching. Systems would be tested not only on speed, but also on strength. India has a unique advantage. It combines scale, talent, policy momentum, and proven capability at population-level deployment.
+
+As global supply chains diversify, India can move from a large market to a trusted digital anchor. The next decade will not be won by the fastest networks, but by the most secure, resilient, and trusted ones. India has already shown how to scale connectivity. The real test now is whether it can secure it.
+
+By SP Kochhar, Director General, Cellular Operators Association of India
