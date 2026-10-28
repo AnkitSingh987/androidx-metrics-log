@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Digitisation can be toxic Part Two
+
+Digitisation can be toxic
+
+Looking ahead, the scale of the problem is set to expand significantly. The rapid deployment of the Internet of Things will embed millions of small electronic devices into everyday infrastructure - smart meters, streetlights, agricultural equipment, and household appliances. When these devices fail, they will be dispersed across urban and rural landscapes, making collection and recovery far more complex than managing consumer electronics concentrated in cities.
+
+At the same time, the growing acceptance of planned obsolescence is eroding repair-oriented practices. Devices are increasingly designed to be sealed, glued, and fused, discouraging maintenance and reinforcing a culture of disposal. This represents a sharp departure from earlier norms of repair and reuse that once extended the life of everyday goods.
+
+Steps to be taken If India is to avoid converting digital success into environmental liability, a course correction is essential. First, transparency must move beyond certification toward physical tracking of e-waste, ensuring that discarded electronics are collected and processed safely. Second, right-to-repair legislation can restore longevity to devices by requiring manufacturers to provide modular components and repair support.
+
+Third, the informal recycling sector must be recognised as an asset. With appropriate incentives, training, and safety standards, these workers can become partners in a regulated e-waste ecosystem rather than its most vulnerable victims. India's digital ascent has earned it a place at the global table.
+
+Whether that achievement endures will depend on whether innovation is matched by accountability. Without decisive action, the country risks being remembered as a generation that built a digital empire on a foundation of toxic waste. True progress lies not in the speed of adoption alone, but in ensuring that technological growth does not come at the cost of land, water, and human well-being.
+
+By Vaibhav Mishra & Sanjay Fuloria Mishra, is Associate Professor, ICFAI Business School; Fuloria is Professor & Director, Center for Distance and Online Education, ICFAI Foundation for Higher Education, Hyderabad
