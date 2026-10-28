@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Risks in financing AI Part Two
+
+Risks in financing AI
+
+Chip export restrictions on China and the global dependence on Taiwan's TSMC in an era of intensifying U.S. - China rivalry. For countries like India, the stakes are real and direct. India also shares this optimism and looks to benefit from AI-driven productivity in key sectors viz. healthcare, agriculture, and public services that would otherwise take decades.
+
+But, as in the past, when global markets have tumbled, emerging economies like India were the first to feel the hit with investments flowing out, currencies weakening and borrowing costs rising. In case of any AI led financial contagion, India should not expect to be spared just because it is not at the centre of the AI boom. AI potentially fuelling Inflation Central banks could be in a difficult spot going forward.
+
+The BIS argues they must stay focused on bringing inflation down, yet the AI boom itself is fuelling it: data centres push up electricity demand, competition for AI talent lifts tech salaries, and supply disruptions potentially causing chip shortages which raises input costs. The AI led productivity gains may not alone be deflationary and therefore in pursuit of reigning inflation, a rate hike could deflate the AI boom built on leverage. In contrast, a rate cut, could only perpetuate the underlying inflationary forces.
+
+Clearly, the tools Central Banks across the world had, were not built for a moment when one technology could reshape prices and markets at once and at large. A few, including the RBI, have begun exploring AI-specific stress-testing, but such efforts remain early-stage and voluntary. Conclusion and Way Forward None of this argues against AI and its continued funding.
+
+Definitely, AI is transforming productivity, healthcare, education, and growth unlike any other technology before it. Even the warnings by BIS or the FSB are not against innovation; they are against unmitigated infrastructure spending which in case of below-expected returns could potentially trigger a financial crisis. Research shows revolutionary technologies can create instability when expectations outrun fundamentals and leverage runs high.
+
+The lesson is not to slow AI, but to build the right foundations around it: stronger financial oversight, diversified supply chains, resilient energy infrastructure, and monetary policy anchored to price stability rather than market enthusiasm. India appears to be moving in that direction, with a proposed law built on graded, risk-based rules and stricter obligations for AI in banking and finance. Technological progress does not eliminate economic risk  -  it often just reshapes it.
+
+The world is right to invest in AI. But this revolution's success depends not only on smarter algorithms, but on whether governments, regulators, and investors ensure today's AI boom becomes a foundation for long-term prosperity, not the source of tomorrow's crisis. By Abhinav Jindal & Vaibhavi Singh Jindal is a Senior Faculty and an Economist; Singh studies Economics at Shiv Nadar University
