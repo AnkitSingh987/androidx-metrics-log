@@ -1,0 +1,26 @@
+Category: Editorial
+Title: On fund transfers from Union to the states
+
+On fund transfers from Union to the states, let's unblock last-mile flows
+
+To the states, let's unblock last-mile flows When funds at this scale stall, the cost is not just fiscal. It is measured in houses not built, wages not paid, and services not delivered Recently, the Parliamentary Standing Committee on Public Grievances, Law and Justice flagged concerns on slow utilisation of Centrally Sponsored Schemes (CSS) funds for judicial infrastructure. It recommended the Department of Justice to proactively address systematic bottlenecks for effective implementation of SNA-SPARSH (System for Payments and Reporting Across Sectors Holistically), a newly introduced just-in-time (JIT) funding system to release money directly to beneficiaries.
+
+The issue of cash management transcends across sectors. When funds at this scale stall, the cost is not just fiscal. It is measured in houses not built, wages not paid, and services not delivered. CSS accounts for more than half of the total transfers from the Union to the states, amounting to approximately 1.5 per cent of GDP annually.
+
+Yet, India had Rs 1,60,000 crore of unspent welfare money sitting in bank accounts as of December 2024. The funds were released. The accounts existed. The schemes were active. But utilisation remained stagnant. India has progressively worked to fix it. Following the rationalisation of CSS in 2014-15, funds were routed through state consolidated funds to strengthen legislative oversight.
+
+The Single-Nodal Agency (SNA) framework in 2021-22 further consolidated disbursements into a single state-level account. Despite these, low spending efficiency, short-term borrowing costs, tracking and transparency challenges continued. To resolve this, SNA-SPARSH was launched in January 2024 to upgrade the existing SNA model.
+
+It allows the public financial management systems to release Centre and state funds, and top up funds, faster and directly to beneficiaries. This reduces idle funds, lowers short-term borrowing costs, and improves budget forecasting. The impact is notable in the Union Budget 2026- 27. The share of unutilised funds in total revised estimates declined from 42 per cent in 2024-25 (Rs 1.6 lakh crore) to 18 per cent (Rs 69,000 crore) by December 2025.
+
+This is a genuine achievement. But the last budget tells a more complicated story. According to Part B of Statement 4AA, 38 out of 50 reported schemes utilised less than 50 per cent of their allocated mother sanction by December 2025. The problem is not that money is sitting idle in the bank accounts, but scheme implementing agencies are not claiming and spending it in time.
+
+PMAY-R makes this concrete. Across 12 states that adopted SNA-SPARSH, idle funds dropped by 85 per cent. SNA-SPARSH worked as intended. Yet, the utilisation rate across those same states stayed at only 14 per cent. Faster fund flow did not produce faster CSS spending. The 16th Finance Commission pointed to the deeper issue.
+
+Without credible JIT evidence on spending efficiency, schemes that have run their course remain active simply because there is no mechanism to wind them down. A CAG report on PMAY-R for Tamil Nadu explains where the friction sits. Manual processes, multiple levels of verification and approvals, errors in beneficiary bank-account mapping, and undefined turnaround times contribute to delays in claim generation and service delivery.
+
+The bottleneck is procedural and physical. This is why the reform agenda needs to move in two directions. SNA-SPARSH works well at the level of fund flow. The challenge of utilisation sits further down at the level of implementation. To close the gap, CSS reforms need to embrace digital PFM principles such as observability, rule-driven workflows, milestone-linked payments, and real-time processing.
+
+India has built the pipes. The next task is to clear what blocks the flow at the last mile. Written by: Ritika Singh, Shruti Gupta, Allina Tiwari Singh is manager, MicroSave Consulting; Gupta is research associate, Centre for Social and Economic Progress and Tiwari is assistant manager, MicroSave Consulting.
+
+Views are personal
