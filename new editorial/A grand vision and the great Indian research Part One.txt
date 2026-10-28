@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A grand vision and the great Indian research Part One
+
+A grand vision and the great Indian research deficit
+
+The current deficit in R&D investment cannot sustain India's ambition to become a global innovation leader India stands at a pivotal moment in its economic and technological trajectory. With its vast human capital and a rapidly expanding economy, it harbours ambitions of becoming a global power. Yet, this grand vision is significantly hampered by a deep-seated and chronic insufficiency in research and development (R&D).
+
+The scale in numbers The scale of India's R&D deficit is best illustrated by a few stark numbers. Despite having 17.5% of the world's brains (since it is home to 17.5% of the world's population), India produces only a meagre 3% of the world's research output. This disparity highlights a fundamental failure in leveraging its massive demographic dividend to generate high-value research.
+
+The situation is not much better on intellectual property creation. Recent reports from the World Intellectual Property Organization (WIPO) suggest a mixed picture: dramatic growth from a very low base, but overall an unimpressive performance. In 2023, India was ranked sixth globally for total patent filings, recording 64,480 applications.
+
+This represents the fastest growth (+15.7%) among the top 20 countries and is a significant figure. However, in the context of the total 3.55 million patent applications filed globally in 2023, India's share is still low, at approximately 1.8% of the global total. Critically, when measuring resident applications per million inhabitants, a truer reflection of domestic innovation intensity, India ranks significantly lower (47th), underscoring that the overall growth is not yet translating into widespread, population-level innovation dominance.
+
+The most damning evidence of India's R&D gap lies in R&D expenditure. Gross Expenditure on R&D in India, covering both private and public sectors, has consistently hovered between 0.6% and 0.7% of GDP in recent years (and is slipping as GDP grows). This figure pales in comparison to major economies and innovation hubs: China spends around 2.4%, the United States is at approximately 3.5%, and Israel leads globally at over 5.4%.
+
+To grasp the magnitude of underinvestment, one only needs to compare India's entire national R&D spend with that of a single multinational corporation. In 2023, the Chinese technology giant, Huawei, invested a colossal CNY 164.7 billion (approximately $23.4 billion) into R&D. This amount of spending from just one company  -  no doubt driven by intense global competition and U.S.
+
+sanctions, particularly focusing on crucial areas such as semiconductor technology  - exceeds the total combined R&D expenditure of all public and private entities in India, a nation of more than 1.4 billion people. As Nvidia Chairman Jensen Huang noted, Huawei's relentless investment has propelled them to be "nanoseconds" behind the U.S. in advanced semiconductor capabilities.
+
+This corporate-level intensity of R&D is the engine of next-generation technological power. India's inability to muster even a fraction of this kind of concentrated, strategic investment speaks volumes about the challenge ahead for it. So much for the numbers. They are merely symptoms of deeper, structural problems within the Indian innovation ecosystem that it must tackle on a war footing.
+
+The government sector is the funds driver Most disappointingly, private sector participation in R&D spending is abysmal. A global hallmark of a mature innovation economy is the dominant role of the private sector in R&D. In developed nations, industry typically accounts for two-thirds or more of such expenditure.
