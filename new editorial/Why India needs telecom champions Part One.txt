@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Why India needs telecom champions Part One
+
+Why India needs telecom champions
+
+To anchor telecom manufacturing and future technology investments in India, the country must create global champions of Indian origin India is one of the world's largest telecom markets, with nearly a billion internet users, and one of the fastest-growing digital economies. Yet it remains the only major power without a globally dominant telecom equipment manufacturer of its own. This absence is now becoming a strategic vulnerability and an impediment to safeguarding our telecom security and sovereignty.
+
+The Atmanirbhar Bharat vision rightly seeks to ensure sovereignty across critical domains - energy, semiconductors, and most importantly, data. But pipelines that move data across our digital devices to servers and back are part of our telecom infra and are as critical to India's long-term interests as our data. In 2026, owning the data but not the telecom infrastructure is like owning the gold but renting the armoured truck from a rival who has the keys.\ The issue is all the more critical as the global telecom industry is entering a decisive phase.
+
+The next-generation networks will utilise technologies like 6G, satellite-terrestrial hybrid connectivity, cloud-native core networks, and ultra-high-capacity fibre; and deliberations among global players will determine who sets standards and owns intellectual property. Naturally then, countries with globally competitive telecom manufacturers will command both technological and strategic influence. Those without them, like India, risk remaining large markets but marginal players.
+
+Europe has Ericsson and Nokia; the US has Cisco and Juniper; China has Huawei and ZTE; and Japan has NEC. Each of these companies grew within supportive domestic ecosystems that provided early market access, regulatory alignment, fiscal support, and sustained investment in research and intellectual property. India's absence from such a list portends a structural weakness in our technological ecosystem.
+
+It is all the more jarring given that we have had clear success in building an indigenous 4G/5G stack that is globally marketed as a secure and cost-effective alternative to Chinese or European equipment. While India has the foundational capabilities to build such global telecom champions, what holds us back critically is our low and fragmented investment in R&D. India spends roughly 0.7% of GDP on R&D, a long-stagnant figure that sits far below China's 2.4%, the US's 3.5%, and Israel's 5.4%.
+
+No Indian telecom company ranks among the top global patent filers. Recognising this gap in India's R&D, the government has launched initiatives like the Rs 1-lakh crore Research Development and Innovation Fund and the Anusandhan National Research Foundation. The goal is to strengthen the innovation ecosystem across domains and deepen academia-industry collaboration.
+
+Although these initiatives are important, they remain largely project-centric and input-driven. True innovation, on the other hand, demands more than just funding for research; it needs sustained strategic support for companies capable of converting innovation into globally competitive products. A scrutiny of global tech and telecom leaders reveals how each of these firms have grown through long-term alignment between state policy and enterprise capability.
+
+While domestic markets provided early scale and testing grounds, favourable regulatory frameworks supported innovation and intellectual property creation. Finally, diplomatic support for their export strategies opened external markets and positioned them for global leadership. Achieving true telecom sovereignty therefore demands that India must move beyond isolated project funding and towards a more coherent enterprise-centric strategy.
