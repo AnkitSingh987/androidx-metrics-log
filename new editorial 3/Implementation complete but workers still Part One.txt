@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Implementation complete but workers still Part One
+
+Implementation complete, but workers still vulnerable
+
+Labour Code Rules leave workers' concerns unaddressed With the notification of the rules for the four labour codes in May, the implementation framework for these codes is now complete. Trade unions and academics have raised serious objections to several provisions in the new labour codes, arguing that they are regressive and detrimental to the interests of workers. It has also taken nearly six years to operationalise the codes enacted during 2019-20.
+
+The codes are The Code on Wages, 2019, The Industrial Relations Code, 2020, The Code on Social Security, 2020 and The Occupational Safety, Health and Working Conditions Code, 2020. Critical gaps Rules essentially lay down the standard operating procedures (SoPs) for implementing an Act or Code. While they cannot contradict the provisions of the parent legislation, they become crucial where the law is broad or open-ended.
+
+Given the sustained opposition to several provisions in the four labour codes, it was expected that the rules would help moderate some of the contentious aspects. However, those expectations appear to have been belied. The Industrial Relations Code, 2020 formally introduced the concept of Fixed-Term Employment (FTE) into India's labour law framework, although such employment arrangements have been widely used for decades.
+
+However, the Code does not specify a minimum tenure or limit the number of contract renewals. The rules could have addressed these gaps to mitigate potential adverse effects on workers. A minimum tenure (one year) could have prevented very short tenures which are detrimental to employees. Also, there could have been some restrictions in the number of times renewals can be allowed.
+
+Otherwise, there is a possibility that even regular positions become FTEs with unlimited renewals. Unfortunately, the rules remain silent on these important issues. The Code on Wages (Central) Rules provide only a vague definition of the "floor wage" and do not clearly distinguish it from the minimum wage.
+
+While the Rules require consultation with State governments, they do not specify a detailed framework for such consultations, raising concerns that the process may remain largely symbolic. The Rules also fail to lay down clear principles for fixing minimum wages. As a result, the convention of treating a four-member family as comprising three consumption units is likely to continue.
+
+This effectively perpetuates gender bias, as an adult female is assigned a weight of 0.8 compared with 1.0 for an adult male. The Rules further provide that the hourly wage shall be calculated by dividing the daily wage by eight. Conceptually, this is a flawed approach. An hourly wage should not merely be a pro-rata derivation of the daily wage, as workers may not be able to find work for the remaining hours of the day.
+
+Internationally, minimum hourly wages are often determined independently of daily wage rates. This issue is particularly important in India, given the large number of domestic workers and the likely expansion of gig and platform-based work in future. Gig workers remain vulnerable The Social Security Code (Central) Rules make no attempt to clarify the employment relationship in the gig economy.
+
+Gig and platform workers continue to be treated as self-employed and remain part of the unorganised workforce. The Rules are also silent on the mandatory gratuity insurance envisaged under the Code. Such insurance could protect workers against non-payment of gratuity by employers. However, the Rules fail to specify the modalities for implementing this safeguard, leaving an important worker protection mechanism undefined.
