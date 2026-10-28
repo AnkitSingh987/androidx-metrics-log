@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The INO that wasnt and the JUNO that is Part One
+
+The INO that wasn't and the JUNO that is
+
+India had the wherewithal in the previous decade to help crack an important scientific mystery, but now China has surged ahead China has finished building its Jiangmen Underground Neutrino Observatory (JUNO), a bittersweet development given that the India-based Neutrino Observatory (INO) has been in limbo for years. Both JUNO and INO were designed to study subatomic particles called neutrinos, which are very hard to catch because they rarely interact with matter. This is why both INO and JUNO are huge: the more matter there is, the more interactions there will be between neutrinos and matter, and thus more opportunities for study.
+
+Progress on JUNO However, this size was perhaps the original trigger of the INO's downfall, so to speak, in India. Because the INO detector was so massive (weighing 50 kilotonnes), it could not be operated from inside a lab nor could scientists situate its detector in an existing facility. Instead, the INO collaboration had planned to install the detector inside a mountain in Theni in Tamil Nadu, together with other research facilities.
+
+The mountain's rock was to serve as a natural shield for the detector, obviating the need for a separate structure, which would have been expensive. However, the scale of the construction activity in the area and the involvement of the Department of Atomic Energy, which was helping fund the project, spooked the locals and spurred local leaders to draw political mileage from that. The INO collaboration also erred (in hindsight) by not following procedure and by not estimating how controversial the project could become, which, if it had done, would have helped it respond to and manage certain public sentiments better.
+
+In the late 2010s, these delays were painful as China moved in leaps to realise JUNO. The 'pain' was because the INO collaboration was hoping to secure a limited pool of grants and investments from foreign governments to operate the detector. China expected to complete JUNO by 2020 but that turned out to be five years too soon.
+
+If it had said it would aim for 2025, would the INO have had a better chance by no longer having a tight deadline? Maybe not but it wouldn't have been implausible either. Today, while the INO remains stalled, JUNO has released its first analyses. The JUNO team uploaded two preprint papers on November 18.
+
+One reported the "initial performance results of the JUNO detector". Its author list reveals the sort of international collaboration India was hoping for, with researchers from Armenia, Belgium, Brazil, Chile, Taiwan, the Czech Republic, Finland, France, Germany, Italy, Pakistan, Russia, Slovakia, Thailand, the U.K., and the U.S. participating.
+
+It is not clear why there are no researchers from India. Journalist Jatan Mehta has documented a similar issue in the space science sphere: researchers from India were conspicuous by their absence in the (first) list of applications to access the rocks China had brought back from the moon on its Chang'e-5 mission in 2020. India has a long history in neutrino physics and analysing lunar samples, and boasts of many excellent scholars in these fields.
+
+The second preprint paper reported the object of INO's study. Even though neutrinos are so elusive, physicists have discovered that they come in three types, or flavours, and that they can oscillate between these as they travel through space. Figuring out how the three neutrino masses are ordered is an important open question  -  and it is related to neutrino oscillations, which are in turn described by three figures called θ-12 ("theta one two"), θ-13, and θ-23.
