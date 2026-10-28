@@ -1,0 +1,18 @@
+Category: Editorial
+Title: What does circular economy actually mean Part Two
+
+What does 'circular economy' actually mean?
+
+In practice, this means a company can be counted as "circular" simply for recycling its packaging, even if its underlying business model is selling more units, faster, with built-in obsolescence, operating a linear system garbed under a circular label. A phone manufacturer that runs a takeback and recycling programme, for instance, can claim circularity without ever shifting toward repairable design, longer warranties, or a leasing model that would actually reduce how many phones get made in the first place. What is actively avoided?
+
+Reduce is consistently de-emphasised relative to reuse, recycle, and recover particularly in practitioner definitions. This is most likely because reduction implies curbing consumption, which is an uncomfortable message for business. Where do we need a trade-off to break the tension? Consolidation and fragmentation of circular economy as a concept are occurring simultaneously.
+
+Agreement on reuse and recycle as core ideas is growing, even as industry-and country-specific versions of circular economy keep multiplying. Some examples are as follows: Country-specific examples: • China its 2008 Circular Economy Promotion Law is built specifically around the 3R framework (reduce, reuse, recycle), formalized as national policy. • European Union  the EU's Circular Economy Action Plan/Package frames CE around resource efficiency targets, closing loops within EU supply chains, and has been criticized for focusing mainly on recycling rather than deeper redesign.
+
+Industry-specific examples: There is a growing trend of narrower, sector-bound definitions from the different industries • Apparel/textiles: CE framed around job shifts from production to reuse/recycling activities within apparel value chains. • Automotive: CE definitions built around vehicle end-of-life recovery, remanufacturing of parts, and "heavy vehicles" supply chains. • Construction: CE framed around building materials, deconstruction, and reuse of components rather than product-level recycling.
+
+• Eco-industrial parks: an industry cluster model (multiple companies co-located to exchange waste/byproducts as each other's inputs)  this was a major CE definition category in the 2017 paper, though the 2023 paper found it had lost relevance by comparison to broader macro-level framings. • Packaging/FMCG  several individual definitions in the 2023 sample frame CE narrowly around a single product category rather than the whole economy. For instance, ocean plastic debris re-entering the production loop through recycled content in packaging.
+
+Where is circular economy headed? An umbrella concept under validity challenge, as per established framework mentioned by Blomsma and Brennan, tends toward one of three outcomes: • Coherence, where the theoretical issues are resolved and definitions converge; • Collapse, where the concept fails under its own contradictions; • Permanent contention, where the field agrees to disagree and the label persists as a useful but fuzzy banner. Current evidence points to a mix of the first and third outcome, real convergence on certain core principles, alongside a widening spread of context-specific variants that shows no sign of narrowing.
+
+Both studies suggest that a single, final definition may be less important than a firmer waste hierarchy, deeper integration of business models, and stronger attention to social equity, and future generations the dimensions most consistently found missing across analysed 335 definitions of circular economy. By Siddharth Ghanshyam Singh
