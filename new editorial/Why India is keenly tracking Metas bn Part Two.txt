@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Why India is keenly tracking Metas bn Part Two
+
+Why India is keenly tracking Meta's $17.1 bn settlement over social media addiction
+
+COPPA gave regulators a more concrete statutory route than the broader allegation that social media products are addictive. Establishing that a recommendation system or a particular design feature caused depression, anxiety or compulsive behaviour can involve complex and contested questions of causation. But, through COPPA, the question could be narrowed down to aspects like whether a company collected children's personal information without fulfilling obligations specifically imposed by law.
+
+The Indian view India has discussed a graded model rather than a blanket ban for social media use by those below the age of 18. The Centre is considering separate restrictions for children aged 8-12, 12-16 and 16-18, as it explores the need for a new law to better protect children on the Internet. Discussions have included fixed daily usage windows, restrictions on log-ins in the evening or at night, and parental-consent requirements.
+
+The thinking is that younger children should face tighter restrictions without treating a 17-year-old and an eight-year-old identically. The government has also indicated that the legislation would follow wider consultations. The US settlement gives Indian policymakers a working example of time limits, night-time controls, age assurance and parental overrides being imposed through an enforceable legal instrument rather than left to platform discretion.
+
+Why the settlement could affect the wider industry Meta has designed the settlement to put pressure on its main competitors in the US. Part of the payout is contingent on other large platforms agreeing to comparable safeguards, while Meta has publicly called on TikTok and YouTube to adopt the same framework. That is relevant to India, where platform-wide consistency is already part of the policy debate.
+
+Meta has argued here that restrictions should apply across the many apps teenagers use, warning that curbs on a few services could push children to less regulated platforms. Written by: Soumyarendra Barik
