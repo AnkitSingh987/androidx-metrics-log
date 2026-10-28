@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Why the dont misuse antibiotics campaign Part One
+
+Why the 'don't misuse antibiotics' campaign doesn't work
+
+Doesn't work Antimicrobial resistance (AMR) is often described as one of the defining health threats of our time. But communication around the issue is oversimplified, does not serve the diverse communities afflicted with the issue Antimicrobial resistance (AMR) is often described as one of the defining health threats of our time. Yet, the world's attempts to build public understanding of it continue to fall short.
+
+The Union Health Minister launched the second version of the National Action Plan on Antimicrobial Resistance (2025-29) on November 18. The first version (NAP 1.0) was launched in 2017 following the Global Action Plan in May 2015. Both in the global and national action plans, the first strategic area focuses on improving awareness and understanding of AMR through effective communication, education and training.
+
+The World AMR Awareness Week (WAAW) is celebrated annually from November 18 to 24. Awareness is critical, but the way we pursue it today leaves large gaps. Undermining the complexity of the issue, linguistic barriers, poor targeting, and the neglect of key system actors risk turning AMR communication into a box-ticking ritual rather than a tool for real change, especially in low-resource health systems where resistant infections pose the greatest threat.
+
+AMR is not a disease one can "raise awareness" about; it is a consequence of the complex interplay of microbes, markets, and behaviours. When campaigns flatten that complexity into single-line slogans, they lose both accuracy and impact. This is reflected in how little WAAW messaging has evolved over the years, despite its central place in global and national action plans.
+
+AMR is not just a "silent pandemic", but multiple epidemics in reality: Neonatal sepsis, drug-resistant typhoid, carbapenem-resistant hospital infections, resistant pathogens in poultry, aquaculture and the environment (and indeed all social, economic and behavioural determinants of these outcomes) are all distinct, locally driven, and socially patterned problems. A major flaw, therefore, lies in approaching AMR as an individual behavioural outcome. Campaigns rely on moral exhortations such as "don't misuse antibiotics" as if misuse was the only or primary driver.
+
+AMR emerges from the intersections of human medicine, livestock and poultry production, aquaculture, wastewater and environmental contamination, pharmaceutical manufacturing, and global trade. Over-the-counter sales, weak regulation, poor sanitation, and antibiotic-laden animal feed all play decisive and significant roles. By focusing strongly and narrowly on patient behaviour ("finish your course," "do not demand antibiotics"), campaigns over-assign responsibility to individuals while obscuring deeper structural failures.
+
+AMR communication rarely acknowledges this diversity. Treating AMR as a single monolithic threat obscures the reality that each sub-epidemic requires its own public understanding, behavioural framing, and policy response. Because AMR is complex, simplification is tempting. Many interpret "resistance" to mean their own bodies becoming resistant, not microbes.
+
+Others see contradictions between campaign advice and realities, such as pharmacies selling antibiotics without prescriptions, clinicians over-prescribing, or farms routinely using antibiotics for growth promotion. In settings where people rely on informal providers or leftover medicines, messaging that ignores these conditions appears tone-deaf. If campaigns want people to change behaviour like seeking proper diagnoses, avoiding unnecessary antibiotics, disposing of unused medicines safely, improving hygiene, or consulting veterinarians responsibly, they must articulate each behaviour clearly and explain why and how it matters.
+
+Vague appeals to "fight AMR" only widen the gap between the concept and lived realities. AMR's vocabulary itself compounds the problem. Terms like "antimicrobial," "superbug," and "resistance" have no intuitive vernacular equivalent in most languages, and literal translations often fail. In multilingual or low-literacy settings, especially in South Asia and Africa, where AMR burden is high, the terminology feels foreign or inaccessible.
