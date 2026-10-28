@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Census will still fail to count Indias Part Extra Fourth
+
+Census 2027 will still fail to count India's disabled citizens
+
+The numbers since then tell their own story. UPI processed two crore transactions in FY 2016-17. By FY 2025-26, this had risen to 24,162 crore transactions, with the value growing from ₹0.07 lakh crore to ₹314 lakh crore. In the first four months of FY 2026-27 alone, UPI has processed 9,192 crore transactions worth ₹118 lakh crore, including 2,366 crore transactions in July 2026.
+
+UPI today accounts for around 84 per cent of India's digital payment volumes and serves more than 55 crore active users. Size of payments What is equally telling is the size of these payments. Around 86 per cent of merchant transactions on UPI are below ₹500, as are nearly 59 per cent of person-to-person transfers.
+
+These are the small, everyday payments of ordinary households, the clearest evidence that digital payments have entered the daily economic life of the country rather than remaining confined to cities or to the well-off. Indeed, the biggest certificate of UPI's success is the trust it enjoys among those living at the margins of society. A street vendor selling vegetables, or an auto driver at the end of a journey, accepts a payment through a QR code and simply moves on to the next customer, with quiet confidence that the money will reach him.
+
+When those who can least afford a failed payment repose such faith in the system, it says more about UPI than any statistic can. The shift has been most visible for the small merchant. Person-to-merchant payments accounted for 15,231 crore transactions in FY 2025-26, about 63 per cent of total UPI volume.
+
+Payment acceptance points have grown from just 0.31 crore in March 2018 to more than 81 crore by June 2026, of which around 80 crore are simple QR codes. A printed QR code is now enough to connect a neighbourhood shop to the digital economy. Over time, the transaction record so created can also help a small business demonstrate its cash flows and access formal credit, an opportunity that extends well beyond the payment itself.
+
+Robust ecosystem The Government's role has been to build and strengthen the underlying ecosystem, while banks and fintech companies innovate on top of it. The DIGIDHAN Mission, launched in 2017, promoted adoption across the country. The RBI's Payment Infrastructure Development Fund has supported acceptance infrastructure in Tier-3 to Tier-6 centres, the North-Eastern States and Union Territories.
+
+Because UPI was built as an interoperable rail rather than a closed product, a customer on one app can pay a merchant on another, and new services can be built without creating the plumbing afresh each time. India's experience is now travelling. The International Monetary Fund has recognised UPI as the world's largest retail fast payment system by volume, and India accounts for nearly half of global real-time payment transactions.
+
+UPI is operational in 11 countries, including the UAE, France, Singapore, Nepal and Sri Lanka, while agreements for UPI-like systems have been signed with Peru, Namibia and Trinidad and Tobago. Countries building their own digital public infrastructure are studying
