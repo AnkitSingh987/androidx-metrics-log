@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Satcom calling
+
+Satcom calling
+
+Finally, a policy framework for satellite broadband The Digital Communications Commission's (DCC) decision to approve a 5 per cent spectrum usage charge on adjusted gross revenue (AGR) for satellite communication operators is an important step towards finally bringing satellite broadband to India. The Centre has taken nearly two years to put the key elements of a policy framework in place. It should now move with urgency to translate the decision into actual services.
+
+The approved a 5 per cent AGR-linked spectrum charge is one percentage point higher than the 4 per cent recommended by the Telecom Regulatory Authority of India (TRAI). However, operators serving government-notified hard-to-connect areas such as border regions, hilly terrain and islands will effectively pay 4 per cent. Spectrum will be assigned administratively, rather than auctioned, for five years, with a two-year extension.
+
+The decision is welcome because satellite communications are fundamentally different from terrestrial mobile networks. Satellites can share spectrum across large geographical areas and do not require the dense, dedicated infrastructure that terrestrial networks need. An auction could have fragmented spectrum access and imposed costs on an emerging industry.
+
+The need for satcom in India is compelling. Fibre and mobile towers are difficult and expensive to deploy in large parts of the country, including mountains, islands, border areas and sparsely populated rural regions. Low-earth-orbit constellations can provide high-capacity connectivity with substantially lower latency than traditional geostationary satellites.
+
+Satcom can also provide backhaul for terrestrial operators where fibre is not viable, making satellite and mobile networks complementary technologies. India now has several serious players waiting to launch satellite broadband services including Elon Musk's Starlink, Bharti-backed Eutelsat OneWeb and Jio Satellite Communications. The DCC deserves credit for rejecting TRAI's proposal for an additional ₹500 annual charge per subscriber in urban areas.
+
+The proposal was aimed at preventing satellite operators from concentrating on lucrative urban customers. But satcom capacity itself imposes a natural constraint on how much business satellite networks can do in densely populated cities. It makes more economic and technological sense to let operators decide where their limited capacity is most valuable.
+
+However, the government should reconsider another TRAI recommendation that it has rejected: subsidising satellite user terminals in unserved and underserved rural areas. The biggest obstacle to satcom adoption in precisely those areas where it has the greatest value may not be spectrum pricing but the upfront cost of equipment. TRAI had noted that satellite terminals can cost ₹20,000-₹50,000 and proposed support through direct benefit transfers or the Digital Bharat Nidhi.
+
+The decision needs a relook, at least until smartphones and other consumer devices that can directly receive satellite broadband become widely available.
