@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Speed needs teeth
+
+Speed needs teeth
+
+Weak enforcement and legal gaps may blunt impact of faster deepfake takedowns and softer labelling The government's decision to finalise amendments to the Information Technology Rules to address synthetically generated content is both timely and necessary. Coming days before the AI Impact Summit in New Delhi, the move signals regulatory intent at a moment when artificial intelligence is moving from pilot deployments to mass adoption. The rules acknowledge that deepfakes, non-consensual imagery and AI-driven impersonation are no longer fringe concerns but systemic risks.
+
+The compression of takedown timelines is a material shift. Requiring platforms to remove non-consensual intimate imagery and deepfake content within two hours of a complaint, and other unlawful content within three hours of a government or court order, reflects an understanding that 24 or 36 hours in the digital ecosystem is often too late. By then, content may have been copied, amplified and archived.
+
+Faster response windows do not eliminate harm, but they can contain its spread. In that sense, the amendments correct a structural lag in the earlier framework. Equally significant is the government's decision to drop the proposed 10% watermark requirement for AI-generated content. The draft's fixed-size visual and audio markers had drawn criticism from industry on grounds of technical feasibility and aesthetic disruption.
+
+A rigid watermark threshold across formats and devices risked distorting legitimate creative output and user experience. The final framework's shift towards embedding metadata or unique identifiers, where technically feasible, is a more calibrated approach. It retains traceability objectives while accommodating technological diversity.
+
+However, the amendments expose familiar implementation gaps. The only substantive consequence for non-compliance remains the potential loss of safe harbour protection under Section 79 of the IT Act. There are no fresh penal provisions or graded sanctions. In practice, safe harbour withdrawal has rarely, if ever, been invoked against major platforms.
+
+Without a credible and proportionate enforcement ladder, timelines on paper may not translate into effective remedies for users. The operational mechanics of enforcement also remain under-specified. What happens if a platform seeks clarification on an order within the compressed three-hour window? How are disputes over classification of content to be resolved in real time?
+
+Recent episodes involving AI systems have shown that regulatory directions can involve correspondence and follow-up. The rules prescribe deadlines but do not fully anticipate procedural friction. The labelling mandate, while softened, raises its own questions. The obligation to embed permanent metadata or identifiers lacks technical standards.
+
+There is no clarity on interoperability, audit mechanisms, or how such markers will be verified across platforms and jurisdictions. Compliance uncertainty could lead either to over-caution or inconsistent implementation. Beyond these drafting issues lies a larger structural question. The amendments are framed under a statute enacted long before generative AI.
+
+Synthetic content and algorithmic harms engage issues of liability, competition, transparency and due process that extend beyond intermediary obligations. Delegated legislation can provide interim guardrails. It cannot substitute for a coherent, primary law on AI governance debated and enacted by Parliament.
+
+At the same time, accelerated takedown powers must be exercised with care. The definition of unlawful content should not become a conduit for suppressing political dissent or inconvenient speech. A regulatory framework that is seen as partisan or opaque will invite judicial scrutiny and erode legitimacy.
+
+The amended rules are a step in the right direction. But credibility will depend on enforcement clarity, proportional safeguards and a willingness to move towards a dedicated AI law that balances innovation, accountability and constitutional freedoms.
