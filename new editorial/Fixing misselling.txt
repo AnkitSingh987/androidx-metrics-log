@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Fixing misselling
+
+Fixing mis-selling
+
+RBI mis-selling rules sound; redressal system needed Market-linked products have soared in popularity after Covid, but this has not been matched by a rise in financial literacy. This has opened the doors to rampant mis-selling. While Securities and Exchange Board of India (SEBI) and Insurance Regulatory and Development Authority (IRDAI) have been cracking down on mis-selling by intermediaries under their ambit, banks vending third-party products have remained out of their purview.
+
+Therefore, Reserve Bank of India (RBI)'s latest rules for ethical conduct by banks and NBFCs (non-banking financial companies) selling both own and third-party financial products, are very welcome. These are to take effect from January 2027. There are four key aspects to these rules. One, banks using external agents to sell any product/service will now need to display an updated list of such intermediaries on their website.
+
+Clear disclosures are required if an agent is pitching a third-party product. This can serve as a material deterrent to third-party agents posing as bank staff to sell risky products and act as a check against cyber-scams. The public however needs to be made aware of this disclosure on bank websites, so that they can check the credentials of salespeople.
+
+Two, banks need to ensure that products or services are offered to a customer only after explicit consent obtained through a signed declaration, OTP or digitally recorded confirmation. Calls need to be restricted to normal business hours on working days. Three, banks have been asked to make a risk assessment of customers before pitching products.
+
+Hard-selling unsuitable products to the wrong investors was at the root of past mis-selling scandals involving AT-1 bonds, currency derivatives and insurance. Four, RBI proposes to bar commissions to bank staff from third parties, disallow bundling of loans with any other product, and loans by banks/NBFCs to fund the purchase of any other product or service sold by the same entity. This should put paid to sharp practices such as forcing borrowers to sign up for insurance, making locker services contingent on ULIP sales and fixed deposits.
+
+To deter mis-selling, RBI will also allow customers a 30-day window to lodge complaints with the bank on the products or services purchased. Where mis-selling is established, the bank will be required to refund the customer in full, even for cases involving third party products sold through them. While the above rules are comprehensive, they do not specify what recourse will be available to the customer in case banks/NBFCs fail to redress complaints.
+
+If RBI expects the banking ombudsman mechanism to provide such recourse, it must note that banking ombudsmen are already swamped by complaints relating to core banking services, and have been not-so-effective at satisfactorily addressing them. RBI should examine setting up a recourse mechanism akin to the SEBI SCORES platform and levy high penalties for violations, to ensure that these directions are enforced in practice.
