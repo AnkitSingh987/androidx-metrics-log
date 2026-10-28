@@ -1,0 +1,30 @@
+Category: Editorial
+Title: Solar panel recycling should be next energy
+
+Solar panel recycling should be next energy priority
+
+A comprehensive regulatory framework which includes mandates for producers and fiscal sops is vital for recycling India's renewable energy trajectory has, for over a decade, been characterised by ambition, scale, and executional velocity. Since the inception of the National Solar Mission, the country has witnessed an unprecedented expansion of solar capacity, spanning Rajasthan, Gujarat, and Tamil Nadu. However, beneath this narrative of success lies a critical, yet under-examined, question: what happens to solar panels at the end of their life?
+
+Surge in solar waste Solar photovoltaic panels typically have a lifespan of 25-30 years. The earliest large-scale installations under India's solar mission are now approaching mid-life. Within the next decade, the country will begin to witness a significant volume of decommissioned solar panels. According to the International Renewable Energy Agency, cumulative global solar waste could reach 78 million tonnes by 2050.
+
+For India, which is targeting hundreds of gigawatts of installed capacity, this translates into a massive future waste stream. Unlike conventional waste, PV modules comprise layered assemblies of glass, silicon, metals, and polymers. Improper disposal can result in the leaching of hazardous substances such as lead, cadmium, and other toxic compounds, posing long-term risks to soil integrity, water systems, and public health.
+
+Without a structured recycling ecosystem, decommissioned panels could become a serious environmental liability. Untapped economic opportunity While the risks are considerable, the opportunity embedded within solar waste is equally compelling. Solar panels contain valuable materials, including high-purity silicon, silver, aluminium, and copper.
+
+Recovering these materials can reduce dependence on imports, lower manufacturing costs, and strengthen India's position in the global solar value chain. Silver, for instance, integral to photovoltaic cell contacts, is both expensive and resource-constrained. Recycling mechanisms that enable its recovery could materially offset input costs.
+
+Similarly, reclaimed silicon, when appropriately processed, can be reintegrated into photovoltaic manufacturing or semiconductor applications. Solar panel recycling remains an evolving domain, with three principal methodologies currently in use: mechanical, thermal (pyrolysis), and chemical processes. Mechanical methods involve crushing and shredding, enabling efficient recovery of glass but yielding relatively low-purity metals and silicon.
+
+Thermal (pyrolysis) utilise high temperatures to remove encapsulant layers such as ethylene vinyl acetate, facilitating improved material separation. However, these processes risk emitting hazardous gases if not adequately controlled. Chemical processes use solvents or acids to separate materials, achieving high recovery rates and purity, although at the cost of increased energy consumption, operational complexity, and environmental risk.
+
+Each approach presents inherent trade-offs between efficiency, cost, and environmental sustainability. The absence of standardised, economically viable, and environmentally benign solutions remains a significant bottleneck to large-scale deployment. Regulatory landscape India has taken preliminary steps toward a circular economy through the E- Waste (Management) Rules, 2022.
+
+However, solar photovoltaic waste remains inadequately addressed within a dedicated regulatory framework. International precedents offer instructive insights. For instance, the Australian Government is investing $24.7 million over 3 years to deliver the National Solar Panel Recycling Pilot. The pilot will help plan a future national recycling and product stewardship scheme.
+
+Unlike Europe, where extended producer responsibility (EPR) mandates manufacturers to manage decommissioned panels, India's policy approach is still evolving. The absence of clear guidelines for collection, recycling, and disposal creates uncertainty for both industry and investors. A comprehensive regulatory framework must encompass: (i) Mandatory Extended Producer Responsibility for manufacturers and developers (ii) Fiscal incentives to catalyse recycling infrastructure (iv) Standardised benchmarks for material recovery and environmental compliance (v) Digital tracking systems for lifecycle management of PV modules Without regulatory clarity, the recycling sector may struggle to attract the investment needed to scale.
+
+Circular solar economy Design innovations, including modular architectures, reduced reliance on hazardous substances, and enhanced recyclability, can significantly lower end-of-life processing costs. Furthermore, digital technologies such as predictive analytics and lifecycle tracking can optimise asset utilisation, ensuring timely maintenance, efficient decommissioning, and systematic recycling. India's academic and research institutions have to explore advanced recycling methods, including laser-based delamination and high-voltage separation techniques.
+
+Start-ups can play a transformative role by developing decentralised recycling models, AI-driven material recovery systems, and environmentally sustainable chemical processes. Public-private partnerships will be essential to bridge the gap between research, commercialisation, and deployment. By Milind Kumar Sharma, Khushboo Shah & Lalit Jyani The writers are with MBM University, Jodhpur.
+
+Views expressed are personal.
