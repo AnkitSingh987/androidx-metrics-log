@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Chips then chokepoints
+
+Chips, then chokepoints
+
+India's semiconductor industry is advancing with Rs 1.64 lakh crore investments in phase 1 and Rs 1 lakh crore in phase 2, focusing on building a resilient, diverse ecosystem amid global geopolitical challenges. The semiconductor journey is beginning to look like a policy bet that is paying off. Semicon 1.0 was meant to get the industry started, and it has done that with a scale of investment that would have been difficult to imagine a few years ago.
+
+Twelve projects with investment commitments of more than Rs 1.64 lakh crore have been approved, covering fabs, compound semiconductors, and packaging, with five units now in commercial production. Chip design has also moved forward, with 24 projects approved and more than 100,000 engineers getting access to advanced design tools. The response from industry at Semicon India, which concluded last week, reinforces that the pace and direction are on the right lines.
+
+Investment commitments of around Rs 1 lakh crore under Semicon 2.0, spanning equipment, materials, gases, chemicals, and other parts of the supply chain, point to an ecosystem that is beginning to widen. Prime Minister Narendra Modi described the transition as moving from files to factories, while Information Technology Minister Ashwini Vaishnaw said that the next phase is about building the complete ecosystem. That is precisely what Semicon 2.0 is meant to do.
+
+With a much larger Rs 127,500-crore outlay, the programme goes deeper into equipment and materials, advanced packaging, design, R&D, and talent. This matters because a semiconductor industry cannot be built around a handful of fabs. The growing interest among global companies in these parts of the chain suggests that the opportunity is beginning to extend well beyond fabrication and packaging.
+
+If Semicon 1.0 was about creating capacity, the second phase is about creating the depth that can sustain it. But the road ahead may not be as straightforward as the progress so far suggests. Semiconductor history offers reason for caution. The industry has repeatedly been shaped not just by economics and technology but by trade policy, strategic alliances, and geopolitical rivalry.
+
+The US-Japan semiconductor conflict of the 1980s, followed by the emergence of South Korea and Taiwan as major manufacturing centres, shows how the geography of chips can change when technology and strategic interests intersect. Today, companies are looking to diversify concentrated supply chains and build trusted alternatives, creating an opening for newer manufacturing locations. But as capabilities deepen, the possibility that geopolitical interests could seek to slow a competitor's rise cannot be dismissed.
+
+China's restrictions on critical minerals, including rare earths, have already demonstrated how control over an upstream input can disrupt industries across countries. Semiconductor supply chains have even more strategic chokepoints, from equipment and materials to technology and intellectual property. This is why the next phase of the semiconductor strategy has to be about more than attracting investment.
+
+It must anticipate the possibility that the global environment could become less accommodating as capabilities deepen. That does not mean trying to make everything at home or withdrawing from global supply chains. It means reducing the number of points at which the ecosystem can be vulnerable to disruption, while building relationships with multiple trusted partners.
+
+The opportunity has been created partly by the fragmentation of global supply chains. But the same forces could eventually make the emergence of another major semiconductor hub more contested. The gains made through Semicon 1.0 and the momentum of Semicon 2.0 are significant. The task now is to ensure that the ecosystem being built is deep and diversified enough to withstand the geopolitical pressures that may accompany its success.
