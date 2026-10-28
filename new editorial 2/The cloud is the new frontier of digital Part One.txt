@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The cloud is the new frontier of digital Part One
+
+The cloud is the new frontier of digital sovereignty
+
+Building sovereign application-layer infrastructure while remaining structurally dependent on foreign cloud, foreign AI, and foreign chips is an unresolved vulnerability - one that the Nayara episode previewed and future geopolitical turbulence will test again Last year, Nayara Energy - one of India's largest oil-refining companies - received a notice that should have alarmed every policymaker in Delhi. Microsoft informed the company that it might have to discontinue its cloud services, citing US sanctions compliance obligations arising from Nayara's Russian shareholder, Rosneft. Nayara was operating within Indian law.
+
+Its refinery is on Indian soil. But the digital infrastructure on which it ran its operations was leased from a company headquartered in Redmond, Washington  -  and was, therefore, subject to American law. The threat was not ultimately executed, but India had just glimpsed what digital dependence looks like when geopolitics turns hostile.
+
+The Nayara episode is a reminder of something we have been slow to reckon with: Microsoft's cloud, Amazon's AWS, and Google's infrastructure are, in the truest sense, digital infrastructure. Hospitals run on them, banks clear transactions through them, government agencies store data on them, and entire supply chains depend on them. That dependence comes with a condition: The terms can change, and the switch can be thrown, from a boardroom in another country.
+
+Not all digital infrastructure carries the same risk. Private digital infrastructure -  the clouds, platforms, and algorithms built by global technology firms  -  is a commercial asset, governed by the laws of their home jurisdictions. They can be monetised, restricted, or weaponised. Then there is the digital public infrastructure (DPI), which a country builds to serve its citizens on its own terms.
+
+India's DPI stack is among the most impressive in the world: Aadhaar for identity, UPI for payments, DigiLocker and eSign for documents, ABDM for health data, and ONDC for open commerce. These systems are open, interoperable, and non-extractive. They do not mine user data for profit. Any innovator can build on them.
+
+India controls its DPI stack. What India does not fully control is the infrastructure layer on which much of this runs: The cloud, the chips, and increasingly, the AI. If cloud dependency is today's risk, AI is tomorrow's. The LLMs now rapidly becoming central to enterprise operations and government services are controlled almost entirely by US and Chinese companies.
+
+The data they are trained on, the values they embed, the guardrails they enforce  -  none of these reflects Indian priorities or is subject to Indian oversight. Here lies India's central tension. Having built a world-class DPI stack at the application layer, India has allowed its dependence on foreign hyperscaler cloud  -  AWS, Azure, Google Cloud  -  to deepen substantially.
+
+The private sector, including much of the fintech and healthtech built on DPI rails, runs overwhelmingly on foreign cloud. Owning the application layer while renting the infrastructure layer is a form of digital tenancy. None of this calls for digital isolationism. The question is not whether to engage with foreign digital infrastructure, but how to reduce strategic vulnerability to an acceptable level.
+
+Four levers are available. First, data localisation  -  requiring sensitive data to reside within Indian territory  -  is necessary but insufficient if the cloud on which it sits remains foreign-controlled. Localisation must be accompanied by genuine operational sovereignty, including the ability of Indian authorities to audit and, in extreme conditions, take over critical infrastructure.
