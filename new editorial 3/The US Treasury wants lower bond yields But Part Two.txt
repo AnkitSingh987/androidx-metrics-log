@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The US Treasury wants lower bond yields But Part Two
+
+The US Treasury wants lower bond yields. But will it work?
+
+Its tools include deciding how much debt to issue, what maturities to issue it in  -  like short-term bills or long-term bonds, and occasionally buying some of its own older bonds back. Now, the bonds it issues are considered one of the safest investments (almost risk free) in the world, backed by the full faith and credit of the US government. And because they're considered so safe, they offer relatively low interest rates.
+
+That means Treasury yields affect things like home and corporate loans. So when lenders price these loans, they start with: Treasury yield (the risk free rate) + a spread to compensate for the extra risk of lending to these borrowers. That's why the US Treasury wants to buy back old bonds  -  to support bond prices, lower yields and, in turn, borrowing costs.
+
+But remember, unlike the Fed does with QE, the Treasury cannot create new money. So every dollar it uses for a buyback has to come from money it has raised elsewhere. With this in mind, let's apply this mechanism to the situation in question. The Treasury is buying back old long-term bonds (with 10 to 30 years left to mature), to improve liquidity.
+
+That should help push yields down. But where is this money coming from? Well, it can't print new money like the Fed. So it has to borrow money elsewhere to fund the buyback, like from issuing more short-term Treasury bills. And more reliance on short-term bills means the Treasury has to keep refinancing them at whatever new rate the market demands.
+
+So if short-term rates spike, borrowing costs jump too. That means it's not really solving the problem. It's just swapping one type of debt for another. So it doesn't do much to push rates down, even though yields fell immediately after the Treasury announced the larger buyback, largely because of investor expectations.
+
+There's another thing to look at too: the size of this so-called larger buyback. See, we know it sounds huge. But if you look closely, it's actually tiny. Think about it. The entire 10- to 30-year US Treasury bond market that the Treasury is targeting is worth about $5.5 trillion. And last week's buyback was $6 billion.
+
+If you do the math, that works out to a measly 0.1% of the entire long-term bond market. That's like trying to shift the price of something worth $10,000 by spending just $10 on it. And the logic here is simple. Bond prices and yields move based on demand and supply. Millions of trades happen every day between pension funds, foreign governments, banks, mutual funds and everyone else buying and selling US bonds.
+
+So whatever is worrying those buyers right now  -  things like inflation fears, oil prices and so on, is influencing far more buying and selling than one $6 billion purchase could possibly counteract. Which means mathematically, this purchase is too small to outweigh what everyone else in the market is doing. So what could bring yields down the way the US government intends, you ask?
+
+Well, there are three main ways to do it. First, the government could tackle the problems pushing yields higher, such as supply shortages driving up inflation and the growing budget deficit, which is pushing US debt higher. That debt has now crossed $40 trillion, or a whopping 123% of GDP. Second, the most powerful option would be QE, where the Fed buys bonds with newly created money, increasing demand and pushing yields lower.
