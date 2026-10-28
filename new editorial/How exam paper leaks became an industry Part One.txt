@@ -1,0 +1,22 @@
+Category: Editorial
+Title: How exam paper leaks became an industry Part One
+
+How exam paper leaks became an industry
+
+In today's Finshots, we'll explain how exam paper leaks turned into a thriving industry in India and what it might take to even slightly fix the problem. The Story By now, you already know that exam paper leaks have become a thriving industry in India. But how did it get here? The simplest answer lies in one economics concept: scarcity.
+
+Take NEET (National Eligibility cum Entrance Test), the medical entrance exam that has been at the heart of these protests. Instead of appearing for separate entrance tests at different colleges, aspiring doctors take one exam. Score well, and you stand a chance of getting into some of India's best medical colleges, especially government institutions where an entire medical degree can cost less than ₹30,000.
+
+But slip down the rankings, and that same degree could cost you lakhs or even crores at private colleges. That enormous difference is why nearly 20 lakh students appeared for NEET 2026. Sure, more than half qualified, which might sound encouraging. But the catch is that the coveted low-cost government medical seats go to fewer than 6% of those who qualify or under 3% of everyone who takes the exam.
+
+And when millions compete for a tiny pool of life-changing opportunities, scarcity creates the perfect conditions for an economic problem called rent-seeking. This idea was first introduced by economist Gordon Tullock in 1967, and later given the name "rent-seeking" by Anne Krueger in 1974. At its core, rent-seeking is about people trying to win a valuable prize by influencing the system instead of competing fairly.
+
+Like a company lobbying the government for subsidies or regulations that make life difficult for competitors, instead of creating a better product using their own resources. Now apply that idea to something like NEET. Every year, lakhs of students compete for just a few thousand coveted medical seats.
+
+Those seats are the prize. Secure one, and your future can look very different, much like landing a scarce government job. That's why students spend years preparing for this exam instead of pursuing other careers or building products and services that create value for the economy. And if the cost of securing that prize is lower than the value of the prize itself, which in effect is a secure career, lower education costs, and a lifetime of opportunities, some people will inevitably be willing to pay that price to get ahead of everyone else, right?
+
+That's exactly the gap the paper leak industry exploits. Its operations are almost pyramid-like. At the top are kingpins who build networks of insiders across printing presses, courier firms, transport staff, exam centre officials and others who can access question papers before the exam. Everyone involved takes a cut.
+
+The leaked papers are then quietly sold to selected candidates through encrypted platforms like WhatsApp and Telegram, with some aspirants paying as much as ₹30 lakh for them. But this also makes you wonder, if such a large, organised network exists, shouldn't the laws and policies already be enough to stop it? Yet exam papers continue to leak, arrests are made, investigations follow, and before long, the cycle repeats.
+
+So why does this keep happening? This time, the answer boils down to two things. First, the downside of leaking exam papers has often been much smaller than the upside. Until recently, India didn't even have a dedicated central law to tackle organised exam fraud. The Public Examinations (Prevention of Unfair Means) Act, 2024 changed that by prescribing 5 - 10 years of imprisonment and a minimum fine of ₹1 crore for organised paper leak rackets.
