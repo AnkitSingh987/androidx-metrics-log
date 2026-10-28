@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The longterm implications of the USIran deal Part Five
+
+The long-term implications of the U.S.-Iran deal
+
+Let's go back to our earlier ₹100 FCNR(B) deposit example. Normally, the NRI earns 7% interest, or ₹7. But now, imagine the NRI asks the Indian bank for an LOC against this deposit. Think of it as a guarantee given by the Indian bank promising that if a loan taken elsewhere isn't repaid, it can be recovered from the NRI's deposit.
+
+So using this LOC, the NRI can approach a foreign bank, say, a US bank, and borrow money at a lower interest rate of around 4.5%. Let's assume they borrow an amount equivalent to ₹400 and bring that money back into India as another FCNR(B) deposit. Suddenly, instead of ₹100, the NRI now has ₹500 parked in India.
+
+At 7% interest, that earns ₹35 a year (we're simplifying things here by assuming a one-year period and ignoring the actual three-year minimum tenure). And when the foreign loan matures, the US bank gets back ₹418 or the original ₹400 plus ₹18 in interest, backed by the LOC. That still leaves the NRI with ₹117.
+
+Remove the original ₹100, and the effective gain is ₹17, instead of the original ₹7. That's more than double the return. Now, scale this across billions of dollars, and some analysts estimate NRIs could effectively earn 15 - 26% returns. Which is exactly why the RBI expects $40 - 50 billion in inflows this year, meaningful enough to boost India's roughly $680 billion forex reserves.
+
+And before you think this is some grand experiment, that's not the case. India has tried something very similar before. Back in 2013, when the rupee crashed nearly 30% against the dollar during the infamous "taper tantrum"  -  a global panic sparked by signals that the US Federal Reserve would slow its bond buying program, the then RBI Governor Raghuram Rajan rolled out a nearly identical scheme.
+
+That swap window charged banks a concessional 3.5% hedging cost (not zero like today). But even then, it managed to pull in $27 billion in FCNR deposits and around $34 billion in total inflows. The end result was that India's forex reserves rose by $12 billion, the rupee appreciated 3.4% within a year, and reserves kept climbing for the next three years, adding another $68 billion.
+
+That's why the 2013 move is still seen as one of India's most successful currency stabilisation measures. And in some ways, the 2026 version is even more attractive, thanks to lower hedging costs. But there's a catch. The global environment today is far less friendly as you know. US Treasury yields are hovering around 4.5%, which means the gap between what an NRI earns in the US versus India is much smaller than in 2013, when US rates were close to 1%.
+
+Still, a 7% dollar return from an Indian bank could seem tempting. Of course, none of this comes without trade-offs. You have to remember that the RBI is effectively taking currency risk onto its own books, which essentially means that if the rupee weakens sharply over the next few years, the central bank absorbs the hit.
+
+There's another problem too. Some NRIs may simply close existing FCNR(B) deposits early and reopen fresh ones to earn better rates, meaning some of the "new" inflows may just be recycled money. In fact, a story by The Hindu Business Line suggests that nearly 30% of existing FCNR(B) deposits could be prematurely closed and rolled over into fresh deposits to take advantage of the sweeter terms.
