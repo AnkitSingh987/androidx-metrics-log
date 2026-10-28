@@ -1,0 +1,24 @@
+Category: Editorial
+Title: US AI infrastructure bet and lessons for Part Two
+
+US' AI infrastructure bet and lessons for India
+
+The Federal Reserve Bank of St Louis estimates that such equipment alone added 0.9 percentage points to US real GDP growth in Q1 2025. By the first half of 2025, AI investment had become the biggest engine of American growth. Capital expenditure linked to AI added around 1.1 percentage points to GDP growth, overtaking consumer spending as the largest driver  -  an unusual shift in an economy where household consumption traditionally carries the load.
+
+The broader technology ecosystem contributed 2.28 percentage points to growth, four times its contribution a year earlier. Most remarkably, data centre investments accounted for almost 80 per cent of the increase in final private domestic demand during H1 2025. Without this surge, US GDP growth would have been closer to 1 per cent rather than 2 per cent.
+
+India's opportunity AI infrastructure requires enormous upfront investment. Hyperscale technology companies including Amazon, Microsoft, Alphabet, Meta and Oracle are together expected to spend over $700 billion on capital expenditure in 2026 -  mostly on graphics processors, servers, specialised chips, data centres and supporting power infrastructure. These investments immediately add to GDP through construction, equipment purchases and engineering.
+
+Productivity gains from deploying AI will emerge over time. Similar to what happened during the Industrial Revolution, there is debate about how soon the impact will be felt by the general public. Edison's work on the light bulb and electrical power took place in the 1870s and 1880s, but it was not until the 1940s that a full range of electrical gadgets appeared in American homes.
+
+Critics argue that a benign monetary policy, by keeping interest rates low, is letting zombie companies survive, but surely, the cycle of Schumpeterian creative destruction will eventually catch up. India cannot match American investment overnight, but it can emulate the strategy. At $4 trillion, India's economy is barely one-eighth the size of the US.
+
+Yet its digital infrastructure story already attracts global capital. According to UNCTAD, data centre projects drove a 44 per cent increase in foreign direct investment, reaching $39 billion annually. Alphabet's proposed $15 billion AI hub and one gigawatt data centre in Visakhapatnam illustrates the scale  -  equivalent to nearly 6 per cent of Andhra Pradesh's GDP.
+
+Meta is building a major facility near Google's proposed sites. Amazon and Microsoft are also investing. India cannot afford to be left behind in the AI race. For India to benefit from and sustain AI-related growth, here are a few suggestions. AI infrastructure runs on electricity. Reliable, affordable power is essential; data centres consume enormous amounts.
+
+Beyond that, investors need speed and certainty: land acquisition should not take years, approvals should move quickly through single channels, and digital connectivity must keep pace through stronger fibre networks and submarine cable landing stations. Building a skilled workforce and robust cybersecurity will complete the ecosystem global AI investors expect. Universities in India should focus on quality Science, Technology, Engineering and Mathematics (STEM), curriculum to complement intakes of data science centric workers.
+
+Countries combining capital, infrastructure and policy certainty will attract investment. Those that cannot risk becoming consumers of AI rather than its economic gains. India has the opportunity to capture that momentum, provided it treats AI infrastructure not as another technology sector, but as the foundation of its next investment cycle.
+
+By Nilanjan Banik The writer is Professor, School of Management, Mahindra University
