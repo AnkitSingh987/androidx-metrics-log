@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Turning recognition into protection for gig Part One
+
+Turning recognition into protection for gig workers
+
+Apart from documentation, gig workers' digital identity should be linked to benefit schemes to ensure payouts through life The rapid expansion of gig and platform work reflects a broader transformation underway in labour markets across the world. According to a NITI Aayog estimate of 2022, nearly 47 per cent of gig work was in medium-skilled occupations, about 22 per cent in high-skilled roles and 31 per cent in low-skilled work. This composition is changing.
+
+The share of both high-skilled and low-skilled gig work was estimated to steadily increase. Seen in this context, the Social Security Code 2020 marks a significant opportunity. By formally recognising gig and platform workers as a distinct category, the Code creates space to design protection that reflects not only the scale of this workforce, but also its diversity in skills, incomes and career trajectories.
+
+India does not need to construct an entirely new system to extend protection to gig workers. The e-Shram portal has already registered over 31.38 crore unorganised workers, each issued a Aadhaar-seeded unique, Universal Account Number (UAN). This national registry addresses one of the most complex aspects of social protection: identifying and tracking workers who move frequently across employers, platforms and States.
+
+The proposed National Social Security Board, with representation for gig and platform workers, offers a forum to deliberate on access, eligibility and portability. The opportunity now lies in connection. Digital identity has been established on a scale. The next step is to link this identity to benefit-delivery systems in a manner that ensures continuity across a worker's life cycle.
+
+If e-Shram identifiers are enabled to interface with established social security institutions, a single, lifelong account could support workers as they move between gig work, short-term contracts and formal employment. Such integration would need to be phased, guided by explicit rulemaking and supported by capacity augmentation within existing institutions. Insurance cover One area where design choices can yield immediate gains is insurance.
+
+The Employees' Deposit Linked Insurance scheme currently provides life insurance of up to ₹7 lakh to formal workers without requiring any employee contribution. While this applies only to EPFO members at present, the underlying design logic is relevant. Extending an EDLI-style mechanism to gig workers, through appropriate regulatory adaptation, would allow families to receive protection from the outset of a worker's engagement with platform work, rather than after years of contribution.
+
+This need does not result in an open-ended fiscal burden. Insurance schemes draw strength from scale, and even modest, platform-linked contributions aggregated across a large workforce can create a viable risk pool if transparently designed and carefully calibrated. Contribution design must also follow workers' earnings that fluctuate daily.
+
+Monthly contribution models built around stable wages and continuous service are ill-suited to this reality. A transaction-linked contribution model aligns more closely with the structure of platform work. Each completed ride or delivery can trigger a small, automated contribution, with platforms adding their mandated share.
+
+Topping it up through other openings as the code envisages is also possible. Such an approach allows protection to accumulate even across fragmented work histories. Media reports reveal that employment in food delivery alone rose sharply between 2021-22 and 2023-24, reaching 13.7 lakh workers, while the sector's gross value of output crossed ₹1.2 lakh crore.
+
+Growth at this scale places social security design within the domain of economic stability rather than welfare supplementation. India has addressed the needs of a similar workforce. Before digital platforms, the Mathadi system provided social security to a highly mobile, task-based workforce by registering workers and employers and linking contributions to transactions rather than tenure.
