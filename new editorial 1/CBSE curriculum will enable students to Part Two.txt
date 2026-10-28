@@ -1,0 +1,22 @@
+Category: Editorial
+Title: CBSE curriculum will enable students to Part Two
+
+CBSE curriculum will enable students to understand the AI 'black box'
+
+Therefore, as also suggested by research in the domain, CT serves as a key backbone for problem-solving practices that enhance the development of AI/ML capabilities. Without foundational CT education, AI will be admired but not understood by our students, and may remain a black box. Keeping this in mind, the CBSE CT & AI curriculum adopts a graded age-sensitive approach to cultivate CT & AI literacy across various stages, paving the way for AI-ready learners and AI skilling.
+
+Instead of introducing AI concepts in isolation, the CT & AI curriculum emphasises CT like any other school subject, with a deliberate progression from structured thinking/CT to AI concepts to AI applications. In Classes 3-5, CT is part of the mathematics curriculum, and in Classes 6-8, the treatment becomes deeper. By the end of Class 8, students are expected to have a foundational understanding of AI concepts and AI ethics.
+
+This gradation is a conscious choice, so that children find the transition from CT to AI and ML smoother. There is a fear that the introduction of new curricular areas is burdening students. Content burden is a question of priority. Throughout NCFSE and NEP, the emphasis has been made on CT & AI, ML, etc., but adequate space has not been created until now.
+
+This curriculum builds on CT to introduce areas such as AI, coding, and ML. Though CT has been addressed in the existing textbooks of Mathematics, the scope for enrichment was visible. So, the curriculum suggests a set of activities to enhance CT skills in students. There is also an apprehension that the introduction of AI does more harm than good.
+
+The point is that students from Class 5 onwards (maybe even earlier in some schools) are already exposed to AI tools and are using them without proper training or an understanding of the risks involved. Therefore, it is critical to build AI literacy (basic understanding of AI tools and understanding ethical use of AI), which is mostly independent of mathematical skills, and will help students appreciate the benefits and risks of AI better. The curricular goals are derived in alignment with the curriculum standards detailed in the NCF.
+
+The objectives mentioned in the curriculum may sound loftier, but one must interpret these objectives for the particular grade. For example, the curriculum states that a "child distinguishes machine intelligence and human intelligence". The interpretation must be made keeping children's age and the learning experiences in mind.
+
+We know that this "ability to distinguish" varies for children of different age groups. A 5th grader can do it, an 8th grader too, but what differs is the "degree" and complexity of this "distinguishing capacity". It also depends on the kind of material and experiences the child engages with. The curriculum is also flexible, as any good curriculum should be.
+
+The CT activities suggested in the curriculum are illustrative, and the AI projects included are suggestive. This helps the teachers to bring in contextual changes needed for the curriculum while implementing it. It provides a lot of autonomy for the teachers to choose the content and pedagogy suited to their students.
+
+The curriculum also has a set of support materials for teachers and students. In fact, the teacher's handbook is much more elaborate than the student material. As AI is an emerging area, the curriculum highlights the criticality of teachers' capability for curriculum implementation. It also suggests approaches for teacher capacity development, and the handbook directly addresses teacher capacity.
