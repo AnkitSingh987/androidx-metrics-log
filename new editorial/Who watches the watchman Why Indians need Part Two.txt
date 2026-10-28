@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Who watches the watchman Why Indians need Part Two
+
+Who watches the watchman? Why Indians need policy that safeguards data gathered by the government
+
+A survey carried out in 2025 by LocalCircles, with more than 36,000 respondents, found that nearly 87 per cent believed their private details were already exposed. This isn't mere opinion; official records show real concerns, for example, in 2022, the Comptroller & Auditor General uncovered gaps in Aadhaar's safeguards. For a democracy like India, every surveillance camera and database query is a potential disruption of privacy.
+
+The Supreme Court has ruled (in Puttaswamy vs Union of India) that any state restriction on privacy must be lawful, necessary, and proportionate. By that standard, India's surveillance rollout currently lacks enough safeguards. Little is known about how videos or biometric data are kept or how facial recognition systems are trained and checked for errors.
+
+Officials highlight dangers like violence, hacking, or illegal acts while pushing for digital solutions. Fair enough on paper. Tools can help authorities do their jobs better when used well. Still, watching everyone closely just because something might go wrong? That crosses a line. When nobody explains how data is gathered or who controls it, people lose the space to question what's happening behind closed doors.
+
+Safety matters, yet constant monitoring without clear rules eats away at basic fairness. Before launching a surveillance system, it must create the necessary legal and institutional safeguards. We need rules on data collection that ensure data deletion after the data have served their purpose. There should be limits on how long data can be kept.
+
+There must be accountability in algorithms and independent reviews. Then, we can say it is both safe and free without giving up one for the other. By Vikram Raj The writer is associated with the Internet Freedom Foundation
