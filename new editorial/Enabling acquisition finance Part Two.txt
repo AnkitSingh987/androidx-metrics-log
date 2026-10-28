@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Enabling acquisition finance Part Two
+
+Enabling acquisition finance
+
+The Directions construct a high wall around who can borrow and how much. The RBI proposes eligibility filters at both ends of the transaction. The borrower must be a listed Indian body corporate with a satisfactory net worth and at least three years of profitability. The target must have three years of audited financials and must not be a related party.
+
+In substance, this ensures that acquisition finance flows to strategic, long-term transactions rather than promoter-level restructurings or intra-group self-deals. The emphasis on long-term value creation is a recurring theme throughout the Directions. While the Directions permit banks to finance acquisitions involving controlling stakes often exceeding 51%, such financing remains subject to Section 19(2) of the Banking Regulation Act, which restricts banks from holding, whether as pledgee or absolute owner, more than 30% of a company's paid-up share capital.
+
+Further, the Directions also permit the banks to take additional collateral, subject to their internal policies. Yet where the target is a public company, its ability to offer guarantees or other forms of security may be limited due to the Companies Act, 2013, which restricts financial assistance for the purchase of its own shares. The prudential framework surrounding acquisition finance is deliberately tight.
+
+To contain systemic risk, the RBI has capped a bank's aggregate exposure to this segment at 10% of its Tier 1 capital (bank's core equity capital available to absorb losses). In terms of funding limits, a bank may fund only up to 70% of the acquisition value; the remaining 30% must come from the acquirer's own equity, ensuring meaningful 'skin in the game'. The Directions require banks to undertake regular monitoring, stress tests, early-warning assessments and valuation checks, creating a tightly controlled environment for acquisition financing.
+
+Against this backdrop, the case for allowing banks to play a more direct role in acquisition financing becomes clearer. Financial sovereignty allows capital flows to be shaped domestically while reducing exposure to external shocks. This objective is advanced when long-term corporate growth is supported by domestic capital rather than offshore funding.
+
+Creating regulated pathways for banks to support strategic acquisitions therefore becomes essential, with acquisition finance emerging as the link that enables Indian corporates to execute complex transactions through stable, domestically anchored banking channels. The Directions represent one possible regulatory response: opening the door to acquisition financing while surrounding it with tight safeguards to preserve systemic stability. While the framework signals a shift, its operational window remains narrow, with stringent eligibility, collateral, and prudential conditions limiting its applicability to a small segment of corporates.
+
+Even so, the direction of travel is clear. The RBI is cautiously laying the groundwork for banks to play a more constructive role in India's expanding M&A landscape, with the final directions likely to determine how this balance between flexibility and restraint is ultimately struck. This will help with Indian companies achieving scale, without depending solely on foreign loans.
+
+By Sandeep Parekh, Managing partner, Finsec Law Advisors Coauthored with Manas Dhagat and Pranjal Kinjawadekar, associates, Finsec Law Advisors
