@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Stabilising supply chains Part One
+
+Stabilising supply chains
+
+Customs overhaul will play a key role here Global supply chains continue to face uncertainty amid evolving geopolitical dynamics and trade realignments. While the recent ceasefire in West Asia has eased immediate concerns, it has also highlighted the vulnerability of critical energy and trade routes, particularly the Strait of Hormuz, through which a significant share of India's crude oil imports transit. Against this backdrop, customs efficiency has moved from a backend administrative function to a frontline instrument of economic resilience.
+
+The Indian Government responded with calibrated policy interventions. An inter-ministerial task force to monitor supply risks and support exporters, duty rationalisation across sensitive sectors, including critical petrochemical products, extension of RoDTEP benefits, greater flexibility for SEZ units to sell in the domestic market, and higher import duties on gold, silver, and platinum to curb non-essential imports and support the rupee. Together, these measures signal a critical evolution in trade governance.
+
+Customs policy has transitioned from a traditional revenue-generating instrument into a dynamic tool for securing and stabilizing global supply chains. Logistics costs According to the NCAER's report published in 2025, India's logistics cost stands at 7.97 per cent of GDP, amounting to approximately ₹24 lakh crore annually. While this marks a significant improvement over historical estimates, the burden remains unevenly distributed.
+
+Smaller enterprises bear a disproportionately high cost, with logistics expenses accounting for up to 16.9 per cent of output for firms with turnover below ₹5 crore, compared to 7.6 per cent for larger businesses. Fuel accounts for nearly 42 per cent of road transport costs, exposing supply chains to fluctuations in global energy prices. High logistics costs are not merely operational challenges; they directly affect competitiveness, profitability, and export performance, particularly for smaller firms that lack the scale to absorb them.
+
+Reducing logistics costs is therefore both an economic and developmental imperative. Businesses can mitigate these pressures through better use of customs and trade facilitation mechanisms. Duty optimisation through FTAs and temporary customs exemptions can significantly lower landed costs by enabling reduced or zero-duty imports on eligible goods, while accurate Harmonised System (HS) classification helps avoid excess duty payments, penalties, and shipment delays.
+
+Bonded warehousing offers additional benefits by allowing importers to defer duty payments, improving working capital management. Exporters can similarly leverage duty drawback and remission schemes to recover duties, improving price competitiveness in global markets. Customs reforms Recent customs reforms have further strengthened India's trade ecosystem.
+
+The introduction of a "trusted importer" framework is expected to accelerate cargo clearance through simplified procedures and reduced physical inspections. Combined with paperless approvals, electronic sealing, and greater automation, these measures can significantly reduce detention, demurrage, and storage costs. Beyond customs, substantial savings can be achieved through operational efficiencies such as AI-driven route optimisation, shipment consolidation, and improved fleet utilisation.
+
+However, the most significant opportunity lies in accelerating the transition to multimodal logistics, especially for long haul. According to NCAER, road freight costs ₹3.78 per tonne-kilometre compared to ₹1.96 by rail and ₹2.30 by inland waterways, a gap that widens decisively beyond 600 km. Despite this advantage, road transport continues to dominate India's freight movement due to inadequate last-mile connectivity, inconsistent rail transit times, and underdeveloped inland waterway infrastructure.
+
+Addressing these structural challenges will require sustained policy support and public investment. Accelerating dedicated freight corridors, incentivising inland waterway transport, and integrating multimodal solutions into public procurement can unlock significant economy-wide efficiencies. Tech moves Technology adoption within warehouses also offers meaningful cost reductions.
