@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Resilience at scale
+
+Resilience at scale
+
+Airtel's rise reflects disciplined adaptation in a market reshaped by disruption Bharti Airtel's ascent to the world's second-largest telecom operator by subscribers - 650 million - is best understood not merely as a story of scale, but of survival in a structurally unforgiving market. In India, telecom has repeatedly reset through price wars, regulatory shocks, and relentless capital demands. Few incumbents have navigated each phase with both balance sheet and business model intact.
+
+Sunil Bharti Mittal's Airtel is among that rare cohort. The disruption triggered by Reliance Jio in 2016 compressed tariffs to levels that rendered returns uncertain across the sector. Airtel ceded market share during that phase, but its response was calibrated rather than reactive. It prioritised cash-flow preservation, pruned weaker operations, and continued investing in network quality.
+
+From Leverage to Liquidity The payoff is evident in current operating metrics. Wireless average revenue per user has climbed steadily from about Rs 135 in 2020 to Rs 259 in the October-December quarter, with projections of over Rs 300 by 2028. Crucially, this improvement has come alongside continued subscriber additions - suggesting that pricing power has returned without derailing growth.
+
+Equally significant is the repair of the balance sheet. Airtel's net debt to earnings before interest, taxes, depreciation, and amortisation (Ebitda), once above 3x, is expected to fall to near 1.1x in FY26 and below 1x thereafter, supported by stronger internal accruals and free cash flow generation. Ebitda margins have expanded from about 42% in 2020 to over 56%, with further improvement expected.
+
+Operating cash flows are projected to cross Rs 1 lakh crore annually. These mark a transition from a leveraged, price-taking operator to one with financial flexibility and pricing discipline. This is where Airtel's position in India diverges from a simple ranking narrative. While it remains the number two operator by subscribers, it leads on the quality of revenues and capital efficiency.
+
+The distinction matters in a sector where scale was historically pursued at the cost of returns. New Equilibrium At the same time, Jio's role in shaping this outcome is foundational. Backed by Mukesh Ambani, it forced a structural reset in tariffs, accelerated data adoption, and drove industry consolidation.
+
+Data consumption on Airtel's network, for instance, has grown at over 30% compound annual growth rate over five years - a trend mirrored across the industry. The result is a market where low tariffs coexist with exceptionally high usage intensity. This low-tariff, high-usage model now defines India's telecom sector.
+
+It has enabled operators to build scale rapidly while monetising through gradual tariff hikes, premiumisation, and adjacent services. Airtel's expansion in Africa underscores the portability of this model. In India, the next phase of growth is already visible in non-wireless segments - homes, enterprise, and data centres - which are contributing a rising share of revenues and Ebitda while offering higher-margin opportunities.
+
+The broader lesson is that India's telecom market, once seen as structurally unviable due to low pricing, has settled into a different equilibrium. Scale, when combined with disciplined capital allocation and incremental pricing power, can deliver sustainable returns. Jio catalysed that shift; Airtel adapted to it and rebuilt.
+
+Airtel's global ranking, therefore, is not merely a function of subscriber aggregation across India and Africa. It reflects the ability to endure disruption, restore financial strength, and operate effectively within a model that prioritises affordability and usage over headline tariffs. The telecom sector now offers two distinct but complementary templates - one built on disruption and rapid scale, the other on resilience and calibrated growth.
