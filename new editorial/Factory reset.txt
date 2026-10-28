@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Factory reset
+
+Factory reset
+
+Smartphone production scheme improves on PLI India's mobile phone manufacturing story has been one of the most striking successes of the country's industrial policy over the past decade. From just two manufacturing units in 2014 to more than 300 today, and from production worth ₹18,000 crore to nearly ₹5.5 lakh crore, the sector has expanded at an extraordinary pace. Annual output now stands at around 325-330 million handsets, with almost the entire domestic demand being met through local assembly.
+
+Exports have surged from a negligible ₹1,566 crore to over ₹2.6 lakh crore, making smartphones one of India's fastest-growing export categories. The Production Linked Incentive (PLI) scheme deserves much of the credit for transforming India into a major global assembly hub. Yet, beneath these numbers lies an uncomfortable reality.
+
+India has excelled in assembling phones but captures only a fraction of the value they generate. Most high-value components  -  chipsets, displays, camera modules, printed circuit boards and other electronic parts  -  continue to be imported. Domestic value addition has remained stuck at around 20 per cent.
+
+As a result, the electronics import bill crossed $110 billion in FY26. It is this gap that the new ₹62,500-crore Mobile Phone Manufacturing Scheme (MPMS) seeks to address. The scheme marks an important shift in policy thinking. Unlike the earlier PLI, which largely rewarded incremental production, the MPMS explicitly incentivises deeper localisation.
+
+Manufacturers will earn incentives of 2.25-5 per cent on eligible sales, with an additional incentive tied to domestic sourcing of components and sub-assemblies. Companies investing in product design and R&D will receive an extra incentive, signalling that the government wants India to participate in innovation, not merely production. The timing is opportune.
+
+The disruptions caused by the pandemic, geopolitical tensions and trade restrictions have prompted MNCs to diversify manufacturing beyond China through "China+1" and friend-shoring strategies. India has already emerged as a preferred destination for final assembly. The next challenge lies in ensuring that the supplier ecosystem follows.
+
+This is where the MPMS, working alongside the proposed ₹1.25 lakh crore India Semiconductor Mission (ISM) 2.0, could prove transformative. Incentivising component manufacturing alongside handset production could reduce import dependence. However, incentives alone cannot build a globally competitive ecosystem.
+
+Component manufacturing demands reliable infrastructure, affordable logistics, skilled manpower and a predictable regulatory regime. India's automobile industry offers an instructive parallel. Its emergence as a global automotive manufacturing hub was driven not merely by vehicle assembly but by the development of dense supplier networks around manufacturing clusters.
+
+The mobile phone industry must now undergo a similar transition. Private industry has to respond with long-term investments rather than viewing incentives as short-term subsidies.
