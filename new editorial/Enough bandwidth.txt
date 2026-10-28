@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Enough bandwidth
+
+Enough bandwidth
+
+6GHz spectrum can be neatly split for WiFi, fixed wireless The global debate over the future of the 6 GHz spectrum band has arrived in India. On one side, telecom operators argue that the entire band should be reserved for future 5G and 6G networks, citing the growing popularity of fixed wireless access (FWA) and the need for large, clean blocks of mid-band spectrum. On the other hand, technology majors and device manufacturers such as Apple, HP, and Cisco want the entire band delicensed for Wi-Fi, enabling faster, reliable indoor broadband.
+
+Both sides have credible claims, but an all-or-nothing approach will not serve India's broader connectivity goals. India's broadband landscape remains wireless-dependent due to the limited penetration of wired Internet infrastructure. In this context, FWA has emerged as a major substitute for last-mile fibre, providing high-speed broadband through a mobile network.
+
+Operators argue that to scale FWA meaningfully, they need a wide contiguous spectrum, something the 6 GHz band can uniquely provide. For a country with patchy wired broadband and rising data demand, this is a compelling argument. At the same time, the case for high-capacity Wi-Fi is equally strong. As indoor applications, from high-resolution streaming to cloud gaming to enterprise collaboration tools grow, more bandwidth-intensive homes and offices need powerful Wi-Fi systems to handle multi-device loads without congestion.
+
+Telecom networks also lean on strong indoor Wi-Fi to offload traffic, improve user experience, and ensure seamless transitions between mobile and Wi-Fi networks. So, India needs both. Fortunately, the 6 GHz band is large enough to accommodate both interests. With 1200 MHz of spectrum available, India can adopt a balanced approach, delicensing the lower end of the band for Wi-Fi while allocating the upper end to operators through auctions.
+
+However, device makers argue that no commercial filter exists that can cleanly separate licensed 6 GHz mobile signals from adjacent unlicensed Wi-Fi channels. Globally, there is no commercial 5G service utilising the 6 GHz band. But this is likely to change as operators begin trials abroad and the remaining mid-band spectrum gets exhausted.
+
+Eventually, 6 GHz could become a critical band for future mobile networks. This is precisely why India must keep its options open. Before committing the entire band to one technology, the government should permit operator-led trials to study coexistence. If interference concerns emerge, the Centre can designate a guard band to cleanly separate Wi-Fi and telecom use, or mandate low-power Wi-Fi operations near the telecom portion of the spectrum.
+
+But spectrum allocation is only part of the challenge. Pricing needs urgent reform. Since 2010, high reserve prices recommended by the regulator have resulted in repeated auction failures, with large chunks of spectrum lying unsold. A dynamic, demand-driven spectrum marketplace is needed, where operators can procure airwaves as needed, with transparent norms in place.
