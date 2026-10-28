@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Digital agriculture and the problem of Part One
+
+Digital agriculture and the problem of exclusion
+
+The DAM architecture risks excluding women and tenant farmers, and gives little attention to workers disrupted by tech change Digital tools, including AI, are increasingly being promoted as having the potential to enhance farm productivity and incomes in a sustainable manner. But this potential will have real meaning only when these technologies reach the majority of the farming population and are absorbed into agricultural production. The Digital Agriculture Mission (DAM), launched in 2024 as an umbrella programme for digital initiatives in agriculture, strives for a "robust and holistic farmer-centric digital ecosystem." Yet its framework raises a question: who is included in this vision?
+
+By defining a farmer based on land ownership, the Mission risks leaving out women cultivators, tenant farmers, and large sections of the rural workforce. It also pays insufficient attention to limited access to digital infrastructure and digital literacy in rural India. These are critical concerns. Unless addressed, digitalisation could reproduce, and potentially deepen, the inequalities that have long shaped Indian agriculture.
+
+Who is a farmer? Indian agriculture depends enormously on sections of the rural population that do not own land and have been systematically excluded from the formal definition of farmers. Official statistics indicate that women constitute nearly 42 per cent of the agricultural workforce, while 75 per cent of rural women are employed in agriculture.
+
+Yet women constitute only 17 per cent of rural landowners. Tenant farmers, too, play a major role in sustaining agricultural production. Recent studies indicate an increase in the incidence of tenancy in part of India. These farmers are generally landless or near-landless and operate small parcels of leased-in land without holding title to them.
+
+Both women cultivators and tenant farmers have historically remained outside the official register of farmers. The DAM, despite claiming to be "comprehensive" and "farmer-centric", does not expand the definition of "farmer" beyond landownership. The reach of digital agriculture is thus curtailed. The responsibility for identifying farmers is passed on to State governments, without mandatory guidelines.
+
+As agricultural policy increasingly relies on digital public infrastructure, DAM's narrow definition could result in the systematic exclusion of sections of the farming population from schemes and services, including agricultural credit, subsidised inputs, direct benefit transfers, and procurement. This could reinforce the structural inequalities that have long shaped rural India. The National Agricultural Policy (2000), National Policy for Farmers (2007), and the Committee on Doubling Farmers' Income (2018) all highlighted the need to expand the definition of "farmer", recognise women's land rights, and delink farmer status from land ownership.
+
+Decades later, these recommendations remain unimplemented. Building another layer of digital infrastructure on top of this exclusion risks hardening the structural problem. Neglect of landless workers Agricultural workers, who live and work under precarious conditions, are another group outside the purview of the DAM.
+
+Many of them belong to historically marginalised communities, primarily Scheduled Castes and Scheduled Tribes. Village studies by FAS indicate that they are often pluriactive and, at times, also operate as poor tenant farmers. The possible impact of digitalisation on millions of rural labour households receives little attention in the DAM.
+
+Studies suggest that agricultural digitalisation increases demand for skilled work while reducing demand for routine manual tasks. Research also suggests that automation may have a greater labour-displacing impact in countries with lower agricultural labour productivity. The net impact of digital technologies on rural labour markets remains unclear.
