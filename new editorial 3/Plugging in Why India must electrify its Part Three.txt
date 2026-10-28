@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Plugging in Why India must electrify its Part Three
+
+Plugging in: Why India must electrify its kitchens at scale
+
+The pilot's success led Uttar Pradesh to direct all its utilities to make provisions for P2P trading  -  a first for any State. In February 2026, Centre announced a P2P facility under the India Energy Stack for Delhi and western UP. If a cluster of homes on a single feeder can trade solar surpluses during the evening cooking hours, the local peak flattens, the discom avoids buying expensive exchange power, and the neighbourhood effectively becomes a micro virtual power plant.
+
+What needs to happen, and how soon? New York's All-Electric Buildings Act mandates that most new construction under seven storeys be all-electric starting January 2026, and taller buildings by 2029. India has begun laying groundwork: the Go Electric campaign and the National Efficient Cooking Programme target two million induction stoves; BEE launched star labelling for induction hobs; the PM-Surya Ghar scheme links rooftop solar directly to household savings.
+
+But a wider architecture is needed: redirect part of the estimated ₹40,000 crore annual LPG subsidy towards one-time capital support for induction cooktops. Expand EESL's bulk-procurement model to e-cooking appliances. Mandate time-of-use tariffs for e-cooking and require OpenADR compatibility in new appliances and smart meters.
+
+Fund R&D on multi-pot induction technology designed for Indian cooking. And mandate all-electric construction for new residential buildings in Tier-1 cities. The urgency is as much geopolitical as it is economic. Every dollar we spend on LPG imports goes through a supply chain that's completely exposed to Hormuz choke points and whatever the oil producers decide to do that week.
+
+Electricity is different  -  you can generate it from solar panels on rooftops and store it in batteries we assemble here. We're talking about moving from imported fuel to power we make ourselves. That's not just energy policy, that's sovereignty. Urban India is the obvious place to start this shift.
+
+The grid works, smart meters are already rolling out, and rooftop solar pays for itself in cities. The technology is there. The numbers add up. We know how to manage the grid. The question is whether the policy framework will catch up before the next oil shock forces the issue. By Kalyan Mangalapalli
