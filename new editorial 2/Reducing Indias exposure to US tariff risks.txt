@@ -1,0 +1,30 @@
+Category: Editorial
+Title: Reducing Indias exposure to US tariff risks
+
+Reducing India's exposure to U.S. tariff risks
+
+U.S. tariff risks The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks The U.S. Senate recently passed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, imposing sanctions and authorising additional tariffs and other restrictions related to Russia.
+
+Most concerning is a provision authorising tariffs of up to 100% on countries among the five largest importers of Russian crude oil or natural gas if they knowingly make new purchases after enactment. Though it still awaits House approval, enactment could have serious implications for India's economic interests. The Russian oil dilemma India has diversified its energy supplies in recent years to reduce its crude import bill and gain strategic advantage amid global uncertainty, driving a sharp rise in Russian crude imports.
+
+Before the Russia-Ukraine conflict, Russian crude accounted for just 2% of India's imports; it is now roughly half. In 2026 alone, imports nearly doubled from 4.54 MMT in January to 8.96 MMT in May. While the strategy has helped secure supplies, it carries diplomatic costs, particularly in managing ties with the United States, which seeks to strongly discourage these imports.
+
+The U.S. Russia Sanctions Act reflects this pressure. On July 24, before the bill's introduction, the U.S. imposed forced-labour tariffs on 60 countries, including India, under Section 301 of the Trade Act of 1974, imposing an additional 10% tariff, a replacement of the expired 10% duty under Section 122, on India.
+
+If the Russia Sanctions Act becomes law, India's cumulative tariff could reach 110%, making it one of the most heavily tariffed countries. Such high tariffs could affect India's price competitiveness in the U.S., a major export market, leading to economic losses. China's cumulative tariff could reach 112.5%, as both countries are major importers of Russian crude.
+
+Trade simulations and results To analyse the trade dynamics and possible way forward for India, two global trade simulations were conducted using the GTAP dataset and model, a global general equilibrium model that captures global linkages and country-level shocks. The first (sanction scenario) models a 110% U.S. tariff on India, with other countries facing forced-labour tariffs and China facing 112.5%.
+
+The second (diversification scenario) applies the same tariffs while India pursues export diversification, proxied by a full India-European Union free trade agreement (FTA). The simulation results suggest that the proposed U.S. sanctions could have adverse consequences for the Indian economy. Under the sanction scenario, India's welfare declines by nearly $47 billion, while GDP, output, domestic demand, exports, and imports all contract.
+
+Aggregate exports fall by 5.1% and imports by 5.2%, reflecting disrupted trade flows and weaker economic activity. The results indicate that a prolonged tariff-based confrontation with the U.S. could impose substantial costs on India's growth and trade performance. The picture changes considerably when India responds through export diversification.
+
+With a functional India-EU FTA, the economy turns around despite the same tariff environment. Welfare improves by $26.3 billion, GDP turns positive, and sectoral output and domestic demand recover by around 1%. Aggregate exports increase by 3.1%, while imports rise by a moderate 2.6%, indicating stronger production and trade integration with alternative markets.
+
+The findings suggest that even if India continues procuring crude from Russia to strengthen its energy security, the adverse economic effects of U.S. tariffs can be mitigated to a large extent through export diversification. The India-EU FTA, used here as a proxy for diversification, demonstrates that India must increasingly look beyond the U.S.
+
+and expand its presence in alternative markets, even as the U.S. remains one of its largest export destinations. The strategy to pursue However, diversification is not a panacea. It depends on the ability of other markets to absorb additional Indian exports. Without adequate external demand, diversification may remain limited.
+
+Therefore, export diversification must be complemented by sustained domestic reforms, including trade facilitation, removal of non-tariff barriers, improved logistics and standards, and movement up the goods quality ladder. Such a strategy would not only enhance India's resilience to future geopolitical shocks but also strengthen its long-term export competitiveness. Himanshu Jaiswal is a Consultant at the Centre for Social and Economic Progress, New Delhi.
+
+The views expressed are personal
