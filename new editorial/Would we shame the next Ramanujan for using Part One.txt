@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Would we shame the next Ramanujan for using Part One
+
+Would we shame the next Ramanujan for using AI?
+
+GenAI tools give voice to those whose intellect runs faster than their minds can translate into language most of us understand We all know the great mathematician, Srinivasa Ramanujan. But not many would know that before he became legendary, he struggled to be taken seriously by his peers.
+
+Even his first journal article was returned more than once. What held him back was not a lack of brilliance, but his inability to explain his work to peers. What helped others realise his greatness was input from S Narayana Iyer and others. They helped translate his body of work into a form others could understand.
+
+What they did not do was supply him with mathematics. That distinction matters. Cut to today, I ask myself: can AI be the next translator for the next Ramanujan? And if it did, would critics shame him for using AI or would they recognise his intellect? This echoes the outrage over Stanley Druckenmiller using AI to write his op-ed in The Wall Street Journal.
+
+Instead of focusing on his argument, users are outraged that he used AI to write. They overlook his expertise and his clarification that 'There's a reason I moved from an English major to economics...I write everything using AI like I use a calculator.' AI detection This debate is being held while we talk, in parallel, about AI digital twins and how they will think and talk like us. Truth be told, this narrative is being pushed by those with vested interests.
+
+Especially those whose revenue hinges on AI detection. That said, the threat of these tools aiding the spread of misinformation is well-founded. While this narrative does well to cook up a storm around AI slop, if overdone, it can cost this world its next Stephen Hawking. Had it not been for the speech synthesiser, the world would have lost the genius he shared with us.
+
+Must note, the speech synthesiser was not the source of his intellect, but only a medium for it to reach us. GenAI tools are doing the same at population scale. These tools are giving voice to those whose intellect runs faster than their minds can translate into language most of us understand. The outrage peaked when LinkedIn introduced a feature, "Seems like AI slop".
+
+Whether this feature is itself slop is for another day, but it reminded me of when LinkedIn allowed everyone to author articles. The timeline was flooded with content that was anything but well-written. Thanks to GenAI, at least the timeline now reads smoother. Before you assume otherwise, I'm not against AI detectors, since they make an important point about disclosures.
+
+And most, if not all, writers have not been ethical about using AI. However, treating these detectors as the holy grail and using them to shame experts is in poor taste. The issue is not detection, but whether it is used to assess intellect fairly. This deserves deep introspection. Recently, Anthropic stirred a debate by introducing text watermarks.
+
+In its defence, it cited Article 50 of the European Union AI Act. However, it did not disclose that the article includes provisions to recognise human review and editorial responsibility. Whether text watermarking will be useful or cause more confusion, time will tell. What's certain today is that any and every form of AI detection is being used to judge the author.
