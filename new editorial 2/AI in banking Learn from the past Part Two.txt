@@ -1,0 +1,12 @@
+Category: Editorial
+Title: AI in banking Learn from the past Part Two
+
+AI in banking: Learn from the past
+
+RBI formed a high-level standing monitoring committee to monitor and implement the recommendations. Post the Rangarajan Committee, RBI undertook multiple initiatives to further the cause of mechanisation. In 1986, Magnetic Ink Character Recongnition (MICR) kickstarted the era of computerisation in payment systems.
+
+MICR standardised cheques in terms of quality of paper and printing serial number, bank branch, account number, amount etc at the bottom of the cheque. In 1987, RBI instituted a Committee that suggested to operationalise BANKNET, a telecommunication network to facilitate inter-bank funds transfer and messages. Its implementation was also to pave way for Indian banks to eventually join SWIFT (Society for Worldwide Interbank Financial Telecommunications), which had emerged as a pioneering global messaging network allowing local banks to connect efficiently with the global financial system.
+
+Fast forward 40 years later, computers have transformed Indian banking beyond recognition - from a laggard to a leader of the technology in its field. The mindset has shifted from 'computers in banking' to 'computers is banking'. N Dayasindhu, CEO of Itihaasa, a platform that has chronicled the Indian IT industry has termed it as the "chequered history to UPI." Yet, as technology shifts from computers to AI, concerns similar to those witnessed 40 years ago are playing out.
+
+History shows that the formidable challenge of adopting new technology can be tackled if all stakeholders engage through patient dialogue. Written by Amol Agrawal
