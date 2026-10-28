@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Rethinking speed Minute Delivery is more Part One
+
+Rethinking speed: '10-Minute Delivery' is more than a labour law problem
+
+Delivery' is more than a labour law problem Labour regulation may mitigate harm in the short run, but it does not interrogate whether speed itself has become an illegitimate competitive variable India's quick-commerce sector has increasingly organised itself around a singular competitive promise: Delivery in ten minutes. What began as an efficiency claim has matured into a governing market standard. Speed no longer operates as a contingent outcome of logistics or innovation; it has become the axis around which competition itself is structured in the market.
+
+This shift raises a question more fundamental than working conditions or pay levels: Is a market built around extreme speed conceptually sound in the first place? Much of the current policy debate frames the 10-minute model as a labour-law problem  -  one that can be addressed through better wages, insurance coverage, or occupational safety norms. While these interventions are necessary, they are insufficient.
+
+They assume that the underlying competitive structure is otherwise legitimate, and that harms arise only because labour protections lag behind innovation. This fundamental assumption deserves scrutiny. The central problem lies in how competition law evaluates efficiency. Titled towards consumer welfare, contemporary antitrust frameworks prioritise consumer-facing outcomes: Faster delivery, greater convenience, and nominally lower prices.
+
+When assessed through this lens, ultra-fast delivery appears welfare-enhancing. Yet this perspective obscures the mechanism through which such speed is produced. The consumer's gain in immediacy is underwritten by labour practices that would be untenable if they were directly regulated as part of the business model.
+
+The market signals efficiency, while the social system absorbs harm. This mischaracterisation is not accidental; it is structural. Competition law treats time as a neutral quality parameter, presuming that faster service reflects superior productivity. That presumption holds only when speed results from technological or organisational advances internalized by the firm.
+
+In the 10- minute model, however, speed is achieved by externalising uncertainty  - traffic, demand fluctuations, and infrastructural constraints  -  onto workers through algorithmic management. Efficiency here is not produced; it is displaced. Importantly, this displacement reshapes competitive dynamics upstream.
+
+The promise of 10-minute delivery incentivises firms to compete not by improving reliability, safety, or service resilience, but by compressing time ever further. Firms rationally pursue this strategy because the marginal costs of compression do not appear on their balance sheets. They are borne instead by workers through intensified monitoring, penalty-driven performance metrics, unpaid waiting time, and heightened exposure to risk.
+
+Over time, competition converges on a single dimension: How much externalisation a platform can sustain without regulatory interruption. This is why the issue cannot be resolved through labour law alone. Even robust labour protections, if applied downstream, leave intact the incentive structure that rewards extreme speed.
+
+The model remains profitable precisely because it depends on continual temporal compression. Labour regulation may mitigate harm in the short run, but it does not interrogate whether speed itself has become an illegitimate competitive variable. From a regulatory perspective, this matters because competition law has historically intervened when rivalry undermines the conditions of fair competition, even where no individual firm engages in overtly unlawful conduct.
+
+Predatory pricing, exclusionary strategies, and abuse of dominance are addressed not because they harm competitors per se, but because they distort market processes. Extreme speed competition raises a comparable concern: It entrenches a form of rivalry sustained by cost-shifting rather than innovation. Comparative regulatory choices reinforce this insight.
