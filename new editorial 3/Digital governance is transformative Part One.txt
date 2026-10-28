@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Digital governance is transformative Part One
+
+Digital governance is transformative
+
+Technology works when it empowers citizens with information and finances, without acting as surveillance tools Since long, India tried the old-school fixes to bring about transparency and curb corruption: vigilance committees, laws, audits, RTI filings. All useful, nonetheless slow. All still plagued with loopholes which let clerks sit on files and middle-persons siphon-off subsidies.
+
+Paper trails vanish, and human systems leak despite the best intentions. One innovative concept, GeM (Government e-Marketplace), has revolutionised the huge government procurement machinery, historically riddled with malpractices. It has digitised the entire lifecycle  -  vendor registration, bidding, contract award, payments, performance tracking  -  and made every step auditable.
+
+The by-product is MSMEs, start-ups and women-led businesses, who never had the wherewithal to play the dirty game, benefitting hugely. And it turns out that transparency is a market-access tool also, and not just an anti-corruption one. The tax system has also been revolutionised. A fragmented, inspector-driven, paper-heavy regime has been replaced by GSTN with digital invoicing and data-driven compliances.
+
+Add to that PM Gati Shakti's GIS-based master plan, where roads, railways, ports and transmission lines finally show up on one map instead of in twelve ministries' separate spreadsheets transparency between departments that used to barely talk to each other. A decade back, when the Prime Minister announced from the Red Fort that one's mobile would be one's bank, very few might have believed it that time. And witness the mighty UPI now.
+
+People are actually using mobiles as their banks. The volume has crossed 23 billion transactions and ₹29 trillion per month. It has quietly become one of the most transparent instruments simply by making transactions traceable; pulling cash out of the shadows. And this is the by-product of convenience.
+
+The JAM trinity has almost solved a teething problem  -  the ghost beneficiary. Duplicate pension claims, fake ration cards, and subsidies siphoned off before they even reached the intended beneficiary. Direct Benefit Transfer (DBT) now puts money straight into a beneficiary's account; no middle-person required.
+
+It has helped create cumulative savings worth crores in the last decade, by weeding out duplicate and fake beneficiaries. This is the hard cash that used to vanish earlier into thin air. Data as a public good No democracy apart from India has attempted to build digital public infrastructure (DPI) at such a scale, so rapidly and for so huge a population.
+
+Maturity, however, does not come with scale. A peep outward would be in order. South Korea, a perennial UN-ranker in digital government, has pushed AI and predictive analytics deep into service delivery, coupled with regular investment in cyber resilience and citizen engagement. With the platform like X-Road, Estonia, a small East European nation, has been able to bridge the trust gap between government and citizens.
+
+Citizens can see when and which agency accessed their data on X-Road in addition to the platform digitising services, generating a two-way transparency; government knows the citizens, citizens monitor the government. Estonians retain trust in the system, thanks to this reciprocity, and not due to the tech itself. For Singapore, digital governance is a full-blown infrastructure, not an IT upgrade only.
+
+It is foundational, with huge investment in cybersecurity from day one and institutional coordination tied together. The interoperability between systems, real algorithmic accountability, independent audits and grievance redressal that does not end in a call centre queue, are the challenges to be countered head-on; the count of digital rails alone is not enough. A silver lining is that the government is prioritising putting data in public domain, be it on agriculture, health, education, finance, or demographics.
