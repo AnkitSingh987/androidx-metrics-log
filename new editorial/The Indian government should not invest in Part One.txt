@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The Indian government should not invest in Part One
+
+The Indian government should not invest in AI companies. It threatens fair competition
+
+Not invest in AI companies. It threatens fair competition State equity creates multiple conflicting priorities. The state plays rule-maker, subsidy provider, customer, and shareholder Sam Altman has recently offered the United States government roughly five per cent of OpenAI, modelled as a sovereign wealth fund.
+
+While this is being framed as an opportunity for ordinary Americans to share the upside of artificial intelligence, the Financial Times reports that, according to sources, the proposal is most likely intended to secure good relations with the administration and blunt political blowback ahead of the upcoming IPO. In parallel, the Union government in India is expected to take a 1-2 per cent share in the home-grown AI startup Sarvam in exchange for the subsidy offered under the IndiaAI mission. The subsidy covered 40 per cent of the Rs 246.71 crore compute bill for six months of access to Nvidia GPUs.
+
+While these look like similar developments, they are not. In the two cases mentioned above, the state taking equity is proposed for different reasons, and they carry very different risks. Even if major economies are doing some version of this, India must exercise restraint as the risks outweigh the benefits.
+
+There are at least three rationales for the recent trend of nation-states taking equity in private companies, and more than one might be true for a given instance. The first is control of strategic sectors. Markets optimising for cost might not address supply chain resilience or strategic considerations.
+
+This is evident in the case of China's dominance in critical minerals. The state would like a say in supply chains it deems critical, and acquires one through investments in select companies. The US government's stake in Intel, its position in the rare-earth company MP Materials, and the golden share in US Steel are examples.
+
+The second is value capture. The state spent public money on supporting and derisking industry and wants the returns socialised rather than fully privatised. This is the equity financing model of India's Research Development and Innovation fund, which targets early-stage deep-tech startups and private sector R&D projects.
+
+It is similar to the case of Sarvam and Intel. The third is public wealth creation, where the state invests in private companies through instruments such as sovereign wealth funds that pay dividends to the state and citizens. This is a task that private venture capital with a higher risk appetite is better suited for.
+
+While this is Altman's stated rationale, considering that it is the firm offering the option to the state, the intent seems to be an attempt to purchase political goodwill. The first has a national security rationale, the second has a fiscal rationale, and the third has neither. However, there are risks with these approaches.
+
+Semiconductors are strategic. So are critical minerals, telecom equipment, foundation models, satellite launch, batteries, pharmaceutical precursors and undersea cables. Washington's list has grown from chips to rare earths to steel in under two years. Cumulatively, they describe a state that takes equity wherever it feels exposed.
+
+In a contested technological order, the list is ever expanding. State equity also creates multiple conflicting priorities. The state plays rule-maker, subsidy provider, customer and shareholder. MeitY writes India's AI rules; it runs the mission that allocates compute subsidies; government departments are among the customers for products created by companies receiving the subsidy, and the government is now a shareholder of the company.
