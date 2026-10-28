@@ -1,0 +1,24 @@
+Category: Editorial
+Title: What is the appeal of orbital data centres Part Two
+
+What is the appeal of orbital data centres?
+
+The second appeal is cooling because cooling a data centre has become one of the biggest costs in modern computing. AI chips generate enormous amounts of heat, and terrestrial data centres spend heavily on cooling systems, often consuming huge quantities of freshwater in the process. Space changes that equation because the vacuum of space can act as a heat sink.
+
+However, it is not as straightforward as it sounds. We'll explain why a little later. The third appeal is land. As countries compete to build AI infrastructure, they are also realising that data centres occupy enormous amounts of physical space and consume substantial electricity and freshwater. And in densely populated countries like India, that raises an important question: Should scarce land and electricity be allocated to server farms that employ relatively few people compared to manufacturing industries or services?
+
+So yeah, orbital data centres attempt to sidestep some of those constraints by shifting part of the infrastructure burden into space. However, the moment the concept starts sounding compelling, physics steps back into the conversation. Because putting GPUs in space is far more difficult than putting GPUs on land.
+
+To understand why, let's go back to the thermal problem. Modern AI hardware generates intense thermal loads. And while the vacuum of space offers theoretical advantages in cooling, heat dissipation in orbit is actually extremely complex. On Earth, server racks can help remove heat through airflow, liquid cooling systems, or water-based heat exchange.
+
+In space, there is no atmosphere to transfer heat via convection, so thermal management relies heavily on radiation systems, which are slower and technically challenging. Then comes the issue of maintenance. When a terrestrial server fails, technicians replace or repair it relatively quickly. However, in orbit, repairs become vastly more expensive and complicated.
+
+A hardware malfunction could potentially render an entire compute node unusable. And that creates very different economics compared to traditional cloud infrastructure. Then there's the radiation problem. On Earth, our atmosphere and magnetic field naturally shield electronics from most cosmic radiation.
+
+But in orbit, GPUs are constantly exposed to them. Over time, this radiation can corrupt memory, damage components, and cause "bit flips", in which tiny changes in data lead to computational errors. However, recent NASA tests on commercial GPUs and TPUs showed that modern AI hardware may survive radiation exposure far better than previously expected.
+
+But that does not eliminate the problem entirely because it is still too early to know how reliable this hardware would remain over long periods in space. Launch costs are another constraint. Even though companies like SpaceX have dramatically reduced the cost of reaching orbit, sending satellites into space remains more expensive than deploying servers on Earth.
+
+In fact, the entire economic viability of orbital computing depends on one thing above everything else: launch costs collapsing dramatically over the next decade. Right now, running AI workloads in orbit is staggeringly expensive. To understand just how extreme the economics currently is, running a single H100-equivalent GPU in orbit today is estimated to cost roughly $142 per GPU-hour, with most of that cost coming from launch.
+
+Running that same GPU inside a modern terrestrial data centre costs approximately $1 per hour. And if companies manage to survive the enormous upfront launch costs, the operating economics in orbit begin to look surprisingly attractive. Energy generated from uninterrupted solar exposure could potentially become dramatically cheaper over long durations compared to terrestrial electricity markets.
