@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The great Indian bank locker shortage Part Two
+
+The great Indian bank locker shortage
+
+The bank merely provided the space. It wasn't the custodian of whatever you chose to keep inside. And to be fair, there's some logic to that. Banks don't ask what you're storing in your locker. Only the locker holder knows what's inside. But customers weren't convinced. Public outrage, coupled with court rulings, eventually pushed the RBI to step in.
+
+Which is why today, banks are liable for losses of up to 100 times the annual locker rent. So if your locker rent is ₹2,000 a year, the bank could be required to compensate you up to ₹2 lakh for contents it has never seen, valued, or separately insured. And if the actual contents are worth much less than the compensation paid, that's a significant loss for the bank.
+
+The end result is a classic regulatory trap. Every consumer-friendly rule, well-intentioned as it may be, makes the locker business less attractive for banks to expand. And then there's another problem most people don't think about. A surprising number of lockers are technically occupied but functionally unusable.
+
+If a locker holder dies without naming a nominee, migrates, or simply stops operating the locker, banks often cannot break it open and reissue it for years. In some cases, the process can drag on for as long as seven years. These "ghost lockers" still count as occupied in the system, but they're unavailable to the thousands of people stuck on waiting lists hoping to get one.
+
+All of this put together creates a massive opportunity waiting to be tapped. And funnily enough, while bank lockers aren't particularly profitable for banks, they could be a lucrative business for private companies and startups. Take Aurm, for instance. The startup recently raised ₹42 crore to build a round-the-clock locker services business that operates alongside traditional banks.
+
+Their idea is to simply offer lockers closer to customers such as in residential complexes, corporate campuses, and even bank branches. That changes the economics entirely. Because unlike banks, they don't need to acquire expensive branch real estate in prime locations. They could, say, partner with builders while real estate projects are still being developed and make secure vaults part of the community itself as an added safety feature.
+
+And because lockers are their core business, they don't face the same dilemma banks do about whether that space could be used more profitably elsewhere. Another thing is that these are fully automated lockers that use biometrics, facial recognition, or PIN-based access, and 24/7 surveillance. So no staff member needs to be physically present every time a customer wants to access their locker.
+
+That dramatically lowers operating costs while also allowing companies to charge a premium for round-the-clock convenience  -  something banks would struggle to do because customers generally expect locker rents to remain affordable. And while all this certainly looks promising, it also makes you wonder, "What happens if a private vault operator shuts down or goes bankrupt?" Sure, customers may be required to separately insure their valuables, but private vault companies currently don't have an equivalent of RBI oversight or deposit insurance-backed protections that banks enjoy. Interestingly, banks seem to be taking notes already.
+
+Last month, Axis Bank launched India's first digital locker branch in Delhi featuring facial recognition and automated locker delivery to private access lounges. The idea is similar to private vault operators. Remove the human element, automate access, and let technology do what a branch officer once did.
