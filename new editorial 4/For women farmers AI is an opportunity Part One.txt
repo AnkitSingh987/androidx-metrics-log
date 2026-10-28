@@ -1,0 +1,26 @@
+Category: Editorial
+Title: For women farmers AI is an opportunity Part One
+
+For women farmers, AI is an opportunity
+
+If women are systematically included, the multiplier effects on household nutrition, education, and local enterprise could be transformative. Maharashtra has announced a dedicated AI strategy for agriculture, and several public-private partnerships are already piloting AI-driven crop advisories, pest diagnostics, and climate-risk prediction models. For India's women farmers, this moment represents a historic opportunity.
+
+Women constitute nearly 43 per cent of India's agricultural labour force. They contribute close to half of crop production and over 70 per cent of livestock-related work. Agriculture remains the single largest employer of working women in India, accounting for nearly 55-60 per cent of female employment in rural areas.
+
+Yet, women own only about 13-14 per cent of operational landholdings. Their access to institutional credit remains low. Women are also around 15-20 per cent less likely than men to own a smartphone and significantly less likely to use mobile internet. Bridging this digital divide is not just a social goal, it is an economic multiplier.
+
+AI is already reshaping agriculture. Satellite-based remote sensing and computer vision systems now detect crop stress, pest incidence, and nutrient deficiencies with accuracy. Machine-learning models integrating IMD weather data, soil health cards, and cropping histories are improving yield forecasts.
+
+AI-enabled pest surveillance platforms have reduced pesticide use. Voice-enabled AI chatbots in regional languages are delivering real-time advisories to millions of farmers. These technologies address three chronic constraints: Knowledge management asymmetry, input inefficiency, and climate variability.
+
+For women farmers, these efficiencies translate into time savings, reduced drudgery, and improved productivity. India's dairy sector, valued at over $150 billion, relies heavily on women's labour. Even a 5-7 per cent productivity gain through predictive veterinary alerts could translate into substantial income improvements for women-led households and for the country's food security.
+
+Much of digitised agricultural data are concentrated around major cereals such as wheat and rice, which are traditionally male-dominated commercial crops. Diversified agriculture including millets, pulses, horticulture, small livestock, and backyard enterprises  -  where women play a larger role  -  remains understudied, under-digitised and under-modelled. This can cause AI algorithms to be biased towards limited sections of agriculture practices.
+
+This imbalance can affect model training. If the datasets disproportionately reflect male-centric commodities, advisory tools may inadvertently privilege those value chains. Investing in digitisation of diversified commodities, integrating FPO-level data, and leveraging women's self-help groups as data partners can help correct this asymmetry.
+
+Key technical and institutional steps include: Optimising low-bandwidth systems; multilingual and dialect-trained models; participatory data pipelines; gender-disaggregated performance metrics; digital access investments. Agriculture contributes roughly 15-18 per cent to India's GDP but employs over 40 per cent of the workforce. Productivity gains of even 5-10 per cent through AI-enabled optimisation could significantly raise rural incomes.
+
+If women are systematically included, the multiplier effects on household nutrition, education, and local enterprise could be transformative. India now faces a rising frequency of extreme weather events, directly affecting smallholders. AI-based early warning systems and adaptive cropping advisories can reduce climate-related yield losses.
+
+If AI strategies integrate gender-smart design, correct data asymmetries, and close digital access gaps, the technology can accelerate not just productivity but equity. In the International Year of the Woman Farmer, we should endeavour to make India's AI revolution synonymous with inclusive agricultural transformation  -  one that recognises and multiplies the contribution of the women who feed the nation. Written by: Purvi Mehta, Soumya Swaminathan Mehta is senior agriculture technology advisor.
