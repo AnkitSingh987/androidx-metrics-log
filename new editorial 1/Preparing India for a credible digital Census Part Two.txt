@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Preparing India for a credible digital Census Part Two
+
+Preparing India for a credible digital Census
+
+This process cannot collect information on those households that have migrated abroad with all their members. Still, it would be a useful starting point and would provide better data for delimitation purposes. Therefore, I suggest pre-testing an appropriately worded question on NRIs. The problem areas The next Census is unique because the entire data collection process is planned to be carried out using mobile electronic devices, mostly smartphones.
+
+This can save time for the computerisation of data. Consistency checks on responses during data collection can result in improved quality of data and faster processing. However, one has to allow for a significant large portion of enumerators who are not savvy with smartphones, and tablets. During the recent Socio Economic and Caste Survey in Karnataka, there were reports of enumerators finding it difficult to handle the equipment for the survey.
+
+During the planning for the 2021 Census, it was indicated that enumerators would have the option to collect data using printed paper schedules, which could later be transferred to the electronic database from home. It is highly probable that a family member or a student of the teacher appointed as the enumerator may assist with this work. This could lead to accountability issues and may also compromise the confidentiality of the data.
+
+Therefore, a mechanism to detect and control data-entry errors is essential. There will also be an option for respondents to self-enumerate using a computer or smartphone as provided in the house listing phase. The questions in the population enumeration stage are more complex when compared to those in the house-listing phase.
+
+Many of the questions require a thorough understanding of the instructions that even many enumerators find difficult. For example, the explanation of disability in the 2011 Census ran to about six printed pages. Even the seemingly simple question, "Have you worked at any time during the last year?" was accompanied by more than two pages explaining what constitutes 'work'.
+
+The follow-up questions on industry, occupation, and related matters are also not easy for most people to understand. It is too naive to expect that the respondents would read all the instructions before clicking on an item in the drop down menu. The three million plus enumerators may not equally understand the concepts, definitions and the need to ask the questions in an appropriate manner.
+
+The self enumeration facility can become worse unless the questions are well worded and explanations are given within the question. It is difficult to achieve this without significant simplification of the concepts and definitions. Guard against respondent fatigue Including too many questions in the online schedule in an attempt to obtain better responses can also lead to respondent fatigue, as the form has to be completed for every individual in a household.
+
+The possibility of respondents deliberately providing incorrect answers to certain questions in order to avoid follow-up questions cannot be ruled out. Post-enumeration surveys from past censuses have indicated that distant relatives of the head of the household and unrelated persons, such as domestic helpers living with the household, have higher rates of omission. In a self-enumeration system, the chances of missing such persons are even greater.
