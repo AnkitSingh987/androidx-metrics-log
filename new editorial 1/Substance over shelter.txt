@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Substance over shelter
+
+Substance over shelter
+
+The Supreme Court's Tiger Global ruling brings long-needed clarity to offshore tax structures The Supreme Court's ruling in the Tiger Global tax dispute closes a long-standing ambiguity over how India applies tax law to offshore investment structures. In doing so, it provides greater clarity for future private equity (PE) and venture capital (VC) exits. At the heart of the judgment is not a change in law, but a clear articulation of how existing principles are to be applied.
+
+The court has held that treaty protection cannot be claimed mechanically, and that investment structures must demonstrate commercial substance beyond the pursuit of tax benefits. By reaffirming the primacy of substance over form, the Supreme Court has aligned judicial interpretation with the government's stated anti-avoidance framework, rather than unsettling settled expectations. Beyond the Certificate The dispute arose from Tiger Global's 2018 exit from Flipkart following Walmart's acquisition, routed through Mauritius-based entities.
+
+From the outset, the tax treatment of the gains was contested. The Authority for Advance Rulings rejected the treaty exemption claim, the Delhi High Court later took a different view, and the issue remained under litigation until the Supreme Court's final word. Investors, therefore, were operating in a legally uncertain and contested space, not on the assumption of an undisputed exemption.
+
+The judgment clarifies two issues that matter for future exits. First, the presence of a tax residency certificate, while necessary, is not decisive. Treaty benefits depend on whether the holding entity has real decision-making authority, economic substance, and a credible commercial rationale. Second, the government's right to tax gains arising from assets that derive substantial value from India cannot be negated simply by interposing offshore entities, particularly if those entities exist primarily as conduits.
+
+This clarity has direct implications for PE and VC funds planning exits from India. Structures built solely around treaty advantages, without operational substance, will face greater scrutiny and higher tax risk. At the same time, funds that invest through jurisdictions with genuine commercial presence, governance, and risk-taking functions now have a clearer sense of where they stand.
+
+The ruling therefore shifts the emphasis from aggressive tax planning to defensible structuring, without closing the door on offshore investment altogether. Some market participants have raised concerns about the timing of the judgment. With the government actively seeking to attract foreign direct and portfolio investment, there is a fear that a high-profile adverse ruling against a global investor could dent sentiment.
+
+That interpretation, however, overstates the impact. Legal Predictability The Supreme Court has neither introduced a new levy nor reopened settled transactions, nor has it retrospectively altered the law. Instead, it has resolved an issue that had remained contested for years, replacing uncertainty with legal clarity.
+
+For serious long-term investors, predictability in tax outcomes is as important as concessional treatment. Knowing that courts will examine substance, intent, and economic reality allows funds to price tax risk upfront and design compliant structures. The absence of such clarity, by contrast, encourages litigation and inconsistent outcomes - outcomes far more damaging to investment confidence.
+
+The broader message from the ruling is that India's tax regime will support foreign capital, but not at the cost of permitting treaty abuse. That balance is neither unexpected nor inconsistent with global trends. By settling how the law applies in such cases, the Supreme Court has reduced ambiguity rather than increased it.
+
+For PE and VC investors willing to align structure with substance, the ruling offers a clearer, more stable rulebook - and fewer interpretational grey zones - for future exits.
