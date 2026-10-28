@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Fluid situation
+
+Fluid situation
+
+FCNR-induced liquidity surplus needs deft management The measures taken by the Reserve Bank of India to support the rupee in June this year have been a resounding success. But the copious inflows flooding the banking system will bring its own set of challenges for the central bank. While there are multiple options to manage these flows, the RBI must arrive at the right mix.
+
+Around $127 billion has been received since June 8, through the forex swap facilities offered by the RBI to banks for garnering FCNR (B) deposits. Another $8 billion has come in through swaps offered on external commercial borrowings and overseas foreign currency borrowings. These inflows have certainly helped in bolstering forex reserves and providing some stability to the rupee.
+
+But the sudden spurt in FCNR (B) deposits in the last fortnight of August, after RBI announced early closure of the concessional swap scheme, has pushed banking system liquidity above ₹10 lakh crore. Since the RBI had earlier exempted the deposits under this facility from CRR (cash reserve ratio) and SLR (statutory liquidity ratios) requirements, the funds received are directly entering the banking system. This is impacting interest rates, with the overnight weighted average call rate moving below the repo rate and the rates on certificates of deposits moving more than 100 basis points lower over the past month.
+
+Lower interest rates are far from desirable at this juncture when the RBI is projecting the CPI for the third quarter of FY27 at 5.9 per cent. Inflation is also likely to be stoked by higher credit growth  -  already at 19.3 per cent  -  as banks seek to deploy the surplus funds at their disposal. RBI's forex market interventions, and advance tax and GST payments can reduce the surplus a little, but not enough to remove the liquidity overhang.
+
+Variable reverse repo rate auctions will have to be the first line of defense to manage short-term liquidity and align the overnight rate with the repo rate. These auctions can be combined with a hike in CRR to remove a large chunk of durable liquidity from the system. While this would mean the central bank reversing last year's 100 basis points cut in CRR, this appears to be the least disruptive option.
+
+The CRR increase must, however, be linked to the increase in net demand and time deposits recorded from June 8 this year. Since just a few banks have garnered most of the FCNR (B) deposits, this will ensure that smaller banks, which did not reap the benefit of RBI's dispensation, are not hurt. Open market operations can also be done to sell government securities at the shorter end of the curve, so that the 10-year G- sec rates are not unduly disturbed.
+
+The market stabilisation scheme, under which the liquidity absorbed by using government securities is kept in a separate account and not transferred directly, is a more complicated option. RBI can also consider setting aside part of the surplus in a reserve which can be used during repayment of these NRI deposits. This can avert disruptive effects when these deposits mature.
