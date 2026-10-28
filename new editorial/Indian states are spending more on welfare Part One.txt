@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Indian states are spending more on welfare Part One
+
+Indian states are spending more on welfare, but the RBI handbook tells only part of the story
+
+More on welfare, but the RBI handbook tells only part of the story When social sector spending is viewed as a share of total state budgets, a different picture emerges. Despite rising expenditure, the proportion of budgets devoted to social sectors has declined over time in several states The tyranny and tragedy of social and economic data in India lie in its ability to obscure as much as it reveals. More often than not, it defeats the very purpose of highlighting gaps for policy action.
+
+The RBI's recently released Handbook of Statistics on Indian States 2024-25 offers a window into understanding the spending patterns of India's states across various sectors and key social, demographic and fiscal indicators. First, Indian states are spending more than ever on social welfare broadly, and health and education more specifically. For instance, India's largest state, Uttar Pradesh, has increased its social sector expenditure from Rs 16,932 crore in 2004-05 to Rs 2,87,847 crore in 2024-25 (as per Budget Estimates), a remarkable increase of 1600 per cent.
+
+Similarly, Maharashtra, which ranks only second to Uttar Pradesh with respect to social sector expenditure in 2024-25 as per Budget Estimates, has also increased its spending by 1183 per cent from Rs 20,433 crore to Rs 2,62,178 crore in the same period. Yet, these absolute increases tell only a part of the story. When social sector spending is viewed as a share of total state budgets, a different picture emerges.
+
+Despite rising expenditure, the proportion of budgets devoted to social sectors has declined over time in several states. The example of Karnataka, one of the highest performers in terms of Gross State Domestic Product rankings, is useful to illustrate the declining share of the social sector within state budgets. Between 2018-19 and 2023-24, the state's allocation to education fell from 13.1 per cent of the total expenditure to 11 per cent.
+
+This was lower than the average allocation for education by states in 2023-24 (14.7 per cent). Second, despite increased expenditures and actual improvements on critical social welfare outcome indicators in several states, there have also been notable declines. In Chhattisgarh (along with other states such as Odisha, Bihar, Uttarakhand, Gujarat, Telangana, and Andhra Pradesh), the maternal mortality ratio (MMR), a health outcome indicator which has been a policy focus in India for decades, has actually increased.
+
+In 2015-17 it was 141, but in 2021-23, it was 146. Worryingly, even in a state like Kerala, one of India's best-performing states in health, the MMR has increased from 18 (2020-22) to 30 (2021-23). It remains below the national average and above the SDG target but it has increased nevertheless. In several other states (12 out of the 20 listed in the handbook), MMR remains higher than the SDG target of 70.
+
+Third, the selection of social welfare indicators in the RBI handbook reinforces a skewed picture of social welfare, particularly in health and education. Improvements in outcome indicators reported in the handbook coexists with deep intra-state disparities in both outcomes and access to facilities and services. For example, Rajasthan's improvements in MMR from 87 (2020-22) to 86 (2021-23), coexists with a 39 per cent shortfall in the Urban Primary Healthcare Centres (UPHCs), a data point provided in the Rural Health Statistics (RHS) 2021.
