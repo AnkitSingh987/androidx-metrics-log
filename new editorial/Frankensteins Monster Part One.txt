@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Frankensteins Monster Part One
+
+Frankenstein's Monster
+
+Traditionally, cyberattacks were easily identifiable; most followed predictable patterns, used conventional templates, employed known malware signatures, and sent grammatically awkward phishing emails. Traditionally, cyberattacks were easily identifiable; most followed predictable patterns, used conventional templates, employed known malware signatures, and sent grammatically awkward phishing emails. The advent of AI has added unbelievable sophistication to cyberattacks; rogue developers deploy AI to send highly convincing fake emails, create ever-changing malicious software, and impersonate political and business leaders.
+
+These cyberattacks often result in stolen login details, fraudulent payments, and compromised identities. Not surprisingly, cyber frauds have emerged as the latest threat to citizens' wallets; within seconds, fraudsters can make lakhs of rupees disappear, without trace. The scale and number of cyber frauds is alarming; according to the National Cyber Crime Reporting Portal data, around 28 lakh cyber frauds, involving a sum of Rs.22,931 crore were reported last year.
+
+Cyber frauds keep rising exponentially, year after year, though the Government, Supreme Court, and RBI all are seized of the matter. However, an infinitely more dangerous threat is on the horizon. Last month, OpenAI, one of the world's largest Artificial Intelligence (AI) research organizations, whose release of the large language model ChatGPT, in November 2022, started the AI boom, reported that some of its most advanced AI models had gone rogue and hacked Hugging Face, one of the world's largest hubs, for sharing AI models.
+
+An agent ~ an AI system which can operate independently after human instruction ~ that was being tested by OpenAI, in a controlled environment, had exploited weaknesses in controls and escaped test limits. Further investigation revealed that several OpenAI models had coordinated to attack Hugging Face. It was found that AI agents had planned their moves for weeks, which went completely unnoticed by their human handlers.
+
+The rogue AI agents had created a bulletin board where hundreds of thousands of messages were exchanged, tasks were divided, findings were presented, and successful behaviour was reused. Alarmingly, all this planning and coordination was never detected by computer scientists at the OpenAI lab; while AI agents themselves had used cryptographic signatures to identify trustworthy messages, and avoid impostors within the group. An even more serious incident was reported recently by AI Security Institute, a British Government organization.
+
+During security tests, agents powered by Anthropic's Mythos 5 and OpenAI's GPT-5.6-Sol were caught creating fake online identities and writing malicious code to gain unauthorized access to secure systems. This incident has been confirmed by OpenAI and Anthropic. In yet another such incident of this kind, Muse Spark 1.1, Meta's most capable model, for real-world coding and agentic tasks, infiltrated an unidentified company and altered its internal systems.
+
+Worryingly, ahead of their planned public listings, Anthropic and OpenAI are racing to release even more efficient AI systems. There is another dimension to the capabilities of AI. Using artificial intelligence, researchers at Stanford University, the Broad Institute of MIT, and Harvard announced the creation of sixteen new viruses, and thousands of genomes, which sent alarm bells ringing round the globe.
