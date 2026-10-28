@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Indias economic prospects after the West Part Four
+
+India's economic prospects after the West Asian crisis'
+
+The closing-minute sales were made into an unexplained price spike, at prices in line with what Reliance had accepted earlier in the month. Other participants sold similar quantities in the same window. On these facts, the court found, fraud rested on suspicion rather than proof. Court clarifies SEBI's powers The significance of the judgment lies in what it does to Sebi's enforcement methodology.
+
+For years, the regulator has treated the breadth of the fraud definition as a licence to convert regulatory infractions into charges of manipulation, because the latter carry disgorgement and a stigma that a fine does not. The court has now drawn a line. A breach of an exchange rule is to be punished as a breach of an exchange rule.
+
+It becomes fraud only when the regulator proves the ingredients of fraud. The court's instinct here has good company abroad. In Sullivan & Long, Inc. vs Scattered Corp., 47 F.3d 857 (7th Cir. 1995), the legendary law and economics expert Judge Posner faced a complaint that a broker had committed manipulation on an awesome scale by short-selling more shares of a company than existed.
+
+The conduct looked extreme, and the plaintiffs urged that the scale alone proved wrongdoing. Posner refused to accept the equation. What Scattered had done, he held, was arbitrage, not manipulation  -  its sales did not push prices away from underlying value but towards it, puncturing a balloon rather than launching one.
+
+He similarly found that the breach of an exchange rule may be a violation of that rule, but it doesn't make it a fraudulent position. There is a lesson for the rule-makers too. The court was blunt that regulation 2(1)(c) is a piece of inelegant drafting, and that an enactment with such consequences for the economy should leave no room for doubt.
+
+The criticism is fair. A definition that, on its own terms, could catch the innocent and the guilty alike is not really a definition. It is a discretion dressed as a rule. The fraud definition needs rewriting so that it names what it forbids. Until it does, the regulator will keep winning at first instance and losing on appeal.
+
+It is better to draft the rule clearly than to keep litigating its meaning. The Seventh Circuit took half a page to say what manipulation is and is not; our regulation 2(1)(c) has taken 20 years and is still arguing with itself. That is a drafting problem, and drafting problems have drafting solutions.
+
+Written by Sandeep Parekh The author is Managing Partner, Finsec Law Advisors
