@@ -1,0 +1,16 @@
+Category: Editorial
+Title: UPI is public infrastructure Fund it like one Part Two
+
+UPI is public infrastructure. Fund it like one
+
+Any levy needs a transparent, independently verifiable estimate of the ecosystem's incremental cost. There is also an important distinction between the public payment rail and the commercial businesses built on top of it. Aggregators and gateways have direct commercial relationships with merchants and can charge for genuine value-added services  -  payment orchestration, reconciliation, analytics, fraud management, settlement solutions, and enterprise integrations.
+
+Keep the rail free and let businesses monetise the value they build on top of it, with competition setting the price. The objective is not to prevent the payments industry from making money. It is to ensure all layers make money by adding value and innovation rather than by taxing volume. The government should resist the false choice between an unsustainable free UPI and a universal MDR.
+
+There is a third path: preserve zero MDR on the core UPI rail while building a transparent funding compact for the ecosystem. First, commission and publish an independent assessment of the true incremental cost of UPI  -  separating UPI-specific expenses from tech infrastructure that banks and payment firms would maintain anyway. Second, set those costs alongside a serious estimate of UPI's social and economic returns: lower dependence on cash, financial inclusion, formalisation, easier access to formal credit, and the productivity gains of instant interoperable payments.
+
+Third, government support should be targeted and accountable: incentives linked to measurable outcomes such as uptime, fraud reduction, rural and small-merchant acceptance, and grievance resolution. Banks and payment companies should continue to bear a proportional share of the cost in recognition of the benefits they derive from the ecosystem. UPI has become one of India's most consequential pieces of economic infrastructure precisely because paying became almost frictionless.
+
+Its success should not now justify changing the feature that helped create it. The demand for MDR is therefore not a claim that the system is unviable. It is a claim that indirect returns are no longer enough, that parties who benefit enormously from the free rail would now prefer to also earn directly from it.
+
+That is a legitimate commercial preference, not a public policy justification. India's great UPI innovation was to separate the payment rail from the tollbooth. The next phase of policy should focus on making that rail sustainable, not on putting the tollbooth back. By Rouhin Deb & Ashwin Sethi, Respectively Chief economist, Chief Minister's Secretariat, Assam; and Founder, Chadorkart.com
