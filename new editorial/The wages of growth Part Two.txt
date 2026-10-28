@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The wages of growth Part Two
+
+The wages of growth
+
+A financing model needed for GPUs India offers a 20-year tax holiday for global cloud businesses running from Indian data centres, but financing the costly GPUs remains a challenge, highlighting the need for specialized leasing models and investment structures. India has just made the cloud giants a bold offer: Run your global business from Indian soil and pay almost no tax on it for close to 20 years. It is a smart move, but quietly skips the hardest question of all.
+
+A modern data centre is no longer a building with some servers. It is a very expensive pile of chips that sit inside a building. The offer takes care of the tax on tomorrow's profits. It does nothing about the cost of the chips that create them. Start with the part that is easy to fund. The physical data centre, land, building, power and cooling can be financed through a real estate investment trust (REIT) or an infrastructure investment trust (InvIT).
+
+These structures are dull by design, and that is exactly why they work. A REIT or InvIT likes assets that sit still and earn rent for years  -  office towers, warehouses, or the concrete and steel shell of a data centre. It can happily hold a cooling plant tied to a colocation contract that runs for a decade or more.
+
+Steady asset, steady rent, steady payout. Now the twist, and it is India's data centre financing problem in a single picture. The numbers behind the boom are familiar by now. India's data centre capacity has roughly quadrupled, from about 375 Mw in 2020 to around 1,500 Mw in 2025. The FY27 Budget went a step further, offering a tax holiday until 2047 for foreign companies that serve the world's cloud demand from India.
+
+The message is simple: Run your global cloud business through an Indian data centre, and the income you earn from customers abroad pays no Indian tax for the better part of two decades. But a tax holiday is a promise about profits. We need to now focus on who pays for the asset that produces those profits.
+
+And in an AI data centre, that asset is mostly silicon. The compute layer, meaning the graphics processing units (GPUs) plus the servers, networking, and liquid cooling built around them, now eats up most of the money, commonly 60-80% of the total, and even more in the densest sites. The land, building and power, the very things a REIT or InvIT understands, are now the smaller slice.
+
+Which is why "how many megawatts have you announced" is the wrong question, and "how exactly are you paying for the chips" is the right one. GPUs are the textbook case for leasing. They cost a fortune upfront, go out of date quickly, and renting them makes far more sense than owning them outright. But under India's GST, leasing equipment without transferring ownership usually attracts the same rate as the equipment itself, which is 18% for computer hardware.
+
+So the government offers a 20-year holiday on profits with one hand, and with the other collects 18% on the very asset. In theory, the tax can be claimed back as credit. In practice, it must first be paid, recorded, and recovered, and if the output is treated as an exempt supply rather than a zero rated export, that credit can get stuck for good.
