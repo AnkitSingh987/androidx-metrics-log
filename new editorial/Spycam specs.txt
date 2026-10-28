@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Spycam specs
+
+Spycam specs
+
+Smart glasses are offensive and should be banned A legal notice to Meta and an Instagram user, issued by a man in Delhi, over a video allegedly recorded without his knowledge using Meta smart glasses should set off alarm bells in India. The incident points to the possibility of ordinary-looking spectacles becoming a tool for covert recording, humiliation, harassment and even sexual exploitation. The risk is no longer just theory.
+
+Reports from Sweden reveal that contractors working for Meta's data-annotation partner said they had seen recordings captured by the glasses in deeply private situations. Meta has said that the material remains on the device unless users share it with Meta or others, and that safeguards are used when shared material is reviewed. But the fact remains -  and this is indefensible  -  that once a camera is embedded in something that looks like an ordinary pair of spectacles, the person being filmed may have no idea that a recording is taking place.
+
+Worse, the recording indicator is hardly an impregnable safeguard. Reports have found that the LED can be tampered with. Many countries are already taking the threat seriously. Texas has opened an investigation into Meta's glasses over concerns including recordings, facial data and the effectiveness of the recording indicator.
+
+Germany has seen a criminal complaint filed against Meta and others over alleged covert filming; its regulator has also warned about the privacy risks of smart glasses. In Britain, courts have barred their use in courtrooms, while cinemas are restricting them. Sweden's data-protection authority has separately issued guidance warning users about the ease of discreet filming.
+
+The argument for allowing the glasses is not particularly compelling anyway for the average consumer. Most of their headline features including taking photographs, listening to music, making calls, asking an AI assistant questions or translating text, are conveniences that smartphones and earbuds already provide. The privacy risk, however, is significant.
+
+While a smartphone camera usually has to be pointed at someone, a pair of glasses can record while the wearer appears to be doing nothing at all. In the Indian context, monitoring millions of users and detecting covert recording is inherently difficult. By the time a victim discovers a recording, it may already have been uploaded and widely circulated.
+
+Worse, cheaper versions of smart glasses are flooding the Indian market enabling easy proliferation. India's Digital Personal Data Protection framework also remains under phased implementation, with key provisions not taking effect until 2027. Its headline penalties, up to ₹250 crore for some breaches, may not be substantial compared to the damage the glasses can do.
+
+There may be select uses that justify making the technology available. For the visually impaired, hands-free AI, visual descriptions and assistance can be genuinely transformative. If such benefits are demonstrated, policymakers could permit those applications with strict guardrails. But for everyone else, policymakers should move quickly to stop the sale of this device in the country.
