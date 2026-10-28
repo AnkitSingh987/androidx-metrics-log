@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Cleaner water Part Two
+
+Cleaner water
+
+Alternatively, we should utilize surface water reservoirs instead of highfluoride borewells. The EC, an indicator of geogenic contaminants, is acute in arid and semi-arid regions of Northwest India, especially states such as Rajasthan, Delhi, Haryana, Gujarat. EC directly correlates to concentration of dissolved inorganic ions, salts and heavy metals.
+
+Pure water has zero conductivity. Spills in EC typically indicate man-made pollution, such as agri-runoff (Nitrate and Phosphate or industrial discharge). In Gujarat, rising EC is often the sign of salt water entering the fresh coastal aquifers. High water use for irrigation eventually degrades soil quality and harms crop yield.
+
+High EC also points to faecal contamination from pit latrines or urban waste. This often leads to gastrointestinal illnesses including cholera. Sudden increase in EC signals that harmful anthropogenic disturbances or pollutants have entered the aquifers. Geogenic (natural source) contaminants in groundwater are arsenic, uranium, manganese and copper.
+
+Arsenic contamination remains a major geogenic concern, especially within the Ganga and Brahmaputra water basins. States such as West Bengal (detected for the first time in 1983), Bihar and UP are affected by arseniccontaminated groundwater. The health impacts of this contamination are oncological (developing cancer of liver, kidney etc.), disrupted endocrines, etc.
+
+For arsenic, India's permissible water quality regulatory norm is less than 50 micrograms per litre, which is very high compared to the WHO standard of 10 micrograms per litre. To mitigate groundwater contamination and ensure safe drinking water, a combined approach for prevention, treatment and management strategies of groundwater is essential. For example, in fluoride-affected regions, safeguarding of water quality can be done through source selection, blending of high and low fluoride levels, establishment of community-based treatment plants and public awareness frameworks.
+
+For nitrate contamination, measures such as efficient freshwater management, soil testing, appropriate timing of fertilizer application and use of organic fertilizers should be undertaken. In the case of arsenic mitigation, short-and long-term measures are essential. These should include installation of household and community treatment units, prohibition of contaminated wells and consumptive use of surface water and groundwater.
+
+For long-term measures, there is a need to develop alternate safe aquifers, rainwater harvesting and deep well construction using scaling techniques. For uranium (geogenic contamination), multiple treatment technologies are available including absorption, coagulation, extraction, RO, and evaporation. Selection of right methods would depend on cost, efficiency and local conditions.
+
+For iron and manganese, remedial options include filtration, use of iron/manganese removal plants and chemical oxidation. To address lead contamination, remedial measures include strict regulation of industrial effluents, lab testing in public buildings, hydro-geochemical mapping, etc. The fortnightly issuance of groundwater quality alerts by the CGWB to the states is a welcome step.
+
+This will help create a real-time early warning system, helping states to undertake regular sampling, issuing advisories and implementing mitigation measures to the stakeholders. However, there is a need to place this information framework in the public domain. The adverse health impacts of geogenic and anthropogenic contaminated groundwater for drinking purposes should be brought into the public domain.
+
+An analysis of adverse health impacts due to intake of contaminated groundwater should be brought to the notice of affected stakeholders, policy makers, communities, Gram Panchayat, Nagar Palika, etc. As a part of water governance reform, the Union government and all state governments should have water quality divisions to be run by professionals covering all relevant disciplines. Sensors for real-time detection of contamination should be deployed.
