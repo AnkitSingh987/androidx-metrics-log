@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Indias economic prospects after the West Part Three
+
+India's economic prospects after the West Asian crisis'
+
+The views expressed are personal A breach of limits isn't deceit SC has drawn a line: It becomes fraud only when regulator proves the ingredients of fraud The Supreme Court has told the securities regulator something it did not want to hear  -  that breaking a position limit is not the same as committing a fraud. The reasoning in Reliance Industries vs Sebi, decided on May 29, matters more than the Rs 447-crore disgorgement order it set aside. The dispute goes back to November 2007.
+
+Reliance Industries, then holding 75% of Reliance Petroleum, decided to sell 5% of that stake  -  some 22.5 crore shares -  into a market that analysts thought was overpriced. To hedge the risk of a price fall, it took short positions of 9.92 crore shares in the November RPL futures. It did so through 12 agent entities, because the client-level position limit set by Sebi's 2001 circular would not have allowed a single client to hold a position of that size.
+
+SEBI's case against Reliance Sebi's case was that the 12 entities were a device to corner the futures market, Reliance held up to 93% of the open interest, and it depressed the settlement price by selling 1.95 crore shares in the closing minutes of November 29. All of this, the regulator said, was fraud under the Prohibition of Fraudulent and Unfair Trade Practices Regulations. The Securities Appellate Tribunal agreed, by a majority of two to one.
+
+The court's first move was to separate two ideas that Sebi had run together. A position limit is a risk-containment tool. The 2001 circular did not forbid crossing it; it required a trader who crossed it to disclose the excess, and penalised the failure to disclose. Breaching the limit, even through agents, was therefore a disclosure default that attracted a monetary penalty.
+
+It was not, on that account, a fraud. The court upheld the penalty and set the fraud finding aside. The second move went to the definition of fraud itself. Regulation 2(1)(c) defines fraud to include any act, omission, or concealment, whether deceitful or not, that induces another to deal in securities.
+
+The court noticed what practitioners have long known  -  the definition is self-contradictory. Its first limb dispenses with intention; its second requires inducement, which presupposes intention. Read literally, the court said, the provision is so wide that almost any act in the market could be called a fraud.
+
+The court relied on this author's book to state that by the current definition of fraud, even running would amount to fraud. Faced with that absurdity, the court read the two limbs together rather than against each other, treating inducement as the controlling element and the words "whether deceitful or not" as descriptive of the act rather than dispositive of intent. From that, the court drew a disciplined conclusion.
+
+Inducement remains a necessary ingredient of fraud, except where manipulation is itself proved so cogently that inducement can be presumed. The court held so earlier in Rakhi Trading, where the manipulation was patent on the tape. Where inducement is not shown, the regulator carries a higher burden  -  it must prove a distinct act of price manipulation, not merely a motive or an opportunity.
+
+Concentration of positions gives a trader the ability to manipulate. It is not, by itself, manipulation. After the facts were considered, the case collapsed. The futures positions were a genuine, if imperfect, hedge against a real cash-market exposure, and the law has never required a hedge to be perfect.
