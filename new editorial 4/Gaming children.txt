@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Gaming children
+
+Gaming children
+
+Meta's child safety curbs in US should become the norm here Meta's reported $18 billion US settlement, and its agreement to implement sweeping safety guardrails for young American users, exposes a glaring corporate double standard. While Meta moves to introduce mandatory two-hour daily caps, overnight usage blocks, and non-algorithmic feeds in the US, it has offered no such protections to Indian children, despite India being its largest single market by user base. This cynical asymmetry should force an immediate reckoning for Indian policymakers.
+
+Reports and litigation in the US have alleged that Meta knew about the addictive potential of features built into its platforms, and yet continued to use design tools that maximise engagement. This reinforces the case for Indian regulators to examine whether children are being exposed to products deliberately engineered to keep them engaged. Autoplay, endless scrolling, personalised feeds, notifications and algorithmic recommendations can turn casual use into compulsive behaviour, particularly among children whose capacity for self-regulation is still developing.
+
+The Centre should commission an independent, evidence-based study into the impact of platforms such as Meta's Instagram and Facebook on children and adolescents. This should examine not merely screen time but the effects of algorithmic recommendations, addictive design, exposure to harmful content, online harassment and social comparison. If the evidence establishes that platforms have knowingly deployed design features that cause demonstrable harm to children, they should be held accountable.
+
+India cannot allow global technology companies to treat its vast young user base as a market in which the social costs of their business models are someone else's problem. The Centre has summoned social-media executives, issued warnings and expressed concern. But it has rarely gone beyond exhortation.
+
+Whether it was the controversy over the misuse of personal data by data-analytics firms, the continuing challenge of child sexual abuse material on platforms such as Instagram, or the broader question of children's access to social media, the response has too often stopped at warnings, meetings and consultations. The Centre has been discussing the possibility of regulating children's access to social media, but discussion cannot substitute for policy. Australia has already moved to restrict social-media access for children under 16.
+
+The Economic Survey has pointed towards regulating the architecture of platforms themselves. Teen-safe defaults, stronger privacy protections, tighter controls on messaging and recommendations, and disabling features such as autoplay for young users should be considered. Platforms should also face meaningful transparency and accountability obligations, allowing regulators to scrutinise how their algorithms affect children.
+
+The fact that Meta has agreed to build safeguards in the US proves that these features are technically buildable. For too long, India has relied on voluntary compliance. It is time that regulation takes over.
