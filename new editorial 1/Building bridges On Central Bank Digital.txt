@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Building bridges On Central Bank Digital
+
+Building bridges: On Central Bank Digital Currency and BRICS
+
+The benefits of cross-border CBDC payments could outweigh costs The RBI's reported moves towards encouraging India's BRICS partners to link their digital currencies with the RBI's own Central Bank Digital Currency (CBDC) are sensible but one that could pose some risks. According to news reports, the RBI has recommended to the Centre that a proposal connecting the CBDCs of the BRICS countries be made part of the agenda for the 2026 BRICS summit in India. This is a natural progression of India's push during its presidency of the G-20 in 2023 for international cooperation and standardisation on cryptocurrencies.
+
+The RBI has historically been extremely conservative about private cryptocurrencies, repeatedly calling for a ban, and progressive about CBDCs, arguing that they have multiple uses. Its stance seems largely correct  -  it recognises the evident risks of cryptocurrencies as assets to invest in, but sees the advantages of the blockchain as the backbone of payments infrastructure. While a ban on private cryptocurrencies seems extreme, their widespread adoption does expose the public to extreme volatility, fraud potential, and an erosion of wealth.
+
+CBDCs have the advantage of a sovereign guarantee and are also not interest-bearing. They are not only safe but will also not attract people looking to make returns. That said, India in particular has little use for a domestic CBDC. As digital payments go, the UPI infrastructure has proven to be excellent but has also far too big a headstart for CBDC to overcome.
+
+This is why the RBI's attempts to use CBDCs for international payments are a sensible approach. Cross-border payments are a significant channel for black and laundered money. Any attempts to bring further transparency to such flows are welcome. Blockchains are excellent instruments for this purpose. They form transparent and immutable records of transactions and can be coded to provide relevant details such as the points of origin and destination.
+
+A BRICS agreement on such a payment infrastructure could further mandate that payments be linked to national identity numbers or tax departments. CBDC payments would also help ease some of India's stickier international payments issues. Payments to Russia and Iran, for example, will become easier since the SWIFT network is not available to either country.
+
+On the other hand, exactly such payments and the related move away from the dollar will inevitably anger U.S. President Donald Trump. He has already warned of additional tariffs on BRICS countries should they move away from the dollar. That said, with 50% tariffs in place, India needs to see whether incremental tariffs will actually hurt.
+
+The benefits of cross-border CBDC payments could still outweigh the costs.
