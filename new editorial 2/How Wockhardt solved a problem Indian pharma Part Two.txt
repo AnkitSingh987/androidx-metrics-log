@@ -1,0 +1,24 @@
+Category: Editorial
+Title: How Wockhardt solved a problem Indian pharma Part Two
+
+How Wockhardt solved a problem Indian pharma couldn't
+
+For decades, Indian drugmakers could simply take a medicine discovered elsewhere, manufacture it at scale, sell it at a fraction of the cost, and still make healthy profits. Drug discovery on the other hand, was a harder pitch to sell to the board and investors. Every rupee they would spend on it is a rupee not spent expanding labs, making new generics or making the current business stronger.
+
+In other words, companies must fund innovation by sacrificing profits from the very model that made them successful in the first place. And that's a difficult trade-off. A generic drug can start generating revenue within a few years. But the same can't be said for a new molecule. And that's what makes Wockhardt's breakthrough so interesting.
+
+Inventing a new drug today is a little like buying lottery tickets that cost millions of dollars each. Most never amount to anything. Even the winning ones can take over a decade to pay off. On average, pharmaceutical companies spend billions of dollars and 10 - 15 years bringing a single drug to market, and most still fail.
+
+And Wockhardt had that stubbornness. For over 27 years, a team of scientists in Mumbai quietly worked on something the rest of the industry had largely given up on: discovering new antibiotics. Their target was antimicrobial resistance, or AMR. It's what happens when bacteria evolve to outsmart the drugs meant to kill them.
+
+Bacterial AMR was directly responsible for 1.2 million deaths globally in 2019, and contributed to nearly 5 million more. And yet, globally, new antibiotic development has nearly come to a full stop. The financial incentives simply aren't there. Most large pharmaceutical companies have exited antibiotic research entirely.
+
+Despite that, Wockhardt kept going anyway. Back in November 2024, they launched Nafithromycin (marketed as Miqnaf), which became India's first indigenously discovered antibiotic in over three decades. Developed with support from Biotechnology Industry Research Assistance Council (BIRAC), Nafithromycin targets bacterial pneumonia caused by drug-resistant bacteria.
+
+For doctors, the appeal was simple. A treatment that worked faster, required fewer doses and could help fight bacteria that were becoming increasingly resistant to existing drugs. But Nafithromycin was only the beginning. The bigger story is of Zaynich. Built to tackle some of the world's most dangerous drug-resistant infections, Zaynich goes after the very bacteria that have learned how to survive our best antibiotics.
+
+In clinical trials, the drug demonstrated remarkably high efficacy against pathogens that have become increasingly difficult to treat with existing antibiotics. And this wasn't some niche scientific curiosity. Zaynich achieved a staggering 96.8% efficacy rate in Phase 3 trials and quickly caught the attention of regulators in both the US and Europe.
+
+In fact, Wockhardt became the first Indian pharmaceutical company to seek US FDA (Food and Drug Administration) approval for a drug discovered and developed entirely in India. Wockhardt expects no competition for this drug worldwide for at least the next 15 years, as there is no similar drug in research pipelines anywhere. Because while India has a world class ecosystem for making medicines, not many companies want to cannibalise it for a risky breakthrough.
+
+But Wockhardt did and it kept reinvesting its profits into making this homegrown drug. That's what makes Zaynich so remarkable. It proves today that not only can we make the world's medicines, but also invent them. And the opportunity ahead is huge. Right now, India has captured just 3% of the world's pharma market by value.
