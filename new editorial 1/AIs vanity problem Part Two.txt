@@ -1,0 +1,18 @@
+Category: Editorial
+Title: AIs vanity problem Part Two
+
+AI's vanity problem
+
+Every board wants intellectual property. Every CEO wants an AI platform. Every startup wants a proprietary model. Nobody wants to admit that integrating someone else's model into a customer's workflow may produce more cash, which is the major reason for the abysmal failure of corporate Gen-AI. In the past few decades we built a formidable technology-services industry and then developed an inferiority complex because Americans owned the software products.
+
+Now AI gives us another chance to repeat the mistake: abandon what we are exceptionally good at because the fashionable thing looks more respectable. India's IT industry understands enterprise customers, complex workflows, regulation, outsourcing, integration and scale. That knowledge is not obsolete because ChatGPT exists.
+
+It may become extraordinarily valuable because ChatGPT exists. The opportunity is to turn services into AI-powered IP. If a foreign model is cheaper and better, use it. If domestic capability is strategically critical, build it. AI is moving so quickly that today's technological summit may become tomorrow's commodity basement.
+
+Enterprises owning a unique dataset, trusted customer relationships and a deeply embedded workflow may quietly collect subscription revenue. The model is not necessarily the moat. Context is. And India has context in industrial quantities. Yes, move up the AI value chain but stop assuming that "up" always means more sophisticated technology.
+
+"Up" can mean closer to the customer, or owning the data, understanding the problem, or making money. As the strategy gurus would say, the smartest strategic move is refusing to climb the ladder everyone else is climbing. India doesn't need to win the AI Olympiad. It needs to make sure it isn't paying for the stadium while someone else takes the medals.
+
+While India Inc. is trying to escape the supposedly low-value data economy, the world is discovering that without good data, the most magnificent AI model is merely a very expensive hallucination toy. Perhaps India's AI strategy needs one radical idea: Stop trying so hard to look like Silicon Valley and become very, very good at being India.
+
+That might turn out to be the most valuable AI advantage nobody else can copy. By M Muneer The writer is a Fortune-500 advisor, start-up investor and co-founder of the non-profit Medici Institute for Innovation
