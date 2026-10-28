@@ -1,0 +1,28 @@
+Category: Editorial
+Title: Solarising farms stressing grids What are
+
+Solarising farms, stressing grids: What are the challenges for PM- KUSUM 2.0?
+
+Grids: What are the challenges for PM-KUSUM 2.0? Seven years in, the programme's next phase must move from hardware distribution to genuine power system reform India is preparing to launch the second phase of Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyaan (PM-KUSUM 2.0), and the headline question is no longer whether solar works in agriculture  -  it demonstrably does. The harder question is whether rural electricity networks can absorb decentralised solar generation at scale without destabilising, and whether state utilities can maintain the payment discipline needed to sustain private investment.
+
+Payment reforms revived lender interest The early phase of the scheme struggled with a fundamental credibility problem, with lenders doubting that state distribution companies (DISCOMs) would pay developers on time. This would threaten loan repayment schedules and deter investment. That picture has shifted in states that have implemented structured payment mechanisms.
+
+Escrow-like arrangements now route revenues directly into repayment accounts, insulating developers from DISCOM payment delays. With internal rates of return stabilising at 15 to 18 per cent over 25-year project lifecycles, banks increasingly treat decentralised farm solar as viable infrastructure rather than a speculative rural experiment. A developer operating in Madhya Pradesh noted that project financing has eased considerably as DISCOM track records improve.
+
+The caveat is significant, as bankability remains entirely contingent on state-level utility performance, producing a patchwork of investment-grade and high-risk geographies across the country. The grid bottleneck As financial barriers fall, grid infrastructure has become the binding constraint. Rural feeders  -  the local power lines supplying agricultural loads  -  were designed for unidirectional electricity flow.
+
+Decentralised solar fundamentally disrupts this. Several states already experience reverse power flow during peak solar hours, causing voltage fluctuations and transformer stress. Scaling PM-KUSUM 2.0 without addressing this risks destabilising the very networks the programme is meant to strengthen. Technical fixes exist, including inverter-based reactive power support, smart metering, transformer capacity upgrades and feeder-level load planning, but they require deliberate embedding into programme design rather than post hoc delegation to DISCOMs.
+
+This is the sharpest departure from Phase 1, which treated grid upgrades as peripheral. Phase 2 must make infrastructure diagnostics and strengthen core to the programme architecture. Feeder solarisation as the preferred model A clear preference has emerged among practitioners for Component C feeder-level solarisation over fragmented individual pump deployment.
+
+Under this model, solar plants supply power directly to agricultural feeders, meeting local daytime irrigation demand and exporting surplus electricity to the grid. The advantages compound: power generated near consumption reduces transmission losses; supply reliability improves for all farmers on the feeder; and revenue streams become more predictable, improving project economics and, by extension, bankability. Better infrastructure enables better financing, which in turn enables larger deployment.
+
+Who gets left out Phase 1 had an equity problem it never resolved. Larger landholders with secure land titles, banking relationships and the capacity to bear upfront costs captured most of the benefits. Small and tenant farmers, who constitute the majority of India's agricultural workforce, were largely excluded despite having the most to gain from reduced irrigation costs.
+
+Proposed fixes for Phase 2 include community solar irrigation systems, irrigation-as-a-service models where farmers pay per use, pooled financing structures and cluster-based deployment for smallholders. Whether these reach implementation or remain proposals will be a defining measure of the programme's ambition. The next frontier for PM-KUSUM Discussions around PM-KUSUM 2.0 have also opened up the question of productive use beyond the irrigation season.
+
+Agro-photovoltaic models allow cultivation beneath elevated panels. Solar assets could additionally power local food processing and cold storage, addressing post-harvest losses while improving asset utilisation year-round. These are not marginal ideas; they could reframe PM-KUSUM as rural energy infrastructure rather than an agricultural subsidy.
+
+The Union Ministry of New and Renewable Energy has acknowledged these challenges in recent policy consultations. The technical and financial architecture is taking shape. What remains unproven is whether PM-KUSUM 2.0 can translate hard-won field lessons into coherent programme design, moving decisively from pump distribution to rural power system reform.
+
+That shift, more than any deployment target, will determine whether the scheme's next phase truly matters. By Dimitri
