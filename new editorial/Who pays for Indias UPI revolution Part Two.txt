@@ -1,0 +1,12 @@
+Category: Editorial
+Title: Who pays for Indias UPI revolution Part Two
+
+Who pays for India's UPI revolution?
+
+Competition between payment platforms helped reinforce that convenience. The next stage should preserve those advantages rather than assuming that scale itself will ensure continued innovation. There is also an important distinction between making UPI sustainable and making it expensive. The two are not the same.
+
+A well-designed payment ecosystem can generate revenue for providers while keeping basic transactions affordable for consumers. The government has already indicated that any future MDR would be substantially below typical debit and credit card rates. The challenge is to ensure that any eventual framework remains transparent and proportionate while preserving the openness that made UPI successful.
+
+UPI does not need to remain artificially free at any cost. Nor should sustainability be used to justify weakening competition or passing unnecessary costs down the chain. India's real challenge is to design an economic model that gives payment providers room to invest, gives new players room to compete, and keeps digital payments affordable for consumers.
+
+UPI has already shown the world what India can build when technology and competition work together. Its next test is whether policymakers can preserve those same principles as the system matures. By SHREY MADAAN (The writer is Indian Policy Associate, Consumer Choice Center)
