@@ -1,0 +1,30 @@
+Category: Editorial
+Title: Tech reform in courtrooms needs autonomy
+
+Tech reform in courtrooms needs autonomy, transparency
+
+The Supreme Court, in coordination with the Department of Justice, has a historic opportunity to pilot a decentralised architecture this year. A blended model (conditional block grants and competitive innovation funding) offers the best of both worlds: Local relevance, experiential learning, and national standards A few weeks ago, the Madras High Court permitted an AI-assisted system inside live court proceedings. Kerala's 24×7 ON Court, just a year old, has already shown how locally designed solutions can significantly compress resolution time.
+
+But for these efforts to scale, the Rs 1,200 crore e-courts budget announced earlier this year must become accessible to the high courts willing to act. For nearly two decades, the e-courts mission has been India's flagship effort to modernise court administration. Over Rs 4,104 crore has been spent since 2011, and earnest efforts have followed.
+
+Yet, courts remain slow, unpredictable, and disempowering. A critical reason for this is the way the budget is allocated and governed. If the goal is faster, more predictable, and seamless courts, high courts may need greater autonomy to determine their own needs and innovate. This autonomy to set their priorities, control their spending, and drive local innovation may be the missing piece.
+
+There are three reasons: First, the Constitution and administrative logic support it. Under Article 227, high courts have administrative superintendence over district courts. They are autonomous constitutional courts. Devolving flexible resources respects that constitutional autonomy and aligns decision rights with operational responsibility.
+
+Second, it's practical. Local problems need local solutions. States have different contexts, capacities, and priorities. Their workflows and caseloads are different. Decentralised allocation of funds lets high courts prioritise what actually improves access in their context. Third, decentralisation catalyses capacity and innovation.
+
+When high courts can pilot, measure, and iterate, they learn faster. A single high court experimenting with an e-filing workflow or digital court can produce an evidence base that others can adapt and scale. Decentralisation is constitutionally grounded, contextually necessary, and a more resilient path to solutions that scale.
+
+Closer to litigants and lawyers, high courts can meaningfully improve user experience and access to justice. Tailored pilots will also reduce wasted investment in poorly matched national rollouts. Devolving funding to high courts need not mean abandoning standards, accountability, or equity. The Centre or the Supreme Court can create mechanisms that ensure both.
+
+One option is to release a defined share of the e-courts budget directly to high courts as conditional block grants for transformation. Conditions can be simple: Utilisation of funds, alignment with national technical standards, and transparent publication of outcomes. This could enable rapid disbursal, local ownership, and lower transaction costs.
+
+Alternatively, disbursements can be tied to simple, auditable outcomes such as infrastructure or capacity built or reduction in disposal time. Crucially, these metrics should be proposed and agreed upon by the high courts themselves, so funding is linked to demonstrable results rather than just inputs. A third option is creating competitive grants for innovation.
+
+High courts bid with concise proposals (scope, timeline, budget). A small central panel, comprising technical and judicial representatives, evaluates the bid on demand signal, scalability, and return on investment. Such an approach would encourage experimentation while using evidence to scale successful models.
+
+The role of central bodies should be limited to creating digital public infrastructure standards for technology, data, and privacy, certifying compliant vendors and creating dashboards for each high court programme funded through the mission. Such measures will build public trust and accelerate the diffusion of good practices. The budget of Rs 1,200 crore is in place.
+
+The Supreme Court, in coordination with the Department of Justice, has a historic opportunity to pilot a decentralised architecture this year. A blended model (conditional block grants and competitive innovation funding) offers the best of both worlds: Local relevance, experiential learning, and national standards. Decentralise the money, centralise the standards, and we might have a good chance to watch digitisation transform our lives.
+
+Written by: Supriya Sankaran The writer is co-founder of PUCAR and Agami
