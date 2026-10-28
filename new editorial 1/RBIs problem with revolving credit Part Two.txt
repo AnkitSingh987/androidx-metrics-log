@@ -1,0 +1,22 @@
+Category: Editorial
+Title: RBIs problem with revolving credit Part Two
+
+RBI's problem with revolving credit
+
+NBFCs, on the other hand, generally can't accept deposits from the public. So to lend to customers, they rely on borrowed money from banks or raise funds through debt instruments such as bonds. That means revolving loans can create an additional problem for them. Their cash flows can become harder to predict because customers can draw money whenever they want, repay it and then borrow again.
+
+And a customer who looked financially healthy when the facility was sanctioned could continue drawing from it even after their financial situation has deteriorated. There's another issue too. An NBFC may only see what's happening within the credit line itself. Like how much the customer has borrowed and how much they have repaid.
+
+It may not have a complete view of the borrower's overall cash position or bank account activity. To make this easier to understand, imagine a borrower is repaying one loan using another withdrawal from the same credit line. The NBFC's records could still show a clean repayment history because the money is simply coming back.
+
+But it may not know whether that repayment came from the borrower's actual income or whether the credit line is effectively being recycled. Banks can sometimes have a clearer picture, especially when the borrower already has a savings or current account with the same bank. They can see salary credits, business receipts, other outflows and account balances alongside the loan.
+
+So if a business's revenue has dried up, that may show up in its account activity even if its loan repayments still look perfectly fine on paper. And it's not as if the RBI has done this out of the blue. It has been tightening the screws for a while now. If you remember, back in 2023, when unsecured consumer lending was growing rapidly, the RBI asked NBFCs to maintain a higher capital cushion for riskier unsecured consumer loans.
+
+It was worried that some of this aggressive lending could eventually turn sour. And if you look at it from the RBI's perspective, this move does make sense. Revolving credit can look a lot like a credit card, just without the card. And credit cards have a separate regulatory framework. For context, NBFCs need RBI approval and a minimum net owned fund (capital) of ₹100 crore to issue them.
+
+So allowing NBFCs to offer credit-card-like products without going through the same framework could encourage weaker underwriting and potentially create a regulatory loophole. But there's a downside too. This could meaningfully affect NBFC businesses, even if it isn't an existential blow. Take Bajaj Finance, India's largest private-sector retail NBFC.
+
+It could be among the most affected because its flexi-credit products may account for nearly 20% of its standalone loan book, or roughly ₹70,000 crore. And losing that business isn't the only concern because there could be a domino effect. Reusable credit lines encourage repeat borrowing, make customer acquisition cheaper, improve retention and create opportunities to cross-sell other products.
+
+Replacing them with separate term loans could take away some of that convenience and weaken a valuable business model. Besides, these products are also useful for MSMEs. A small business may need to repeatedly draw and repay short-term funds as inventory and receivables move. Requiring a fresh loan application, appraisal, and documents every time could make borrowing slower and more expensive.
