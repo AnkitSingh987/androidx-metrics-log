@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Is AI eating up all the jobs The truth is Part Two
+
+Is AI eating up all the jobs? The truth is that we just don't know
+
+The graduate who never gets an offer is invisible. Jobs that AI creates vs occupations it quietly transforms The optimists have their own evidence, and some of it is genuinely encouraging. AI is generating streams of work that did not exist a decade ago. Bengaluru-based Karya pays rural workers, a majority of them women, well above prevailing wages to build voice and text datasets in Indian languages, bringing digital work to communities that were never part of the technology conversation.
+
+India's data annotation industry employs tens of thousands. Global capability centres now employ over two million professionals, and a majority of their new roles demand AI and data skills. But the arithmetic of "jobs lost versus jobs created" may not be the correct equation to be used here. The honest truth is that jobs come in different tiers; a mid-career software engineer in Pune earning Rs 20 lakh a year and a data annotation worker earning a few thousand rupees a month both count as one job in any tally.
+
+Economically, they are not the same thing, and a labour market that swaps the first for the second has not broken even, despite what the math indicates. Research using vacancy data from jobs websites makes the stratification explicit: AI roles command a substantial wage premium but are concentrated in a narrow set of industries, cities and large firms, and firms' demand for AI skills actively reduces their demand for other high-skilled work. AI work in India is forming into tiers, and losses in one tier cannot be offset by gains in another.
+
+Measure not only employment, but also how jobs are changing This is why the standard policy responses, skilling missions and reassuring projections are all, to a large extent, premature. They seek to answer a question which hasn't really been properly framed yet. The redesign of the Periodic Labour Force Survey in 2025, which now produces monthly indicators, is an opportunity.
+
+But the PLFS measures whether people are working, not what is happening inside their work. It cannot detect a task being automated, a fresher intake quietly halved, or an occupation hollowing out at the entry level while holding steady at the top. India needs occupation-level tracking of AI exposure built into its official statistics, supplemented by the data the private sector already generates: Job postings, hiring platforms, and industry payrolls.
+
+None of this is glamorous. But every credible answer to the future of work question, whether it ends in optimism or alarm, runs through measurement. India is preparing to spend heavily on reskilling its workforce for the AI economy. It should first invest a fraction of that in finding out what, precisely, it is reskilling them from, and what it is reskilling them for.
+
+Written by: Nidhi Singh The writer is an Associate Fellow at Carnegie India
