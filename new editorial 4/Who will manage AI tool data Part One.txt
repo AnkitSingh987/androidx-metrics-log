@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Who will manage AI tool data Part One
+
+Who will manage AI tool data?
+
+Challenge is to design systems whose intelligence grows without memory turning unaccountable The conversation around artificial intelligence (AI) has shifted in a way that markets immediately understood, even if policymakers and users are still catching up. For several years, the promise of AI rested on incremental productivity gains: better copilots, faster summaries, and smarter recommendations.
+
+That changed abruptly with Anthropic's announcement of Cowork, an agentic extension of its Claude system designed to operate across workplace tasks with minimal human supervision. The response was not applause but alarm. Software and software-services stocks sold off sharply, both globally and in India, as investors reassessed a long-held assumption that enterprise software and labour-heavy services would remain insulated from automation.
+
+When capital reacts this quickly, it is usually responding not to hype, but to a credible shift in underlying power. At first glance, the market reaction may appear disproportionate. After all, AI systems that assist with drafting documents or reviewing contracts are hardly new. What unsettled investors was not Cowork's raw capability, but its architectural direction.
+
+Anthropic was signalling a move away from tools that merely support human workflows towards systems that can remember context, retain state across tasks, and act autonomously over time. In other words, AI that does not just respond, but persists. That persistence is what threatens both existing software products and the services layered on top of them.
+
+A system that can recall prior instructions, learn organisational norms, and execute multi-step processes begins to look less like software and more like a junior employee who never asks for weekends off. This anxiety translated seamlessly into the Indian market context India's technology sector is deeply intertwined with global enterprise workflows, particularly labour-intensive and process-driven ones. Large IT services firms have long thrived by scaling human effort across predictable, repeatable tasks.
+
+An AI agent that can remember how an organisation handles compliance reviews, vendor onboarding, or contract variations directly challenges that model. The sell-off in Indian IT stocks was therefore not a reaction to a single product announcement, but to the dawning realisation that AI memory and autonomy collapse the comfortable distinction between "tools" and "workers" on which much of the industry is built. At the heart of this disruption lies the concept of memory.
+
+Modern AI systems are increasingly designed to retain not just explicit preferences, but patterns of interaction that accumulate over time. An assistant that remembers how you structure emails to regulators, how quickly you approve expenses, or how your tone changes under deadline pressure becomes more useful precisely because it internalises context. Yet the same mechanism that increases utility also amplifies risk.
+
+When memory deepens without boundaries, it creates systems that blur distinctions between tasks, roles, and intentions. The result is not just a privacy concern, but a loss of predictability. Markets, like users, are remarkably intolerant of systems whose behaviour cannot be cleanly anticipated. This collapse of context has consequences that extend beyond individual users to entire business models.
+
+When an AI system can freely recombine information gathered from different domains, neither its users nor its creators can reliably trace how specific inputs shape specific outcomes. In human terms, it is the difference between a colleague who remembers what you told them in confidence and one who treats every conversation as fair game for future decisions. In technical terms, it reflects the non-deterministic nature of large language models, whose outputs emerge from probabilistic associations rather than auditable reasoning chains.
