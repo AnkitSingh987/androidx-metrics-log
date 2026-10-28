@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Cyber warfare is outpacing global legal Part One
+
+Cyber warfare is outpacing global legal accountability
+
+Cyber conflict is challenging traditional principles governing force and state responsibility Recent tensions involving the United States, Israel and Iran highlight a clear shift in how force is exercised today. According to reporting and policy analyses, the recent strikes were accompanied not only by conventional military action but also by cyber operations, which included the hacking of news websites and widely used applications to disrupt communication and influence the information environment. The use of cyber means is not an isolated development, but is part of a broader pattern in which digital disruption operates alongside traditional military force.
+
+Cyber operations are increasingly being used to support conventional military action, including by disrupting communication and defence systems ahead of physical strikes. Recent cyber incidents during the conflict have been linked to groups such as the Handala Hack Team, which has claimed responsibility for attacks on entities including a U.S.-based medical technology company. While such activity shows how cyber operations can extend conflict well beyond physical battlefields, it remains unclear how the law responds to this shift.
+
+Establishing threshold is difficult In reality, international law does not lack relevant principles. The prohibition on the use of force under Article 2(4) of the United Nations Charter, along with the framework of state responsibility, applies to cyberspace in principle. When cyber operations affect infrastructure or essential services, serious legal issues may arise.
+
+Determining when such conduct crosses the threshold and becomes sufficiently serious to be classified as an internationally wrongful act or a prohibited use of force is the most complicated part. Such actions could lead to state responsibility and even claims for compensation, in theory. In practice, however, establishing this threshold remains extremely difficult.
+
+This gap between what the law allows and what actually happens has become increasingly visible. As noted in recent analyses, including those by Just Security, victims of cyber operations rarely succeed in bringing cases before courts or obtaining remedies through legal processes. The problem, therefore, is not simply whether the law applies, but whether it can actually be used.
+
+A major reason for this gap lies in attribution. To establish a breach of international law, the act must be attributed to a state. However, cyber operations are, by their nature, secretive and routed through multiple networks and jurisdictions. Even when governments are reasonably certain about who is responsible for the operation, it is much harder to translate that into legally admissible evidence.
+
+This creates a gap between political certainty and legal proof. Concerns that hinder litigation The unavailability of an appropriate forum for such disputes is also a practical constraint. Sensitive cyber disputes are unlikely to be heard by international courts, including the International Court of Justice, without the consent of states.
+
+Domestic courts also face similar challenges, particularly because foreign states are often protected by sovereign immunity. As a result, there are very few forums where cyber-related claims can be effectively heard. There is also a strategic reason why states may avoid legal processes. Bringing a case might escalate inter-state tensions or invite retaliation and may require the disclosure of sensitive intelligence or capabilities.
+
+For this reason, many cyber incidents are handled politically or diplomatically, rather than through courts. Another challenge is evidence. Cyber incidents involve technical data, classified intelligence and complex chains of causation. It can therefore be extremely difficult in a court setting to show who carried out an operation, how much damage it caused, and how it led to specific harm.
