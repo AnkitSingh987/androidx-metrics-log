@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Artemis II could pave the way for research
+
+Artemis II could pave the way for research from the Moon
+
+Large telescopes on the Moon can be much more sensitive than those on Earth because the Moon lacks an atmosphere. The radio-quiet zone on the Moon could enable deep radio astronomy observations that could answer many questions about the history of the Universe The Moon is about to welcome four human visitors in an orbit around it, aboard a spacecraft larger and more powerful than any launched before. They will not land on the Moon; it's a flyby mission, serving as a test for a future, more ambitious landing mission.
+
+The last time humans orbited the Moon was in December 1972, when astronauts from the Apollo 17 mission left the Moon's surface and headed back home. After nearly 50 years, the Artemis II mission has sent a crewed mission on a distant rendezvous with the Moon. The Orion spacecraft, which will be their home for 10 days, is significantly larger than the command module that Apollo astronauts had at their disposal.
+
+The computers aboard it and the software installed are, naturally, more powerful than the Apollo Guidance Computers that required constant ground support. The deep space avionics system in Orion doesn't need a pilot at the stick during an emergency: The uncrewed Artemis I mission of 2022 tested its capabilities as a confidence-gaining measure before putting humans in it. The launch vehicle (Space Launch System) for Artemis is also larger than the Saturn rocket used back then.
+
+If everything goes according to plan during this mission, it will pave the way for a landing mission. The Orion spacecraft cannot land, so it will have to dock with a landing module, such as the Starship Lander. The current mission is a step towards these future missions: To understand how Orion navigates near the Moon, how its radiation shields protect astronauts as they fly through zones notorious for harmful radiation exposure, and how its life support system creates a human-worthy environment inside the spacecraft for a 10-day mission.
+
+The next step, during the planned Artemis III mission  -  tentatively scheduled for the middle of 2027  -  will be to test the docking maneuver with the Starship Lander. Astronauts will carry this out in low Earth orbit, without going all the way to the Moon, just as Neil Armstrong and David Scott did during the Gemini 8 mission in 1966  -  docking with a target vehicle in space  -  as preparation for the Moon landing mission three years later. If the Artemis III mission goes well, then the next Artemis IV mission will probably land humans on the Moon again after decades.
+
+Why return to the Moon when Apollo astronauts had already explored it multiple times, especially considering the enormous cost? While the launch itself for the Artemis II mission will cost around $4 billion, the broader Artemis programme has already cost over $90 billion. Space agencies from Canada, Europe, and Japan are collaborating with the Americans on technology development and crew participation.
+
+The current Artemis II mission has one Canadian crew member, Jeremy Hansen, as part of this collaboration. The stated reasons for the return to the Moon are more than one. Recently discovered ice on the Moon has spurred interest in exploring the possibility of using the Moon as a station for future, more ambitious space missions.
+
+Building a space station there, with infrastructure for permanent human presence, requires more study than what the Apollo astronauts could accomplish. Plans include extracting minerals and building a cosmic supply chain for larger space missions. While the Moon is likely to become a focal point for geopolitical competition among global powers vying to claim prime mining sites, including the South Pole, astronomers could also benefit from these efforts because the Moon can provide an ideal platform for scientific research.
+
+Large telescopes on the Moon can be much more sensitive than those on Earth because the Moon lacks an atmosphere. The radio-quiet zone on the Moon could enable deep radio astronomy observations that could answer many questions about the history of the Universe. As Joseph Silk has argued in his recent book Return to the Moon: The Next Giant Leap for Humankind, scientific research from the Moon can open up new vistas for some of humanity's most profound questions.
+
+Written by: Biman Nath The writer is visiting professor, IISER Mohali and was an astrophysicist at the Raman Research Institute, Bengaluru
