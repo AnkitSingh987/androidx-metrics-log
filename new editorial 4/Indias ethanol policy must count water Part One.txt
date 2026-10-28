@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Indias ethanol policy must count water Part One
+
+India's ethanol policy must count water, sustainability costs
+
+Blending targets can provide direction, but they should not become ends in themselves India's rollout of E20 petrol is among the world's most ambitious biofuel initiatives. Ethanol blending has increased from about 1.5 per cent in 2013 - 14 to nearly 20 per cent in 2025, with annual consumption approaching 700 crore litres. The programme has reduced crude oil imports, generated rural incomes and diversified the country's energy basket.
+
+These are important achievements. Yet as India transitions from E10 to E20, policy should increasingly be guided by scientific evidence and sound public economics rather than by blending targets alone. Not all ethanol is equally sustainable. India now produces ethanol from C-heavy and B-heavy molasses, sugarcane juice, maize, damaged food grains and surplus rice.
+
+Each pathway has a different environmental footprint. A useful measure is the Energy Return on Energy Invested (EROEI), which compares the usable energy produced with the fossil energy consumed in cultivation, fertiliser manufacture, irrigation, transportation and distillation. Efficient sugarcane ethanol produced in bagasse-fired distilleries typically achieves an EROEI of about 2 - 4, whereas grain-based ethanol generally ranges between 1.2 and 2 because of higher fossil-energy inputs.
+
+Ethanol therefore delivers a positive net energy gain, but the magnitude depends critically on feedstock, farming practices and processing technology. A second consideration is energy density. Petrol contains roughly 32 MJ per litre compared with around 21 MJ per litre for ethanol. So, E20 fuel contains about 6 - 7 per cent less energy than pure petrol, resulting in a modest reduction in fuel economy under similar driving conditions.
+
+However, ethanol has a much higher octane rating, allowing engines specifically calibrated for higher ethanol blends to achieve more efficient combustion and partially offset this disadvantage. The overall outcome depends on engine design rather than fuel properties alone. Vehicle compatibility is another important issue.
+
+Ethanol readily absorbs moisture and can corrode certain metals while degrading older rubber seals and plastic components. Recognising these challenges, the government has mandated that vehicles manufactured from April 2023 onwards be compatible with E20 fuel. Newer engines incorporate improved materials and revised engine calibration, but millions of older two-wheelers, passenger cars and agricultural machines remain outside this category.
+
+The transition therefore requires transparent consumer information, technical support and continued availability of lower-blend fuels. Consumers should retain the freedom to choose fuels appropriate for their vehicles, with pricing that transparently reflects their respective costs. Ethanol is often described as a low-carbon fuel because sugarcane absorbs atmospheric carbon dioxide during growth.
+
+However, climate benefits must be assessed on a life-cycle basis, accounting for emissions from cultivation, fertiliser manufacture, irrigation, transport and processing. Efficiently produced sugarcane ethanol can reduce greenhouse-gas emissions by roughly 50 - 70 per cent relative to petrol, particularly where bagasse supplies process energy. Grain-based ethanol generally delivers lower reductions of around 20 - 50 per cent.
+
+These benefits diminish substantially when production relies on diesel-powered irrigation, fossil-fuel-based distillation or excessive nitrogen fertiliser use. Ethanol is therefore cleaner than petrol under many production systems, but it cannot ipso facto be seen as carbon neutral. The most critical challenge, however, is water.
+
+Sugarcane is a very water-intensive crop. Estimates by the Commission for Agricultural Costs and Prices and NITI Aayog suggest that sugarcane typically requires 1,500 - 2,500 mm of water over its growing season. Water-footprint studies estimate that producing one litre of sugarcane ethanol may embody approximately 2,000 - 3,500 litres of water, depending on local climatic conditions and irrigation practices.
