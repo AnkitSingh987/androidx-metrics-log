@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Why is Chinas AI push gaining ground Part One
+
+Why is China's AI push gaining ground? | Explained
+
+How have Chinese firms caught up with leading U.S. AI models despite chip restrictions? What advantages do Chinese open-source AI models offer over captive models? How has Beijing supported the growth? What challenges could China face in the future? The story so far: A matter of weeks after Anthropic's Fable AI model was launched to great acclaim, Chinese firm Moonshot AI released Kimi K3, a model that has measured up to the Claude model in most parameters.
+
+The notable factor here is that K3, and a clutch of other models made in China, are open-weight and/or open-source, meaning that any company (or well-resourced individual) can run them locally. How is China positioning itself in AI? At the Shanghai World AI Conference on July 17, Chinese president Xi Jinping said that with AI, countries "should adhere to the principle of openness and win-win and boost innovation-driven development".
+
+At least as far as the currently available open models are concerned, Chinese firms are walking that talk. China faces crucial restrictions on graphics processing units (GPUs) that are required for training AI models and running queries (inference) on them. However, China has bridged this gap with abundant electricity access and a larger quantity of less advanced chips.
+
+The result is models like Kimi K3, which is a 2.8 trillion parameter model. How have they built a competitive ecosystem? Not all open-source models are designed for those many parameters; Alibaba, the retail and e-commerce giant that is now growing significant in-house AI capabilities, has put out several lightweight models that have impressed AI enthusiasts who prefer to run inference on their own hardware.
+
+China has supported AI research labs as well as encouraged existing large firms like Tencent and Baidu to work on AI, which has resulted in a multiplicity of models that have been downloaded millions of times from platforms like HuggingFace, with developers enthusiastically adopting these models for narrow, tailored use-cases. One of the most well-known entrants that challenged U.S. dominance is the startup DeepSeek, whose models are available online as well as on an open-source basis.
+
+The Chinese government has also acted to protect these firms from being co-opted into the U.S.-led AI ecosystem, such as by restricting travel for key personnel and blocking Facebook parent Meta's acquisition of the firm Manus. What does this mean for the global race? The difference between open-source and captive models  -  Anthropic and OpenAI's models, as well as most of Google's, land in the latter category  -  is that source code is not freely shared with the broader AI developer ecosystem, giving firms a theoretical edge.
+
+But another key difference that could counteract that advantage is that open-source models can be run by third-party providers who compete with others like them to provide greater cost predictability. This is so far a theoretical advantage, since the U.S.'s frontier firms are greatly subsidising their models; Anthropic is this month giving out $100 in credits to paying users to use their Fable model. But once that exuberance dies down, the focus may very well shift to infrastructure providers, who may find open-source models an attractive offering.
+
+This is, of course, assuming that open-source models continue to be provided freely by Chinese firms in the coming months and years. Alibaba has already started working on captive AI models that run on its own infrastructure and are not open-source. Since open-source models are expensive to produce, it may not be a given that they will be trained at the same clip, as the companies most capable of making them may change business models.
