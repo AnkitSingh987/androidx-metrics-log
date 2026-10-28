@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The IndoGangetic Plains heat crisis is a Part Two
+
+The Indo-Gangetic Plain's heat crisis is a governance failure, not just a climate one
+
+ASHA workers, block-level health officers, and gram panchayat heads  -  the actual frontline of any emergency response in rural UP -  receive no structured training on heat protocols, no heat-specific communication scripts, and no defined role in the activation chain when a red alert is triggered. Challenge 2: A disaster funding architecture that leaves heat behind India's disaster finance system operates through two principal channels: the State Disaster Response Fund (SDRF) and the National Disaster Response Fund (NDRF), constituted under the Disaster Management Act of 2005. Together, these funds account for the overwhelming majority of the country's disaster management expenditure.
+
+Their central limitation, where heat is concerned, is structural: heatwaves are not classified as a notified disaster under the Disaster Management Act. The current notified list includes twelve categories  -  cyclone, drought, earthquake, flood, landslide, and others  -  but heatwave is absent. The practical consequence is severe.
+
+States are only permitted to use up to 10 per cent of their SDRF allocation for disasters they self-classify as local or state-specific, and NDRF support is unavailable to them entirely. For a state like Uttar Pradesh  -  with 75 districts, over 240 million people, and one of the highest aggregate heat-risk profiles in the country  -  a 10 per cent access ceiling on an already limited fund is not a safety net; it is a bureaucratic fiction. Heatwaves in the Indo-Gangetic Plain now kill more people annually than most notified disasters.
+
+The 15th Finance Commission's refusal to add heat to the notified list reflects a fiscal calculus, not a scientific one. The resistance to notifying heatwaves as a national disaster is not primarily scientific  -  it is financial. Notification would require the government to pay Rs 4 lakh in compensation for each confirmed heat-related death, which creates an immediate incentive to suppress mortality counts.
+
+States have raised the demand before three successive Finance Commissions; all three declined to expand the list. The 15th Finance Commission's reasoning  -  that the existing list covered state needs adequately  -  is impossible to reconcile with the data. Approximately 57 per cent of India's districts, home to 76 per cent of the population, now face high to very high heat risk.
+
+No credible reading of the data supports the conclusion that the current funding architecture is adequate. Challenge 3: Early warnings that reach institutions but not people India's meteorological infrastructure has improved significantly. The India Meteorological Department now issues colour-coded heat alerts  -  yellow, orange, and red  -  and has introduced a Heat Index that incorporates humidity alongside temperature, providing a more accurate measure of physiological heat stress than temperature alone.
+
+UP's SDMA has built on this foundation with its district-threshold system. The warning infrastructure, at the technical and institutional level, now functions reasonably well. The failure is at the delivery layer. Relative humidity across the Indo-Gangetic Plain has increased by up to 10 per cent over the last decade, transforming cities such as Kanpur and Varanasi from dry-heat zones into zones of dangerous moist heat stress.
+
+Research shows that temperatures exceeding 32°C combined with humidity above 60 per cent create hazardous physiological conditions  - yet IMD's public communication system does not yet routinely present wet-bulb or Heat Index readings to lay audiences. The red alert reaches the District Magistrate's office; it does not reliably reach the agricultural worker at 7 AM deciding whether to enter the field. The economic toll of this communication gap is quantifiable.
