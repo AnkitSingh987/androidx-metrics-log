@@ -1,0 +1,14 @@
+Category: Editorial
+Title: The charge of the AI brigade Part Two
+
+The charge of the AI brigade
+
+Future trends in electronic warfare: As warfare gets more sophisticated, we have to be conscious of its rapidly evolving dynamics, where cataclysmic changes happen overnight. I believe quantum computing will revolutionise this space as speed, processing power, and complex data analysis will get elevated to the next realm. Those still deploying classical computing could well be left far behind, and they would have to contend with new cybersecurity vulnerabilities that can be a prolonged nightmare.
+
+Cyber defence systems will become significantly adaptive and autonomous, predicting and neutralising strikes preemptively. And the convergence of AI, IoT and 5G/6G networks is a reality to contend with, which will greatly influence surveillance and command capabilities. While digital warfare focuses on code, it is vital to consider the interaction with the physical world of electrons and atomic clocks.
+
+High-power microwave systems have emerged that just fry the circuits of drone swarms instead of targeting them individually  -  deploying AI-assisted microwave pulse shaping. An autonomous ground vehicle destroyed 61 drones in a single microwave blast in a recent controlled test, combining sharp manoeuvring with microwave effects. Our historical dependence on Medium Earth Orbit satellites is shifting too  -  to Low Earth Orbit satellites because signals are stronger and harder to jam, with an extensive, underlying, dynamic, mesh network creating a self-healing network that's hard to break.
+
+Further, as seen during Operation Epic Fury, there is a move to widen the recognition of sovereign systems beyond GPS to a multi-constellation approach that includes Russia's GLONASS, Europe's Galileo, and China's BeiDou. If signals don't match, or spoofing is in evidence, AI will figure the assured position, navigation, and timing. Yet another factor dominating battlefield thinking is the failure of cloud-dependent weapon systems and the emergence of edge autonomy, allowing weapon systems to complete their mission, even when cut off from the home network.
+
+AI-enabled digital warfare is emerging as a cost-effective solution to a high-tech, high-cost situation. But, as commanders feel increasingly overwhelmed while taking rapid life-and-death decisions based on black box outputs they don't fully comprehend, in battles where both sides are increasingly algorithmic and automation-led, a relevant question we must ask is, whether the strategic battleground is too complex for humans to inhabit? Written by Anil Nair
