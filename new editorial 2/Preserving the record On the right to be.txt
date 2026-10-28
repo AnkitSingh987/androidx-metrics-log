@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Preserving the record On the right to be
+
+Preserving the record: On the right to be forgotten
+
+The right to be forgotten must be set against public interest On the one hand, constitutional law holds up a principle of open justice that, among other things, allows public scrutiny of courts, facilitates public understanding of the law, and creates a historical record of the administration of justice. On the other, in Justice K.S. Puttaswamy (2017), the Supreme Court of India recognised the right to informational privacy, including the ability of individuals to exercise some control over personal information about themselves.
+
+The Delhi High Court order on May 29 concerning the 'right to be forgotten' illustrates how these two principles can sometimes point in opposite directions. While the digitisation of court records transformed the ability of anyone with an Internet connection, but also search engines and automated archivers, to access judgments and legal records, it also altered the consequences of publicity. In Europe, where the resulting persistence of digital information first gave rise to the 'right to be forgotten', the right is usually weighed against the freedom of expression and public interest.
+
+In India as well, the right should accommodate the principle of open justice without necessarily breaching the bounds of the right to privacy. Yet, the High Court decided otherwise. Justice Sachin Datta concluded that simply updating records would not suffice as search engines could excerpt small portions without sufficient context, that open justice does not demand the ability to discover particular details of the case using the accused person's name, and that updating the official version would not necessarily update records that have since been copied to other websites.
+
+The real problem is incompleteness, not discoverability. If a court acquitted or discharged a person from a dispute, anyone looking for the proceedings should also find that decision, rather than limiting a searcher's ability to find the original decision. This is crucial if open justice is understood to require the records to be practically accessible rather than merely exist somewhere.
+
+Court records are official acts of the state and their obfuscation in any manner vis-à- vis the public record will have serious ramifications for the public record, to echo the court in the closely related Indian Kanoon matter (2024). While the High Court's concern about the petitioner's right to privacy is commendable, it should also consider digital accuracy as the way out. That is, judicial records must be wholly public as well as updated to prominently reflect major actions and decisions, rather than preserve the accusation alone, and the judiciary must impose conditions on any platform, including court registries, indexing legal information to refresh their databases on a regular basis and endeavour to display the results of any user queries with the proper context.
+
+Doing so would protect both fundamental rights and address the problem's root cause.
