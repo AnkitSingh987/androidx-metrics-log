@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Tax story
+
+Tax story
+
+India's tax base is expanding, but remains skewed For a long time, policymakers have agonised over India's narrow tax base and tax collections not keeping up with economic growth. However, reforms in the last five years now seem to be bearing fruit. Recent data from the Central Board of Direct Taxes (CBDT) show that between FY20 and FY25, the Centre's direct tax collections expanded at a 16 per cent CAGR (Compound Annual Growth Rate) compared to 8.6 per cent CAGR in the previous five years.
+
+Direct tax revenues have galloped despite muted nominal GDP growth, resulting in big gains in tax buoyancy. Direct tax collections grew at 1.7 times nominal GDP in the last five years. There has also been some widening in the tax base. Between FY20 and FY25, the number of individual return filers has grown 36 per cent, while the number of corporate filers has seen a 30 per cent increase.
+
+The number of taxpayers has kept pace with returns filed. This is positive as in the past, growth in returns filed often didn't translate into contributions to the tax kitty. The reasons for this could be two-fold. For one, the last five years have seen significant direct tax reforms, with the government taking a carrot and stick approach where taxpayers are offered much lower rates if they give up exemptions.
+
+In September 2019, domestic companies were offered a 22 per cent tax rate (against 33 per cent) if they opted for an exemption-free regime. Most companies have since migrated to this system. In April 2020, individual taxpayers were given the option of a similar exemption-free regime with lower rates with this eventually made the default for every taxpayer.
+
+With this new regime sweetened with lower rates, many individuals have made the switch. Two, the tax department has tightened compliance. Real-time data sharing arrangements between CBDT and CBIC (Central Board of Indirect Taxes) after GST have allowed the two arms to identify discrepancies between reported incomes from business and personal sources and plug them.
+
+Tech-enabled data mining on high-value transactions and aggregated wealth data at the PAN level, has allowed CBDT to track down under-reported heads of income. However, several issues remain unaddressed from the taxpayer point of view. One, taxpayers continue to grapple with voluminous return filings, unnecessary disclosures and frivolous demand notices, not to speak of rent-seeking by tax officials.
+
+Two, while there has been a five to six-fold expansion in the return filers in the ₹50 lakh plus income bracket, the bottom of the pyramid is shrinking with 30 per cent of filers in the sub- ₹5 lakh category dropping out in five years. As they account for a third of taxpayers, this is a worrying trend. Three, from making roughly equal contributions to the tax kitty five years ago, individual taxpayers now chip in with 25 per cent higher taxes than companies.
+
+This skew needs corrective steps.
