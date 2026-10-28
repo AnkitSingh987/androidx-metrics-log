@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Regulatory overreach
+
+Regulatory overreach
+
+Pre-screening social media posts will muzzle free speech The Supreme Court's recent suggestion that the Centre consider pre-screening all social media posts, possibly through an independent agency, has triggered understandable concern. Although the Court has maintained that it does not seek to interfere with the fundamental right to free expression and acknowledged that dissent is integral to democracy, the very idea of a filtering mechanism before publication raises difficult constitutional and practical questions. The top court's core reasoning is that India lacks a preventive framework to protect individuals from online harm before it occurs.
+
+Once hateful, defamatory or misleading content is published, the damage spreads faster than legal remedy can keep pace; takedowns are slow, and prosecution is always after the act. In the Court's view, the regulatory vacuum has left millions vulnerable to abuse on largely unregulated platforms. This concern is legitimate.
+
+The scale and speed at which information spreads online, combined with the power of AI-driven curation have created an ecosystem where platforms profit from engagement even when content is harmful. But the proposed remedy of pre-filtering user content through an agency sits uneasily with the Court's own landmark jurisprudence. InShreya Singhal v.
+
+Union of India(2015), the Supreme Court struck down Section 66A of the IT Act as unconstitutional for its vague and sweeping restrictions on online speech. The ruling emphasised that intermediaries must act against content only upon receiving a court or government order. Any form of mandatory pre-screening, therefore, risks sliding into sweeping censorship.
+
+Even with the best intentions, a filtering mechanism run by the state or its agents could easily be misused, especially when definitions of "fake", "misleading", or "anti-national" are prone to misinterpretation. The potential for arbitrary enforcement and a resulting "chilling effect" is real. At the same time, leaving everything to platforms has proved inadequate.
+
+Companies such as Facebook and Twitter have repeatedly failed to moderate inflammatory or harmful content promptly. The IT Rules, 2021, require social media and streaming platforms to take down content more quickly, appoint grievance officers, and assist law enforcement investigations. But these Rules are under legal challenge, with the Delhi High Court examining whether to impose obligations that go beyond the parent statute.
+
+The European Union's Digital Services Act (DSA) offers a useful reference point. It imposes rigorous transparency requirements, mandates rapid action against harmful content, requires risk assessments, and allows for strong penalties, while avoiding pre-censorship of user speech. This approach preserves the free flow of information while compelling platforms to act responsibly.
+
+India must move towards a similar model: have clear standards for harmful content, independent audits, user grievance mechanisms, and strong enforcement against platforms that fail to comply.
