@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Quantumsafe thinking on the new DST Task
+
+Quantum-safe thinking: on the new DST Task Force report
+
+India must be alive to multiple challenges posed by advanced encryption algorithms The new DST Task Force report on making India's digital ecosystems quantum-safe is a product of contemplating a threat that is both long-term and urgent. Today, public-key cryptography underpins online identity protection and secure communications. Its protective ability rests on mathematical problems that conventional computers cannot solve efficiently; thus, the information is 'hidden' behind a lock whose key is the solution to such a problem.
+
+However, a sufficiently capable quantum computer could use, say, Shor's algorithm to open this lock in minutes or hours. Symmetric cryptography, such as AES encryption, is less threatened by the advent of quantum computers but the existential exposure is nonetheless concentrated in public-key infrastructure, which secures everything from HTTPS to telecommunication networks. The shorter-term problem is the possibility of a bad actor harvesting encrypted data today and decrypting them later using quantum computers.
+
+Post-quantum cryptography (PQC) is software that can run on conventional computers but with the added benefit of resisting attacks from quantum computers. The DST report recommends three post-quantum standards finalised in 2024 to plan India's efforts on the post-quantum effort and that it begin migrating to this architecture. This prudent advice must be followed, especially vis-à-vis critical infrastructure, financial services, power grids, and defence.
+
+The migration must continue even if "Q-day"  -  when quantum computers practically endanger public-key cryptography  -  is pushed back from the report's expected 2029. Indeed, experts disagree on this point, although the mainstream view is that both "Q-day" and migration will take at least a decade. Cryptography is in practice a set of dependencies often spread across  -  within, say, a ministry  -  databases, legacy hardware, vendor software, authentication protocols, and control systems.
+
+Thus, the challenges of the sprawling organisational transition must not be underestimated. Moreover, since advanced AI can autonomously compromise the software layer today and quantum computers threaten the mathematics of encryption tomorrow, the threat surface is much larger than what "Q-day" alone portends. The report recommends the wider adoption of PQC and, in environments requiring higher security assurances, the more technically demanding quantum key distribution (QKD) as well.
+
+For India, that means a new budgetary allocation of at least ₹5,000 crore; upgrading legacy infrastructure for interoperability; rationalising vendor dependence; and fostering and retaining the human capital, as QKD engineers are rare today. India must also periodically reassess its needs considering the acute trade-off QKD poses between security and operational efficiency.
