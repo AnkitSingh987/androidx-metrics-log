@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Indias deeptech democracy for inclusive AI Part Two
+
+India's deep-tech democracy for inclusive AI
+
+The summit is more than a policy dialogue; it is a statement of principles. It signals that India's AI journey is not inward-looking but collaborative and humane, rooted in the belief that knowledge grows when shared. As participating nations explore partnerships across Africa, Latin America, and Southeast Asia, the message is clear: India's AI future is intertwined with that of the world.
+
+Safe, trusted AI future Inclusivity must go hand in hand with integrity. The IndiaAI Mission is therefore guided by a dedicated safe and trusted AI pillar developing governance frameworks to tackle deepfakes, misinformation, and algorithmic bias. Ethical guardrails are being built into the system, ensuring that AI works within a framework of accountability and human dignity.
+
+Moreover, the integration of AI models with India's Digital Public Infrastructure (DPI), from UPI to ONDC and Aadhaar, means that every innovation can be deployed at population scale. When AI is trained on Indian data, expressed in Indian languages, and delivered through public digital platforms, its benefits flow directly to citizens whether it's a farmer in Bihar, a small trader in Tamil Nadu, or a student in Manipur. Shared vision for humanity India's approach represents more than a technological framework; it is a moral proposition.
+
+It redefines innovation as a shared pursuit of human progress. By socialising the high costs of compute and data, India is ensuring that the competitive frontier shifts from who can afford to innovate to who can innovate responsibly and inclusively. As the world gathers for the AI Impact Summit, India's message to the global community is clear: AI must empower, not exclude.
+
+Through collective effort, transparent governance, and shared infrastructure, humanity must ensure that this defining technology uplifts all and leaves no one behind. In the age of AI, India is not just participating in the future it is building the architecture of a fairer one. And in doing so, it reminds the world that the true measure of progress lies not in how advanced our machines become, but in how much they advance our shared humanity.
+
+Alkesh Kumar Sharma is a former Secretary, Ministry of Electronics & Information Technology and Member, Public Enterprises Selection Board; views expressed are personal
