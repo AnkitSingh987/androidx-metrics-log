@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Beyond the AI hype There are hidden dangers
+
+Beyond the AI hype: There are hidden dangers of bias in automated decisions
+
+Hidden dangers of bias in automated decisions Without safeguards, automated decision-making risks transforming historical prejudice into digital destiny During the AI summit, governments and private sectors unveiled reports and prototypes on how artificial intelligence would reshape education, healthcare, employment, defense, and public distribution systems. Yet beneath the optimism lies a quieter and more consequential development: The growing reliance on automated decision-making systems. These systems determine who receives welfare benefits, how much health insurance premium is charged, or which cars are fined for traffic violations.
+
+They operate by identifying patterns in historical data and using those patterns to predict outcomes or allocate resources. But what if this data fed into the systems, or the manner in which the data was fed, was biased in the first place? Bias within automated decision-making can enter in multiple ways.
+
+First, these models are trained on historical datasets that may reflect past exclusions and unequal treatment. When systems learn from such data, they risk reproducing historical disadvantage under the guise of statistical accuracy. Second, even when protected attributes such as caste or religion are excluded, systems rely on correlated indicators such as postcode, school attended, and consumption patterns, which act as stand-ins for protected characteristics.
+
+For instance, a credit approval algorithm that uses pin code or consumption patterns as risk indicators may systematically disadvantage applicants from historically marginalised neighbourhoods due to a lack of data over past exclusions, without ever using caste or other social indicators as explicit inputs. Further, systems tend to favour statistically dominant groups while treating minorities as "anomalies". This creates feedback loops that further entrench disadvantage.
+
+For example, if only a small proportion of women take certain types of business or agricultural loans, an algorithm trained on predominantly male borrower data may treat women applicants as statistical outliers. With limited data to assess their risk accurately, the system may assign them higher default probabilities or reject their applications altogether. Over time, this exclusion reduces the number of women borrowers in the dataset even further, reinforcing the system's flawed assumption that women are riskier borrowers.
+
+While this problem has been a global phenomenon, looking at reforms, only the data protection frameworks may not be enough. The European data protection law provides a limited right against decisions based solely on automated processing, but this protection evaporates when a human is nominally "in the loop." In practice, even minimal human involvement can legitimise overwhelmingly automated outcomes. India's data protection framework remains largely silent on automated decision-making.
+
+Automated decisions shape access to employment, credit, housing, and access to public services  -  domains historically governed by anti-discrimination and constitutional equality laws. When algorithms mediate these domains, equality law must evolve to address disparate impact without intent, intersectional harms, and the evidentiary barriers posed by proprietary systems. The solution lies in breaking the opacity of the training data and the manner in which these systems are deployed.
+
+Thus, laws on free speech and transparency must be applied to algorithms determining decisions affecting public spheres and constitutionally protected domains. In this context, the emerging cooperation between India and France, as seen in the AI Summit, can be viewed as a counterbalance to the technological dominance of the United States and China. Given the constitutional traditions of India and France, this partnership demands that the two nations move beyond industrial policy and address the normative foundations of AI governance with free speech.
+
+Quoting French President Emmanuel Macron, free speech laws will remain "pure bulls***t" unless they can hold AI systems accountable. That is, systems need to be transparent, contestable, and aligned with constitutional commitments to equality. Without such safeguards, automated decision-making risks transforming historical prejudice into digital destiny.
+
+Written by: Debargha Roy The writer is a lawyer and public policy professional, currently pursuing a master's in law at the University of Cambridge
