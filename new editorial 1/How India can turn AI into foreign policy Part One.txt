@@ -1,0 +1,24 @@
+Category: Editorial
+Title: How India can turn AI into foreign policy Part One
+
+How India can turn AI into foreign policy
+
+The India AI Impact Summit 2026 gives us the chance to shape the AI race on our terms India's Global AI Summit is here. The headlines will call it ambitious. The optics will be impressive. But beneath the banners and plenaries, a quieter question looms: Is this just another global AI event, or is it India's bid to be taken seriously as the world's most deployable, trustworthy AI partner?
+
+At Greyhound Research, we've spent the past few weeks tracking the run-up to this summit. What's emerging is less about spectacle and more about signal. Not a show of strength. A declaration of intent. If trust is the defining currency of AI adoption, and it increasingly is, then India is placing a calculated bet.
+
+That in a fragmented world, our chaos, our complexity, and our governance-first model may be our greatest competitive advantage. Let's start with the most important piece. The agenda. AI chakras India has resisted the temptation to mimic the West's AI paranoia or China's techno-nationalism. Instead, it has laid out a seven-pillar framework, AI chakras as the government calls them, that includes safe and trusted AI, democratized access, and inclusion by design.
+
+There's very little hype. No grandstanding. But there is substance. And that matters. Because if AI is to succeed at population scale, the policy that governs it must be as inclusive as the technology itself. India seems to get this. Unlike regulatory regimes that default to restriction, this summit leans on enablement.
+
+An implicit message that safety and scale can, and must, coexist. Next, the deployment reality. India is not experimenting with AI in controlled labs. We are deploying it in the wild. In agriculture, AI-powered advisories are being used by millions of farmers. In healthcare, diagnostic tools are being used to screen for TB and stroke in resource-starved clinics.
+
+In governance, the Supreme Court is using AI for multilingual translation of court records. These aren't moonshots. They are working systems, quietly proving that AI can serve public infrastructure without overwhelming it. This is important. Because most countries are still stuck at the pilot stage. India is at rollout.
+
+And in doing so, we are making a different kind of case. Not just that AI can work, but that it can work for the many, not just the few. That brings us to the real differentiator: trust. While other AI superpowers wrestle with credibility, India has something rare. A governance surplus. We legislate openly.
+
+Our courts function independently. Our platforms are built in public and are designed to interoperate. Aadhaar, UPI, DigiLocker, and DEPA. Together they form a stack that is not just technically sound, but politically legitimate. That legitimacy is hard to replicate. And it's becoming our sharpest edge.
+
+Contrast that with China. Its AI stack may be more mature. Its models may be faster. But its trust deficit is now structural. From telecom bans in Europe to regulatory blockades in the US, the message is clear. Great models don't scale without trust. And trust doesn't scale without transparency. India doesn't have to beat China on compute.
+
+It has to outpace it on credibility. This summit moves the needle in that direction. But we also need to be clear-eyed. Trust alone is not a substitute for capability. If India is to make this moment count, we need to back the message with infrastructure. AIRAWAT must move from concept to access. The model development efforts under Bharat GenAI must scale beyond pilots.
