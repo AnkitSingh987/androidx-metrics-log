@@ -1,0 +1,24 @@
+Category: Editorial
+Title: AI exuberance in finance has real costs Part One
+
+AI exuberance in finance has real costs
+
+India's financial sector needs a citizen-first reckoning before AI hardens into power as a result of being insufficiently governed India's digital story is, by any measure, a remarkable achievement. In little over a decade, India has built public digital infrastructure that many larger economies still debate in theory. The architecture created around identity, payments, and data has demonstrated that scale and inclusion need not be mutually exclusive.
+
+It reflects deliberate public policy, regulatory imagination, and institutional courage. Yet the very success of India's digital transformation creates a more demanding responsibility. When technology becomes ubiquitous, it stops being innovation and starts becoming power. And power, left insufficiently governed, carries consequences that surface not in balance sheets, but in the lived experience of citizens.
+
+Much of the recent discourse on the financial sector and artificial intelligence (AI) has understandably focused on capability and near-term outcomes. Faster processing, sharper fraud detection, improved underwriting, better customer interfaces, and operational efficiency dominate presentations and board discussions. Indian banks and financial institutions are investing deeply in modernising systems, partnering with technology firms and scaling platforms that serve hundreds of millions of users.
+
+Yet it would be premature to call them digital-first or digital-best. Many institutions continue to rely on technology to mask process weaknesses and customer pain points that remain stubbornly unresolved. But finance has never been remembered for its breakthroughs alone. Each decade in global finance is recalled as much for failures of governance as for advances in technology.
+
+Innovation has a recurring habit of creating the illusion that old risks have been conquered. They never are. Technology changes the form of risk, not its nature. In many cases, it introduces new ones. AI sharpens this challenge. It increasingly influences who receives credit, how fraud is flagged, which transactions are interrupted, and how consumers are categorised.
+
+These are not neutral technical outcomes. They shape access to money, dignity, and economic agency. This is where the conversation must return to first principles. Finance is not, at its core, a technology business. It is the business of pricing risk and sustaining trust over time. Trust is slow to build and easy to erode.
+
+Indian citizens do not compartmentalise their expectations when they interact with financial systems. Younger demographics in particular approach finance conditioned by everyday digital industries that have normalised ease of use, reversibility, predictability, and rapid grievance response. When the same consumer encounters financial systems, expectations do not reset simply because a product is labelled "financial".
+
+Algorithms now shape outcomes across lending, insurance underwriting, investment advice, asset management, payments, and capital markets. Automated nudges influence household investments, credit models affects borrowers, and digital distribution increasingly blurs the line between advice and marketing. Yet accountability and fiduciary responsibility remain uneven across finance.
+
+Demographics magnify this fragility. India's financial system today serves three cohorts simultaneously: a young digital-native population that adopts quickly but has low tolerance for friction; a vast first-time formal finance cohort whose trust is experience-driven and fragile; and an ageing population that is digitally present but increasingly vulnerable to fraud and coercive nudges. There are multiple combinations of consumer psychographics within this mix.
+
+Design choices that optimise for one group can materially harm another. There is also an uncomfortable structural reality that deserves acknowledgement. India does not yet possess the depth of research, intellectual property (IP), platforms, or capital that define global AI leadership. As a result, much of the technology and advisory expertise shaping financial AI adoption is imported.
