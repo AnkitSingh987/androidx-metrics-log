@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The infra challenge in Delhis EV ambition Part One
+
+The infra challenge in Delhi's EV ambition
+
+Lhi's EV ambition For its EV policy to click, land must be made available for public charging stations and residential units wired for the future The Delhi Government recently released its Draft Delhi Electric Vehicle (EV) Policy 2026. This draft comes on the back of the Delhi EV Policy 2020, which has been extended since August 2023, when it expired. The current draft is the third version of the policy since 2025, the earlier two versions did not reach the public domain.
+
+At first blush, the draft presents an ambitious statement of intent, by proposing aggressive phase-out mandates to ban new internal combustion engine (ICE) two-wheelers from April 2028, mandating only electric three-wheeler registrations from January 2027, and electrifying government fleets entirely. To nudge individual owners towards EV transition, the policy proposes a cascading set of purchase incentives for two-wheelers, three-wheelers and goods vehicles, alongside scrappage bonuses that extend to private car buyers as well. This intent is backed by a budgetary outlay of nearly ₹3,954 crore.
+
+Behind the headline mandate lies a challenge that the policy largely sidesteps. Delhi does not yet have the infrastructure to charge the vehicles it is asking its residents to buy. Delhi currently has over 10,000 charging points, and EV charging load has surged nearly nine times, from 24 MW in 2018-19 to over 227 MW today.
+
+Some projections suggest that if Delhi were to convert its entire vehicle fleet to EVs, the city's annual incremental electricity demand would approach 26,000-28,000 GWh. This will effectively amount to adding another Delhi to the grid in terms of electricity consumption. Modelling estimates suggest that on peak demand days, even under optimistic managed-charging scenarios, this transition would add between 1,500 and 5,000 MW of additional demand on a grid whose all-time peak has been 8,656 MW.
+
+Managing this surge in demand will need infrastructure augmentation. Nodal agency In this context, the designation of Delhi Transco Ltd (DTL) as the nodal agency for planning and coordinating public EV charging and battery swapping infrastructure is perhaps the right move. It is beyond doubt that the current transmission and distribution infrastructure design cannot absorb the load that simultaneous charging of EVs will put on the system.
+
+To make EV transition a reality, thousands of transformers will need to be upgraded or replaced, new feeder lines will have to be set up, and existing lines will have to be reinforced. Whether that can be realistically achieved in the four-year window of this policy cycle remains anybody's guess. If it must be done, the policy is silent on how it proposes to achieve that, whether in terms of planning or funding.
+
+A fair few interventions will be required at the policy level to achieve this. EV charging will have to be managed in a way that the charging load remains staggered through the day and does not disproportionately add to the peak demand. This will have to be done through dynamic time-of-use electricity pricing that incentivises charging during off-peak hours.
+
+There is also the question of land, perhaps the most underestimated constraint in Delhi's EV infrastructure story. Public charging stations need physical space, and in one of the most densely built cities in the world, space does not come easily. To begin with, the draft policy does direct urban local bodies and other land-owning agencies to periodically identify suitable land parcels for deployment of public EV charging and battery swapping infrastructure.
