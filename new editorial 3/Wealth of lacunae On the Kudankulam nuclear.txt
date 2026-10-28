@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Wealth of lacunae On the Kudankulam nuclear
+
+Wealth of lacunae: On the Kudankulam nuclear plant data leak
+
+Cybersecurity, transparency are non-negotiable in vital installations The ransomware attack against a contractor involved in the Kudankulam nuclear power project is concerning, even if nothing threatening the plant's integrity was stolen. In 2019, malware was found on the same facility's administrative network, but the NPCIL maintained that the operational reactor network was unaffected. The new incident extends the same theme.
+
+India's breach disclosure regime is inconsistent and often plainly opaque. Affected organisations tend to believe admitting a breach will damage public confidence, share prices, contracts, and invite regulatory scrutiny. So, they tend to ease their language in public statements and avoid disclosure until compelled.
+
+Many organisations also lack mature incident response capabilities, not uncommonly because they treat cybersecurity as a matter of compliance rather than necessity. So, assessing what data has been affected in the early stages of an attack becomes technically impossible. According to public information, the facility's core infrastructure is unaffected; instead, a group called 'World Leaks' mounted a ransomware attack compromising systems belonging to Reliance Infrastructure, one of the engineering contractors of Units 3 and 4.
+
+The data in the incident were hosted by Yotta Data Services, which said it detected suspicious activity on its servers on May 29. According to open-source intelligence platform RansomLook, the data began appearing on World Leaks on June 11. However, the NPCIL issued a formal clarification only on July 15, following widespread media reports.
+
+Some 14.3 GB of files have been released, including the layouts of ventilation systems, floor plans of an alleged "control room", supplier and vendor lists, and insurance paperwork. While the files have not been independently authenticated, the actors and their incentives merit a closer look. The NPCIL has said that the files only pertain to infrastructure beyond the facility's nuclear island.
+
+However, such information can still serve so-called intelligence preparation activities. India is the third-most breached country and has already brooked similar attacks against AIIMS Delhi, airlines, and State government portals. In this milieu, the government has positioned Kudankulam as the centrepiece of India's nuclear power ambitions.
+
+As CERT-In is conducting an investigation and Reliance and Yotta have shared their findings with the government, CERT-In and NPCIL should also clarify the nature and authenticity of the files, whether data were exfiltrated before detection, and whether any credentials or supplier accounts have been exposed. Radical transparency is impossible here but basic cyber-hygiene and proactive communication are non-negotiable.
