@@ -1,0 +1,16 @@
+Category: Editorial
+Title: What do we mean by forex reserves Part Two
+
+What do we mean by forex reserves?
+
+Hence instead of selling in spot, a forward sale after say three months means that after this time period, there would be more dollars in the market. This reduces the noise factor in the market. The RBI could square this off any time before maturity and hence is only indicative of future action. But from a theoretical standpoint this trend shows that from virtual net buyers of forex in the forward market, the RBI has now become a seller.
+
+Gold factor There are two questions here. The first is whether one should be looking at the foreign currency reserves only or also include gold. Gold can be converted any time and should not be excluded. Besides buying gold is a conscious decision, taken more for diversification than any other reason.
+
+The second question is whether forward position should also be netted in or out of the reserves. Here it is debatable given that such positions are not entirely linked with forex market. Under the liquidity framework being pursued, buy-sell swaps of dollars is a tool, which means that the RBI buys dollars from banks for say $5 billion and provides cash on the condition that after three years, the same will be returned or sold to the banks.
+
+Banks are charged a premium for the same. It ends up as an outstanding position in the forward book of the RBI. Some would argue that there is strong reason not to include the forward position. Yet, it can also be said that these potential flows cannot be ignored when weighing the strength of the reserves and hence need to be adjusted with the total.
+
+If this is down, as can be seen in 2025-26, the reserves (including gold) would be down to $588 billion which would cover nine months of imports. The issue of inclusion of forwards would not have arisen but for the fact that the numbers have been rising of late where strategic intervention is made without disturbing current level of reserves. A compromise would be to look at two sets of import coverage ratios  -  without and with the outstanding 'forwards' position.
+
+By Madan Sabnavis The writer is Chief Economist, Bank of Baroda. Views are personal
