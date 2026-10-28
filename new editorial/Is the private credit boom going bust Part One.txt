@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Is the private credit boom going bust Part One
+
+Is the private credit boom going bust?
+
+Signs of strain are already showing. The deals lack transparency, with layers of leverage, widespread self-dealing and offshore regulatory arbitrage A defining feature of financial markets is that the most important information is often held by those least likely to reveal it. The system's inner workings are invisible to outside observers - which makes it all the more striking when leading Wall Street executives start sounding the alarm.
+
+In October, JPMorgan Chase CEO Jamie Dimon warned of "cockroaches" lurking in the private credit market. His remarks quickly reverberated across the industry, with UBS Chairman Colm Kelleher pointing to the "looming systemic risk" posed by poorly regulated private credit, which he likened to the rating-agency failures that helped trigger the 2008 financial crisis. At its core, private credit is lending that takes place outside the traditional banking system.
+
+Loans are made by investment funds, often managed by firms that specialise in corporate buyouts. Unlike bank loans or publicly traded bonds, these deals lack transparent pricing, an active secondary market, and meaningful regulatory oversight. Terms are negotiated privately, valuations are set internally, and the investors whose money is at risk  -  often pensioners and insurance policyholders  -  have virtually no ability to verify any of it.
+
+Despite  -  or perhaps because of this opacity  -  private credit grew rapidly after the 2008 crisis, as banks pulled back from riskier lending and private credit funds rushed to fill the vacuum. Today, the industry manages roughly $3.5 trillion. The rise of private credit is often framed as a story of financial innovation, with traditional banks retreating and nimbler private lenders stepping in.
+
+But a closer look reveals a troubling, eerily familiar pattern: layers of leverage, widespread self-dealing, offshore regulatory arbitrage, and a feedback loop that ties the savings of millions of retirees to risky bets on AI data centres, leveraged software companies, and bundled loans marketed as safe investments. Much of this activity is driven by private equity. When private-equity firms acquire companies, they typically rely on debt provided by private credit funds.
+
+But the initial buyout is just the beginning, as portfolio companies often undergo multiple rounds of borrowing to finance additional acquisitions, re-financings, dividend recapitalisations, and restructurings. A single deal can therefore generate several separate transactions. In many cases, the lender and the private-equity sponsor are affiliated, allowing the same parent company to collect fees on both sides of the deal while deploying other people's money  -  namely, retirees who believe their savings are safe.
+
+Over the past decade, large alternative-asset managers have taken this model a step further by acquiring life-insurance companies. Apollo's 2022 merger with Athene, which has roughly $400 billion in assets and serves more than 535,000 policyholders, helped set the template: insurers provide a steady stream of capital, and affiliated asset managers channel it into private credit, with profits generated at every step, from insurance float to deal fees and carried interest. Nearly every major alternative-asset manager has since followed suit.
+
+Traditional banks making similar loans operate under strict capital requirements. Unlike private credit funds, they must hold reserves against potential losses, submit to regulatory scrutiny that can force write-downs, recognise losses before borrowers default, and undergo stress tests whose results are publicly disclosed. Against this backdrop, it is hardly reassuring that roughly one-third of the US life-insurance industry's $6 trillion in assets is now invested in private credit.
