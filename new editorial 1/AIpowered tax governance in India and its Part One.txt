@@ -1,0 +1,20 @@
+Category: Editorial
+Title: AIpowered tax governance in India and its Part One
+
+AI-powered tax governance in India and its challenges
+
+Artificial Intelligence in India's tax administration is improving outcomes, but safeguards are needed A key tax policy challenge facing India has been the low tax-Gross Domestic Product (GDP) ratio and high levels of tax evasion. On average, during 2001-22, India's tax-GDP ratio (16.36%) was the lowest among emerging and developing economies. India loses around 4.3% of tax revenues due to tax evasion annually.
+
+At the India AI Impact Summit (February 2026), global leaders and tech titans hailed India's progress in utilising the power of Artificial Intelligence (AI) to solve real-world problems. One problem area where the application of AI is worth examining is tax revenue mobilisation and tax governance. In this context, India's Income Tax Department (ITD)'s Project Insight (PI) initiative  -  aimed at leveraging AI and data analytics to strengthen tax administration and revenue mobilisation  - warrants critical examination.
+
+The benefits Launched in 2017 and fully operational in 2019, the PI aims to encourage voluntary tax compliance, reduce high-risk cases of potential tax evasion, make tax enforcement fairer and equitable, and reduce prejudice in tax enforcement. The PI has three components. The Income Tax Transaction Analysis Centre (INTRAC) is the analytical engine that utilises AI and advanced data analytics to process financial data from multiple sources, including banking and financial institutions, property and securities transactions, credit card and GST payments, and high-value purchases, to generate a 360-degree taxpayer financial profile.
+
+Such information helps the ITD detect inconsistencies between taxpayers' declared income and their actual financial activities. The Compliance Management Centralized Processing Centre ensures behavioural compliance using information from the INTRAC. It nudges taxpayers who have filed incorrect tax returns to file correct returns using the Non-intrusive Usage of Data to Guide and Enable (NUDGE) strategy, which involves sending SMS or email reminders to the person pay taxes that match their actual economic activities.
+
+Taxpayers can either submit a revised tax return or stand by the initial returns they filed. Deploying AI in tax administration has several benefits. First, it can assist tax agencies in accurately assessing taxpayers' risk profiles and identifying tax evasion. Second, it enables tax administrators to prioritise tax evasion cases based on the size and sophistication of evasion.
+
+Third, AI can automate routine tax administration tasks, freeing tax administrators to focus on those that require greater human judgment. Fourth, AI can enhance taxpayer services by assisting taxpayers with filing correct tax returns, answering queries through smart chatbots, and preventing tax scams. Outcome of PI initiative The PI is beginning to show the results.
+
+After receiving nudges, many taxpayers utilised the ITD's updated-return feature to make voluntary changes to their original tax returns. Since 2020-21, over one crore revised returns have been filed, resulting in an additional ₹11,000 crore in taxes. Out of the 19,501 taxpayers contacted by the ITD as part of a targeted Foreign Income and Assets NUDGE campaign, 62% of them corrected the information originally reported in their tax returns.
+
+Also, 30,161 tax filers declared overseas assets totalling ₹29,208 crore and foreign income of ₹1,089 crore from cryptocurrencies or virtual digital assets. The NUDGE campaign covering 6.25 lakh taxpayers resulted in corrections of false claims for income-tax deductions amounting to ₹963 crore for political donations, and the payment of additional taxes to the tune of ₹410 crore. The average time taken to process a tax refund has decreased from 93 to 17 days.
