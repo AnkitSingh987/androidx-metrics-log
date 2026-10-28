@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Resource guzzlers
+
+Resource guzzlers
+
+Data centres should account for water, power demands Protests over data-centre projects in Maharashtra and Andhra Pradesh are a warning India should not ignore. Activists and citizens have taken to the streets over concerns that these projects will add to the strain on local water and energy supplies. Data-centre operators say advanced air-cooling technology will minimise impact on water resources, but there is no transparency on the cumulative demand these facilities will place on water, electricity and other infrastructure.
+
+Data centres are not new to India. What is changing is their scale and intensity. Installed capacity has grown from about 520 MW in 2020 to nearly 1.5 GW by mid-2025, and is set to rise sharply over the next few years. Much of this capacity is concentrated in Mumbai, Chennai, Hyderabad and Bengaluru  -  cities where power and water infrastructure are already under considerable strain.
+
+High-density AI servers consume far more electricity and generate more heat than conventional servers, demanding sophisticated cooling. India's data-centre water consumption is estimated at about 150 billion litres a year, and could rise to nearly 358 billion litres by 2030. A single 100-MW facility has been estimated to need around two million litres of water a day  -  though actual use varies widely with cooling technology and water source.
+
+The industry's response is that technology is improving fast. Operators are adopting advanced cooling systems, and some are designing facilities that use little or no water at all. That is welcome, but efficiency cannot be the whole answer: a facility that is more efficient per unit of computing can still carry a large resource footprint.
+
+This is because the scale of computing is set to expand quickly, raising the demand for reliable power. The latest wave of expansion is turning into a race for electricity and cooling infrastructure. India needs centralised guardrails and greater transparency. At present, decisions on land, water, power, environmental clearances and local infrastructure are scattered across multiple Central, State and local authorities, making it hard to assess the cumulative impact of a cluster of data centres.
+
+Citizens have no easy way to find out how much water a facility has been allocated, where that water comes from, how much power it will draw, or what additional infrastructure it will require. A national mechanism should require large data-centre projects to publicly disclose projected electricity and water consumption, source of water, cooling technology, renewable-energy use, wastewater arrangements and impact on local infrastructure  -  aggregated by district and State, so policymakers and citizens can see the cumulative burden. It may also be time to revive the National Data Centre Policy, whose 2020 draft proposed Data Centre Economic Zones  -  specialised clusters with planned infrastructure spanning power, connectivity and regulation.
+
+The goal is not to stop the data-centre boom, but to make resource costs visible and measurable.
