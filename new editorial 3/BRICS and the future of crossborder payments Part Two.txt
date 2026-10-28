@@ -1,0 +1,16 @@
+Category: Editorial
+Title: BRICS and the future of crossborder payments Part Two
+
+BRICS, and the future of cross-border payments
+
+Cross-border payments are not one problem. A traveller paying a shop in Dubai, an exporter in Surat collecting a $40,000 invoice from Rotterdam, and two central banks settling oil purchases are three different problems, with different participants, risks and rules. The first is best solved by linking domestic fast-payment systems; UPI-PayNow with Singapore took the RBI and MAS about a year-and-a-half for one corridor, and is the model now being followed with the UAE and Indonesia.
+
+The third belongs to central banks and wholesale systems such as CIPS and mBridge. The second, where most of the value in BRICS trade sits, is already being served by regulated, purpose-built products. The RBI's 2023 framework for cross-border payment aggregators shows how this works: the regulator set the rules on KYC, settlement and reporting, and licensed fintech firms, compete on speed, cost and transparency for exporters.
+
+A single BRICS protocol imposed from the top would have had to accommodate eleven countries with different convertibility regimes and very unequal trade balances. India's experience with rupee settlement for Russian oil, where surplus rupees accumulated faster than they could be used, showed how quickly such arrangements meet the trade-balance problem. No one-size-fits-all is not a hedge.
+
+It is the correct diagnosis. What's next? What should we expect next? Progress that is bilateral and layered rather than bloc-wide. Fast-payment links will come first where trade is balanced and trust is high: UPI-Aani with the UAE is under construction and QRIS-UPI with Indonesia is targeted for late 2026.
+
+Local currency settlement will grow where central banks give surplus balances somewhere to go; the RBI's decision to let vostro balances be invested in government and corporate bonds matters more here than any communiqué. The most useful thing BRICS governments can do collectively is agree on standards, for messaging formats, QR interoperability, data and dispute resolution, and let banks and fintechs build on them. The measure of success by the time China hosts the 2027 summit is not whether BRICS has a currency.
+
+It is whether an exporter in Tiruppur gets paid by a buyer in Jakarta as quickly, and as transparently, as by a customer in Coimbatore. By Movin Jain The writer is Co-founder, Skydo
