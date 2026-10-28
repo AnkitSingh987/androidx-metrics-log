@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Antitrust delayed is antitrust denied Part One
+
+Antitrust delayed is antitrust denied
+
+The Meta verdict on monopoly power offers a sobering lesson. Rather than acting post facto, mega mergers in the big tech space must be prevented When a US federal judge ruled in late November that Meta does not maintain an illegal monopoly in social media, it was a reminder that even the strongest evidence can look weak when enforcers act too late. Rejecting the US Federal Trade Commission's narrow market definition, the court instead concluded that Meta, formerly known as Facebook, competes against a broad array of rivals such as TikTok and YouTube.
+
+While legal scholars can and will dissect the opinion, the biggest takeaway is that timing matters in dynamic markets, implying that antitrust authorities must develop a preventive approach, rather than relying solely on reactive measures. The case centered on Facebook's acquisitions of Instagram in 2012 and WhatsApp in 2014, when both were unmistakably competitive threats. Facebook said so itself: internal emails and strategy documents spelled out its intention to copy, acquire, or neutralize rivals, while the firm's leaders explicitly acknowledged the existential threat posed by Instagram.
+
+FTC lawyers rarely uncover this type of smoking-gun evidence. Collapse of the case But the case collapsed under the weight of today's market reality. Instead of considering the world as it existed when the mergers occurred, the court (incorrectly) cited the rise of TikTok, Snapchat, and YouTube Shorts as evidence that Facebook lacked monopoly power.
+
+But TikTok's success hardly disproves Facebook's earlier dominance, because ByteDance, its parent company, spent vast sums on user acquisition, at one point becoming one of the largest buyers of ads on Facebook, Instagram, and Snap in the US. A Chinese company with almost unlimited capital breaking into the market is hardly proof of healthy competition. The flaws in the court's reasoning reflect a deeper problem with litigating consummated mergers: it asks judges to travel back in time and forget what they now know.
+
+Questions like "Would Instagram have become this significant without Facebook's investment?" or "What competition might have emerged if the acquisitions had not taken place?" are inherently counterfactual. It is very difficult to measure the impact of competition that never existed. This suggests that the acquisitions should have been challenged when they were first proposed  -  a difficult task, but not as hard as challenging consummated deals.
+
+Predicting the future is less formidable than reconstructing the present on the basis of an imaginary past. The Google case The flaws of late enforcement were also on display in the Google antitrust trial. Even as a US federal judge ruled in 2024 that Google had illegally monopolised general-search services, the remedy was softened by the perception that AI chatbots were already reshaping the market.
+
+Even the boldest proposed remedies centered less on restoring competition in search and more on ensuring that the next tech frontier remains open. The same dynamic was evident in the landmark antitrust case that the US federal government brought against Microsoft in the 1990s. Instead of reviving competition in operating systems, where Microsoft's dominance was entrenched, the litigation cleared space for the next generation of companies by preventing Microsoft from extending its monopoly into browsers and apps.
+
+Of course, this is a worthy goal. But illegally monopolised markets need not be treated as a fait accompli. In fast-moving markets, prevention is better than cure, which is why intervening early to block illegal mergers must be the norm, not the exception. Regulators should have prevented Facebook from acquiring Instagram and WhatsApp in the first place, but erred on the side of caution, fearing false positives and believing that the market would self-correct.
