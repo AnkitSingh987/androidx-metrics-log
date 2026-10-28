@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Will AI kill solar and wind energy Part Two
+
+Will AI kill solar and wind energy?
+
+India has placed strong emphasis on solar energy in particular and has had some success in meeting the needs of ordinary consumers through renewable expansion. However, the key question is what choices will be made when large-scale AI data centers begin to arrive. Will India rely more on coal generation, which is relatively cheap, widely available, and highly reliable, or on solar power, which is intermittent, variable, and often more expensive when reliability is taken into account?
+
+My view is that India is more likely to turn to coal to meet this demand, given its existing infrastructure and the need for dependable electricity supply. Then there is an overall question. Solar and wind were already struggling in the pre-AI days to displace coal and natural gas at the system level, despite strong expectations that they would become dominant sources of electricity.
+
+Now that AI is here and electricity demand is rising rapidly, will they push solar and wind further behind in the energy mix? By SUNIL SHARAN (The writer is an expert on energy and contributes regularly to publications in India and overseas.)
