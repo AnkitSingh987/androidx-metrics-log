@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Unfortunate fallout of cyber crime
+
+Unfortunate fallout of cyber crime investigations
+
+There were 2.8 million cybercrime complaints in 2025. But investigation has led to unfair account freeze of small businesses In the shadows of the digital boom, a new kind of "cottage industry" has emerged - one that doesn't manufacture goods, but systematically manufactures deception. While the Netflix series Jamtara - Sabka Number Ayega - brought the gritty reality of rural phishing hubs into our living rooms, it was merely the opening chapter of a much larger, more dangerous story.
+
+The series highlights an important truth  -  cyber fraud today is less about sophisticated hacking and more about psychological manipulation. Fraudsters impersonate bank officials, investment advisers, the police and the judiciary, using urgency and fear of law to trick individuals into sharing sensitive financial information. India faces a dual challenge: it's the fastest growing digital payments economy and, simultaneously, one of the most targeted nations for cyber-syndicates.
+
+The latest figure from the Ministry of Home Affairs and the Indian Cyber Crime Coordination Centre shows that India clocked a record 2.8 million cybercrime complaints in 2025, a 24 per cent increase from the number reported in 2024. While aggressive real-time intervention by authorities  -  leveraging the Citizen Financial Cyber Fraud Reporting and Management System  -  saved over ₹8,000 crore, the total financial drain remained massive. Indians lost approximately ₹22,495 crore to digital criminals alone, representing a staggering 0.7 per cent of the national GDP.
+
+As we move through 2026, the industrialisation of fraud is evidenced by the termination of over 3 crore fraudulent mobile connections by DoT and TRAI. Freeze factor Along with digital fraud, an unintended secondary crisis has surfaced: administrative overreach through widespread, indiscriminate debit-freezing of bank accounts. In the urgent effort to trace and recover stolen funds, law-enforcement agencies  -  mainly Cyber Crime Cell  -  have increasingly relied on account freezes as a primary investigative tool.
+
+These actions are frequently proving to be disproportionate to the suspected crime. Data from early 2026 indicate that while 28.15 lakh cybercrime complaints were registered last year, the resulting "blanket freezes" have trapped an estimated ₹12,000 crore belonging to innocent parties. For India's 6.4 crore MSMEs, a single suspicious credit of ₹100 can result in the total freezing of an operational account.
+
+Even a measly ₹20 credit to an unsuspecting push-cart vendor is resulting in debit-freeze. This financial paralysis for small traders and salaried professionals is a violation of the fundamental right to trade and livelihood guaranteed under the Constitution. Despite cybercrime being digital, the process of restoring frozen bank accounts remains largely physical, slow, and document-heavy.
+
+A small trader or salaried individual whose account is frozen by a cybercrime unit located in another State or region often faces what can only be described as a "justice cost", often requiring legal assistance. This geographical and procedural disconnect has become the true "pinch point" for ordinary Indians. With account unfreezing timelines stretching from four to seven months, businesses lose access to working capital during capital operating cycles, leading to stalled trade, missed payments and, in some cases, permanent financial distress.
+
+Data linked to the Indian Cyber Crime Coordination Centre indicate that over 2.6 million "Layer 1" suspected mule accounts have been flagged as authorities attempt to track layered fraud transactions. While such action may be essential to curb digital crime, judicial scrutiny has emphasised that blanket or indefinite freezing without proper judicial authorisation raises serious concerns of proportionality. Digital literacy Addressing the growing menace of digital fraud requires a coordinated response involving individuals, financial institutions, technology platforms, enforcement authorities and sectoral regulators.
+
+Strengthening digital literacy must become the first line of defence. Nationwide financial awareness campaigns, particularly in Tier-2 and rural regions, should accompany India's digital expansion. Banks and fintech companies must accelerate the adoption of AI-driven fraud detection systems, behavioural analytics, and real-time transaction monitoring to identify suspicious activities before financial losses occur.
+
+Ultimately, safeguarding India's digital future will depend not only on technological safeguards but on building a culture of digital responsibility where innovation is matched with trust, awareness, and resilience. By Ganga Narayan Rath & Chirayu Sharma Rath is a former central banker and Sharma is an independent researcher. Views are personal
