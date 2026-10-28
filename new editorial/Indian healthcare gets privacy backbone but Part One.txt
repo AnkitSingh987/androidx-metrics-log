@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Indian healthcare gets privacy backbone but Part One
+
+Indian healthcare gets privacy backbone, but devil is in details
+
+Backbone, but devil is in details Anyone who has signed a hospital consent form knows that it is quite often an exercise in blind faith rather than informed choice. The DPDP Act forces transparency into such a system. The recently notified Digital Personal Data Protection Rules, 2025, have brought into effect parts of the DPDP Act, 2023, and have started the timer for the other provisions of the Act to kick in.
+
+This is, arguably, the most significant privacy reform since the IT Act, 2000. The DPDP Act, along with the Rules, aims to foster respect for individual rights and data accountability. It will impact the healthcare sector in a big way. As with most ambitious reforms, the devil lurks in the details. The Act elevates every clinic, hospital, lab and telemedicine app to the category of "data fiduciary".
+
+It does not differentiate between a large hospital, a small clinic, a large corporation, or a start-up. Any personal data in digital form, or in non-digital form and digitised later, is subject to the Act (unless it falls in the limited exceptions in Section 3(c) of the Act). Patients become "data principals" with rights to access, correct and even erase their medical information.
+
+On paper, this is empowering. In practice, Indian healthcare now finds itself navigating a maze where the law is clear about duties, but vague about the boundaries. Anyone who has signed a hospital consent form knows that it is quite often an exercise in blind faith rather than informed choice. The DPDP Act forces transparency into such a system.
+
+Yet, consider the emergency ward. Patients don't arrive seeking privacy statements  -  they arrive seeking survival. Thankfully, the Act acknowledges this reality by permitting processing without consent during medical emergencies and public health crises. But ambiguities exist  -  post-operative ICU care, chronic illnesses, follow-up regimens  -  remain untouched by the Act.
+
+Consent architecture may need to be redesigned to include these grey zones. The Act, with the laudable objective of minimising data collection and retention, gives a wide berth to the individual to withdraw consent or to seek deletion of data. While this may be relevant for sectors such as online gaming or e- commerce, it creates complications for the healthcare sector.
+
+If a patient withdraws consent, or if there is a request to erase personal data, the fiduciary is bound to delete the said data and stop "processing" it. However, who is to take the responsibility for the treatment and health of such a patient? The Act does warn the data principal that it will be the individual who will be responsible for the consequences of the withdrawal of consent.
+
+But it is worth remembering that the DPDP Act does not take away the legal obligations of the healthcare sector. The definition of "processing" in the Act includes "erasure" and "destruction". A conservative reading would suggest that even for the deletion of personal data, the data fiduciary would need to take the data principal's consent.
+
+Without such permission, how long would the healthcare participant  -  a nursing home, for example  -  be required to retain patient data? Schedule III of the Rules lists sectors for which data retention timelines are prescribed. Healthcare, however, is absent from such timelines. A patient's medical records are lifelines, often needed years after treatment.
