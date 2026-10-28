@@ -1,0 +1,14 @@
+Category: Editorial
+Title: How do we know climate science is credible Part Three
+
+How do we know climate science is credible?
+
+The monthly values after this adjustment are thus higher or lower than the raw values by exactly the same amount in every single month. This means the difference between any two months  -  March 2005 and March 2015, say  -  is unaffected by EBAF. For example, if EBAF adds 3.6 W/m2 to the measured values, the difference between 4 and 5 in the raw data is the same as the difference between 7.6 and 8.6 in the processed data, which is 1 W/m2.
+
+The idea that Earth's energy imbalance has been increasing over the satellite record is based on these differences, which Argo data is unconcerned with. As a result, the circularity objection proves less than what the paper has claimed it does. Bedrock of credibility For added measure, scientists have also estimated Earth's energy imbalance (outgoing minus incoming) using atmospheric reanalyses, deep ocean temperature records from research vessels, and physical models informed by observed surface warming  -  all of which have been consistent with the CERES-Argo figures.
+
+If the imbalance were actually zero, the independent estimates would all have to be wrong for independent reasons. And the odds of that are extremely low. In fact, the answer to whether the paper could be right is not that one of its authors is a "clarinet instructor" (which he was at the time he worked on the paper), that its rhetoric is often obscurantist, that some of its other authors have done questionable things in the past or even that it has not passed peer-review by a "prestigious" journal.
+
+It is that the paper does not perform any independent tests of the data the way credible studies do. That is in fact the bedrock of the credibility of climate science as a whole. And any efforts that claim to overturn that must also convincingly explain how independent checks arrived at the same result while being flawed in independent ways.
+
+By Vasudevan Mukunth
