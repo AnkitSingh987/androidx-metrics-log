@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Who watches the watchman Why Indians need Part One
+
+Who watches the watchman? Why Indians need policy that safeguards data gathered by the government
+
+Why Indians need policy that safeguards data gathered by the government Before launching a surveillance system, it must create the necessary legal and institutional safeguards. We need rules on data collection that ensure data deletion after the data have served their purpose On March 24, a report was published in this newspaper detailing how the police solved two cases by utilising CCTV and facial recognition systems (FRS) deployed by Mumbai Western Railway. One case involved the harassment of a female Portuguese tourist, while the other concerned the disappearance of a 14-year-old child.
+
+CCTV and FRS have proven effective in resolving numerous cases across the country; however, when it comes to the data associated with these systems and the privacy of the general public, there are many unanswered questions. The shift toward AI and algorithm-guided surveillance is no longer restricted to metropolitan cities. On March 16, Mauvin Godinho, the Goan transport minister, informed the assembly about his plans to install AI-powered cameras at 92 locations, equipped with automatic number plate recognition to scan vehicles and link them to enforcement databases.
+
+He framed this step as a road safety measure, but the project reflects a broader pattern. Even Delhi's streets are quietly transforming into an AI-powered surveillance system. Under the guise of public safety and smart governance, the government is rolling out massive camera networks, databases, and algorithms.
+
+The promise is "faster crime response." Without regulations or clear systems to monitor these actions, constant watching could start feeling routine. While the state talks about security, safeguarding personal space is becoming harder. India's Safe City project is a leading example. Launched in Delhi in 2018, it aims to link thousands of cameras into a central police control system.
+
+In the first phase (October 2025 onwards), the city began deploying about 3,500 AI-enabled cameras, along with gunshot sensors and smart alert systems. Not just capturing footage, these cameras analyse sounds on the spot  -  detecting gunfire and picking up cries for help buried in someone's tone. Delhi's surveillance quietly shifts into something that anticipates harm before it spreads.
+
+Not just relying on cameras anymore, we build massive data silos for information. Take NATGRID  -  this system pulls together what once stayed separate. Originally conceived out of need after the 26/11 attack, it connects dots across sectors today. In early 2026, it was officially connected to the National Population Register, giving law enforcement "real-time access to family-level demographic data of nearly 119 crore residents".
+
+In practice, this means a detective with official clearance can cross-query multiple datasets to trace travel, transactions, and familial ties of suspects. All these tools rest on evolving regulations of the digital sphere. In the last few years, our government has reinforced new regulations for online platforms: The IT Rules 2021 imposed strict due diligence and traceability obligations on intermediaries.
+
+Simultaneously, India's new Digital Personal Data Protection Act (2023) provides a framework for data processing and limits certain uses of personal data of others. These laws aim to protect citizens, but they focus largely on platforms and providers, not on the government's own data systems. There is currently no surveillance law requiring transparency on how the state collects, retains or uses information from cameras or databases.
+
+Worryingly, even official digital systems have shown serious flaws. In 2023, a hacker's bot quietly exploited India's CoWIN portal, allowing anyone to enter a phone number and retrieve the holder's name, gender and, if provided, passport or Aadhaar number, revealing just how quickly government-run policy can go off track. Trust slips away when outcomes unfold this way.
