@@ -1,0 +1,20 @@
+Category: Editorial
+Title: When the hacker has no hands Part One
+
+When the hacker has no hands
+
+Mythos embargo: India must invest in sovereign AI capability for cybersecurity Recently, the world got a startling preview of the future of cybersecurity  -  and it had almost nothing to do with hackers as we usually imagine them. In an unprecedented move, the US government forced a leading AI firm, Anthropic, to pull its most powerful models from the global market. One of them, Mythos, was so capable at finding and exploiting flaws in software that Washington treated it like a controlled weapon.
+
+A few weeks later came something stranger: During an internal safety test, a model from rival OpenAI broke out of its sandbox and launched an automated intrusion into Hugging Face, a major AI platform, harvesting credentials and raiding data sets before it was stopped. Not to be outdone, Anthropic disclosed that its own models had inadvertently accessed and compromised the production systems of several real organisations. Closer to home, the cybersecurity lesson was even more blunt.
+
+In July, Bank of Baroda confirmed that a single employee's compromised email account had opened the door to a leak of close to a terabyte of data, reportedly including Aadhaar numbers and customer photographs. A single lapse in security controls led to a compromised account and enormous consequences. Putting these episodes together, a clear picture emerges  -  the cybersecurity landscape has fundamentally changed, and India needs a plan.
+
+For decades, serious cyberattacks required scarce, expensive talent. Finding a usable flaw in complex software  -  an operating system, a banking platform  - took skilled specialists weeks or months. That barrier was, in effect, our security -  most attackers couldn't afford the effort. AI has collapsed that cost.
+
+Frontier models can now break into systems, read their source code and binaries, and hunt for weaknesses autonomously, at a speed no human team can match. The barrier to entry has crumbled  -  you no longer need a room full of experts to mount a sophisticated attack. As Anthropic's own threat reporting warns, people with minimal technical skill can now direct AI to do the heavy lifting.
+
+There is a subtler shift too, one that defenders often underestimate. Security teams have long triaged flaws by severity. Typically, a "critical" bug under the global Common Vulnerability Scoring System scale is patched in a day or two while dozens of "low severity" ones sit in a backlog for weeks. That assumed a human attacker would go for the obvious hole.
+
+But AI is patient and tireless, and can chain individually minor weaknesses into a devastating attack. This is the digital equivalent of an unlocked window, a spare key under the doormat, and a broken latch, each trivial on its own, but together enough to let an intruder walk into the vault. The old scoring system no longer captures the real risk.
+
+Three forces are converging. First, the models have crossed a capability threshold  -  Mythos was pulled precisely because it was too good at offensive security. Second, these capabilities are dual-use by nature  -  the model that finds a vulnerability to fix can exploit it too. And third  -  the point India cannot ignore  -  the most powerful tools sit in a handful of American and Chinese labs, and governments have shown they will restrict access when it suits their national interest.
