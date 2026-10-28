@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Indias policy signalling problem Part Two
+
+India's policy signalling problem
+
+In reality, economies and societies are complex adaptive systems characterised by feedback loops, threshold effects, and endogenous responses. A marginal regulatory change can trigger discontinuous reactions once actors coordinate expectations (as in capital gains taxation or import licensing). Governments tend to model first-order compliance effects while systematically underweighting second-order behavioural adaptations such as deferral, arbitrage, lobbying, exit, or legal contestation.
+
+The result is predictable policy overshoot followed by corrective rollback. Third is structural information asymmetry. The state does not observe private adjustment costs, informal sector behaviour, or evasion strategies, nor can it precisely identify the counterfactual baseline absent intervention. Administrative data sets are compliance-focused, backward-looking, and lagged, making them weak instruments for anticipation.
+
+Actors with the greatest exposure to policy also have the strongest incentives to misrepresent likely responses during consultation, further degrading foresight. Fourth, modern political systems reward speed, signalling, and decisiveness, not experimentalism or adaptive learning. Policies are framed as commitments rather than hypotheses, discouraging pilot phases, sunset clauses, or reversible design.
+
+Once announced, feedback is treated as opposition rather than information. This produces a paradox: governments become responsive only after reputational damage occurs, converting what could have been ex-ante learning into ex-post reversal, eroding credibility even when intent is defensible. Policy uncertainty functions as an implicit tax on expectations.
+
+It raises discount rates, delays investment, and re-prices risk upward as firms, investors, and innovators shift from commitment to caution, asking not whether a policy is sound but whether it will endure. While democratic course correction is legitimate and often necessary, frequent and abrupt reversals transform flexibility into fragility, eroding credibility rather than improving outcomes. India's durable reforms such as the GST and Insolvency and Bankruptcy Code succeeded precisely because they were preceded by consultation, sequencing, and institutional buy-in; recent volatility stands in sharp contrast.
+
+The deeper danger is not uncertainty per se but the progressive weakening of reform signalling, when every announcement is discounted for rollback risk, even well-designed policies lose force. Sustainable growth therefore demands not just boldness in policy, but durability in design and execution. By Aasheerwad Dwivedi & Aditya Sinha, Dwivedi is Assistant Professor (Economics), Faculty of Management Studies, Delhi University; Sinha writes on macroeconomic & geopolitical issues Views are personal
