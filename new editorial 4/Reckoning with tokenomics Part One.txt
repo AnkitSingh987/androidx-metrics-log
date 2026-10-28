@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Reckoning with tokenomics Part One
+
+Reckoning with tokenomics
+
+The narrative has now moved to how much value is being extracted from each token The anxiety around spiralling IT related costs, and fears about the AI bubble bursting persist. Owing to this, the South Korean stock market crashed 10% on June 23. Other Asian markets, including India followed suit, with varying impact, and it continued the following day.
+
+The economics of AI tokens and their mounting consumption must share the blame. Goldman Sachs Research estimates a massive, 24-fold increase in token consumption by 2030, to about 120 quadrillion tokens per month, according to their senior analyst Jim Schneider. The BIS (Bank of International Settlements) Annual Economic Report, released on June 28, draws attention to financial fragilities, also arising from the sustainability of AI-related investments.
+
+What are tokens? When we use generative AI, we give instructions, mostly written or spoken. We assume the model understands our instructions. In reality, human language cannot be processed by AI language models in its organic form. It converts our prompts into tokens with great fluency, giving the impression of comprehension.
+
+Under the hood, it is a sophisticated simulation of understanding  -  converting prompts into mathematical patterns, a fascinating aspect of human-machine interaction. A token is the currency of neural networks. It breaks the input string into smaller pieces. Common small words like "and" and "the" are assigned a single token, while longer words, technical jargon, and complex code need many more.
+
+If you input a large and complex document, the system will consume tokens rapidly. Non-English languages consume significantly more tokens. When tokens are used for images, audio, or video, they are divided into smaller patches, each requiring many tokens. If the token limit is breached, older information is dropped from the conversation.
+
+With all sensory inputs becoming a sequence of standardised tokens, AI achieves a unified approach across data types and diverse digital environments. Tokens make machine intelligence billable. The consumption of tokens during the training of models runs into billions, even trillions, of tokens, as models ingest enormous data sets across books, websites, news items, research papers, code repositories, and more.
+
+It also studies patterns relating to grammar, facts, logic, and domain associations. More tokens are required to train for reasoning tasks. Economics: Larger transformer models have larger token capacity or context widows, and can ingest detailed reports, long transcripts, and even books. They deal relatively more effectively in respect of involved contract analysis, research summaries, and financial reporting.
+
+Tokens related to answering questions are tied to intermediate thinking steps as well. Service providers price their services based on the consumption of input and output tokens. Organisations are now waking up to large bills from using AI  -  called "token spend explosion"  -  a classic Jevons Paradox situation where unit token costs are lower but overall consumption and expenditure rises.
+
+Why so? Because, context windows are larger, more autonomous agents are deployed, and more models are invoked. Auditors jump into the fray when that happens, to question whether the money spent is producing output in proportion. Dashboards are introduced to track the cost  -  per transaction, per workflow, per document, per customer, per change, and per hour.
+
+And then HR imposes rules around models, usage thresholds, and consumption ceilings. Organisations are still figuring out how to pack intent, content, and precision into token budgets. The RBC Capital Markets CIO survey for 2026 found that the dominant view was that AI token budgets are both manageable and sustainable, despite nine out of 10 respondents exceeding their spending plans.
