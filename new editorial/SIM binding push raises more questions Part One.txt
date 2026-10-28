@@ -1,0 +1,24 @@
+Category: Editorial
+Title: SIM binding push raises more questions Part One
+
+SIM binding push raises more questions
+
+Without clear legal authority, structured consultation, and proportionate design, it risks undermining user trust, innovation, and the very digital growth it seeks to protect India's messaging platforms are no longer just tools for personal communication. They underpin digital commerce, service delivery, and everyday economic participation at scale. As India pushes towards becoming a trillion-dollar digital economy, regulatory decisions affecting this ecosystem carry consequences that extend far beyond narrow questions of compliance.
+
+We must aim for optimal regulation using the tool of impact assessment. The department of telecommunications' recent move to mandate SIM binding for some messaging applications must hence be evaluated not only through the lens of cybersecurity, but also for its legal clarity, economic impact, and long-term implications for trust and innovation. The stated objective of SIM binding is to prevent misuse of mobile numbers and curb fraud, impersonation, and unauthorised access.
+
+The direction requires messaging apps that use mobile numbers as identifiers to remain linked to a specific SIM. While the intent is understandable, the approach introduces uncertainty. It raises questions about regulatory ambiguity, proportionality, and execution in an economy that has historically operated outside telecom-style compliance frameworks.
+
+The Telecommunications Act, 2023, defines telecom services and the SIM-binding directions flow from newly notified Telecom Cyber Security Rules. The Act is designed to regulate licensed telecom providers, and OTT messaging services are not licensed telecom service providers. They have traditionally been regulated under the Information Technology Act, 2000.
+
+Extending telecom-style obligations to OTT platforms without explicit legislative authority risks failing basic tenets of legality and proportionality. From a policy standpoint, this reflects the classic tension between interventions designed to correct perceived market failures and the need to respect the operational boundaries of sectors. Subjecting messaging platforms to a regulatory framework meant for licensed carriers risks creating compliance uncertainty, increased operational costs, and sending mixed signals to investors and innovators.
+
+In fast-moving digital markets, regulatory unpredictability can be as damaging as absence. Process concerns further compound matters. The directions appear to have been issued without structured stakeholder consultation, public comment, or technical feasibility assessments. Without consultation, regulators risk overlooking implementation challenges, misjudging proportionality, and triggering unintended disruptions.
+
+This is particularly problematic in a sector where technology, user behaviour, and security are closely linked. The practical impact of SIM binding will be felt most acutely by users. Continuous verification complicates onboarding, device changes, SIM swaps, and international travel. Account recovery and re-verification processes may become more frequent, increasing friction in communications.
+
+Preliminary findings from an ongoing survey by CUTS suggest messaging apps are used across multiple devices, shared phones, and non-SIM environments, including during travel and work. Many respondents indicated that periodic SIM-based re-verification would disrupt workflows and reduce communication frequency. This underscores the need for evidence-based policy.
+
+Privacy concerns are intertwined with these operational issues. Continuous SIM verification would create new data trails like device IDs, location, and usage metadata that platforms must retain. This creates new repositories of sensitive data, increasing exposure to breaches and misuse. Users may consent to these processes without fully understanding the scope or duration, raising concerns about informed consent and long-term data retention.
+
+In a digital economy built on trust, such friction points without clear safeguards is a strategic risk. The security gains must also be weighed against existing alternatives. Messaging platforms already deploy multi-factor authentication, AI-driven fraud detection, and behavioural analytics to identify misuse.
