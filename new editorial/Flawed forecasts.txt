@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Flawed forecasts
+
+Flawed forecasts
+
+Poor quality of data hampers policymakers in their decision-making. This hurts outcomes. Former Reserve Bank of India (RBI) Governor YV Reddy is believed to have remarked that while the future is uncertain everywhere, in India even the past is uncertain. That quip captures the dilemma of RBI governors who must frame monetary policy using data that, as another former Governor Duvvuri Subbarao noted, can be "analytically bewildering".
+
+Poor data quality and long reporting lags have long undermined efforts to forecast inflation or GDP. The frequent and significant revisions to India's economic data also make its historical figures as uncertain as the future projections. The RBI's recent overestimation of inflation has once again spotlighted the limitations of its models.
+
+The variance for the March quarter was a sizeable 0.7 percentage points - possibly the largest in years - though the deviations for the next two quarters were much smaller at 0.2 and 0.1 points. Even so, the December quarter projection could also overshoot the actual print, forcing a rethink of the 2.6% inflation forecast for FY26. Such revisions are unwelcome, given that corporates use inflation projections to set pricing strategies.
+
+This time, the RBI was not alone. Other forecasters, too, were caught off guard by the sharper-than-expected correction in food prices after a strong harvest. Economists note that most models rely heavily on historical patterns to predict how key variables might behave. But food inflation has been unusually volatile, and the traditional relationship between output and price has broken down.
+
+How do base effects complicate the equation? Base effects have further complicated calculations. Adding to the complexity is the impact of the mid-August goods and services tax (GST) rate cuts: while prices of some goods have fallen in line with lower rates, others have been revised upward, making inflation estimation harder.
+
+GDP forecasting is no easier. Data for a large segment of companies - and for the informal economy, which is significantly larger than the formal one - becomes available only with long delays. As a result, high-frequency indicators often appear disconnected from headline GDP numbers. Recently, economists have tended to underestimate real GDP as inflation collapsed.
+
+In the June quarter, real GDP growth came in at 7.8% year-on-year, flattered in part by deflator dynamics. Another emerging concern is the sharp decline in exports to the US after the imposition of a 50% tariff on a range of goods, which will inevitably hit corporate revenues and household incomes. To strengthen forecasting reliability, India urgently needs better-quality, more timely data.
+
+Employment measurement, in particular, remains a weak spot; more accurate labour market data would help assess incomes and consumption. Many existing surveys suffer from small sample sizes and insufficient geographic coverage. The government is reportedly working to strengthen around 200 critical data sources and overhaul several indices - including more frequent base-year revisions - to better reflect the contemporary economy.
+
+What is required for correction? Improved data collection alone will not suffice. Forecasting models, too, must evolve. Greater use of real-time indicators, satellite and transactional data, artificial intelligence-based nowcasting, and dynamic modelling could help reduce lags and improve predictive accuracy.
+
+Equally important is transparency: the RBI and government statistical agencies should publish model assumptions more openly to enable informed debate and external scrutiny. Ultimately, robust monetary and fiscal policy cannot rest on guesswork. Reliable statistics are a public good - critical not just for macroeconomic management but also for business decisions and democratic accountability.
+
+India has the capacity to build a world-class statistical architecture; the imperative now is to act with urgency. Without such reforms, policy will continue to lag reality, and outcomes will remain suboptimal.
