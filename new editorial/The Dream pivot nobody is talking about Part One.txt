@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The Dream pivot nobody is talking about Part One
+
+The Dream11 pivot nobody is talking about
+
+In today's Finshots, we explain how India's biggest fantasy sports platform is transforming into a data, AI, and fintech conglomerate. The Story On August 21, 2025, somewhere around 10 million Indians opened Dream11 out of habit. Some checked it before getting out of bed. Some had already been on it for hours, picking squads for the day's match.
+
+A few had also stayed up past midnight. And that morning, there was this notification waiting for them: "In view of the recent development pertaining to 'The Promotion and Regulation of Online Gaming Bill, 2025,' we are pausing all 'Pay to Play' Fantasy Sports contests." That was it. A legal sentence on a push notification was the effective end of a business seventeen years in the making.
+
+Over 95% of Dream11's revenue disappeared quite literally overnight. But the truly jaw-dropping part isn't even the ban. It was about two years before this that the government had also sent Dream11's parent company a GST demand notice for ₹28,000 crore in retrospective taxes. Dream11's annual profit that year was ₹188 crore.
+
+The notice was for roughly 150x that. For a company like Dream11, which practically built the fantasy sports ecosystem in India, this was a massive shock to the system. Their core paid-contest business, which was the cash cow that funded their massive marketing campaigns and IPL sponsorships, was suddenly staring at razor-thin margins.
+
+But when you have over 300 million registered users, you don't just fold your cards. You pivot. And Dream11's parent company, Dream Sports, has pivoted in a way that very few people are paying attention to. They are no longer trying to be just a fantasy sports platform. Instead, Dream Sports is unbundling itself into a diversified conglomerate, if you will.
+
+The group has been spun off into eight distinct, startup-like units. You have the OG Dream11 handling fantasy sports, FanCode for sports merchandising and streaming, DreamSetGo for premium sports experiences, Dream Cricket, Dream Money, Dream Horizon, a philanthropic foundation, and perhaps the two most intriguing pieces of the puzzle: DreamStreet and Dream Sports AI. Let's talk about DreamStreet first.
+
+In a surprising move, Dream11 is entering the fiercely competitive stockbroking space. Through DreamStreet, they are launching an AI-enabled investing platform aimed specifically at first-time retail investors. At first glance, this might sound bizarre. What does a fantasy cricket app have to do with the stock market?
+
+But what if we flip the question, and ask: What if Dream11 was never really in the fantasy sports business? What if it were always in the business of predicting and influencing human behaviour? Because both fantasy sports and stock trading (not boring old investing) rely on the same human emotion: the appetite for risk.
+
+And this brings us to the crown jewel of their new pivot: Dream Sports AI. For years, people thought Dream11 was just a place to build virtual cricket teams. But beneath the surface, every time a user agonised over making Virat Kohli their captain, swapped out a bowler based on pitch conditions, or threw in ₹50 on a wildcard team combination, Dream11 was collecting data.
+
+As a result, Dream11 has built one of India's richest and most granular behavioural datasets. They know how millions of users think about players, match conditions, risk, and probability before a game even begins. The company itself has mentioned that they use AI, ML & predictive analytics to map user preferences, optimise costs, and deliver a highly personalised experience at a massive scale.
