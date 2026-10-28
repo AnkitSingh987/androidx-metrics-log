@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Yes Banks turnaround explained Part Two
+
+Yes Bank's turnaround explained
+
+This quarter, however, tells a different story. Net interest income rose 17.5%, operating profit jumped more than 25%, and the management said this growth came despite a sharp fall in treasury income and recoveries from security receipts. So you could say that Yes Bank is increasingly making money from banking itself.
+
+But there's another number investors watch closely: Return on Assets (RoA). It measures how much profit a bank earns for every rupee of assets it manages. For Yes Bank, this metric has dramatically improved from -7.1% during the crisis to around 0.9% today. That's a huge turnaround. But it's still behind top private banks like HDFC Bank and ICICI Bank, both of which generate an RoA of over 1.5%.
+
+2. Do customers trust it again? (Deposits & CASA) For most businesses, revenue is the ultimate vote of confidence. For banks, it's deposits. If people don't trust a bank, they simply won't leave their money there. That's why Yes Bank's deposit growth is perhaps one of the strongest indicators that confidence is returning.
+
+Deposits have grown by more than 14% year-on-year to over ₹3.15 lakh crore. For a bank that witnessed a depositor panic in 2020, this suggests customers are once again willing to trust the institution with their savings. Similarly, advances have grown by over 18%, indicating that borrowers too are increasingly comfortable building long-term relationships with the bank.
+
+But deposit growth alone doesn't tell the full story. Banks also care about where those deposits come from. Money kept in Current and Savings Accounts (CASA) is especially valuable because it's usually cheaper for banks and customers tend to leave it there for longer. In Q1 FY27, Yes Bank's CASA ratio stood at 32.7%, while retail and branch deposits made up nearly 60% of its total deposits.
+
+The bank has also become less dependent on a handful of large depositors. Instead, its deposits now come from a much wider pool of customers, making its funding base far more stable than it was during the crisis. 3. Is it lending responsibly? (Loan growth + NPAs) A growing loan book is meaningless if the loans eventually go bad.
+
+That's precisely the mistake that pushed Yes Bank into a crisis in the first place. So, the real question isn't whether the bank is lending more, but whether it's lending better. The numbers suggest meaningful progress. Gross NPAs (Non-Performing Assets or loans where borrowers haven't repaid the principal or interest continuously for 90 days or more) have fallen to 1.3%, while net NPAs have declined to just 0.2% from a peak of 16.8%.
+
+Also, fewer fresh loans are turning bad, probably because the bank's underwriting standards have improved and new loans are being sanctioned more carefully than before. Now, this didn't happen overnight. In 2022, Yes Bank transferred nearly ₹48,000 crore worth of older NPAs to JC Flowers Asset Reconstruction Company.
+
+Think of it as moving decades of unresolved baggage into a separate vehicle so the bank could focus on writing new loans instead of constantly firefighting old ones and rebuilding from a much cleaner balance sheet. More importantly, the bank appears to have changed where it lends. Before the crisis, Yes Bank had become heavily dependent on a handful of large corporate borrowers.
+
+Today, retail and SME loans account for nearly 60% of its loan book, compared to roughly 36% around FY20. And that's a good thing because thousands of smaller loans are generally less risky than betting heavily on a few large corporate groups. 4. Can it survive another crisis? (Capital adequacy) Even well-run banks experience bad loans during economic downturns.
