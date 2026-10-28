@@ -1,0 +1,26 @@
+Category: Editorial
+Title: AI is becoming everyday clothing Part One
+
+AI is becoming everyday 'clothing'
+
+It is steadily becoming a part of ordinary life, making familiarity with it increasingly important for work, learning, and economic relevance The question, "I am not a science student or software engineer. Do I really need to learn about artificial intelligence?", sounds reasonable. The world of AI, wrapped in technical vocabulary, still appears intimidating to many people.
+
+For someone studying commerce, law, medicine, humanities, or management, AI often feels like a specialised domain belonging to somebody else. Yet the reality unfolding around us suggests otherwise. Most of us are already interacting with AI systems every single day, often without consciously recognising it - think bank helplines, e-commerce app algorithms, or navigation apps with routes continuously changing in response to real-time behavioural data.
+
+Understandably, much of the public conversation around AI remains centred on jobs. Across industries, employees worry about automation, redundancy, and shrinking opportunities, while technology optimists argue that entirely new categories of work may emerge over time, much as earlier industrial and digital revolutions created professions once unimaginable. The balance between disruption and opportunity remains uncertain.
+
+Yet AI is already reshaping far more than employment - how students learn, citizens consume information, businesses communicate, families make decisions, and institutions interact with society. AI is steadily becoming a part of everyday living. This is why the current public conversation around AI often misses the larger point.
+
+Many still perceive AI as a specialised skill relevant only to coders, engineers, or Silicon Valley entrepreneurs; however, AI is embedding itself into the operating systems of modern society. The simplest way to understand this transition is perhaps through the analogy of cloth. A few decades ago, people purchased fabric and approached a tailor for stitched garments.
+
+Industrial manufacturing gradually transformed apparel into a mass-market commodity available across income groups and geographies. Tailoring did not disappear. It evolved into a premium service linked with bespoke craftsmanship and personalisation. AI appears to be approaching a similar moment. Today, sophisticated AI capabilities can be accessed almost as a utility.
+
+Simultaneously, corporations and governments continue investing in highly customised AI systems for specialised institutional purposes. AI therefore exists both as a mass-market layer of everyday life and as a strategic capability shaping economies and institutions. One of the most consequential aspects of AI may be its ability to compress expertise.
+
+Tasks once requiring specialised teams or years of training are increasingly accessible through intelligent systems on an ordinary smartphone. A small entrepreneur today can produce marketing material, analyse data, or draft communication with capabilities that previously belonged only to larger institutions with greater resources. Even creative and routine work is changing rapidly.
+
+Young professionals draft presentations through AI-assisted platforms. Students summarise research material using generative AI tools. Small traders generate catalogues and multilingual marketing campaigns without large budgets. Families now ask AI systems for travel plans, recipes, tax explanations, and financial guidance.
+
+During elections, AI-generated audio clips and synthetic political messaging have already begun entering public discourse, raising difficult questions about misinformation and trust. AI is already inside homes, offices, and smartphones. The true disruption of the AI era may lie less in machines acquiring intelligence and more in the harsh reality that individuals and societies may increasingly be compelled to adapt continuously simply to remain relevant.
+
+Earlier generations memorised multiplication tables extensively and performed arithmetic manually as a matter of educational discipline. The arrival of calculators altered those habits permanently. Mathematical capability did not disappear. Human engagement with mathematics evolved alongside technological assistance.
