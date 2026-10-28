@@ -1,0 +1,24 @@
+Category: Editorial
+Title: AI exuberance in finance has real costs Part Two
+
+AI exuberance in finance has real costs
+
+For many digitally focused financial institutions, the largest recurring expenses flow to global technology platforms for customer acquisition, infrastructure, and analytics. This creates invisible but material dependence on systems and standards built elsewhere. While it may be tempting for the polity and policy ecosystem to fuel urgency around AI and urge every sector to become digital-native and AI-led, such exuberance must be tempered with realism.
+
+The global AI and quantum computing landscape is shaped by geopolitics, export controls, platform dominance, and concentrated IP. India remains shallow in core AI and quantum capabilities even as adoption rhetoric grows. Pushing industries to race ahead without simultaneously building an ecosystem of research depth, talent, governance expertise, and regulatory comprehension risks locking the nation into dependencies that are difficult to unwind.
+
+This structural dependence also sharpens questions of accountability and consumer protection. Sooner than later, India must align with global best practices that place primary onus and liability for cyber and digital fraud on licensed financial institutions. Regulated entities are better positioned to mitigate, absorb, insure, and manage such risks, and should thus be held responsible for strengthening consumer digital literacy as an integral part of system resilience.
+
+Ethics, in this environment, cannot remain aspirational. Responsible AI requires explicit boundaries around decision delegation. Which decisions AI may assist, which it may execute autonomously, and which must remain human-led because they carry ethical, distributive or systemic consequences are governance questions.
+
+Human oversight remains the weakest link. Many AI failures trace not to models but poor supervision, inadequate training, and a culture that treats compliance as formality. Human-in-the-loop mechanisms often exist on paper while being discouraged in practice by scale pressures and institutional norms.
+
+There is also a political economy dimension that can't be ignored. The financial sector too operates within capitalist incentives. Speed, scale, and valuation are rewarded. Fear of missing out fuels rapid adoption of emerging technologies, often accompanied by jargon that dazzles more than it clarifies.
+
+Governance conversations are postponed not because institutions are malicious, but because incentives rarely align with long-term consumer outcomes. Harm, when it occurs, often materialises beyond leadership evaluation windows. This is why regulation exists. Not to slow innovation, but to discipline it.
+
+Regulatory forbearance and pilots were appropriate in an early-stage ecosystem. At scale, prolonged exceptionalism becomes a risk of its own. Shared standards, drafted by regulators with industry inputs, can curb uncertainty, enhance supervisory comfort, and protect citizens from the negative externalities of fragmented practices.
+
+As financial systems become more automated and less visibly human, trust cannot be treated as a residual outcome of compliance. It must be managed as scarce public infrastructure. New regulatory and policy frameworks for AI deployment should not be hurried by political exuberance, especially when domestic capabilities remain uneven.
+
+Without parallel investment in indigenous companies, supervisory talent, institutional understanding, and digital sovereignty, accelerated rule-making risks formal compliance without substantive control. Innovation that forgets the citizen ultimately undermines itself. By Srinath Sridharan, The author is a corporate advisor and independent director Disclaimer: The views expressed are the author's own and do not reflect the official policy or position of Financial Express.
