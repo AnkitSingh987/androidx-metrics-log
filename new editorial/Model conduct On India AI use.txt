@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Model conduct On India AI use
+
+Model conduct: On India, AI use
+
+India must improve access to AI resources, and upskill its workforce India has been regulating Artificial Intelligence (AI) use by expecting due diligence from platforms under the IT Act and Rules, regulating the financial sector, and with privacy and data protection Rules. It does not yet have a consumer safety regime that deals with the state's duty of care. China pitched such a regime with draft rules that it unveiled last week, which target emotionally interactive services, and propose to require companies to warn against excessive use and intervene when they detect signs of extreme emotional states.
+
+If these rules seem justified for targeting psychological dependence that general rules about unlawful content do not address, they may also be harsh because expecting providers to identify users' states can incentivise more intimate monitoring. India's posture is less intrusive, but also more incomplete, because it banks on existing laws. Thus, it regulates adjacent risks but has not articulated a duty of care vis-à-vis AI product safety, especially for psychological harms.
+
+MeitY has used the IT Rules to push platforms to curb deepfakes and fraud, and define and label "synthetically generated" content. Financial regulators have also adopted structural measures, with the RBI setting expectations to govern model risk in credit and developing its FREE-AI framework process and SEBI pushing for clear accountability on how regulated entities use AI tools. While some measures are preemptive, MeitY has been largely reactive.
+
+India has a large ecosystem that adopts models but is far behind the U.S. and China in building frontier models of its own. In this context, it should beware the cons of 'regulate first, build later', especially since domestic capacity is lacking. A more practical way might be to consider how it can nurture a frontier model and govern the overall use of models, many of which will remain privately built and foreign for a while, inside Indian markets.
+
+On the first count, India can focus on improving access to computational resources, upskilling the workforce, increasing public procurement, and translating research to industry while sidestepping the pitfall of paralysis by consensus, which could increase dependency. On the second, India should consider regulating downstream use more assertively without choking upstream capability. It can do this by adding obligations on companies that are deploying products in high-risk contexts, and regulating how they monitor and respond to a model's behaviour, to existing privacy and consumer protection rules, for example, by expecting companies to submit incident reports, rather than requiring them to monitor users' emotions.
+
+This way, India can write rules for how Indians use models without assuming that the global technology trajectory will rearrange itself to match its preferences.
