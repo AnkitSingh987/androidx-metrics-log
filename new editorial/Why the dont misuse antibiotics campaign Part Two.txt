@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Why the dont misuse antibiotics campaign Part Two
+
+Why the 'don't misuse antibiotics' campaign doesn't work
+
+Without culturally grounded metaphors and local forms of storytelling, AMR communication struggles to land. Campaigns also falter because they treat the public as a single mass. Antibiotic use behaviours differ dramatically by region, occupation, caste, gender, and access to healthcare. A pig farmer in Uganda, a mother in rural India, and a pharmacist in Vietnam inhabit very different antibiotic realities.
+
+There is also a difference between broad public messaging and the deeper, sector-specific engagement that can shift practice. What works in a government hospital in Kolkata will not work in a poultry farm in Tamil Nadu, or an aquaculture cluster in Andhra Pradesh. These are not "segments" of the public; they are distinct communication and engagement environments; conflating them leads to campaigns that do little for any of them.
+
+In India and many LMICs, most antibiotic transactions occur outside formal health systems. These providers, both of human and animal health, act as de facto prescribers, yet they often remain outside the scope of awareness programmes. No campaign can meaningfully shift antibiotic practices without engaging this vast informal marketplace and addressing the commercial determinants.
+
+Most campaigns invoke One Health but only rhetorically. Livestock, poultry, fisheries, and aquaculture account for a large share of global antimicrobial use and are central to the spread of resistance. Yet, communication rarely addresses these sectors or the environmental pathways distributing resistant pathogens through wastewater, slaughterhouse discharge, and agricultural run-off.
+
+Antifungal and antiviral resistance also receive almost no attention despite their growing threat. Vaccines, diagnostics, drug quality, and environmental controls are among the most potent tools to reduce antibiotic demand and prevent resistance. Yet they are rarely featured in public messaging, reinforcing a belief that AMR can be addressed solely by improving individual behaviour.
+
+Finally, most campaigns lack meaningful evaluation in a One Health framework. "Increased awareness" is often measured through small surveys rather than actual behaviour change or system outcomes. The heavy focus on WAAW, with minimal follow-through during the rest of the year, also undermines impact.
+
+The work under NAP 2.0 needs a paradigmatic shift in how we will communicate AMR in the years to come. This requires (a) acknowledging the multiple epidemics within AMR, (b) adopting culturally rooted, linguistically accessible messaging, (c) distinguishing between broad public communication and sector-specific engagement, (d) integrating informal providers, (e) elevating the animal and environmental dimensions, and (f) embedding rigorous evaluation. AMR is too systemic, too urgent, and too consequential to be tackled with superficial slogans.
+
+By Rajib Das Gupta Dasgupta is chairperson, Centre of Social Medicine & Community Health, JNU, and Bhagawati is Senior Research Analyst, One Health Trust
