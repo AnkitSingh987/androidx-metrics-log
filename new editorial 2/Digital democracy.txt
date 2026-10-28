@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Digital democracy
+
+Digital democracy
+
+Social media platforms need to assume responsibility The recent student protests have underscored a reality that democracies across the world are grappling with: technology has become both an enabler of legitimate democratic expression and a powerful instrument for manipulation and control. The events have exposed vulnerabilities on two fronts: the potential misuse of technology by the state in the name of maintaining public order, and its exploitation by sections of protesters and anti-social elements to spread misinformation and inflame public sentiment. Governments have a legitimate responsibility to maintain law and order.
+
+If credible intelligence points to attempts to incite violence or coordinate criminal activity, temporary restrictions on communication or the identification of those involved in unlawful acts may be warranted. Yet such powers must remain confined to exceptional situations and be exercised within the confines of the law. The blocking of internet services around the protest site, the reported restrictions on applications such as Bitchat, the use of surveillance technologies to identify protesters, and the removal of social media posts critical of the government have raised concerns over excessive state intervention.
+
+Digital surveillance, internet restrictions and content takedown orders should be guided by the principles of necessity, proportionality and transparency. There must be clear legal standards, independent oversight and avenues for judicial review to ensure that extraordinary powers are used only for the purposes permitted by law and never to settle political scores or suppress legitimate dissent. The other lesson from the protests is equally important.
+
+Social media platforms were misused by some participants and vested interests to circulate fake images, manipulated videos and inflammatory content designed to provoke outrage rather than informed debate. Abusive posts and fabricated narratives gained traction with alarming speed, demonstrating how easily misinformation can overwhelm facts during moments of public tension. This is not merely an Indian phenomenon.
+
+Digital platforms have repeatedly been exploited to amplify propaganda, spread rumours and mobilise unrest. The emergence of generative artificial intelligence has lowered the cost and increased the sophistication of such campaigns, making fabricated content harder to detect and easier to disseminate. Social media companies can no longer afford a hands-off approach.
+
+While they must remain vigilant against overzealous censorship, they also have a responsibility to act swiftly against demonstrably manipulated media, coordinated disinformation campaigns and content that incites violence or hatred. Transparency in moderation decisions, stronger detection of AI-generated content and accountability for repeat offenders are essential if digital platforms are to remain spaces for democratic discourse. Technology itself is neither friend nor foe.
+
+It is the framework governing its use that strengthens democracy, or weakens it.
