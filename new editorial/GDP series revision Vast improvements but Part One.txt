@@ -1,0 +1,20 @@
+Category: Editorial
+Title: GDP series revision Vast improvements but Part One
+
+GDP series revision: Vast improvements, but concerns remain
+
+India is set to overhaul its GDP estimation by transitioning to a new 2022-23 base year in February 2026. Gross Domestic Product (GDP) is a measure of the aggregate value of goods and services produced within an economy in a given period. The coverage of what constitutes production and the methods to assess productive activities is a complex task.
+
+Since large parts of the required data are not available annually, it becomes necessary to use indicators to project base year numbers for many activities in subsequent years. Changes in methodologies and improvements in data measurement lead to overhauling GDP estimates at regular intervals. Such revisions usually change the level of GDP and its sectoral shares.
+
+The conceptual basis for GDP is contained in the UN supported recommendations commonly called the System of National Account (SNA). This framework contains a set of tables covering the entire gamut of economic production, consumption and expenditure and most countries follow it now. The most recent SNA version is the 2025 one, which addresses issues such as digitalization, globalization, the informal economy and sustainability, keeping the SNA 2008 as the core framework.
+
+The significant shift in the data sources and the adoption of SNA 2008 framework for the 2011-12 GDP series had generated critical debates on the GDP numbers when these were released in 2015. One of the major changes was the incorporation of the corporate sector data from MCA21 filings in instead of the RBI study on company finances. Apart from this, several new datasets including improved local level body data formed the basis for the 2011-12 series.
+
+This was not the case for the 2011-12 series. For 2013-14, the growth rate was 6.6% according to the new series compared to 4.7% in the previous series. This was attributed to using MCA21 data for the private corporate sector. The reduction in the share of the household or informal sector in the GDP in the 2011-12 series was also attributed to this.
+
+There were also other structural shifts, like the increase in manufacturing share and the corresponding decrease in the share of services in the 2011-12 series. For the first time, the base revision acquired critical examination, unlike in the past. The long passage of time since the 2011-12 revision - not just of GDP but of other key economic indicators  -  has generated significant interest in the current revision.
+
+According to NSO releases, several improvements are being made in the new series to address the previous series' deficiencies and further refine the estimation procedure. Perusing the reports of various sub-groups on base revision, one can see that extensive efforts have been made to use most relevant datasets besides fine-tuning the methodology. MoSPI has noted that new datasets like the frame of active companies (having enterprise level details on paid-up capital, company type, management & administration related data) and frame of active Limited Liability Partnership companies with details on industrial activity etc are now available.
+
+With this it is possible to segregate activities in case of multi-activity enterprises in Non-Financial Private Corporations Sector. The MGT-7/7A data with information on the number of business activities with description of activity and percentage turnover helps to address the main criticism of the earlier series allocating the entire contribution as per its major activity, which perhaps favoured the manufacturing sector in the old series at the cost of services sector. Another improvement proposed is the use of better multipliers for non-reporting companies in place of a common multiplier, using the disaggregated level paid-up capital data.
