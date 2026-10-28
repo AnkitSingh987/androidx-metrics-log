@@ -1,0 +1,20 @@
+Category: Editorial
+Title: What happened to ISROs PSLVC mission Part Two
+
+What happened to ISRO's PSLV-C62 mission? | Explained
+
+The ISRO chairman is Secretary to the Department of Space, which functions directly under the PMO. The aftermath of the GSLV-F10 mission provides an instructive window into the FAC's efforts. After that mission failed in 2021, here's an excerpt of what the FAC found: "The FAC concluded that the lower liquid hydrogen tank pressure at the time of cryogenic upper stage engine ignition, caused by the leakage of vent and relief valve resulted in the malfunctioning of the fuel booster turbo pump, leading to mission abort command and subsequent failure of the mission." Where is the PSLV-C61 FAC report?
+
+Although the PSLV-C61 FAC submitted its report to the PMO, the PMO hasn't cleared it for public release yet. Independent experts criticised the decision to withhold it after PSLV-C62 also suffered an anomaly in its third stage. ISRO has also not said whether it has constituted an FAC for the C62 mission, although a short statement on its website says "a detailed analysis has been initiated".
+
+On November 15, 2025, during an unrelated lecture, Vikram Sarabhai Space Centre director A. Rajarajan had attributed the loss of the PSLV-C61 mission to a "slight manufacturing error". That said this isn't the first time details of the FAC's findings of a mishap have been withheld. Previous instances include the PSLV-C39 mission in 2017.
+
+ISRO has also been terse about the issues leading up to the underperformance of the NVS-02 satellite. Earlier, even when the FAC report hadn't been released into the public domain, ISRO had issued statements with detailed summaries of the FAC's findings, for example, after the GSLV-F10 mission in 2021 and the GSLV-F02 mission in 2006. The aftermath of PSLV-C61 is a break from the past in this sense as well, since no such statements have been issued.
+
+What happened to satellites on PSLV-C62? The mission's primary payload was EOS-N1, a surveillance satellite from the Defence Research and Development Organisation. The co-passengers comprised payloads involving Thailand, the U.K., Nepal, France, Spain, and Brazil, plus seven satellites from Indian enterprises.
+
+The PSLV has failed four times so far, but PSLV-C62 was the first time it failed while carrying customer satellites provided by Indian and foreign entities. The mission had been facilitated by ISRO's commercial arm, NewSpace India, Ltd. While the ISRO didn't say whether the mission had failed after the anomaly on January 12, the statement from Thailand's GISTDA suggested that the rocket's remaining stages and the payloads would fall back down towards the earth and burn up.
+
+The KID payload was a reentry demonstrator  -  a device designed to fall back down from orbit and splash into the southern Pacific Ocean. In a statement released after January 12, Orbital Paradigm, its Spain-based co-developer, said KID had transmitted "off-nominal" data for about three minutes. GISTDA said its THEOS-2A satellite had been insured.
+
+The Indian private sector payloads onboard PSLV-C62 reportedly hadn't been insured, so the cost of the loss would have been absorbed by the developers of each satellite. The cost of losing EOS-N1 will be borne by India. By Vasudevan Mukunth
