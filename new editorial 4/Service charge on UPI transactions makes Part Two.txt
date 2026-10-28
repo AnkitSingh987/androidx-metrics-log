@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Service charge on UPI transactions makes Part Two
+
+Service charge on UPI transactions makes sense
+
+Proponents of a fee structure counter that a digital public infrastructure of UPI's scale requires a durable revenue model to fund future development  -  including 5G integration and cross border expansion  - rather than indefinite reliance on taxpayer-funded subsidies. Direction is clear The RBI Discussion Paper engaged directly with this tension: whether a payment service should recover costs from its users, or whether the presence of a public good element justifies absorbing those costs as a state obligation. The paper acknowledged that "the government and regulators have an important role in ensuring wider acceptance of payment systems." It also recognised that full cost absorption by the state is not the only available model.
+
+In practice, governments routinely build infrastructure in partnership with the private sector and permit partial cost recovery from users. Roads built under the highway authority model are one example. The toll structure is the mechanism through which commercial users contribute to the cost of infrastructure they could not have efficiently built alone.
+
+The more relevant domestic parallel, however, sits within the payments system itself. NEFT and RTGS transactions recover charges from users, structured in bands of transaction value. Those charges have not suppressed adoption. Electronic fund transfer volumes have grown consistently because the opportunity cost of moving money efficiently is higher than the cost of the transfer.
+
+The same logic applies to high-value UPI transactions processed by large commercial entities. For a retail chain settling thousands of transactions daily, a nominal MDR is not friction. It is a cost of operating on infrastructure that makes that settlement possible. A large share of UPI's user base remains in segments where any marginal cost could affect adoption.
+
+With India's financial inclusion index at 67 per cent, the case for exempting small-value transactions from MDR is well-founded. That exemption is not disputed. The question is, whether the same zero-cost logic extend even to large value transactions processed by organised commercial users who derive direct revenue from the network's reliability and reach.
+
+It should not. The appropriate design mirrors what the payments system already does for NEFT and RTGS: band the MDR by transaction value, exempt low-value transactions entirely, and apply a nominal charge to high-value commercial processing. The Parliamentary Committee has pointed in this direction. The RBI's own 2022 Discussion Paper pointed in this direction.
+
+The data on the funding gap confirms the direction. "…establishing a viable revenue mechanism is critical to ensuring the UPI ecosystem achieves financial sustainability without perpetually straining the government exchequer," stated the Parliamentary Standing Committee on Finance, Report on Demands for Grants, Department of Financial Services. With the proposed Bill, the government intent is clear.
+
+Hopefully, the amendment gets enacted quickly translating it into implementation. By Ganga Narayan Rath The writer is former chief general manager, Reserve Bank of India. Views are personal
