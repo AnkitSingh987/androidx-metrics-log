@@ -1,0 +1,18 @@
+Category: Editorial
+Title: From assistants to adversaries Part Two
+
+From assistants to adversaries
+
+The critical shift is autonomy. Mythos behaves less like a tool and more like a junior operator with unusual persistence and no fatigue. The implications extend beyond cybersecurity. Any domain that can be expressed as a sequence of actions with feedback - trading, logistics, even parts of scientific research - becomes accessible to the same architecture.
+
+Cybersecurity merely provides a clear demonstration because outcomes are immediate and measurable. Persistence, however, is not a synonym for perfection. These systems are not omniscient. They can misread signals, pursue unproductive paths, or trigger "friendly fire" by misinterpreting an internal defense as a target.
+
+But they do not need to be perfect to matter. They need to be effective often enough to break the current cycle of reactive patching. For business leaders, the issue is posture. The old model of defense - periodic audits and reactive patching  -  assumes that threats move at a human pace. Assuming that the world of "red teaming" and "ethical hacking" (traditional tools to manage a cyber-security posture) are sufficient no longer holds.
+
+Defense must become continuous, adaptive, and, in many cases, automated. The same techniques that enable autonomous attack are among the few that can support autonomous defense. Systems must probe their own infrastructure and identify weaknesses before others do. The alternative is to remain permanently behind.\ But this creates a new boardroom liability.
+
+If an autonomous defense system misinterprets a signal and preemptively shuts down a core transaction database, the solution becomes its own outage. We are entering an era where the risk of the operator's initiative must be weighed against the risk of its absence. Anthropic's decision to withhold Mythos may slow the diffusion of these capabilities, but it will not prevent it.
+
+Capabilities of this kind tend to spread. What is restricted today is unlikely to remain so indefinitely. The window for preparation is finite. The assistant era was defined by interaction. The operator era will be defined by execution. Instructions become objectives; outputs become outcomes. We asked for machines that could understand us.
+
+Are we now building machines that can act against us? By Siddharth Pai, Technology consultant and venture capitalist
