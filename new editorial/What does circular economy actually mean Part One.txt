@@ -1,0 +1,24 @@
+Category: Editorial
+Title: What does circular economy actually mean Part One
+
+What does 'circular economy' actually mean?
+
+As the World Circular Economy Forum in Gandhinagar draws to an end, we attempt to understand the how, why & who of circular economy The World Circular Economy Forum (WCEF) concluded in Gandhinagar last week. Across the week-long event, circular economy (CE) was the central theme in nearly every session, but every time it was mentioned, it meant something different.
+
+In one panellists head it was strictly a recycling and recovery target. In another speakers mind, as a redesign of business models: Leasing, product-as-a-service, take-back schemes. A panel moderator's version of circular economy was a macroeconomic decoupling strategy. This raised a series of questions in my head as a curious attendee of the WCEF: Where did the term actually come from, how has it evolved, and what, if anything, is agreed upon?
+
+And here's what I found: Origin of the term The phrase "circular economy" is traced to Pearce and Turner (1990), who used it narrowly to describe the closed feedback loops between natural resource stocks and the environment's capacity to absorb waste. It wasn't used the way we understand it today. The idea itself had already taken shape long before the term existed.
+
+Blomsma and Brennan (2017) described circular economy as an "umbrella concept". This label came later, after the ideas behind it had already existed under other names for decades, such as the closed-loop economy, the cyclic economy, and the closed spaceship economy. How it evolved The concept's development is traced across three broad phases.
+
+A shift is visible across these phases. Circular economy's earliest roots were preoccupied with toxicity, scarcity, pollution containment, finite resources, and the fear of running out. Over time, this primitive framing was broadened considerably, from containing harm to actively redesigning production and consumption.
+
+Moving from single strategies (etc. recycling, incineration) to systemic, regenerative models; and from a concern of environmentalists and engineers to one now claimed jointly by consumers, producers, policymakers, and academia. What began as a defensive response to pollution, and depletion is now framed, in current literature, as an offensive economic strategy: value creation, growth, and competitiveness, not merely harm reduction.
+
+Over 335 definitions of circular economy Two studies have attempted to map this fragmentation empirically. In Kirchherr, Reike and Hekkert (2017), 114 definitions of circular economy were coded across academic and practitioner literature. In Kirchherr, Yang, Schulze- Spüntrup, Heerink and Hartley (2023), a further 221 academic definitions were coded on an expanded framework.
+
+Together, 335 definitions have been systematically analysed the closest available empirical account of what "circular economy" means. How, why & who of circular economy Across both studies, definitions were coded on three clusters: • Core principles: How circularity is achieved? • Aims: Why it is pursued?
+
+• Enablers: Who is expected to drive it? Where are the gaps? A waste hierarchy: Ranking the R's, is present in only a minority of definitions in both studies. Without it, circularity can be claimed through recycling or even worse, incineration alone. There is a high risk of the concept of circular economy being subverted due to this gap.
+
+Social equity and future generations remain the weakest-coded aims in both datasets, this means that despite the growing interest in circular economy, various stakeholders across the length and breadth of decision making-de- prioritize social equity and future generations. However there is a growing trend observed in this areas between 2017 and 2023. Business models are widely agreed to be central to circular economy in principle, yet are explicitly mentioned in only a minority of definitions (11 per cent in 2017, and 21-27 per cent in 2023).
