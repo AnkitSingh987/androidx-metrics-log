@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Undergraduate education in the age of large Part Two
+
+Undergraduate education in the age of large language models
+
+Tools that optimise performance without strengthening understanding may, paradoxically, impede learning. Indiscriminate use of LLMs thus poses a definite threat to learning. Moreover, LLMs are trained for coherence and not for correctness. The reasoning tools to verify correctness are still work in progress.
+
+As such, LLMs produce patterns rather than explanations, coherence rather than ground truth, and fluency rather than understanding. A non-discerning user may not be able to disentangle this epistemic tension, may increasingly outsource judgement rather than just labour, and may be vulnerable to absorbing confident but flawed outputs. Assessment issues Academic integrity also becomes a central tension.
+
+Indeed, take-home assignments -- which had such great pedagogic value -- are beginning to lose their significance. Moreover, it appears unsatisfactory and regressive to fall back on in-class examinations as the only way to assess student learning. Assessment validity has indeed become a serious problem, and effective strategies for combatting it are not immediately obvious.
+
+Institutions need to worry not just about cheating, but about graduates who appear competent yet lack core skills and understanding. The central question, therefore, is not whether LLMs should be used in undergraduate education, but under what norms, constraints, and pedagogic designs their use genuinely enhances learning rather than merely accelerating output. The challenge is not the technology itself but the pedagogic imagination and institutional will needed to integrate it responsibly.
+
+LLMs will evolve and are here to stay. Universities need to cultivate thoughtful norms, redesign assessments, support faculty in thoughtfully integrating LLMs into pedagogy, and train students in discerning, reflective use. Only then can LLMs enrich rather than erode the intellectual purposes of higher education.
+
+By Subhashis Banerjee The writer is with the Department of Computer Science, and Centre for Digitalisation, AI, and Society, Ashoka University
