@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Anthropic blackout episode shows that
+
+Anthropic blackout episode shows that frontier AI needs global governance
+
+Shows that frontier AI needs global governance India, with one of the world's largest AI user bases and vast amounts of data that contribute to the value and capabilities of global AI systems, is a critical stakeholder in this debate. It must play an active role in shaping the international regulatory framework that will govern AI's future The US government's directive requiring Anthropic to suspend access for foreign nationals to its AI models, Fable 5 and Mythos 5, has sparked a wider debate over the development and deployment of artificial intelligence and raised concerns across the world. Calls for technological sovereignty are growing louder, with national worries increasing about the implications of a single government being able to restrict access to the most advanced AI systems without consultation or transparency.
+
+Equally pressing are concerns about the risks associated with deploying such frontier models in the absence of independent oversight and a robust global governance framework. The demand for a credible and robust regulatory framework is also gaining momentum, with even industry leaders making the case for stronger oversight. A few days ago, Anthropic CEO Dario Amodei argued that "it is time to go beyond transparency to more serious and binding regulation of AI".
+
+While the current issue reportedly stems from concerns about the circumvention of existing safeguards, the manner in which the decision has unfolded raises deeper questions. As Anthropic itself noted, the directive "did not provide specific details of its national security concern". The fundamental question is: Who gets to decide access to frontier AI models?
+
+Should such decisions rest with governments, which have previously used chip export controls to restrict access to critical AI hardware, or with executives of private companies, whose decisions may be shaped by commercial and strategic considerations? What is needed is a transparent framework built on clearly defined principles and procedures. In fact, even Amodei has argued that frontier models "should be required to go through technical testing and auditing, and their release should be blocked or reversed as a threat to public safety if they do not meet high standards of safety".
+
+He recommended that testing be carried out "by a qualified third party". Given the transformative and borderless nature of AI, these complex issues cannot be resolved by any one country acting alone. They must be negotiated at the global level through a governance architecture built on broad consensus and inclusive participation.
+
+All stakeholders need a seat at the table. India, with one of the world's largest AI user bases and vast amounts of data that contribute to the value and capabilities of global AI systems, is a critical stakeholder in this debate. It must play an active role in shaping the international regulatory framework that will govern AI's future.
