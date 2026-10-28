@@ -1,0 +1,12 @@
+Category: Editorial
+Title: A state caught in the regional crossfire Part Three
+
+A state caught in the regional crossfire
+
+Skryoot's mission is also important because it's directed at the Low Earth Orbit (LEO)  -  a region of space where an increasing number of countries are looking to carve a niche. Today, Earth observation, weather forecasting and telecommunication are no longer the preserve of government agencies. While the large geostationary satellites that operate at altitudes close to 37,000 km are unlikely to be obsolete anytime soon, much of the space economy in the coming decades is expected to be driven by satellites that orbit between 160-2,000 km above Earth's surface.
+
+The proliferation of satellites weighing anywhere from a few kg to a few hundred kg has created a market that is expanding faster than any national space agency can serve on its own. Shifting commercial launches to private players would, therefore, free ISRO to focus on deep-space exploration missions such as Chandrayaan and Gaganyaan. That said, ISRO's handholding role cannot be discounted.
+
+India's premier space research agency provided most of the infrastructure used to design Vikram-1. By all accounts, the contours of the public-private partnership in India will be very different from the US for at least a decade  -  companies such as SpaceX design and build products independently of NASA and then sell them to the space research agency. Indian companies like Skyroot could, instead, become competitive by working on the country's traditional strength in low-cost manufacturing.
+
+This is the way forward, but they will have their work cut out in an ecosystem whose unforgiving nature has been demonstrated by the collapse of US companies such as Vector Launch and Virgin Orbit.
