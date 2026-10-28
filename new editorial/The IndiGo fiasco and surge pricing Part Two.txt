@@ -1,0 +1,18 @@
+Category: Editorial
+Title: The IndiGo fiasco and surge pricing Part Two
+
+The IndiGo fiasco and surge pricing
+
+Transparency can be improved by requiring disclosure of recent average fares for the same sector and time of day, enabling passengers to see how far the current fare deviates from normal. A further tool is to restrict ultra-high-frequency algorithmic repricing during crisis periods, forcing a slower, more accountable cadence of fare changes. Such measures preserve market signals while preventing panic-driven exploitation.
+
+Airline fares today are set less by human revenue managers than by algorithms reacting in milliseconds to real-time data on bookings, competitors, holidays, events and even macro indicators. During the IndiGo crisis, fares reportedly changed multiple times within short intervals on key routes. To consumers, this feels predatory - even when the underlying system is simply following rules.
+
+Regulation must therefore shift from suspicion to algorithmic accountability. The CPA's unfair trade practice provisions apply equally to digital systems as to human actors. Airlines should be required to maintain auditable pricing records during disruption windows - data inputs received, active rule sets, constraints in place, and prices generated time-wise.
+
+These records should be subject to post-event scrutiny with the ability to order remedies and penalties where patterns suggest exploitative conduct. This aligns with global regulatory trends that focus on outcome fairness rather than source-code disclosure. Pricing regulation without strict enforcement of service standards is cosmetic.
+
+If airlines know that failure to honour rebooking commitments, refund timelines or passenger care duties will attract prompt and visible consequences, their incentives change. Consumer confidence will return only when passengers see that service failure sits at the centre of regulatory attention. The way ahead is straightforward.
+
+The government should notify a Crisis Pricing Protocol under the CPA, operationalised jointly by the CCPA and DGCA. The protocol should do four things - define disruption thresholds clearly, so that airlines and passengers know when the market has entered a special regime; activate temporary pricing guardrails - surge bands, stability windows and transparency obligations - during that regime, with violations treated as potential unfair trade practices; mandate algorithmic auditability; and link pricing behaviour to strict enforcement of passenger service obligations under DGCA CARs, ensuring that those who profit from distress also bear heightened duties of care. This approach preserves market efficiency in normal times while protecting consumers at moments of maximum vulnerability.
+
+Surge pricing should not be banned, it should be disciplined. Regulation must not freeze markets - but it must civilise them. By Rohit Kumar Singh, Former secretary, ministry of consumer affairs
