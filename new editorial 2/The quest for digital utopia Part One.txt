@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The quest for digital utopia Part One
+
+The quest for digital utopia
+
+Won't merely remain an aspiration, but what tech doesn't guarantee must be designed by society Humanity needs abundance, not scarcity. We thrive when there's a safety net of abundance, while scarcity unleashes survivalist friction. This is accentuated with brutal clarity in times of conflict, when even surpluses shrink, and food reserves, energy, and medical supplies plunge into deficits.
+
+Digital utopia is about humanity entering a new civilisational phase, of abundance, powered by two mutually reinforcing streams of progress: consumer AI which is increasingly becoming intuitive, multi-modal, and deeply personal; and enterprise AI which is becoming more autonomous, agentic, and significantly transformative in terms of productivity. A global geopolitical scramble is on, for the ultimate force multiplier that will change the future of nations. Unlike Moore's law that governed hardware for decades, laws governing scale models are being rewritten every day, defying economic cycles.
+
+Beneath the noise, a profound truth is emerging - Digital utopia is not a fantasy, it's under construction. Consumer models are conversational, context-aware, and collaborative, capable of synthesis, reasoning, creation, and execution, armed with memory and multimedia, proficient at multiplexing across tasks, leveraging tools, and progressive product improvement. Every interaction is like contact with living intelligence.
+
+Enterprise AI is moving from copilots to co-working, assistance to agency, prompts to workflows, and from dashboards to decisioning. The enterprise stack is more agentic, API-linked, auditable, and economically measurable, progressing from being task-driven to becoming autonomous. This digital utopia is being forged in competitive terrain.
+
+There are many battles being fought simultaneously. Open-source vs closed, large vs specialised models, application layer vs infrastructure layer, cloud vs edge, speed vs safety, and scale vs depth, among others. Together, a civilisation is accelerating, testing AI, and vice versa. Tectonic shifts in consumer and enterprise AI The static age is behind us.
+
+We are entering an age of living systems that grow. The invisible plumbing is quietly improving through use, feedback, and recursive learning loops. In consumer AI, a revolution is underway, with the shift from building massive, raw libraries of accumulated human knowledge, to refining what's there, enabling effective utilisation.
+
+This includes tailored bots that could run internal simulations before answering queries, making intelligence feel embodied, elevating the experience beyond retrieval, ascribable to next-level orchestration. In enterprise AI, agentic AI will do to organisational work what spreadsheets did to arithmetic. The training of models is now tuned for inference at a pragmatic scale, and domain-specific models are replacing general-purpose models.
+
+Agentic workflows are turning AI into digital employees, capable of end-to-end efficient execution across operational areas. Orchestration frameworks are maturing, as agent swarms move from demos to deployment and use cases multiply - in coding, customer experience and services, research, workflow automation, and compliance. Enterprise players are fighting for workflow ownership, developer mindshare, and credibility vis-à-vis security and trust, in a battleground where code generation, cyber defence, service operations, and knowledge workflows are the primary elements.
+
+It's as if "default status" is the sought-after prize. Productivity is rising at a breathtaking pace. What we're seeing is unprecedented acceleration in individual productivity, compression of cycle times, a reduction in costs associated with coordination, faster experimentation, the democratisation of capability, and large firms behaving with start-up speed.
+
+It's also about the new triad: agents for speed, memory, coordination, search, execution, and continuous optimisation; robots for physical precision, endurance, safety, and embodied action; and humans for ethics, judgement, trust, imagination, and purpose. Teams of the future will all include digital colleagues. Consequently, we will see lower friction in daily life, new creative expression, and cheaper and faster services in healthcare, education, finance, mobility, and governance.
