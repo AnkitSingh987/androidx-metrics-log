@@ -1,0 +1,28 @@
+Category: Editorial
+Title: The impact of simultaneous elections
+
+The impact of simultaneous elections
+
+Simultaneous elections do not eliminate the demand of polling personnel, but they consolidate it India's electoral machinery is among the largest and most complex in the world. Every election cycle mobilises millions of government personnel for polling duty, commandeers public buildings, and places enormous logistical demands on the administrative apparatus. The simultaneous election framework, proposed under the Constitution (129th Amendment) Bill, 2024, aims to streamline and consolidate this effort into fewer election cycles.
+
+A natural question follows: What would this mean in concrete, quantifiable terms for the deployment of polling personnel? A new working paper by the Economic Advisory Committee to the Prime Minister (EAC-PM) attempts to answer this question rigorously, using the Election Commission's own benchmarks and historical experience of the last five completed election cycles (1999-2024). The starting point is the ECI's own benchmarks for the composition of a polling party at each polling station.
+
+A State Assembly election requires a presiding officer plus three Polling Officers. A Lok Sabha election needs a presiding officer plus four polling officers. But a simultaneous election - covering both the State Assembly and Lok Sabha at the same polling station - requires only a presiding officer plus five polling officers.
+
+The arithmetic is straightforward - conducting the two elections separately demands nine polling personnel per station; doing them together needs just six. That is a gross reduction of one-third in polling personnel deployment, derived directly from the ECI's operational norms. These benchmarks are not merely theoretical - when tested against actual deployment data from West Bengal (2016), Odisha (2019), and Tamil Nadu (2019), the deviations are less than 1%.
+
+However, the working paper identifies three factors that moderate this headline figure. First, some State Assemblies are already synchronised with the Lok Sabha - Andhra Pradesh, Odisha, and Sikkim have historically gone to polls alongside general elections - so there is no saving from those states. Second, Union Territories without legislatures, such as Ladakh, Lakshadweep, and Chandigarh, do not hold State Assembly elections at all.
+
+Third, and most consequentially, the framework must account for premature dissolutions. Under the proposed system, if a State Assembly is dissolved mid-term, a fresh election would be required to elect a new Assembly to serve only the remaining 'unexpired' portion of the cycle. This actually increases polling personnel deployment for that state within the cycle.
+
+To account for these complications, the paper draws on data spanning the last five completed election cycles from 1999 to 2024. The historical record shows that on an average, there have been two politically driven premature dissolutions per five-year cycle - states like Haryana, Gujarat, Bihar, Karnataka, and Delhi have all seen such episodes in this period. It is assumed that the Lok Sabha serves its full five year terms, which is consistent with the experience since 1999.
+
+Using an 'average state' construct - derived by dividing India's roughly 10.5 lakh polling stations by the 31 states and Union Territories with legislatures - the paper adjusts the gross estimate downward to account for these real-world contingencies. The net result is a 28% reduction in polling personnel deployment over a five-year election cycle, amounting to roughly 26 lakh fewer personnel deployments. This number becomes even more striking when translated into personnel-days.
+
+ECI norms require polling officers to undertake at least two training sessions before the poll, and deployment typically begins a day before voting day. Taking a conservative figure of four days per deployment instance, the paper estimates a net saving of 1.04 crore polling personnel-days over a five-year cycle. Since most of these personnel are teachers, this amounts to a significant reduction in teaching days lost due to election duty.
+
+The scale of this reduction deserves emphasis. India currently deploys approximately 70 lakh polling personnel and election staff for a single Lok Sabha election. Layer on top of that the separate State Assembly elections held at various points over a five-year cycle, each requiring its own full mobilisation of polling parties, and the cumulative demand on the administrative system becomes immense.
+
+Simultaneous elections do not eliminate this demand, but they consolidate it - dramatically cutting down the number of times polling parties need to be constituted, trained, deployed, and demobilised. The paper does not get into other costs and benefits of simultaneous elections. However, purely from a perspective of polling personnel deployed, there seems to be a significant reduction (28%) in deployment of polling personnel under the most predictable circumstances.
+
+By Sanjeev Sanyal & Satvik Dev, Respectively Member and Joint Director, EAC-PM
