@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Why is Chinas AI push gaining ground Part Two
+
+Why is China's AI push gaining ground? | Explained
+
+Chinese firms have caught up in capability, but there remains a trust deficit, especially in India, on using their models. Open-sourcing models means that local firms running on inference aggregators like Neysa and even the IT Ministry's Computer Emergency Response Team (CERT-In) make use of these models, since no question of data leakage emerges. The bet may very well be that once the open-source honeymoon ends, and the world has seen how good Chinese models are compared to the most advanced Western counterparts, captive models may get a second consideration, even allowing for the geopolitical baggage that comes with embracing Chinese technology.
+
+Things may not necessarily move in that direction, as the existing models and their accompanying literature are being studied by researchers and labs around the world. The geopolitical baggage has likely been a major reason why India, despite hosting the AI Impact Summit in February, skipped out on the Shanghai conference. The government is trying to encourage domestic champions and hold off Chinese capital in Indian AI by promoting firms like Sarvam AI in spite of scarce resources.
+
+However, as noted above, open-source models have not been discouraged. China's results are indicative of long-term planning that its government had set in motion for the AI ecosystem. The next major focus area, Mr. Jinping indicated in his speech, was AI "moving from the digital world into the physical world." By Aroon Deep
