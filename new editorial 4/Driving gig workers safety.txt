@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Driving gig workers safety
+
+Driving gig workers' safety
+
+App-based prevention of traffic violations possible The rapid growth of app-based delivery services, especially in urban areas, has created significant employment opportunities. However, it has also exposed delivery workers to significant safety risks on the roads. Recognising these vulnerabilities, the Code on Social Security, 2020, formally brought gig and platform workers within the scope of India's social security system, requiring aggregators to contribute a small portion of their turnover to a social security fund.
+
+Moreover, several State governments have also introduced laws to provide social security and accident insurance for these workers. Shared responsibility However, a comprehensive approach must involve shared responsibility with workers adopting safe practices, platforms designing safer operational systems, and governments establishing and enforcing safety standards. This multi-stakeholder approach, supported by appropriate technological solutions integrated into the apps, is necessary to move beyond compensation after incidents and towards risk prevention.
+
+Many app-based delivery workers operate under time pressure from tight delivery timelines and incentive structures, which can unintentionally encourage speeding, unsafe turns, and traffic violations. These actions increase the risk of injury not only for the workers themselves but also for other road users, creating broader social costs. In economic terms, such risks constitute a negative externality.
+
+Traditionally, economic theory suggests that negative externalities can be addressed by making those responsible bear the associated social costs, often through compensation, penalties. However, this approach has is limited scope in the present context. The priority should be to discourage unsafe behaviour before harm occurs.
+
+This requires better monitoring of work through platform apps and aligning incentives so that earnings and access to work are linked to compliance with safety norms. Relying solely on traffic police enforcement is inadequate. Platform companies already assign orders, track worker movement, and determine incentives through their apps, which gives them the ability to influence safety behaviour.
+
+Technology integrated within these apps can be used to support preventive monitoring. For example, platforms can monitor route compliance against approved routes, track speeding and traffic signal violations, and verify adherence to basic safety requirements, such as helmet use. This would allow unsafe behaviour to be identified and addressed as part of regular platform operations.
+
+Importantly, such algorithmic supervision already exists in another form. Delivery workers are routinely penalised through lower ratings, reduced incentives, or fewer work opportunities when delivery delays occur. A similar approach can be extended to safety compliance, where unsafe riding behaviour affects performance ratings.
+
+At the same time, government agencies can require platforms to incorporate safety monitoring standards and hold companies accountable for compliance. This would ensure that responsibility is shared between workers and platforms. Furthermore, delivery time commitments must reflect real-time traffic conditions and legal routes.
+
+Concerns raised by worker groups and policymakers have highlighted that very short delivery commitments, such as 10-minute delivery targets, can create pressure to take unsafe shortcuts. Also, the government must bring gig and platform work under the scope of the Occupational Safety, Health and Working Conditions Code, 2020. Applying these requirements to platform companies would mandate the creation of safety departments.
+
+Such a framework would shift the focus from compensating accidents after they occur to reducing risks through prevention and shared responsibility. By Gopal Krishna Roy The writer is Assistant Professor, Madras School of Economics, Chennai
