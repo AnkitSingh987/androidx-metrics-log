@@ -1,0 +1,20 @@
+Category: Editorial
+Title: For newborns the answer is hospital plus home Part One
+
+For newborns, the answer is hospital plus home
+
+Newborn care in India must combine safer, decongested neonatal units with strengthened home-based support In India, newborns are dying. Earlier, they used to die at home without medical care. Now, they are dying in hospitals. On August 24, 2026, three newborns lost their lives in an accidental fire at the government women's hospital in Amravati, Maharashtra.
+
+This was not the first such episode in government newborn care units, and it will not be the last  -  unless we view it not as an isolated event, but as a trend. These are episodes of clustered newborn deaths in the government institutions (that were identified by ChatGPT)/in the format of Year/Government hospital/Newborn deaths  -  2017 BRD Medical College, Gorakhpur 17; 2017 Government hospital, Ahmedabad 18; 2019 JK Lon Hospital, Kota 10; 2020 JK Lon Hospital, Kota 9; 2020 Government hospital, Shahdol 8; 2021 District Hospital, Bhandara One fire 10; 2021 Kamla Nehru Children's Hospital, Bhopal One fire 4; 2021 Government Medical College, Ambikapur 4; 2022 Medical College, Ambikapur 4; 2023 Government Medical College, Nanded 12; 2024 Maharani Laxmi Bai Medical College, Jhansi One fire 10; 2025 District Women's Hospital, Budaun 4; 2026 District Women's Hospital, Amravati One fire 3 This is not a comprehensive national registry, but only a partial list. The pattern, however, is recurring and therefore demands a systemic response.
+
+The problems and challenges What is going wrong? The first reason is overcrowding. India has achieved remarkable success in ensuring that women increasingly deliver in health institutions  -  from 39% in 2005-06 to 90% in 2023-24 (National Family Health Survey-6). But this success has created a new challenge.
+
+The absolute number of women delivering in institutions has risen from 109 lakh in 2005 to 194 lakh in 2024-25 (Ministry of Health and Family Welfare (MoHFW), Government of India). The total number of sick newborns hospitalised in public Special Newborn Care Units (SNCUs) has also risen rapidly, from 11.3 lakh in 2021-22 to 14.45 lakh in 2023-24  -  a 28% increase in two years (Health Management Information System, MoHFW). Hence, newborn-care units everywhere are becoming overloaded.
+
+The second reason is the changing case mix. As institutional deliveries have expanded, government hospitals have become the destination not only for normal deliveries but also for large numbers of high-risk births, including premature, low-birth-weight and sick newborns referred from peripheral facilities. Infrastructure failures are the third reason.
+
+The Gorakhpur episode of August 2017 was attributed by a district-level inquiry to oxygen deprivation following an interruption in oxygen supply. The fires at Bhandara in January 2021, Bhopal in November 2021 and Jhansi in November 2024, as well as the more recent incident in Amravati, demonstrate the risks posed by fire and electrical hazards in neonatal units. Sick newborns need warmers, incubators and ventilators.
+
+Overcrowding can increase the electrical load on these units. Infection and staffing problems would be the fourth reason. Overcrowding, inadequate nurse-to-baby ratios, equipment shortages and poor infection-prevention practices can turn a neonatal unit into a setting where hospital-acquired infections can spread rapidly.
+
+The Gadchiroli model This diagnosis leads to some obvious solutions. But there is an additional way. India already has another solution. More than two decades ago, the Gadchiroli field trial conducted by the Society for Education, Action and Research in Community Health (SEARCH) demonstrated that trained community health workers (CHWs) could provide effective home-based neonatal care (HBNC), resulting in a 62.2% reduction in neonatal mortality in the rural area (The Lancet, 1999).
