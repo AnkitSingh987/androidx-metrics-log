@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Spreading wings On the Vikram launch
+
+Spreading wings: On the Vikram-1 launch
+
+Vikram-1 is an engineering triumph seeking commercial viability The launch of the Vikram-1 rocket built by Skyroot Aerospace from Sriharikota marked the Indian private sector's first orbital flight. Vikram-1 is a four-stage launcher designed to provide what Skyroot has called a "cab service" for satellites, letting customers pick their orbit and launch schedule rather than accept the orbital slot and drop-off point presented by rideshares, at a commensurate premium. Skyroot is targeting a price per launch below that of the PSLV and above that of the SSLV (projected), to be achieved in part by basing the rocket on carbon-composite structures.
+
+It also has plans for a more powerful Vikram-2 rocket. The company was founded in 2018 by two former ISRO engineers and its path to orbit followed engine tests in 2020 and a suborbital flight in 2022. For roughly six decades, ISRO held a state monopoly over launch activities in India while private firms were limited to being suppliers.
+
+Reforms since 2020 and the 2023 Space Policy opened the door for commercial players and freed ISRO to focus on R&D and scientific missions. In 2024, up to 49% FDI in launch vehicles was allowed by the automatic route. The push is also part of the government's ambition of growing the national space economy to $44 billion by 2033 from around $8 billion alongside satellite manufacturing, communications, navigation, and earth observation.
+
+Orbital launch capability remains hard-won: India is now only the third country to host private enterprise that has demonstrated it. But now that Skyroot has proved competence in engineering, its next milestone is commercial viability, which may be harder. Specifically, the company has to demonstrate repeatability and stable launch costs in an increasingly crowded suppliers' market that includes established 'brands' such as SpaceX and Rocket Lab and a bevy of rapidly scaling Chinese firms.
+
+Rideshares on larger rockets are still often cheaper per kilogram to orbit. The model Skyroot is betting on, letting customers specify orbit and schedule in return for a premium over a rideshare launch, depends on a market of uncertain size. The greater production scale will challenge the engineering, too, as batch-to-batch variability becomes harder to control.
+
+India also lacks a Space Activities Act, leaving liability to be governed by policy, contracts, existing law, and international commitments rather than statute, maintaining long-term regulatory uncertainty, particularly in the event of a launch or orbital mishap. The Vikram-1 launch is an engineering triumph. Whether it translates to commercial success, which is the real national ambition, is now the question.
