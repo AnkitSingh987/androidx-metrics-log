@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Data centres as strategic assets Part Two
+
+Data centres as strategic assets
+
+Second, innovation must be aligned with deployment. Efficient cooling technologies such as immersion and direct-to-chip systems along with storage-backed renewable power are technically viable. Consultation with Renewable Energy developers suggests that up to 80% renewable supply is feasible through diversified solar-wind portfolios combined with batteries.
+
+Yet adoption remains slow due to cost and limited Indian operating experience. Structured pilot programmes and performance-linked incentives can generate domestic evidence without imposing premature mandates. Third, we must shift from project-level approvals to system-level siting. Data centres should be assessed not just on land and connectivity, but also on long-term water availability, transmission capacity and climate risk.
+
+Planned data centre parks with integrated land-energy-water provisioning can reduce conflicts while maintaining investor certainty. Finally, data centres should be treated as flexible grid assets rather than passive loads. With appropriate market reforms, on-site battery storage and demand response can support renewable integration and reduce peak stress.
+
+For instance, in the UK, National Grid is collaborating with AI start-ups to optimise data centres' power usage during peak periods by dynamically shifting or pausing less critical workloads, reducing demand on constrained parts of the grid. Enabling storage to stack revenues across energy and grid services markets will make flexibility commercially viable. The India AI Impact Summit 2026 signalled ambition.
+
+Turning that ambition into durable progress requires matching digital leadership with infrastructure foresight. The countries that secure their digital foundations today will shape tomorrow's balance of economic power. By Prateek Aggarwal and Debanjan Bagui, Respectively Programme Lead and Research Analyst, Council on Energy, Environment and Water (CEEW)
