@@ -1,0 +1,24 @@
+Category: Editorial
+Title: The IndiGo fiasco and surge pricing Part One
+
+The IndiGo fiasco and surge pricing
+
+The IndiGo fiasco and surge pricing At the Delhi airport last week, a middle-aged professional, stranded after his Indigo flight was cancelled late evening, refreshed his booking app repeatedly. In the span of 20 minutes, the fare on an alternative carrier for the same route jumped three times - each time by several thousand rupees. The aircraft had not changed, the distance had not changed, and the cost of fuel had not changed.
+
+Only his desperation had. That moment captures the real policy dilemma behind surge pricing in crisis situations. The recent cancellation of hundreds of IndiGo flights was not merely an operational failure. It became a stress test for India's consumer protection framework in a high-concentration, algorithm-driven market.
+
+Surge pricing is an easy villain. It is also a misunderstood one. India does not prohibit dynamic pricing. Nor should it. Dynamic pricing in itself is simply a way of allocating scarce capacity and signalling demand. The Consumer Protection Act, 2019 (CPA) does not outlaw surge pricing. What it prohibits are unfair trade practices - pricing that exploits information asymmetry, manipulates consumer choice or operates coercively.
+
+Section 2(47) of the CPA defines unfair trade practices in broad, technology-neutral terms, while Section 49 empowers the Central Consumer Protection Authority (CCPA) to intervene against unfair pricing methods, including those driven by digital or algorithmic systems. The law is deliberately principle-based - a recognition that business models and technologies evolve faster than statute books. The challenge exposed by the IndiGo episode is therefore not the absence of law, but the absence of contextual application.
+
+Each aviation disruption renews calls for hard fare caps. Political economy makes this almost inevitable, as the inconvenience and public outrage push the government to "do something" - most visible being a blunt price ceiling. Yet, blanket caps are economically unsound. They discourage rapid supply restoration because airlines may prefer to hold back marginal capacity rather than sell it at a price that does not justify the operational strain.
+
+They incentivise inventory withdrawal, especially on thinner routes. They also push pricing opacity underground. Over time, the apparent consumer win of visible fare control is offset by hidden costs and reduced reliability. More fundamentally, hard caps treat normal peak demand and crisis demand as identical, ignoring a crucial legal and ethical distinction - consumer vulnerability.
+
+In festivals or holiday peaks, consumers broadly plan in advance and choose whether to travel at all. In genuine crises - mass cancellations, sudden airspace closures, extreme weather, medical emergencies - consumers are not exercising free choice. Regulation must recognise this difference and design for it.
+
+India's aviation ecosystem already acknowledges exceptional circumstances. The Directorate General of Civil Aviation's Civil Aviation Requirements (CARs) lay down obligations for refunds, rebooking, meals, hotels, and passenger care in the event of cancellations and delays. These provisions are well-known and, at least in principle, enforceable.
+
+Yet pricing behaviour during such disruptions remains largely unregulated. This is the missing link. A disruption that triggers special duties on service quality should also trigger special duties on pricing conduct. During objectively identifiable disruption events like several cancelled flights or severe weather, a temporary pricing framework should apply.
+
+One option is to use pre-defined surge multipliers rather than open-ended repricing. Fares on affected sectors during the disruption window could be allowed to move within a certain multiple of the recent average fare for that route and time bracket. Another is to mandate price-stability windows once disruption thresholds are crossed: for a defined period, the fare cannot change more often than, say, once every 30 or 60 minutes.
