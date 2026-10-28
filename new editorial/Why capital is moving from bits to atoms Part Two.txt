@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Why capital is moving from bits to atoms Part Two
+
+Why capital is moving from bits to atoms
+
+That's where humanoid robots come into the picture. They are being designed around the physical environments humans already use. A conventional industrial robot is usually built for one very specific task. If you want it to perform another task, you may have to redesign the production line around it.
+
+A humanoid robot, at least in theory, could walk into a workstation designed for a human and perform several different tasks without requiring the entire factory to be rebuilt. And that could mean that if a robot can perform the same repetitive task for longer hours, with greater consistency and without needing breaks, companies may eventually stop thinking about where they can find the cheapest workers and focus more on where they can produce the cheapest. For instance, a factory in China may have higher wages than one in India.
+
+Still, if it has better automation, cheaper robots, a better component ecosystem, reliable electricity, and engineers who can integrate AI into production, it could still manufacture a product at a lower total cost. In that world, cheap labour is no longer enough to guarantee that factories will move to India. This is where China's advantage becomes particularly interesting.
+
+China installed roughly 295,000 industrial robots in 2024 alone, accounting for 54% of all new installations globally, while India installed a record 9,100. So, essentially China is building a new ecosystem. It has manufacturers producing the components, engineers developing the software, factories where robots can be tested, and an enormous industrial base capable of adopting them at scale.
+
+As more factories automate, demand for robotic components increases. As more robots are deployed, manufacturers collect more data and improve their systems. And finally, as production scales, the cost of the technology falls. All of this makes automation viable for even more factories and creates a feedback loop that countries without a large human-centric industrial base struggle to replicate.
+
+And investors appear to be betting that this feedback loop is becoming commercially important. According to Crunchbase, companies broadly classified under "physical AI", including robotics, autonomous vehicles, drones, industrial automation and sensors, attracted $47.4 billion of venture funding across 521 deals in the first half of 2026. That was nearly 80% higher than the first half of 2025 and almost four times the amount raised in the second half.
+
+Robotics itself has seen an extraordinary surge. In fact, they have also surpassed fintech companies in new investments, as of H1 2026. And that could indicate that the AI investment story is beginning to move beyond companies that produce information on screens and towards companies that can manipulate the physical world.
+
+Source: A16Z / Pitchbook, BCG analysis India, however, has a different opportunity. We don't necessarily need to beat China at building humanoid robots. Our advantage could lie further up the stack. Someone still has to design the production system, maintain the machines, train the AI, integrate different pieces of equipment, and troubleshoot the factory when something inevitably goes wrong.
+
+Those jobs require very different skills from the repetitive factory work that automation is replacing. A country that buys robots without developing the workforce to operate and improve them could end up with highly automated factories but little domestic capability to build or manage that technology. That means India's real challenge isn't choosing between people and machines.
