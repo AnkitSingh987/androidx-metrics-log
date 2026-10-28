@@ -1,0 +1,12 @@
+Category: Editorial
+Title: A budgetary signal as banks cannot bear it Part Two
+
+A budgetary signal as banks cannot bear it all
+
+Households and foreign investors play only a marginal role, and issuance is heavily skewed toward top-rated firms. With such limited depth and participation, the bond market cannot meaningfully absorb or price credit risk. The concentration of risk in the balance sheets of banks also weakens monetary policy transmission.
+
+When interest rates rise, banks already burdened with long-term credit exposures are reluctant to pass on higher costs fully; when rates fall, impaired balance sheets constrain fresh lending. The uneven adjustment of long-term borrowing costs despite changes in policy rates reflects this distortion. In contrast, deep bond markets transmit policy signals more smoothly as yields reprice across maturities and portfolios rebalance.
+
+No corporate debt market The core issue stems from the absence of a corporate debt market that can effectively distribute long-term credit risk. Without a deep bond market to distribute exposure across institutional and long-term investors, credit risk remains concentrated on bank balance sheets. Thus, the measures announced in Budget 2026 are an attempt to correct a long-standing structural imbalance.
+
+By improving corporate bond market liquidity, introducing hedging instruments such as total-return swaps, providing partial credit guarantees through the Infrastructure Risk Guarantee Fund, and expanding the stock of market-ready assets through REITs, the Budget gestures towards reallocating risks away from banks and into markets. Whether this shift gathers momentum will determine whether India's financial system becomes more resilient or continues to rely on banks as the economy's shock absorber of last resort. Saumitra Bhaduri is Professor, Madras School of Economics
