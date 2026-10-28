@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Ten years on UPI has sent the bill Part Two
+
+10 years on, UPI has sent the bill
+
+Persistent migration toward cash could weaken deposit mobilisation at the margin, prompting banks to raise deposit rates, compress margins or reprice loans  -  making credit marginally dearer, a risk policymakers must address rather than dismiss. The tax question is sharper still. UPI's digital trail has been central to GST formalisation; cash is easier to omit from invoices and returns.
+
+An MDR nudging precisely the higher-ticket, revenue-relevant transactions back to cash would compound that risk, unlike the innocuous tea-stall payment officials cite. Consumption, too, may suffer: by restoring the friction UPI removed, the fee could lead to discretionary high-ticket spending being postponed. Two design flaws deserve scrutiny.
+
+First, structuring: splitting a Rs 10,000 bill into five Rs 2,000 transfers avoids the levy while multiplying the settlement and fraud-monitoring load MDR is meant to fund  -  self-defeating unless anti-structuring rules follow. Second, the P2P-P2M asymmetry: a Rs 1 lakh transfer to a friend stays free, while a Rs 2,001 transfer to a shopkeeper is charged, even though P2P transfers incur comparable infrastructure costs. NPCI's implicit justification that merchants monetise the relationship elsewhere while individuals do not is not entirely defensible.
+
+The real test for this policy is not the MDR revenue collected, but that revenue net of the consumer-price pass-through, the cost of cash displaced onto a strained ATM network, and any tax leakage from transactions nudged back into currency. India built UPI to retire cash, not subsidise its comeback; financing the platform's second decade should not mean pricing transactions back into the shadow economy it was designed to shrink. By SANKALPA BHATTACHARJEE (The writer teaches Economics at IIM Ranchi.
+
+The views are personal.)'
