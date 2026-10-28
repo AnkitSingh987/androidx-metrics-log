@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The charge of the AI brigade Part One
+
+The charge of the AI brigade
+
+In algorithmic and automation-led battles, is the strategic battleground too complex for humans? Then and now. Traditional warfare was about the size of armies, leadership, battlefield strategies and tactics, weapons of physical destruction, human endurance, and the will to win. Today it's about orchestrating information from satellites, surveillance systems, reconnaissance aircraft, radar, battlefield communications, and sensors in real time.
+
+And about deploying algorithms and autonomous systems to repel unmanned drone swarms and missile systems  -  or attacking across multiple fronts, leveraging predictive analytics to forecast enemy manoeuvres. The canvas of modern warfare extends to cyberattacks and bioweapons, involving unprecedented speed, scale, intensity, and precision. Add to that psychological warfare by rogue actors to disrupt civil order with misinformation campaigns designed to destabilise societies.
+
+Like deepfakes of a head of state making inflammatory speeches bringing nations to war, showing political leaders espousing radical actions to fuel religious strife, manipulating electoral processes, altering public records, perpetrating financial fraud, paralysing critical infrastructure, and more. In today's wars, the threat is existential, the escalation risks are high, and truth is less relevant. Data as a critical asset: In war, data is a core asset that drives planning.
+
+There's ground data pertaining to military movements, obtained through surveillance, reconnaissance, and intelligence; operational data encompassing logistics, troop deployments, and resource allocations; communications data derived from intercepts, electronic signals, and network traffic; and environmental data relating to weather patterns, environmental factors, and terrain. A distinguishing element is data fusion that amalgamates information from various sources to create a unified operational picture. Recent real-world conflicts: The prolonged Russia-Ukraine face-off demonstrates the evolution of penetrative warfare in this digital age.
+
+It's a war in which software serves as the primary layer for defence as well as offence. We also see the effective use of unmanned aerial vehicles (UAVs), including the deployment of adaptive swarms; and the introduction of UAVs tethered to near invisible, spooled, hair-like threads of glass fiber to counter radio jamming, which had often rendered radio-controlled drones ineffective. We are seeing the use of uncrewed surface vessels to push back Russian naval domination, and unmanned ground vehicles to maintain supply lines, evacuate casualties, and perform de-mining operations.
+
+The US-Israel-Iran conflict, Epic Fury, is an AI-led algorithmic battle at a scale not seen before. The US Department of Defense has brought together warfighters, technicians, developers, and well-known AI entities, combining commercial technology with battlefield expertise to create Maven, their decision support system. This enables rapid targeting cycles with minimal human delays, and achieves precision that would otherwise be just 5-10%.
+
+Admiral Cooper, who leads the US war effort, confirms that the use of advanced AI tools enables enhanced situational awareness, and expeditious, impactful decisioning. AI is now the force-multiplier, processing petabytes of intelligence in milliseconds, bestowing battlefield advantage to whoever claims the digital edge. Recent wars have also brought to attention the pervasive use of electromagnetic spectrum for artillery and missile precision, and the criticality of secure spectrum management.
+
+And how warfare is structurally dependent on space capabilities, making space a highly contested territory  -  and the imperative of reducing spatial assets with more flexible and resilient architectures. Ethical and legal vulnerabilities: These challenges are profound, because matters of accountability, bias, and privacy can't be ignored, raising many questions. With autonomous systems in play, who's accountable during offensive operations?
+
+How can the deployment of AI's extensive data collection capabilities be stopped from infringing on individual rights or trampling on civil liberties? How can AI's biases be addressed so outcomes are not discriminatory? How can we protect international legal frameworks and various laws from being overtly or covertly violated?
