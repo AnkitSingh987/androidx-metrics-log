@@ -1,0 +1,20 @@
+Category: Editorial
+Title: KYC with a memory problem Part Two
+
+KYC, with a memory problem
+
+Other due diligence information, such as risk assessments and source-of-wealth documentation, sits outside the KRA framework and may be shared internally under group policies. The boundary isn't clearly drawn, and market participants do not apply it consistently. Both constraints reduce to the same point  -  the records exist, the verification has been done, and what is missing is a mechanism to reuse them.
+
+The FM's push must translate into reform at two levels. At the cross-sector level, the CKYCR must be made to work. The infrastructure is in place: CERSAI operates the registry, reporting entities are required to upload to it, and the PML rules contemplate retrieval by any reporting entity with the client's consent.
+
+What is required is alignment. Data standards across regulators must be harmonised so that a record acceptable to an RBI-regulated bank satisfies a Sebi-regulated broker. The consent mechanism must be standardised and made digitally operable, so the client can authorise retrieval once at onboarding rather than separately for each pull.
+
+Most importantly, the liability question needs to be addressed directly. Under Rule 9(2) of the PML Rules, a reporting entity that relies on a third party's due diligence continues to bear full responsibility for compliance with its KYC obligations, even where the underlying records have been verified by a regulated entity and uploaded to a government-operated registry. This allocation creates a disincentive, as intermediaries may prefer to undertake fresh verification rather than rely on third-party records.
+
+A clear regulatory position is required on the extent to which reliance in good faith on verified CKYCR records can satisfy KYC obligations. Such clarity would materially improve portability, more so than incremental improvements to registry infrastructure. Within the securities market, Sebi may consider issuing clear guidance on the conditions under which a single KRA pull by one group entity satisfies the obligation for other entities in the same group.
+
+Clarity on the distinction between KRA-stored information and other due diligence information, along with the applicable sharing channels for each, would further support consistency in practice. Without this, divergent market practices will persist, with the conservative players bearing unnecessary costs and the aggressive ones operating without a clear legal basis. Portable KYC is not a technology problem.
+
+The registry exists, the records exist, and the statute already contemplates reuse with the client's consent. What is missing is the legal comfort that reliance in good faith on those records will not be second-guessed. Fix the liability rule, harmonise the data standards, and the rest will follow. The infrastructure has been built.
+
+It is time to let it work. Written by Sandeep Parekh Co-authored with Pranjal Kinjawadekar and Yash Vardhan, Associates, Finsec Law Advisors
