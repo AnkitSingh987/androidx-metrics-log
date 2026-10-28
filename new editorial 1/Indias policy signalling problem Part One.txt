@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Indias policy signalling problem Part One
+
+India's policy signalling problem
+
+Durable reforms succeeded as they're preceded by consultation; recent volatility stands in contrast Policy is always made in the shadow of uncertainty. No government, however well-intentioned or technically equipped, can fully anticipate ex ante how millions of dispersed agents, firms, households, states, and markets will interpret, adapt to, or strategically respond to a new rule. Yet the difficulty of anticipation does not absolve governments of responsibility.
+
+It shifts the standard from omniscience to responsiveness. Governments fail not because outcomes diverge from intent, but because they mistake intent for impact. They often assume linear causality in a world governed by feedback loops, incentives, and second-order effects. They model compliance where evasion is rational, predict behavioural change where institutional trust is weak, and expect uniform responses from heterogenous actors embedded in unequal capacities and information.
+
+Bureaucratic silos further distort anticipation. Policies are stress-tested against legal form rather than lived practice, against average agents rather than marginal ones. Above all, political systems privilege announcement over adaptation. Treating policy as a statement of resolve rather than a hypothesis to be tested.
+
+But this also leads to uncertainty in certain cases. India's recent policy experience increasingly reflects this pattern of reversal. In isolation, each rollback may be defended as responsiveness. But in most cases, it also points towards the issue with how government fails in anticipating a fallout from a policy intervention.
+
+The most recent episode concerns the government's decision to mandate the pre-installation of the Sanchar Saathi cybersecurity app on all mobile phones manufactured or imported into India, an order that was shortly withdrawn after a public outcry on grounds of privacy, consent, and surveillance. Sanchar Saathi itself is not the problem. The deeper concern lies in the process: a sweeping regulatory instruction affecting hundreds of millions of users was issued first and defended later, only to be reversed.
+
+From "Sanchar Saathi" to Angel Tax There are several other examples. Consider the Union Budget episode on capital gains taxation of real estate. In 2024, the government abruptly withdrew indexation benefits on property transactions, significantly altering the tax liability of millions of homeowners and investors.
+
+After widespread criticism, the decision was partially rolled back, offering taxpayers a choice between a higher tax rate with indexation and a lower flat rate without it. The damage, however, had already been done. Expectations were disrupted, transactions were stalled, and credibility was eroded. In 2023, the Centre attempted to regulate laptop, tablet, and PC imports through a sudden licensing regime affecting companies such as Apple, Dell, and HP.
+
+Framed as a national security measure, the policy triggered immediate fears of supply shortages, price spikes, and production bottlenecks. Within months, the measure was quietly relaxed, after firms had already scrambled to restructure supply chains. Even recruitment policy has not been immune. In 2024, the government floated advertisements for contractual appointments to senior bureaucratic posts, joint secretaries, directors, and deputy secretaries across 24 ministries only to roll them back amid political backlash.
+
+Then there is the angel tax. Introduced in 2012, expanded controversially to non-resident investors in 2023, and abolished entirely in 2024, the tax regime moved in full circles within a single decade. There are several reasons why this happens. The first possibility could be haste, policy being drafted and notified under compressed timelines.
+
+In such cases, regulatory design often runs ahead of institutional readiness, legal vetting, or implementation capacity. Predictably, resistance then forces retreat. Second, most policies are designed using static, partial-equilibrium logic - assuming a stable mapping between rule leading to behaviour and outcome.
