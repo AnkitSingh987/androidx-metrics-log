@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Proposed CAFE norms for automakers need
+
+Proposed CAFE norms for automakers need relook
+
+They end up favouring large cars - in the sense that the mandated reduction in emissions in percentage terms over time works out to be less than it is for small cars The proposed Corporate Average Fuel Efficiency (CAFE) norms for 2027-32 have stirred up a debate between two camps of automakers - one led by Maruti and Renault which sells small cars and the other led by Tata Motors and Mahindra which sells more SUVs and EVs. These norms, introduced in FY18, spell out five year targets for auto makers with respect to mileage and carbon dioxide emissions. The existing standards were introduced in 2022.
+
+Broad metrics for fuel efficiency per 100 km and carbon dioxide emissions per kilometre are imputed into a respective automaker's fleet by means of a formula that uses the average weight of the fleet to arrive at a norm for that company. The formula is such that it ends up favouring large cars  -  in the sense that the mandated reduction in emissions in percentage terms over time works out to be less than it is for small cars. On this, there is no debate, as the mathematics is clear.
+
+The debate is over whether this bias is merited or not. To begin with, the goal of the policy is to promote fuel efficiency, emissions control and transition to EVs. Here, small car makers need to account for their relative disinterest in entering the EV market. That said, these cars are obviously more fuel efficient than large cars by virtue of weighing less and having less powerful engines; they probably deserve relief, given a formula that does not really recognise this and mandates relatively hard targets.
+
+Therefore, CAFE 2027 or CAFE 3 proposes a minor relaxation in emission norms for small cars  -  those below 909 kg and an engine capacity of less than 1200 cc. While this may not alter the relative disadvantage, small cars will have to invest in cleaning up their act. However, they are wrong in citing 'affordability' as an excuse for not doing so, when fuel and emissions efficiency have to be achieved.
+
+Big car makers, on the other hand, are equally at fault for citing safety as a factor in their vehicles' favour  -  as this too is a digression from the objectives of CAFE norms. Both sides are shifting goalposts here. On the issue of promoting EVs, CAFE 3 is flawed. CAFE 3 (as well as its earlier avatars) offers 'super credits' to auto makers for selling hybrids and EVs.
+
+A super credit of three for EVs would mean that a sale of one such vehicle would be counted as three. So, a producer of an SUV with poor fuel efficiency, can average that out with the high fuel efficiency count of EVs (megajoules of electricity are converted into fuel used) to meet the mandated norm. Ironically, a high super credit for EVs merely encourages the sale of inefficient large vehicles over EVs, and therefore this must be reduced.
+
+Finally, CAFE norms should be viewed against a larger hierarchy of priorities in transport and energy policy. Broadly speaking, mass transport should be promoted over private vehicles. And, within the private vehicles space, EVs should be promoted over fuel-driven vehicles. Finally, the less energy efficient fuel driven vehicles should be penalised.
