@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Changing base years have not altered Part One
+
+Changing base years have not altered narratives
+
+Bank of Baroda Chief Economist Madan Sabnavis highlights how staggered base years across GDP, CPI, and WPI create analytical noise, advocating for synchronized 5-year revision cycles to better capture economic shifts. The revision of base years for various economic indicators is an ongoing process, and this has been done for almost all major variables. Two things stand out.
+
+The first is that the base years for different indicators vary. In case of Gross Domestic Product (GDP), Index of Industrial Production (IIP) and Core sector it is 2022-23. When it is the Wholesale Price Index (WPI) it is 2022-23 but for Consumer Price Index (CPI) is 2024 (calendar). For the new Producer Price Index (PPI) it is 2022-23.
+
+The trial services sector index has 2024- 25. This raises a discussion of whether all of them could be aligned to a single base. This is so because all of them invariably are used in others. For example, deflators for GDP use both WPI (and now PPI) and CPI, where the base years would be different. The data on services sector would not perfectly match that with the GDP with different base years.
+
+Also, for the purpose of comparability, having similar years would be more appropriate. The second is that it would have been seamless if all the new indicators were introduced at the same time instead of in different months. While these two issues are relevant from a theoretical viewpoint, an issue that needs to be examined is that with the change in base years and compositions of the indicators, do the past narratives change?
+
+This is important because several decisions, especially those concerning monetary policy, were taken based on certain data sets, which could have changed with the new series. This is why there should be regular revisions in all these series to lower this noise factor. The issue with new series is that they can be tracked only from the time the Statstics Ministry decides on a particular year.
+
+Going back in time would just mean extrapolations and not give a true picture as the composition of the series would tend to be very different. In fact, it would not be possible to get data on components in a new index which was sparse in earlier years. Let us look at them sequentially. For FY24, growth in new series came in lower by 190 basis points (bps), while for the subsequent two years, it came higher by 40-70 bps.
+
+Typically, for a growth rate of say 7.4% under the old series for FY26 a 5% variation would have been about 38 bps. The variations do appear to be on the higher side. However, in terms of direction the new and old indices were telling the same story. The issue was more with FY24 where growth in the earlier series was at 9.2% against 7.3% in the new one.
+
+In case of IIP, growth data is presented for FY25 and FY26. In FY25, the variation was 160 bps but came down to 10 bps in FY26. The variation was again highest in the first year of the series. However, the narrative here changed. In the old series, growth remained unchanged at 4.1% in FY26, while the new series talks of a decline from 5.7% to 4.2%.
