@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Snooping around
+
+Snooping around
+
+CCTVs with Chinese spyware must be weeded out A recent report in this newspaper about hostile entities compromising Indian closed circuit TV networks has evoked considerable unease. These technologies seek to provide 'security', but often double up as spyware. Notably, reports indicate that Pakistan's Inter-Services Intelligence recently accessed live visual feeds and information from key defence and police sites over a period of three months across Punjab, Haryana, Rajasthan and Jammu and Kashmir via devices linked to EseeCloud  -  a Chinese software platform commonly used in surveillance equipment.
+
+The larger truth is that India's national security and intelligence apparatus relies too much on China for technology. Over the last few years, India has been progressively tightening regulations on the use of foreign-made CCTV equipment. Effective April 1 this year, rules prohibiting the sale of CCTVs that fail to meet prescribed testing norms kicked in.
+
+Moving from loose governance to mandating 'Essential Requirements' for CCTV equipment was indeed long overdue. Currently, a vast majority of CCTVs sold, especially the cameras that come as part of the package, are sourced from China. Indian companies claiming increased market share remain tethered to Chinese supply chains for essential parts.
+
+The new norms, overseen by the Standardised Testing and Quality Certification (STQC) Directorate, require equipment clearance  -  for software, firmware and hardware. The testing in this regard will be done at STQC centres or labs accredited by the Ministry of Electronics & IT (Meity). While this regulatory framework is a good first step, the most rigorous assessments could miss miniscule hardware implants.
+
+For instance, nearly a decade ago, intelligence authorities in the US purportedly discovered grain-sized hardware in a technology major's servers, used to clandestinely transmit information to China. In the corporate sector, it is imperative that companies ensure their corporate networks are independent of, or if not, at least secured from, their security systems even if the two are integrated. Given that security infrastructure depends heavily on imported components, a 'trojan horse'  -  particularly in vendor systems servicing government or defence establishments  -  that infiltrates networks could prove disastrous.
+
+Even if the CCTV equipment itself is secure, the involvement of third-party service providers introduces risks beyond the government's purview. For example, the security of recordings uploaded to the cloud is contingent upon the provider's systems. Similarly, if integration service providers  -  who assemble products using components from various specialists  -  remain lax about security, infiltration becomes child's play.
+
+For now, the CCTV policy seems a solo move in a sea of other dependencies. India needs to transition from assembling units to designing and manufacturing them locally. An indigenous semiconductor ecosystem and CCTV sector is a must. A roadmap of say three years, should be drawn up to this end.
