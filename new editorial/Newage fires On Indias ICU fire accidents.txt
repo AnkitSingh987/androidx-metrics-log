@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Newage fires On Indias ICU fire accidents
+
+New-age fires: On India's ICU fire accidents
+
+Fire accidents in ICUs need better and more evacuation facilities Not too long ago, India's fire accidents typically occurred in industrial facilities, large offices, mass gatherings, firecracker units and railway compartments, caused by faulty machinery, weak safety procedures and careless use of flammable materials. While these risks persist, what has got added to the country's poor record in fire safety in the last 15 years or so is residential buildings, hotels and hospitals, especially Intensive Care Units (ICU). Electrical fires now seem predominant, often caused by increased appliance use, overloaded electrical systems and poor maintenance.
+
+ICUs are especially vulnerable with their oxygen-rich environments. This month, back-to-back accidents at neonatal ICUs in Amravati, Maharashtra, and Chhindwara, Madhya Pradesh, claimed the most vulnerable: newborn babies. The Amravati fire was put out in 30 minutes, but the smoke was too much for the three babies admitted because of complications.
+
+A faulty ventilator is suspected to be the cause. In the NICU at Chhindwara District Hospital, a short circuit in a warmer triggered a fire and three babies, just days old, suffered burns. Over the past 15 years, ICU fires, including the one in Jhansi in 2024, in which 18 newborns died, have not served as a wake-up call.
+
+The Amravati fire shared many features with previous incidents. Perhaps the best way to respond to these new-age fires would be to treat ICU accidents as a distinct category. ICUs are sealed compartments where smoke fills up very quickly. In an NICU, where patients cannot self-evacuate, evacuation drills are essential.
+
+A best-case setup would have three independent exits, with at least two allowing horizontal evacuation, automatic sprinklers, independent power lines for large equipment, oxygen cylinder bed supports, and fire drills every two years. A well-designed ICU also locates oxygen outlets away from sockets. Following a Delhi NICU fire, the National Neonatology Forum called for mandatory fire safety certification for NICU-equipped hospitals, regular power audits, analogue addressable alarms, and an evacuation protocol - now RACE or Rescue, Alarm, Confine, Extinguish/Evacuate.
+
+The 2026 National Guidelines on Fire and Life Safety in Healthcare Facilities can be a useful starting point for ICU-NICU safety. Beyond all this lies an issue in power quality: electrical harmonics. NICU equipment is packed with electronic components that draw distorted current, which can silently overheat neutral wiring, transformers, and loose connections without tripping a breaker.
+
+Post-fire reports citing generic "short circuits" or "technical faults" may well be missing this harmonic-driven degradation, a largely unaudited risk factor.
