@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Funding riddle for desi AI Part Two
+
+Funding riddle for desi AI
+
+India's life insurance industry alone manages over Rs 65 trillion (~$780 billion) in assets, and the National Pension System (NPS) corpus exceeds `15 trillion (~$180 billion). The suggestion may seem alarming, but there is a well-established global precedent. The Canada Pension Plan Investment Board (~$600 billion assets under management or AUM) has long deployed to private equity, infrastructure, and technology ventures.
+
+Singapore's Temasek and GIC are active investors in frontier AI and deep-tech globally. Australia's superannuation funds like Australian Super and Aware Super routinely commit pension capital to private venture, growth equity, and infrastructure. Norway's Government Pension Fund Global, the world's largest sovereign wealth fund, has progressively expanded into private and unlisted assets.
+
+India would not be pioneering but catching up to a structure that the longer-horizon institutional pools of advanced economies already routinely use. Current IRDAI and PFRDA regulations restrict exposure to unlisted instruments, alternative investment funds (AIFs), and venture vehicles. A measured, capped relaxation of even 2-3% of AUM into qualifying deep-tech vehicles with appropriate ratings or government co-investment guarantees can unlock $20- 30 billion of patient capital almost immediately.
+
+The relaxation must, however, be carefully designed. Capped exposure, mandatory ratings or co-investment alongside established and rated AIFs, a prudent framework that genuinely protects underlying policyholder and pensioner interests, and a phased rollout starting with the better-capitalised insurers and the centrally-managed NPS corpus before extending to smaller schemes are considerable steps. The structural answer is right; the implementation has to be conservative enough to survive the first inevitable credit event without being unwound by political panic.
+
+Done well, this is the single largest capital unlock available to India's deep-tech stack while costing the exchequer nothing. The Rs 20,000 crore Deep Tech Fund of Funds and Rs 1 lakh crore central Research, Development, and Innovation scheme are the right shapes of intervention but significantly undersized to make a dent. Re-routing portions of existing private and institutional pools into the four capital-intensive layers of the AI pyramid is crucial to make any impact.
+
+Or…we can keep paying rent to the first four layers well into the future. By Dipak Gupta & D Manjunath, The authors are with IIT Bombay
