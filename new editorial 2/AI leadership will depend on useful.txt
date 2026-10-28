@@ -1,0 +1,24 @@
+Category: Editorial
+Title: AI leadership will depend on useful
+
+AI leadership will depend on useful, affordable intelligence, not parameter counts alone
+
+Useful, affordable intelligence, not parameter counts alone Sarvam AI's trillion-plus parameter model highlights the shift in AI from scale to practical utility and cost-efficient intelligence, emphasizing efficiency and real-world performance over sheer size. India's AI future depends on value, not just big models. Sarvam AI's announcement that it plans to build a trillion-plus parameter foundation model has drawn attention to the model's size rather than the strategy's significance.
+
+That is understandable. Artificial intelligence (AI) has become accustomed to measuring progress in ever larger numbers, whether parameters, graphics processing units, or training tokens. But the obsession with scale risks obscuring a more important shift taking place in the industry. The next phase of AI competition will not be decided by who builds the biggest model, but by who builds the most useful one.
+
+Parameter count is becoming AI's equivalent of the megapixel race in smartphone cameras: a convenient marketing metric that offers only a partial picture of real-world performance. For India, the lesson is clear. Building frontier models is important, but winning the AI race will depend less on scale and more on the ability to translate computing power into practical, affordable intelligence.
+
+Recent developments in AI underline why size alone is no longer a reliable indicator of capability. Many of the latest models are designed to work like a team of specialists rather than a single generalist. Instead of using the entire model to answer every query, they activate only those parts best suited to the task at hand, reducing the computing power required without compromising performance.
+
+This approach, known as a Mixture-of-Experts architecture, has enabled companies to build massive models while keeping inference  -  the cost of generating responses  -  far more efficient. Coupled with advances in reasoning, reinforcement learning, and model design, this means smaller or specialised models can often outperform much larger ones on specific tasks. As AI adoption gathers pace, the economics of inference is emerging as the real battleground.
+
+Companies that can deliver faster, cheaper, and more accurate responses will enjoy a far stronger competitive advantage than those that merely boast the largest models. That is also how enterprises are likely to evaluate AI. Companies are unlikely to choose a model because it has a trillion parameters.
+
+It will choose one that delivers accurate results, low latency, and predictable costs. Businesses buy productivity, not parameter counts. This is where Indian AI companies have an opportunity to differentiate themselves. Instead of chasing global benchmarks alone, they can build multilingual, domain-specific models optimised for Indian languages, public services, and enterprise workflows.
+
+Success will depend on whether these models solve problems that global offerings are not designed to address while remaining significantly cheaper to deploy. Efficiency, not scale, will define AI winners. None of this diminishes the importance of frontier AI efforts. India should continue investing in advanced models because technological capability cannot be built entirely on imported intelligence.
+
+But the objective should not become a race for ever larger numbers. It should be to build an AI ecosystem that balances frontier research with commercial viability, encourages innovation while keeping costs under control, and delivers value to enterprises as well as citizens. Sarvam's announcement should therefore be viewed not as the start of a trillion-parameter contest, but as a reminder that the industry is entering a more mature phase.
+
+The real question is no longer who can build the biggest model. It is who can deliver the greatest intelligence for every unit of compute and every rupee spent on inference. That, rather than parameter count alone, will determine the next generation of AI leaders.
