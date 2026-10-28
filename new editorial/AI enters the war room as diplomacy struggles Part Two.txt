@@ -1,0 +1,20 @@
+Category: Editorial
+Title: AI enters the war room as diplomacy struggles Part Two
+
+AI enters the war room as diplomacy struggles
+
+Diplomacy has produced movement without much grip. At their summit in May, the American and Chinese leaders agreed to improve policy exchanges on AI, and a bilateral channel on AI governance was announced, after which Chinese officials urged the world to close the regulatory vacuum around military AI and backed rules that could eventually become binding. Yet both powers sent substantially smaller delegations to the recent Responsible AI in the Military Domain summit in Spain than they had to the 2024 meeting in South Korea.
+
+The one understanding they had quietly held, keeping AI away from the decision to use nuclear weapons, looks to be eroding rather than consolidating. At the United Nations, the picture is slower still. The Group of Governmental Experts spent much of its three-year mandate debating what human control even means and reached the end of that mandate without a binding text, leaving the question to the Seventh Review Conference of the Convention on Certain Conventional Weapons in November.
+
+In December 2025, the General Assembly passed Resolution 80/57, and India voted in favour of it. New Delhi holds to a careful line of its own. It backs the expert process and insists that any use of autonomy obey the laws of armed conflict with human accountability intact, while declining to support a legally binding ban.
+
+On that stance, it sits alongside the United States, Russia and Israel among the main opponents of treaty negotiations, wary of rules that could freeze its own options. This is where AI has become a weapons danger of a new kind. The same models that draft text and design molecules can speed the engineering of novel arms and lower the skill needed to build them.
+
+Capabilities once held by great powers can pass to smaller states and to groups that answer to no state. Systems that can select and engage targets on their own already exist, are being deployed in combat, and are being procured at unprecedented scale. More than 160 countries have voted for restraint, while the strongest military powers resist anything that might constrain their programmes.
+
+The problem forces a rethink of what a weapon is. For centuries, a weapon waited for a human to aim and fire. A system that picks its own targets breaks that assumption and asks whether a machine should ever be allowed to make the choice that ends a life. Defence ministries insist a person will always stay in the loop.
+
+That loop keeps tightening as the systems grow faster, and a human given three seconds to say yes is a supervisor in title alone. For now, the race is ahead of the rulebook by a clear margin. Whether governments can close that gap before an AI-driven error, in a crowded sky or a nuclear command chain, forces a decision no one intended is the test the coming summits and the November review will have to meet.
+
+The technology will not wait for them to agree. At the United Nations, the picture is slower still. The Group of Governmental Experts spent much of its three-year mandate debating what human control even means and reached the end of that mandate without a binding text, leaving the question to the Seventh Review Conference of the Convention on Certain Conventional Weapons in November By MD Afshar Alam The writer is a former Vice-Chancellor of Jamia Hamdard, New Delhi; Views presented are personal.
