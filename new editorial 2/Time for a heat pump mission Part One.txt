@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Time for a heat pump mission Part One
+
+Time for a heat pump mission
+
+India spends billions on oil and gas imports, facing economic and geopolitical risks. Heat pumps offer a cost-effective, energy-efficient solution to reduce import dependence and boost energy security. Every year, India spends hundreds of billions of dollars to import crude oil and natural gas. In the last financial year, the net oil and gas import bill was $117.5 billion, roughly equal to the gross state domestic product of Punjab.
+
+Oil and gas imports, therefore, do not merely drain foreign exchange; they also expose the Indian economy to global price shocks and geopolitical risks, which we have experienced vividly in the last few months because of the US-Iran conflict. There is now a broad consensus on the need to reduce this import dependence and make India more self-sufficient in energy. However, the policy conversation on reducing this dependence largely revolves around the visible frontiers of the energy transition  -  electric vehicles, green hydrogen, ethanol, and solar parks.
+
+But a large and largely ignored share of imported fuel is burnt for something far more mundane: heat. Diesel and furnace-oil boilers generating steam in factories, LPG and piped gas heating water in hotels and hospitals, and gas-fired ovens and dryers in automobile plants are all part of this hidden energy economy. In fact, about 40% of the energy used in Indian industry goes into generating heat  -  hot water, steam, and hot air.
+
+For all this heat, a proven and commercially available technology can slash fuel use starting today. This technology is the heat pump  -  and it is perhaps the lowest-hanging fruit in India's energy transition. A heat pump does not generate heat; it moves it. It extracts warmth from the air, ground, or industrial waste heat and delivers it at useful temperatures.
+
+For every unit of electricity it consumes, it delivers two to four units of heat. No boiler or burner can match this efficiency arithmetic. And this is not a laboratory promise; these are commercially available technologies. Largely Indian-made heat pumps are already running on factory floors across the country  -  at automotive facilities in Pune, pharmaceutical factories in Bengaluru, textile plants near Bhubaneswar, and electronics plants near Chennai  -  reliably delivering hot water and steam at temperatures up to 120°C under real operating conditions.
+
+Heat pumps that can deliver even higher temperatures are also available, but they remain expensive and are not yet widely deployed. Studies conducted by my colleagues and me show that wherever heat pumps displace diesel, furnace oil, LPG, or piped natural gas, heating costs fall by 50 to 75%. A motorcycle plant that replaced its diesel boiler saw its cost of heat drop from `8.6 to `3 per unit.
+
+An electronics manufacturer replaced LPG-fired heating at `10 per unit with heat-pump heat at `3.5 per unit. In industries requiring low-to medium-temperature heat, heat pumps typically pay for themselves in under three years. In large hotels, hospitals, and hostels using electric heaters or LPG boilers, payback periods often fall below two years.
+
+Our assessment shows that the easiest and most economic case for heat pumps today is precisely where they replace an oil or gas boiler or an electric resistance heater. Coal-and biomass-fired heat is harder to displace on cost today. But the imported-fuel segment  -  the one that matters most for India's trade balance  - is bankable right now.
