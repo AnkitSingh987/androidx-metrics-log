@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The new digital slavery needs constitutional Part One
+
+The new digital slavery needs constitutional guardrails
+
+Unchecked AI threatens democracy, demanding constitutional safeguards beyond conventional regulation In his profound encyclical, Magnifica Humanitas, Pope Leo XIV grounds the contemporary crisis of technology in elemental theology, reminding humanity that the individual stands at the absolute centre of divine creation. Yet, this sacred human dignity faces an unprecedented challenge. The Holy Father warns that artificial intelligence (AI), left unchecked, threatens to turn the ownership of our personal data into a new form of digital slavery - a subjugation as cruel as human bondage.
+
+Because the stakes are so inherently tied to human dignity, the Pontiff insists that the governance of AI cannot rely on vague good intentions, nor can it be left to the private consciences of the engineers who build these systems. Instead, he issues an urgent call for robust, binding law over abstract ethics, independent public oversight over the empty promises of Silicon Valley's modern pharaohs  -  and a clear requirement that a human being remains accountable whenever an automated system decides who gets a loan, a job, a medical bed, or an education. Pope Leo XIV's core demand is that this new electronic Curia be strictly regulated rather than quietly surrendered to a handful of private tech monopolies whose reach and resources already outstrip most sovereign governments.
+
+He even goes so far as to commend the courage to deliberately slow down the development of AI. When regulation lags However, a fundamental problem remains: AI and morality do not observe the same time. AI is developed at the breakneck speed of the start-up culture, driven by an ethos to move fast and run perpetual beta tests on society in the guise of progress.
+
+This velocity is fuelled not just by commercial rivalries, but by relentless mathematical innovation spanning from Silicon Valley to Shenzhen. It presents a deeper hurdle for lawmakers worldwide: parliament can govern what a person does, but it can never forbid a mathematical theorem, a discovery, or an equation from being made. How do lawmakers fulfil the Pope's wishes?
+
+Law in most democracies moves slowly. By the time landmark legislation such as the European Union's Artificial Intelligence Act or the United Kingdom's Online Safety Act were painstakingly debated and passed, the specific technical harms they were built to combat had already mutated, leaving an entire generation to grow up inside unaddressed digital vulnerabilities. Policymakers have historically been behind the innovation curve, and under current paradigms, we will be again.
+
+If legislation is fated to lag behind innovation, the consequences for democratic societies are not merely regulatory; they are existential. Democracy cannot function if citizens cannot distinguish reality from fabrication. At its core, democratic governance relies on a shared epistemic foundation: a collective agreement on basic facts from which public debate, policy, and electoral choices can flow.
+
+When that foundation is systematically undermined, the entire democratic project is threatened. Today, AI-generated disinformation and advanced synthetic media ("deepfakes") have advanced to a level of fidelity where the human eye and ear can no longer reliably detect forgery. This is already our reality.
+
+Highly convincing audio and video duplications of political leaders are deployed strategically during sensitive electoral cycles to depress voter turnout, fabricate scandals out of thin air, and instantly shatter public trust in legitimate state institutions. This vulnerability is hyper-charged by algorithmic manipulation. Big Tech platforms operate on business models engineered exclusively to maximise user engagement.
