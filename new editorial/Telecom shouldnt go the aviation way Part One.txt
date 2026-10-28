@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Telecom shouldnt go the aviation way Part One
+
+Telecom shouldn't go the aviation way
+
+While both sectors are duopolistic, telecom can infuse competition and improve service through functional separation The IndiGo fiasco with thousands of flight cancellations during December teaches the telecom industry a lesson or two. The domestic aviation industry is dominated by IndiGo with about 60 per cent market share and the Tata group with about 26 per cent, indicating thereby a near duopoly market structure. In terms of fleet ownership, IndiGo and the Tata group combine account for about 90 per cent of the aircraft in the domestic market.
+
+Similarly, the two main telecom operators in the country, RJio and Airtel, with a subscriber market share of 40 per cent and 35 per cent, respectively, dominate the industry. In terms of revenue share, the numbers are even higher at 42 and 39 per cent respectively for RJio and Airtel. In terms of radio spectrum, which is the fuel for mobile services, RJio and Airtel have about 45 per cent (about 25,520 MHz) and 39 per cent (21,910 MHz) respectively.
+
+A precarious duopoly much in like the aviation industry. As with the aviation industry, the telecom industry is characterised by high upfront sunk cost including cost of radio spectrum and the pan-India network infrastructure, and hence a near duopoly market structure. However, unlike the aviation industry, there are mechanisms by which competition can be introduced in the telecom sector  -  by functionally separating the infrastructure layer from services.
+
+This has been made possible by the introduction of Virtual Network Operators (VNOs) that use (or home on to) the infrastructure including radio spectrum with the Network Service Operator (NSO) to provide voice, data and content services. Having functional separation is likely to increase service competition and improve quality of service. Not taken off Though the licence and authorisation of VNOs was promulgated in India in 2016, it has not taken off.
+
+On the contrary, there are about 250-300 active Mobile VNOs (MVNOs) in the US, with visible consumer brands such as Cricket, Metro, Spectrum, and Mint homing on to the three main NSOs, namely, T-Mobile, AT&T and Verizon. A well-known case is Google Fi, a smart and advanced MVNO that primarily uses the network resources of T-Mobile to provide seamless international data roaming to all its customers. Another country that has witnessed growth of MVNOs is Australia, that has about 70 of them with about 14 per cent share, homing on to the three main NSOs  -  Telstra, Optus and TPG Telecom.
+
+Virgin Mobile, the pioneer in the MVNO space, operates profitably in many countries, notably in the UK and Australia. The moot question is whether such an MVNO story is viable in India? One of the reasons for MVNOs not taking off in India is the high regulatory levies in the form of spectrum charges and licence fees as a percentage of Adjusted Gross Revenue (AGR).
+
+Further, the guidelines state that an MVNO can only home on to one parent NSO, though it has been relaxed for wireline VNOs in the 2024 recommendations by TRAI. Apart from these, one of the reasons for the tight stronghold of the NSOs is that the entity that owns the infrastructure also provides services, and hence lacks any incentive to encourage service competition. In our recent book, we advocate structural and accounting separation of the NSOs at the infrastructure and service layers.
