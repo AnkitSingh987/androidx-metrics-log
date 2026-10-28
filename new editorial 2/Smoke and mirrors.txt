@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Smoke and mirrors
+
+Smoke and mirrors
+
+Subhash Chandra's case flags key IBC concerns In recent days, there has been considerable debate over a striking  -  but short-lived  -  reprieve for Zee and Essel group proprietor Subhash Chandra from discharging his debt as guarantor. The National Company Law Tribunal (Indiabulls Housing Finance Limited vs Subhash Chandra) tied itself in knots, with a two-member bench pulling in opposite directions last year, only to have a third member giving yet another view a few days ago. Given this stalemate, a five member NCLT bench will examine the matter afresh -  which means that Chandra's dues will likely be reassessed.
+
+This is a welcome development. The manner in which the NCLT, aided by the Resolution Professional's inputs, arrived at the view that Chandra had no more than ₹31.79 crore net worth to pay off his dues (estimated at ₹22,000 crore) failed to inspire confidence. As for the facts of the case, Indiabulls (now Sammaan Capital) initiated personal insolvency proceedings against Chandra in 2022, after a ₹170 crore loan for which he was guarantor went sour.
+
+This step led to other creditors raising claims. These claims ran up to ₹22,000 crore, of which banks and financial institutions such as LIC Housing, Canara Bank, HDFC Bank, Axis Bank and RBL Bank accounted for 19 per cent. Allegedly related parties to Chandra accounted for 80 per cent of the guaranteed debt.
+
+However, the picture on debt remains hazy. Banks should clear the air. Be that as it may, the allegedly related parties cornered 80 per cent of the votes of Committee of Creditors. They decided on the basis of Chandra's mysteriously arrived net worth of ₹31.79 crore at the time of voting, that ₹6.5 crore will be paid to all creditors, wiping out banks' dues.
+
+The legal position here, as spelt out in the Supreme Court ruling in Phoenix ARC vs Spade Financial Services (2021), appears to be that related parties are not creditors, and cannot be a part of CoC. It also suggests that a 'purposive' rather than narrow interpretation be made of related parties under Section 79 (2)(g) of the Code. A precedent needs to be set, so that the CoC process is not easily gamed.
+
+The RP's role has been unconvincing. As the technical member points out, the assertion of ₹31.79 crore net worth "appears to have been accepted by the RP without substantial scrutiny, despite...several creditors seeking appointment of an independent forensic auditor..." Section 96 of the IBC allows the debtor to secure an internal moratorium on claims and manage his assets (in this case, net worth was estimated at over ₹40,000 crore in 2017-18, according to the ruling). An amendment to IBC this May does away with this leeway.
+
+Possibly, the Chandra case would have taken another turn, if this amendment had been in place earlier. But the issue of addressing RP transgressions in quick time is a serious one. Decisions taken on the basis of wrong RP inputs cannot be easily reversed. If the Chandra episode leads to some course correction in terms of treating related parties and the regulation of RPs, we would have made some progress.
