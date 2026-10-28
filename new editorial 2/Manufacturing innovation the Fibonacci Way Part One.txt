@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Manufacturing innovation the Fibonacci Way Part One
+
+Manufacturing innovation  -  the Fibonacci Way
+
+By validating academic research early with industry, this approach reduces time-to-market, lowers import dependence, strengthens hi-tech capabilities A manufacturing renaissance is within India's grasp. Global supply chains are recalibrating, technology cycles are compressing and the demand for resilient, sustainable production has never been greater. With proven digital capabilities and a strong science and engineering base, India has a once-in-a-generation opportunity to emerge as a global hub for industrial innovation.
+
+Yet to lead in next-generation manufacturing  -  robotics, semiconductors, advanced materials and green mobility  -  we must dramatically accelerate the journey from idea to impact. Our challenge is not a lack of ambition or creativity, but the absence of a structured, cumulative process that consistently connects research institutions, industry partners and policy enablers. This is where the Fibonacci Innovation Acceleration (FIA) model offers a powerful new pathway; one inspired by the logic of natural growth and the discipline of industrial execution.
+
+Growth that builds on itself Leonardo of Pisa's Fibonacci sequence  -  0, 1, 1, 2, 3, 5, 8, 13…  -  is a pattern where each number is the sum of the two before it. It appears throughout nature: in spiralling shells, the blooming of flowers, or the branching of trees. What makes it special is its principle of cumulative, self-reinforcing growth.
+
+The FIA model borrows this principle to accelerate industrial innovation. Each step is designed to strengthen what came before, ensuring that scientific advances evolve organically into engineered products, scalable solutions and competitive manufacturing capability. Practically, FIA moves innovation through a cumulative sequence  -  concept, simulation, prototype, testing and deployment  -  each stage reinforcing the last, just as in Fibonacci progression.
+
+A collaborative model The FIA framework has been operationalised at the Centre for Advanced Manufacturing Research and Autonomous Systems (CAMRAS), a programme of the Ministry of Heavy Industries (MHI) and the Indian Institute of Science (IISc), Bangalore. It brings together academia, industry and government, overseen by a Project Review and Monitoring Committee (PRMC) of technical experts appointed by MHI. This triad is essential for translating fundamental research into industrial capability.
+
+Through this model, multidisciplinary teams  -  engineers, materials scientists, roboticists and data experts  -  co-develop prototypes with industry, test them in near-real industrial environments and iterate rapidly. The result: technologies that are not only cutting-edge but also ready for local manufacturing. Unlike conventional industry - academia collaborations, FIA is execution-oriented.
+
+It compels co-design, co-validation and co-ownership from day one, ensuring that manufacturability, cost, quality and application needs are embedded early in the innovation cycle. By mirroring the additive logic of the Fibonacci sequence, the FIA process creates momentum, a self-sustaining loop where each success strengthens the foundation for the next. Bridging the innovation gap India's relatively modest public investment in research often remains confined to laboratories.
+
+Public and private put together, the investment is less than 1 per cent of GDP on R&D, significantly lower than innovation-driven economies. This gap affects the pace and scale of commercialisation. Indian industry frequently looks overseas for validated technologies instead of tapping domestic R&D capability.
+
+The gap between early research and market-readiness  -  i.e. the 'Valley of Death', between TRL 3 and TRL 7  -  is where many promising ideas stall. The FIA approach is designed to bridge this divide. By validating academic research early with industry, it ensures co-ownership and shared accountability.
