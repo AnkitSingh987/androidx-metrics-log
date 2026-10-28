@@ -1,0 +1,28 @@
+Category: Editorial
+Title: The new playbook for Indias internet economy
+
+The new playbook for India's internet economy
+
+A's internet economy The internet economy is shifting from pure growth to maximizing customer economics, driven by quick commerce, advertising, AI, and automation, reshaping platforms like Amazon, Walmart, and Indian startups. For much of the past decade, the internet economy had a fairly simple obsession: growth. Acquire customers, increase orders, expand gross merchandise value (GMV), and wait for scale to deliver profitability.
+
+But the latest trends across global technology and commerce companies suggest this playbook is changing. Amazon, Walmart, Alibaba, Meituan, DoorDash, and Instacart are still chasing growth, but the transaction itself is increasingly only the starting point. The bigger opportunity lies in everything that can be built around it.
+
+The first change is speed. The lines separating traditional e-commerce, quick commerce, and food delivery are rapidly disappearing. Amazon's rapid-delivery offering grew around 80%, while Alibaba's China quick-commerce revenue grew 45% and now accounts for around 20% of group revenue. Alibaba expects non-food to overtake food in instant commerce and has indicated that fast delivery could eventually account for around 30% of platform sales.
+
+DoorDash, meanwhile, is moving beyond restaurants and grocery into pharmacy, beauty, wellness, and general merchandise. For India, this changes how we should think about Blinkit and Instamart. The opportunity is no longer merely about taking grocery online and delivering it faster. Once consumers open an app several times a week, and the platform has warehouses and riders positioned close to them, the same infrastructure can potentially serve a much larger part of the consumer wallet.
+
+There is, however, an important lesson from China: not every order is equally valuable. PDD has deliberately stayed away from quick commerce, preferring to invest in supply chains and rural demand. During China's subsidy battle, Meituan found competitive gains were concentrated among mid-to-high-average order value consumers, while more price-sensitive users attracted through competitor subsidies showed weaker repeat behaviour.
+
+This is particularly relevant for India. Discounts can buy GMV and market share, but they not necessarily build a valuable consumer franchise. The more profound change, however, is happening after the order is won. Walmart provides perhaps the clearest example. US comparable sales grew just 2.6%, yet profit went up around 10% before tariffs, with almost half of the rise coming from advertising, marketplace, and membership.
+
+Walmart's global advertising revenue grew 38%, Amazon's ad business grew 26%, while Instacart's ad revenue rose 16%. This may be the most important global read-through for Indian internet companies. Blinkit, Nykaa, Meesho, Instamart and FirstCry are also potentially powerful media platforms. They know what consumers search for, what they eventually buy, and how frequently they return.
+
+Unlike traditional advertising, commerce platforms can close the loop between an advertisement and the final purchase. That means the same consumer and the same GMV can be monetised more than once  -  potentially at significantly higher margins. Then comes AI, where Indian platforms could occupy an unusually advantageous position.
+
+Amazon, Meta, and Alphabet have increased capex sharply as they spend enormous sums building AI infrastructure. Indian consumer platforms do not have to finance that infrastructure race. They can consume the technology that it creates. Amazon's Alexa for Shopping users spend over 40% more per order, while AI-led ad tools are improving conversion and lowering acquisition costs.
+
+For Indian platforms, AI can improve search, recommendations, advertising yields, inventory management, customer service, fraud detection, and delivery routing. They could effectively become second-order beneficiaries of the billions of dollars being invested in AI. Automation could eventually address another stubborn cost: fulfilment.
+
+DoorDash is experimenting with delivery robots, JD operates autonomous delivery vehicles, and Meituan is scaling drone deliveries. It suggests today's rider-intensive deliveries shouldn't be considered the terminal cost structure of these businesses. Put all of this together and the internet playbook is shifting  -  from maximising GMV to maximising the economics of every customer relationship.
+
+By Karan Taurani The writer is EVP, Elara Capital
