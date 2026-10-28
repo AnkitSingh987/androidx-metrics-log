@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The AI apocalypse is a marketing trick And Part One
+
+The AI apocalypse is a marketing trick. And it's all about the money
+
+Trick. And it's all about the money If anything is a threat, it is the economics of this industry. It is high time we question its premises and regulate this technology like we do any other A recent incident in the AI industry has reignited debates about AI's power and potential harm. In July 2026, OpenAI's so-called agents, pseudo-autonomous bits of code, escaped their sandbox during an automated cybersecurity evaluation with ill-defined guardrails, communicated and coordinated, and accessed the internet.
+
+This was supposed to be stopped by the designers of the test. Once online, they attacked the machine learning resource website Hugging Face. The agents were trying to optimise their scoring data and might have calculated that exploiting the resources on the Hugging Face website by stealing credentials, etc., might help them "win" the test.
+
+Hugging Face contained the breach while OpenAI acknowledged this incident much later. AI industry leaders and media have characterised this incident as evidence of the potency of this technology and of the existential threat of humans "losing control over AI". They call for caution and intervention. However, the vocabulary that has been used by the industry leaders, characterising these codes as "agents", their coordination as a "message board", their communication as human-like "messages", is a misrepresentation of the technology.
+
+Any serious scholar of AI will agree with the call for caution, but will disagree with the anthropomorphising because it simultaneously exaggerates the technical capability of AI, while burying the actual problem. Subtly, the discourse primes the observer into thinking of AI agents as humanlike autonomous entities with cognitive powers and thus immense productive potential. None of this is true.
+
+The framing of whether the technology can generate immense wealth or create existential threats is a cynical misdirection. This tactic is not new. Three years ago, a panicky "AI moratorium letter" was drafted by the Future of Life Institute with more than 2,900 signatories. Even then, claims were made about the future catastrophic (and hence, lucrative) power of AI, the need to listen to "experts", and use their expertise to let the industry self-regulate.
+
+The unsaid bit was that governments need to take these claims of AI being immensely powerful seriously and stay out of the way. I had written an article ('What technology leaders asking for a six-month halt on AI don't want you to know,' IE, April 3, 2023) pointing out the malice behind the concerns. I had explained that the technology is good at specific well-defined repetitive tasks where adjudication by humans is possible, but absolutely unsuitable for tasks involving the social or economic rights of people like medical advice, law enforcement, and judiciary, where arbitrary errors and blind repetition of patterns are catastrophic.
+
+I had pointed out that the nature of the problem lay in capital relations, in who owned AI. It is important to underline here that "Artificial Intelligence" is a marketing term and is a vast family of technologies using machine learning (ML), that is, finding patterns from large amounts of data. The most popular AI artefacts these days are large language models or LLMs.
+
+These are extremely expensive, resource-and data-intensive ML systems which can ape language by predicting what to say next given context. Thus, the public representation of AI is statistical pattern generators without sophisticated internal reasoning, much less having agency, moral or otherwise. In the words of AI scholar and computational linguist Emily Bender, these are "stochastic parrots".
