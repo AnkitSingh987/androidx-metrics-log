@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Linking womens incomes and healthcare Part One
+
+Linking women's incomes and healthcare
+
+Women may be using their additional income to reorganise household priorities in ways that reduce future dependence on healthcare India is experiencing two revolutions at once. The first is economic. Female labour force participation has risen sharply over the past few years, supported by greater formalisation, digital payments, and government efforts to increase women's participation in the workforce.
+
+The second is epidemiological. India is no longer fighting only infectious diseases. Diabetes, hypertension, cardiovascular disease, obesity and mental health disorders are now becoming defining public health challenges. These chronic conditions already account for most deaths in the country and place increasing pressure on both households and public finances.
+
+Most policy discussions assume that these two are unrelated. However, new research, forthcoming in the Oxford Open Economics journal, suggests that they may be deeply connected. Looking beyond hospitals India has traditionally measured progress in healthcare through familiar indicators such as more hospitals, more doctors, more insurance coverage, and higher healthcare expenditure.
+
+These investments remain indispensable; schemes such as the Ayushman Bharat have expanded financial protection for millions of households, while improvements in primary healthcare infrastructure continue to save lives. But healthcare expenditure is only one way of producing health. Many of the biggest determinants of health lie outside hospitals  -  better nutrition, healthier lifestyles, timely preventive care, education, sanitation, and informed household decision-making.
+
+If households began investing more in these activities, healthcare expenditure may fall, not because health deteriorates, but because health improves. In the forthcoming research, a natural experiment created by India's 2018 reform of the Employees' Provident Fund was examined. The reform reduced the mandatory provident fund contributions for newly employed women in the formal sector from 12% to 8% during their first three years of employment.
+
+In effect, women experienced an unexpected increase in take-home salary without any change in their gross wages. This created an unusually clean opportunity to study how women allocate additional income. Using nationally representative household panel data, it was observed that female-led households that benefited from the policy reduced overall healthcare expenditure by roughly 11.6%.
+
+Spending on medicines and doctors' consultations declined, while expenditure on activities associated with improving health (including nutrition and physical fitness) increased. The research also analysed electronic medical records from one of India's largest eye hospital systems. Even after accounting for women who were already accessing healthcare, expenditure remained lower among women receiving the income shock.
+
+This does not imply that women value healthcare less. Instead, it suggests that women may be using their additional income to reorganise household priorities in ways that reduce future dependence on healthcare. Economists have long recognised that it matters who brings in the income. Research by Esther Duflo and Abhijit Banerjee has repeatedly shown that directing resources towards women changes household spending patterns.
+
+Transfers to women often generate greater investments in education, nutrition, and children's wellbeing. Banerjee and Niehaus have similarly shown that the identity of the income recipient influences how households allocate resources. The new findings extend this insight into healthcare. Women appear to think about health over a longer horizon.
+
+Rather than waiting until illness occurs, they seem more likely to invest in reducing health risks before they become expensive medical problems. That behavioural shift has important implications for a country where out-of-pocket expenditure still accounts for a substantial share of total healthcare financing. Why this matters for India India's demographic dividend depends not only on creating jobs for women but also on ensuring that greater economic participation translates into healthier families.
