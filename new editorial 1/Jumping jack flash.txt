@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Jumping jack flash
+
+Jumping jack flash
+
+Despite hitting all-time lows, there is a significant probability that we could be seeing rupee levels that most people have completely forgotten about. WOW! Was that the wildest shimmy the rupee has ever done? From hitting yet another all-time low of 95.23 against the USD on March 30, it shot higher by 2.9% to open at 92.54 on April 9, and then slipped a bit opening at 92.94 on Friday (April 17) for a net rise of 2.2% in 20 days (about 0.11% per day).
+
+This was much faster than the average speed at which the rupee (0.07%) has recovered from all its earlier (eight) rallies over the past 15 years; there was only one rally (back in 2011-12) that was faster. Now, we all know that past performance is NO indicator of the future, and that statistics have sometimes been described as "lies, damned lies, and statistics". Nonetheless, the accompanying table throws up some curious possibilities.
+
+The average rally (recovery from an all-time low) was 9.2% and its standard deviation was 3.7%. This means that there is a 67% probability that any recovery (including this one) will range between 5.5% (9.2-3.7%), taking the rupee to 90.02, and 13% (9.2+3.7%), in which case the rupee could reach 82.89! Note, importantly, that this also means there is a 33% probability that the rupee's decline will be either less than 5.5% or more than 13%.
+
+So, in some sense this isn't telling you much except that there is a significant probability that we could be seeing rupee levels that most people have completely forgotten about. One of the cardinal rules of forecasting is you either give a rate (or level) or a timeline - never both. So, I will, of course, barrel ahead with this statistical analysis to assess how long it could take for these strange things to happen (if they do).
+
+I note that after every recovery, the rupee fell again, in all cases (thus far) breaching the previous all-time low and setting a new one. The last column in the table shows that the average time it took to breach the earlier low was a huge 327 days, although there were two readings of less than 100 days. The standard deviation of this distribution is 210 days, which, statistically speaking, translates to a 67% probability that the rupee could get back to 95.23 (if it does) in between 117 days (327-210) and 537 days (327+210) - that's nearly one and a half years!
+
+As I said, this analysis suggests possibilities - indeed, significant probabilities - that the rupee could behave completely differently than most expectations. And, of course, there is also a definitive probability (33%) that the rupee could fall less than 5.5% and, equally, a 33% probability that it could turn back to 95.23 tomorrow. In other words, the range of possibilities is extremely wide - a market by any other name.
+
+Nonetheless, given that the world had looked like it was falling apart just a few weeks ago, while everything looks uncertain (if a bit better), it is worth considering as many possibilities that you can. Of course, you could do nothing and ride the tiger (as most exporters are doing), but the reversion, the history, and the apparent geopolitical reality that Trump is looking for a way out of the mess, all suggest it would be prudent to look at alternatives. One alternative would be to simply sell some part of your exposures forward - 91 days (the quickest the rupee had fallen back) would fetch you about 93.50; 327 days (the average tenor of the rupee's reversion) would get you 95.07.
+
+Another alternative is to buy puts with a spot strike. The cost of a 91-day put option with a spot strike (92.94) is 45 paise; in fact, with the premiums relatively flat across tenors in percentage terms, this cost - about 40-50 paise - would hold even for longer tenures. This would ensure a worst case realisation of about 92.50 in the event the statistical story - insane as it sounds - pans out and the rupee stays stronger than 95.23 for several months.
+
+Against that, you would get to enjoy any further collapse at a cash cost of only 45 paise. In any case, all levels are hugely profitable for all exporters today. Turn up the music! Written by JAMAL MECKLAI The author is CEO, Mecklai Financial.
