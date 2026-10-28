@@ -1,0 +1,20 @@
+Category: Editorial
+Title: RBIs problem with revolving credit Part One
+
+RBI's problem with revolving credit
+
+In today's Finshots, we explain why the RBI wants to pull the plug on revolving credit offered by NBFCs (Non Banking Financial Companies). The Story A few days ago, the RBI issued a draft direction that defined "revolving credit" and "term loan" and, at the same time, proposed banning all NBFCs (except those authorised to issue credit cards) from offering revolving credit products. And that's caused quite a bit of chaos in the market.
+
+If you've seen stocks of large NBFCs like Bajaj Finance, Tata Capital, Jio Financial Services and others fall over the last few days, well, you can blame this. So let's understand why this is such a big deal. But before we get there, you need to know what revolving credit actually is and why the RBI wants to pull the plug on NBFCs offering it.
+
+Think of revolving credit as a loan that is sanctioned once, but can be borrowed and repaid repeatedly, as long as you stay within your limit. Just like a credit card. Say you have a ₹1 lakh limit. You borrow ₹50,000. After a while, you repay that ₹50,000. You can then borrow any amount up to ₹1 lakh again without having to apply for a fresh loan.
+
+That's very different from a regular term loan. If you take a ₹1 lakh loan, borrow ₹50,000 and repay it, you can't borrow again without submitting a fresh loan application and documents. But what's the problem with revolving credit, you ask? To begin with, there's something you may have heard in the world of credit: evergreening.
+
+For the uninitiated, evergreening is simply using a new loan to repay an old one. And revolving credit can potentially make this easier. Say a business has taken a ₹1 lakh flexi loan, which is a type of revolving credit, for working capital (money required for day to day operations). It has drawn ₹50,000 so far.
+
+But the business is under stress and can no longer comfortably service the loan. If it doesn't repay the interest or principal within 90 days, the loan could risk becoming a Non-Performing Asset (NPA), which could also hurt the business's credit record. But it could still do something smart here. Since it still has ₹50,000 left on its credit line, it could draw more money from that unused limit and use it to repay part of the earlier borrowing.
+
+And just like that, the repayment gets made, the account continues to look healthy, and the business avoids being flagged as a borrower that is struggling to repay. So the loan keeps running, just on paper though. But in reality, the borrower may simply be borrowing more to keep an old loan alive. And that, you could agree, could be risky for the lender or the NBFC in this case.
+
+But here's something interesting. Even though revolving credit can potentially facilitate evergreening, the RBI has proposed to stop only NBFCs from offering it. Not banks. Which makes you ask, if this is risky, why let banks do it? Because there's a key difference. See, banks primarily lend money that comes from deposits they take from the public such as money sitting in savings accounts, current accounts and fixed deposits.
