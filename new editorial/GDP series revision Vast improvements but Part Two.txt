@@ -1,0 +1,16 @@
+Category: Editorial
+Title: GDP series revision Vast improvements but Part Two
+
+GDP series revision: Vast improvements, but concerns remain
+
+A significant change is the use of double deflation for many of the manufacturing categories in place of the single deflation of GVA used for all categories in the past. However, one cannot ignore the use of out-dated population numbers in the present base year revision. In fact, projected population numbers are widely used in compiling GDP estimates because survey estimates do not provide useable aggregate numbers.
+
+The practice has so far been to use value added per worker figures from surveys and inflate it with estimated number of workers in the respective categories using survey ratios and projected population. The official projections currently available are those prepared by the expert group for the period 2011-2036 using then available fertility assumptions and their holding true in future is a critical condition in this exercise. Though the MoSPI has initiated a plethora of surveys in recent times like the annual employment and enterprise surveys, these may not find use in regular annual GDP estimation in subsequent years.
+
+Incorporating annual survey data in GDP estimation could make the GDP volatile and problematic for use in policy purposes. The use of the Household Consumer Expenditure Survey of 2022-23 with its methodological change incorporating three different household visits to collect the information will certainly bring in a more realistic but higher level of private consumption expenditure in the expenditure aggregate estimates. The past revisions show that every revision raises the GDP level.
+
+The GDP for 2011-12 at current prices was 5.3% higher than the GDP in the 2004-05 base year. The 2025-26 advance GDP estimate of Rs 357.14 lakh crore or approximately 4.18 trillion dollars places India as the 4 th largest economy in the world. With the new series the GDP in 2024-25 would certainly higher than the Rs 330.68 lakh crore in the old base year.
+
+While the attention is more on national GDP estimation, state finances have significant stake in the State Domestic Product (GSDP). The states however cannot adopt an independent approach for their GSDP estimation as it has to be in agreement with the published GDP of the country. States like UP has in recent times claimed to develop a bottoms-up approach constructing district or sub-district level GDP as the starting point and aggregating upwards.
+
+A brief look at the methodology followed in the new GDP revision makes it clear that the methodology cannot be adopted by the states in toto for the revision of their GSDPs. They will be dependent on apportioning of GDP downwards to the States for many sectors further diminishing its role as a realistic indicator of the state's economy. By PC Mohanan (The author is former member, National Statistical Commission)
