@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Friction Illusion
+
+Friction Illusion
+
+India's digital payments revolution has been sold as a triumph of speed, scale and inclusion. India's digital payments revolution has been sold as a triumph of speed, scale and inclusion. From roadside vendors to urban professionals, millions now transact instantly through mobile platforms. But beneath this efficiency lies a growing vulnerability: the system has expanded faster than the user's ability to navigate it safely.
+
+The sharp rise in digital fraud is not an anomaly ~ it is the inevitable by-product of a system designed for velocity rather than resilience. The policy instinct now is to slow things down. Proposals from the Reserve Bank of India, including transaction delays and layered authentication, reflect a belief that friction can deter fraud.
+
+At first glance, this seems logical. If money moves slower, there is more time to detect and reverse suspicious activity. But this approach risks mistaking symptoms for causes. Digital fraud today is not primarily a technological failure; it is a behavioural one. Scammers exploit urgency, fear, and trust ~ what experts call social engineering.
+
+They do not hack systems so much as manipulate people into authorising transactions themselves. In such a landscape, adding time delays may simply shift the tactics of fraudsters rather than eliminate them. A scammer can just as easily adapt scripts to accommodate a one-hour wait as they once adapted to OTP protocols.
+
+This shift also reflects a regulatory lag, where institutions respond to yesterday's fraud patterns while criminals continuously innovate, widening the gap between defensive policy design and offensive criminal ingenuity. More importantly, friction undermines the very premise of India's digital success. Instant payments are not a luxury feature; they are the core value proposition.
+
+Introducing delays is akin to redesigning an expressway by inserting speed breakers every few kilometres. It may reduce accidents at specific points, but it also compromises the efficiency that made the infrastructure transformative in the first place. The deeper issue is institutional fragmentation.
+
+Fraud prevention is currently dispersed across banks, regulators, technology platforms, and law enforcement agencies, with no single point of accountability. This diffusion allows systemic gaps to persist. A fraudulent transaction may be flagged by one entity but remain actionable due to delays or coordination failures elsewhere.
+
+In such a system, incremental regulatory tweaks cannot substitute for integrated oversight. Equally critical is the gap between access and literacy. India has achieved near-universal digital reach without a commensurate investment in user education. For many first-time users, the interface of trust ~ logos, messages, payment links ~ remains indistinguishable from deception.
+
+Until this asymmetry is addressed, every technological safeguard will be operating against a fundamentally uneven playing field. The fight against digital fraud, therefore, cannot rely on friction alone. It requires real-time intelligence systems, unified institutional response, and sustained public education.
+
+Without these, regulatory interventions risk becoming cosmetic ~ visible, reassuring, but ultimately insufficient against a problem that is evolving faster than the rules designed to contain it.
