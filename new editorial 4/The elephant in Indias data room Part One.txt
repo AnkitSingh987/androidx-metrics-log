@@ -1,0 +1,18 @@
+Category: Editorial
+Title: The elephant in Indias data room Part One
+
+The elephant in India's data room
+
+India must ensure data standardisation for better governance outcomes As another session of Parliament has ended, a familiar pattern was visible on the floor of the House. Members of Parliament who rose to ask questions, performing one of Parliament's most important accountability functions. Yet, a large share of these questions have followed/follow a predictable format, such as asking how many schools have functional toilets, how many pensions were disbursed in a given year, or how many beneficiaries received a particular scheme.
+
+While these questions address important public concerns, the information they seek should ideally already exist in the public domain in a clear, standardised, and easily accessible format. An analysis of the parliamentary questions asked during the 17th Lok Sabha (2019-24) on youth employment found that a large share sought such basic facts. This reflects a far deeper reality that India's data system is fragmented and lacks interoperability.
+
+The elephant in the room, rarely acknowledged in such debates, is data standardisation, without which even the most ambitious policy visions risk being built on shifting sands. Anatomy of the problem In the National Data and Analytics Platform vision document released by NITI Aayog, it was observed that India's data ecosystem remains incoherent, with Ministries and government departments failing to use shared standards for common indicators and even defining basic attributes such as time period and region inconsistently. India today generates more data than ever before, yet abundance does not equate to usability.
+
+Data collected by individual Ministries for their own programmes often cannot be integrated seamlessly, making consolidation a laborious and error-prone task. According to a NITI Aayog report released in June 2025, welfare programme databases often list the same beneficiary multiple times, leading to fiscal leakages that inflate spending by 4%-7% annually. Recent government data clean-ups highlight the potential savings from addressing such inefficiencies.
+
+Notably, deleting 17.1 million ineligible names from the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme was expected to save ₹90 billion in FY2024, while removing 35 million bogus LPG connections could save ₹210 billion over two years, and eliminating 16 million fake ration cards may save around ₹100 billion annually. These inefficiencies have significant policy implications. In the health sector, for instance, studies show that childhood tuberculosis cases are recorded separately in the Health Management Information System, the disease surveillance network, and immunisation registries, often resulting in the same patient being counted multiple times.
+
+Such duplication creates conflicting estimates, often leaving decision-makers uncertain and leading some to disregard data altogether in favour of anecdote or political expediency. Beyond policy implications, these weaknesses also carry perception and economic costs. In the Global Innovation Index 2024, India had missing data for two indicators and outdated data for eight, with several relying on figures more than a year old.
+
+Without coordinated methodologies, such indices both mask real performance and expose gaps in inter-agency coordination. In economic terms, the Organisation for Economic Co-operation and Development estimates that improving public-sector data availability and sharing could add up to 1.5% of GDP, rising to 2.5% if private-sector data is included. In other words, the cost of poor data governance lies not only in misinformed decisions but also in squandered economic potential.
