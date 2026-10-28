@@ -1,0 +1,14 @@
+Category: Editorial
+Title: How ready are we for an earthquake Part Two
+
+How ready are we for an earthquake?
+
+Once the shaking stops, check for immediate dangers. If the building is damaged or unsafe, evacuate calmly using the stairs, not lifts, and move to a safe open area away from buildings, walls, poles and wires. If the building is safe, remain there and stay alert for aftershocks. Early warning systems deserve a prominent place in this strategy.
+
+Countries like Japan and Mexico use sensor networks that give residents a few seconds of warning, just enough time to duck under a desk. These systems work by detecting the faster, weaker P-waves before the destructive S-waves arrive. India currently has an early-warning system for parts of the Himalayas, which urgently needs national expansion.
+
+Additionally, the moment the ground shakes, people should be alerted through messaging so that they can be ready for aftershocks, if any. The National Disaster Management Authority has established SACHET, a Common Alerting Protocol-based integrated alert system designed for near-real-time dissemination of geo-targeted warnings through multiple channels. India has also tested a nationwide cell-broadcast system capable of rapidly sending disaster alerts to mobile phones.
+
+Promoting the SACHET app should be a national priority. In January 2023, six-year-old Mustafa in Lucknow survived the collapse of a five-storey apartment building by recalling earthquake-safety lessons from the cartoon Doraemon. When the building began shaking, he remembered the advice to take shelter under a bed and did so instead of running.
+
+Though he survived with minor injuries, his mother and grandmother tragically died. The incident demonstrates how simple, age-appropriate disaster education can turn knowledge into instinctive action, and save lives. By SRINIVAS MADHAV (The writer is a transparency and equality advocate and co-founder, 51ABI Foundation)
