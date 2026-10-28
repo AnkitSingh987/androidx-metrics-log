@@ -1,0 +1,22 @@
+Category: Editorial
+Title: AI and cyber the double helix of todays Part One
+
+AI and cyber, the double helix of today's security threats
+
+Today's security threats Artificial intelligence and cyber threats pose unprecedented challenges to global security and economic stability The rapid proliferation of digital technologies is reshaping the global security landscape. What was once an interconnected, but relatively limited, digital world, has altered into a complex interconnected ecosystem where dangers and threats lurk at every step. The combination of Artificial Intelligence (AI) and cyber threats has emerged as one of the most critical concerns of the modern world.
+
+While AI has changed from being merely an operational efficiency mechanism into an absolute infrastructure mandate, cyber threats are becoming more sophisticated, harder to detect and more difficult to mitigate. Today, AI-powered malware can adapt and evolve in response to changes in its environment, making it harder for traditional anti-virus software to detect. The global interconnectedness of digital systems has also raised the ante as far as cyber attacks are concerned.
+
+Malicious autonomous agents are today well positioned to undermine the legacy of "Zero Trust" protocols, aggravating insider threat vectors. Meanwhile, as seen in the war in Ukraine, newer technologies are demonstrating the potential to undermine conventional military calculus through asymmetric impact. The rapid proliferation of digital technologies and systems across every discipline, cyber breaches and malicious activities are impacting every level of security.
+
+Many governments facing sophisticated cyber adversaries are drawing up a security architecture which involves a blend of innovation, policy coherence and strategic realism, but still lag behind. A new disruptive era AI, meanwhile, is reshaping every consequential domain of human activity. AI's Large Language Models (LLM) are intruding into many business enterprises, without either proper training or evolution of the human interface.
+
+As 'Agentic' AI  -  as distinct from Generative AI  -  becomes a force to reckon with, problems attached to AI implementation are set to become even more complex. The catalyst for such concerns is the arrival of the latest AI systems, notably Mythos, developed by United States firm Anthropic. According to experts it demonstrates an uncanny ability to detect 'Zero day' vulnerabilities across major operating systems.
+
+What is evident is that AI is beginning to test the limits of legacy systems. AI's overarching influence makes it essential to understand the risks and threats it poses, especially when combined with cyber capabilities, where the danger grows exponentially. AI has already transformed modern warfare, as seen in the Russia-Ukraine conflict and the U.S./Israel-Iran war.
+
+AI-powered smart systems can detect, track, and predict missile trajectories with remarkable accuracy. AI can also provide different kinds of intelligence from photos, text, radio, and electromagnetic signals to deny adversaries a tactical advantage. Munitions, such as systems dubbed "Goalkeeper" and "Whiplash" can independently identify and strike targets.
+
+Yet, nations, particularly the U.S., have not yet demonstrated a level of sagacity on how best to wield this power and in a manner that does not endanger human civilisation. These developments are fuelling concerns about AI's future as increasingly capable models and robots replace human roles. LLMs and autonomous agents are already performing complex tasks once reserved for people.
+
+The World Economic Forum warns that while AI will strengthen cyber defences, it will also enable more sophisticated automated attacks, potentially rendering current "Zero Trust" protocols ineffective. This raises concerns that hard power may increasingly be shaped by nations and organisations at the forefront of AI. Companies in the West such as Anthropic and Palantir are behaving as if they own the world of tomorrow, since they hold the key to the world's mightiest technology.
