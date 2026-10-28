@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Quantum Valley Inside Indias ambition to Part Two
+
+Quantum Valley: Inside India's ambition to lead the next computing revolution
+
+In artificial intelligence, Indian researchers and engineers played significant roles globally, even as foundational models emerged elsewhere. Quantum offers a chance to participate earlier. The National Quantum Mission reflects that recognition. Yet ambition alone will not be enough. India's research and development spending remains around 0.6 to 0.7 per cent of GDP, with much of it driven by the public sector.
+
+Frontier technologies require sustained private investment, stronger university-industry partnerships and patient capital willing to support long-term innovation. The challenge is not merely to produce scientific breakthroughs. It is to build an ecosystem that can translate breakthroughs into products, companies and economic value.
+
+That means investing in interdisciplinary talent, supporting deep-tech startups, strengthening research institutions and creating pathways through which industry can participate more actively in frontier technologies. Quantum computing will not replace conventional computers anytime soon. Most of the devices we use today will continue to rely on classical computing for decades.
+
+Yet history suggests that foundational technologies reshape economies long before they become commonplace. The steam engine, electricity, semiconductors and the internet all began as specialised breakthroughs before transforming the wider world. Quantum computing may follow a similar path. For India, the question is not whether the quantum future will arrive.
+
+The question is whether the country will help shape that future while the rules are still being written or wait to adapt after others have written them. The countries that move early in foundational technological transitions often gain more than economic benefits. They gain the ability to influence the future itself.
+
+Written by Uttam Prakash, Srinivas Josyula and Jay Verdhan Tiwari Prakash is Regional Provident Fund Commissioner, Kochi & Lakshadweep; Josyula teaches at IIM Visakhapatnam; Tiwari is a Scientist E at the Ministry of Electronics and Information Technology (MeitY). Views are personal
