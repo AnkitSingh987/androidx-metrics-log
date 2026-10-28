@@ -1,0 +1,12 @@
+Category: Editorial
+Title: Algorithms of suspicion Why AI surveillance Part Two
+
+Algorithms of suspicion: Why AI surveillance systems need a 'UPI moment' for ethics
+
+Space, livelihood, and identity Delhi is known for its migrant population, with a large section coming from economically weaker sections of rural India. Most people from North and Northeast Delhi are employed in construction, manufacturing, retail, and services, according to the Economic Survey of Delhi, 2022 - 23. In Delhi's service economy, private firms often check candidates' residential addresses and require police verification, even for low-paid domestic call centre jobs.
+
+This sometimes leads to the possibility of "bribery". Individuals may pay to receive a No Objection Certificate (NOC) from the local police station. Ajunwa refers to this process as "hidden biases", and surveillance scholar David Lyon calls it "social sorting", which happens because of human bias. In India, AI-based recruitment is still in its early stages and is not widely used due to its high cost and technical requirements.
+
+However, this could be the reality soon due to the rapid growth of AI usage in every job sector. Data and technologies, especially surveillance-based technologies, are transforming some people and communities into "second-class citizens". Technologies are acting like a "deep state", and weaker sections are becoming more "suspicious".
+
+Digital India can be an inclusive India if AI-based technologies are trained by comprehensive data rather than historical, biased data, which has been dominated by powerful caste and class for centuries. Written by Avdhesh Kumar The writer is assistant professor at Lal Bahadur Shastri Institute of Management, Dwarka, Delhi
