@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Revisiting citizencentric saving models Part One
+
+Revisiting citizen-centric saving models
+
+Both the POSB and the EPFO are key to enhance our financial system's ability to deliver value to the Indian citizen's lives and manage their wealth. The genesis of the Post Office Savings Bank (POSB) and the Employees' Provident Fund Organisation (EPFO) goes back to 1882 and 1952. These were conceived at different points in time, as state-backed solutions to promote savings back when citizens investing in instruments such as bank deposits and mutual funds were not widespread.
+
+POSB garners voluntary savings while the EPFO mobilises compulsory savings. Both institutions have since delivered stable risk-free medium-and long-term returns for India's citizens. Fast forward to today, the government may decide, rightly so, to subject the POSB and the EPFO to regulatory oversight.
+
+This could be either as part of its frameworks for the Reserve Bank of India's (RBI) All India Financial Institutions (AIFIs) or by way of a separate regulatory process. Quite unlike AIFIs such as Small Industries Development Bank of India and National Bank for Agriculture and Rural Development, the POSB and the EPFO have extensive retail-facing operations. Yet, they differ in capabilities and operations, and any regulatory oversight needs to be tailored to suit their respective characteristics.
+
+What is POSB? The POSB is not a bank that lends in the legal sense of the word; it does not report a balance sheet separate from that of the Department of Posts (DoP). The EPFO does have a separate balance sheet but is very akin to pension funds and asset management companies regulated by the Insurance Regulatory and Development Authority of India, Pension Fund Regulatory and Development Authority, and Securities and Exchange Board of India.
+
+We look at the POSB and the EPFO separately using a public objective lens that is citizen-centric. The POSB is an agent of the central government to mobilise savings and fixed deposits managed by the DoP. These include senior citizen savings schemes, monthly income plans, public provident fund, and fixed deposits accounts amounting to Rs 18.65 lakh crore (as of end-March 2024), collectively referred to as small savings.
+
+These are pooled in the National Small Savings Fund, which is a part of the Public Account of India, and invested in state and central government securities. The POSB has access to the RBI's Payment and Settlement Systems and at India Post Payments Bank (IPPB) ATMs, withdrawals have been enabled. The RBI's focus will then be less about market risks (which are almost non-existent), and more about the POSB's role as a financial services intermediary which uses skilled personnel and technology to enable collections and disbursements.
+
+Here, rather than focusing just on internal control mechanisms to prevent fraud (large fraud incidents warranted this review), regulators should take an expansive view of the matter. They can, in conjunction with the DoP and the IPPB, shape priorities in a way that streamlines the customer's experience to a swift and delightful one via both human-mediated and digital journeys. Can we enable "anywhere banking" (multi-homing instead of single-branch interfaces), seamless inter-branch account portability, moving away from paper-based signature authentication, and verification of passbooks while ensuring senior savers have a sense of safety about their monies with regular update of their paper passbooks?
+
+Can existing agent-assistance models be empowered via real-time digital confirmations without disturbing the sanctity of citizen-agent relationships built locally and oftentimes over many years? Can we significantly reduce wait times at branches, while also upholding respectful treatment of the small saver? Can tech diagnostics focus on cleansing server downtimes that are symptoms of technical and bandwidth challenges across the country?
