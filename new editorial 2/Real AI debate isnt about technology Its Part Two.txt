@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Real AI debate isnt about technology Its Part Two
+
+Real AI debate isn't about technology. It's about the choices we make
+
+Otherwise, we risk substituting relational depth with algorithmic mimicry. Hidden labour, invisible inequalities Who is doing the invisible work behind AI training? The HDR flags the concentration of compute, investment and data-centres in the US, China and the UK. Half of the world's data centres are in the United States.
+
+In contrast, many workers in the Global South perform data-labelling and micro-tasks under precarious conditions, yet their labour remains invisible. For India, this raises questions: When we participate in the AI economy, what roles are we assuming? Are we simply data and labour providers, or meaningful co-designers?
+
+If we accept the former, we reinforce global inequalities. Youth, screen time, and relational casualty While the HDR offers a hopeful tone, it raises concerns about emergent human-machine relational ruptures  -  the impact of AI-driven content on teenage cognition, addiction, sleep deprivation, social isolation and body-image anxieties. These are real-world perturbations of relational life in contexts like India with its booming youth population.
+
+According to a study cited in the report, 46 per cent of Instagram and 60 per cent of TikTok users say they are willing to pay money for everyone's account, including their own, to be deactivated for a month. We need to ask: What do we lose when our connections are shaped by algorithmic feeds instead of shared physical presence? How do our natural rhythms of growth and rest change when machines tune them for constant engagement rather than restoration?
+
+Choices, not inevitabilities If we pull back, the key message of the HDR is: It's up to human choice. What we want machines to do, and what we want humans to keep doing, are human decisions. When we frame AI as inevitable, we surrender agency. India's discourse on AI must reflect that agency. Instead of strategising for "AI adoption" at scale, we need to ask: What forms of human relational work do we want to amplify with AI?
+
+What roles do we refuse to automate? How do we ensure human epistemic agency in systems that increasingly influence our lives? Lessons for Indian AI policy The 2025 HDR invites a shift: AI is not a dragon to be slain or a saviour to be worshipped. It is a mirror of our relational choices. In India, with its rich traditions of interdependence, social care, and relational labour, we can lead a different path, one of augmentation, ethics, and flourishing.
+
+The HDR recommends building a complementary economy to create opportunities for people and AI to collaborate rather than compete. One way to do that is by investing in labour-enhancing AI that augments and complements human work. Second is the need to invest in Small Language Models (SLMs), which train on fewer parameters than Large Language Models (LLMs).
+
+These are more suitable for India's climate goals, having a lower carbon footprint. SLMs also enable digital sovereignty and can be fine-tuned on domain-specific datasets in Indian languages. They reduce algorithmic bias, are easier to audit and interpret, and support low-bandwidth environments like rural and remote parts of the country.
+
+Third, the HDR urges us to address the digital divide. Multidimensionally poor people with lower levels of education significantly lack access to the internet. Digital literacy and responsible AI use should be integrated into school curricula. Investment should prioritise enhanced capabilities such as critical, creative and relational thinking, essential for evaluating AI outputs and navigating a high-choice information environment.
