@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Why digitalarrest fraud is rising in India
+
+Why digital-arrest fraud is rising in India
+
+Fraudsters are increasingly exploiting gaps in governance, banking infrastructure and citizens' blind fear of authority Taking suo motu notice of a complaint from an elderly couple and of online frauds being reported as "digital arrest" across the country, the Supreme Court, last month, passed a series of orders to the CBI and select States to initiate a pan-India probe. It also advised the RBI to make use of artificial intelligence and machine learning tools for arresting money layering across multiple bank accounts while also directing IT service providers to cooperate with the investigation. Known as "virtual arrest" or government impersonation in the US, the FBI reported a staggering loss of $1.6 billion last year.
+
+In Australia and Canada the phenomenon is known as "virtual kidnapping", with the former having lost A$2 billion and the latter around C$635 million during the same period. In India, the surge in "digital arrests"  -  where scammers impersonate law-enforcement agencies to extort money  -  is not merely a cybercrime trend but a reflection of deeper structural and societal vulnerabilities. The scale of digital arrest fraud has reached significant proportions; fraudsters have cumulatively scammed people of ₹3,000 crore through these operations.
+
+These scams succeed not because they are sophisticated, but because they exploit gaps in governance, banking infrastructure and long-standing social behaviours that leave citizens unusually susceptible to fear-based manipulation. Data from the National Cyber Crime Reporting Portal reveal the alarming rise in digital arrest fraud in India, with 39,925 cases reported in 2022. The situation worsened sharply in 2024, with the cases surging to 1,23,672, mulcting citizens of ₹1,936 crore.
+
+And the trend has continued into 2025, with 17,718 cases reported within the first few months of the year. Structural causes India's rapid digital expansion has not been accompanied by equally robust security and regulatory frameworks. Cybercrime enforcement remains uneven across States, with several local police units lacking dedicated digital-forensics capacity.
+
+Scammers exploit these enforcement gaps, often operating from cross-border call centres or States with slower cyber policing. The pace of digitisation has also outstripped the development of cybersecurity safeguards. While government and financial systems have moved online, public awareness and structural protections  -  such as caller authentication, AI-powered fraud detection, real-time alerting infrastructure and unified reporting platforms  -  lag behind.
+
+Further, telecom operators and law-enforcement agencies do not always coordinate seamlessly, resulting in delays in blocking suspicious numbers or tracing scam networks. Add to this the slow legal processes and limited nationwide cyber-awareness campaigns, and scammers find an environment where the risk of being caught is low while the chances of manipulating uninformed citizens are high. Beyond systemic issues, digital-arrest scams thrive because they tap into India's deep-rooted social psychology.
+
+The fear of police, government agencies, or legal trouble runs unusually high, partly due to historical mistrust of law enforcement and partly due to limited public understanding of due process. India's low digital literacy further compounds the problem. Many individuals cannot distinguish real government communication from fraudulent threats, reinforcing panic when accused falsely.
+
+A stern voice invoking "Narcotics Bureau," "Cyber Cell," or "High Court Warrant" is often enough to trigger compliance without verification. Another critical factor is the stigma around legal or moral accusations, especially in socially conservative or backward regions. Many things considered normal in modern society  -  like private chats, personal photos, or disagreements  -  are still treated as taboo.
+
+This makes people vulnerable to prolonged extortion. Lastly, a widespread lack of awareness of law and legal procedures leads people to believe that digital arrests, video calls from "officers" or online bail payments are legitimate processes. Reducing digital-arrest scams requires addressing both structural and societal flaws.
+
+Strengthening cybercrime units across States, building real-time caller verification systems, improving telecom-police coordination, and conducting sustained national awareness campaigns are essential first steps. When people no longer fear authority blindly and the system no longer provides loopholes for scammers, digital arrests will lose their grip. By Ganga Narayan Rath & Chirayu Sharma Rath is a former central banker, and Sharma is an independent researcher.
+
+Views are personal
