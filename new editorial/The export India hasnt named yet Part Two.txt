@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The export India hasnt named yet Part Two
+
+The export India hasn't named yet
+
+Whether this becomes real bargaining power with technology giants depends on choices yet to be made. As long as the work remains informal and hidden, those who do it have little leverage and no incentive to step into the open. A traceable dataset, consented to and created by fairly treated workers, should not be bargained down to the last rupee.
+
+It is a premium product that the world lacks, and the country that labels the world's data carefully will find that it holds a quiet but significant asset. India has an opportunity to become not just the world's AI workshop, but also a model for fair digital work. The new labour codes, which extend minimum wage protections to all workers and bring gig and platform workers within the protection of the law, are an important step in that direction.
+
+Yet laws alone are not enough. Many data annotators around the world still earn very low wages, and workers on pay-per-task platforms often fall below a living wage once unpaid training and idle time are considered. In India too, experiences vary widely, from stable salaried jobs to precarious microwork.
+
+Whether a job empowers someone or wears them down should not depend on the luck of the employer they find. Getting these right matters beyond wages. Data annotation can create flexible work opportunities for women, especially in smaller towns and rural areas where formal jobs are scarce. Supported by fair standards and opportunities to grow, this hidden workforce could become an engine of more inclusive growth and higher female labour force participation.
+
+The next wave of AI What lies ahead is even more consequential because the next wave of AI is physical. Robots learn by observing people, and the market for humanoid machines is forecast to grow from $6.24 billion in 2026 to $165.13 billion by 2034, according to Fortune Business Insights, with Goldman Sachs projecting over 1.4 million units shipped by 2035. Each of those machines must be trained on human demonstrations.
+
+This is harder, more complex and better-paid work than simple tagging. Robotics data, unlike text, demand human reviewers with genuine physical intuition. It is precisely the kind of grounded, hands-on judgment in which India's annotation workforce already has depth. The country can supply it as anonymous, disposable labour, or as the work of a recognised, well-treated and skilled workforce.
+
+The difference is worth a great deal in both commercial and human terms. Three steps can set India on this path. First, count the work. A national survey can tell us who these workers are, what they earn, and how their skills are evolving. Second, name it. Data services should be recognised as a distinct export category in trade negotiations and economic statistics, so that the sector is visible, valued, and actively supported.
+
+Third, protect those who do it. Working with industry, India can build a framework for fair pay, certification, and pathways into higher value work, building on the opening provided by the new labour codes. Done well, this opens a route into the middle class for hundreds of thousands who have few others offering a digital complement to the manufacturing jobs the country is working to create, and one that plays to India's strengths.
+
+By Vishnu Venugopalan The writer is an IAS officer. Views are personal
