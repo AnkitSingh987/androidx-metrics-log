@@ -1,0 +1,10 @@
+Category: Editorial
+Title: Mythos wakeup call Questions India must Part Two
+
+Mythos wake-up call: Questions India must answer
+
+A good place to start is an honest assessment of which layers of the technology stack  -  compute, energy, chips, cloud, data, models, applications, standards, and evaluation capacity  -  are strategically critical and must have meaningful domestic capability or reliable control. For the rest, India must deepen alliances that can be trusted even in crisis. Achieving this will call for a long-term perspective, targeted patient investment and stronger coordination across government, industry, academia, and the startup ecosystem.
+
+India already has important institutional building blocks in place: the IndiaAI Mission, CERT-In, emerging efforts toward an AI Safety Institute, and a growing AI and cybersecurity ecosystem. India needs a 10-year Sovereignty Moonshot Plan. The goal is clear: move India from being a sophisticated consumer of frontier AI to becoming a stakeholder that helps shape its development, deployment, safety, and governance.
+
+To do that, we have to build infrastructure sovereignty. Delay means only one thing: hardened dependence. By Debjani Ghosh The writer is Distinguished Fellow  -  NITI Aayog
