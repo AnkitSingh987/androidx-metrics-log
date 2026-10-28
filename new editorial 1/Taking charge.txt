@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Taking charge
+
+Taking charge
+
+EV charging stations should be vehicle-agnostic In a recent development, Heavy Industries Minister HD Kumaraswamy cleared proposals for installing over 1,200 EV charging stations in Karnataka under the PM E-DRIVE, the tenure of which has recently been extended by two years. The PM E-DRIVE scheme, which initially ran for about a year and a half till March 2026, had aimed to set up 22,100 fast chargers for 4Ws, 1,800 for buses and 48,400 for e-2Ws and e-3Ws. The Centre recently said that there were 29,000 charging stations in the country  -  which suggests the need for expansion.
+
+The current crude oil crisis underscores the importance of this push. EV demand hinges on availability of charging facilities and batteries for short and long distance travel. A couple of issues here need to be taken into consideration: compatibility between charging facilities, batteries and EVs; and the need to ensure that private charging facilities run by EV majors do not privilege their products over the rest.
+
+Most large OEMs have converged on the CCS-2 standard, the global norm for EV charging. Yet, digital fragmentation persists as some private operators mandate proprietary apps and pre-funded wallets to lock in loyalty -  an inconvenience to consumers. Conversely, the two-wheeler industry is cleaved between two dominant, non-interoperable physical charging standards -  the Type 6 and Type 7.
+
+Even if a vehicle happens to be physically compatible with a station's hardware, lacking the corresponding app negates the impact. In this context, an app-based approach to discovering charging stations, booking slots and paying for charging your vehicles across the public sector OMC network is a useful step forward. However, standardising the physical layer  - the interface where the charging gun couples with the vehicle  -  remains a critical need.
+
+Last year, the Centre mandated Type C chargers for new mobile phones sold, to curb electronic waste. Motorists pulling in for liquid fuel can use any petrol pump. EVs should likewise be agnostic to the charging stations. The retail user has so far tolerated inconveniences by charging overnight at home.
+
+For EVs to take off, charging stations available within a three-km radius inside cities is the way to go. Notably, public sector oil marketing companies have about one lakh outlets. They have created 11,000 charging stations, but there is scope to improve on this tally. This is crucial for EV adoption.
+
+Globally, a 5 per cent EV market share marks an inflection point for exponential EV adoption. In India, passenger EV sales have breached 5 per cent in recent months; two-wheelers are nudging 6.5 per cent. To ensure that EVs remain in vogue even in the event of crude prices softening, the infrastructure push should be sustained.
+
+To be sure, charging infrastructure for long distance travel has improved. With rapid DC fast-charging, a mere 15-minute top-up can elevate a battery from 30 per cent to 80 per cent. In addition, solar-powered charging stations will drive home the energy advantage.
