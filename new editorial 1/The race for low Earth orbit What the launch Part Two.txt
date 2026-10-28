@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The race for low Earth orbit What the launch Part Two
+
+The race for low Earth orbit: What the launch of Vikram-1 means for India
+
+Once a specific orbital shell is occupied, subsequent parties are expected to coordinate around the incumbents or migrate to clearer pastures. This is why this framework incentivises speculative "squatting", leading to countries designing and deploying satellite "megaconstellations" to encircle as much space as possible  -  like China's Guowang and Qianfan satellites. "Projects such as Chinese megaconstellations are as much an instrument of claiming LEO real estate as they are focused on development.
+
+I would equate them to digging trenches in orbit; to defend it simply requires you to be able to maintain your existence," Rao said. "SpaceX has upwards of 10,000 satellites and intends to launch tens of thousands more. It has also filed a claim for a million more satellites. While the short term viability of this ambition is an unanswered question, the intentionality is clear." A promising start for India in the LEO race….
+
+Vikram-1's success represents a massive leap for Indian private aerospace capability. It ensures New Delhi has assured access for launching small satellites, which are currently the most "underserved segment of the market", Singh said. While much has been made of China's state-backed achievements  -  like the Long March 10 rocket  -  Singh said a more appropriate comparison for what India is doing today would be Chinese private space companies such as LandSpace and Space Pioneer that are developing medium-lift reusable vehicles.
+
+India does not have a reusable launch vehicle yet. "India is further behind in the market, but the Vikram-1's launch reduces the gap," Singh said. The true strategic value of this private launch ecosystem lies in creating sovereign "surge capacity". "This grants India the ability to rapidly rebuild or increase the number of intelligence, surveillance, and reconnaissance (ISR) satellites on demand, without relying on ISRO, which is vital in an increasingly contested Indo-Pacific region," she said.
+
+Securing this orbital access directly feeds into national security. "It is a huge information warfare tool. Starlink was so active during the Iran War in providing access," Rao said. But he cautioned: "This current model of overreliance on a few external providers increases the risk of security concerns and could undermine our authority." ….but a long way to go still India, however, is still far behind in the LEO race.
+
+To counter this vulnerability, India needs to dramatically ramp up its launch frequency. This, however, faces major structural bottlenecks. "India is a milestone space power that is lacking in scale. We are smaller in our operating capacity and launch frequency by most metrics," Rao said. "Two of the biggest roadblocks right now are the lack of scale that the sector is going through.
+
+The other is ISRO's elongated timelines for India's own reusable rocket which is one of the most critical components in ensuring frequent launches into the LEO." ISRO's partially reusable Next Generation Launch Vehicle (NGLV) is currently projected to be operational only in the mid-2030s. This extended timeline makes the immediate success of private expendable rockets like Vikram-1  -  and forthcoming reusable booster attempts by firms like Agnikul Cosmos  -  vital in bridging the gap. Building this private ecosystem requires immense capital.
+
+While the government recently introduced a Rs 1,000-crore venture capital fund to support early-stage space startups, an increase in direct procurement volume is the need of the hour. "Long gestation periods mean that government contracts are needed to scale up the industry and so that nascent companies can survive their first few years while displaying solid demand to their investors. That is still missing in India," Rao said.
