@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The longterm implications of the USIran deal Part Four
+
+The long-term implications of the U.S.-Iran deal
+
+That's by far the biggest annual outflow since 1992. And in just the first four months of 2026, FPIs have already sold over $20 billion, surpassing all of 2025. At the same time, NRI dollar deposits in Indian banks, technically called FCNR(B) deposits, have also fallen sharply. When that happens, dollars start flowing out of India and the supply of dollars available in the domestic market shrinks.
+
+Naturally, dollars become scarcer. And that means it takes more rupees to buy a single dollar. Which tells you one thing. India badly needs dollars to stabilise the rupee. And for that, the RBI needed a plan, the centrepiece of which are these two special US Dollar-Rupee Forex Swap facilities  -  one for FCNR(B) deposits and another for External Commercial Borrowings (ECBs).
+
+Basically, when banks receive money in dollars either as deposits from NRIs or through overseas borrowings called ECBs, they can't immediately put those dollars to work. Because to lend money in India, banks need rupees. That's where these swap facilities come in. Banks hand over their dollars to the RBI and get rupees in return.
+
+Say the RBI swaps dollars at today's exchange rate of ₹95 per dollar. Three or five years later, when the arrangement ends, the RBI gives banks back their dollars at the same exchange rate, even if the rupee has weakened to say ₹100 per dollar by then. Normally, banks pay roughly 3.5% a year for this kind of protection.
+
+That cost is called hedging cost or basically insurance against the rupee weakening. But this time, the RBI is sweetening the deal by removing the currency risk. For fresh FCNR(B) deposits mobilised until September, banks pay zero hedging cost. And for dollars coming via ECBs, the RBI is offering swaps at a flat 1.5% per year until January 2027, which is still roughly half of the usual market rate.
+
+There's another incentive too. Usually, banks must park a chunk of deposits with the RBI as reserves through something called CRR (Cash Reserve Ratio) and SLR (Statutory Liquidity Ratio) requirements. That means not every ₹100 collected can actually be lent out. But FCNR(B) deposits brought in during this special window are exempt from these rules.
+
+And that's actually a big deal. To give you a better understanding of this, let's imagine a bank raises ₹100 and lends at 10%. With a regular deposit, maybe ₹20 gets locked away under CRR and SLR, leaving only ₹80 to lend. Assuming a 7% deposit rate (on ₹100), the bank pays ₹7 in interest but earns only ₹8 (10% on ₹80) from lending.
+
+That's a profit or spread of just ₹1. Now compare that with an FCNR(B) deposit under this scheme. The bank can lend the full ₹100, earn ₹10, pay ₹7 in interest, and pocket a ₹3 spread, all while paying zero hedging cost. Multiply that across millions of dollars, and banks suddenly have room to offer NRIs higher interest rates too.
+
+But here's the thing. Will NRIs actually move their money from a foreign bank to an Indian bank just for an extra 2% in interest? Probably not, right? But what if we told you that some NRIs could potentially multiply their returns several times over using something called a letter of credit (LOC)? Sounds complicated, but it's actually pretty simple.
