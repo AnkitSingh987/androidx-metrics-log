@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Are Indian banks underestimating the Part One
+
+Are Indian banks underestimating the unsecured loan problem?
+
+In today's Finshots, we look at whether India's easy credit boom is starting to show cracks. The Story A few years ago, getting a loan meant paperwork, approvals, and waiting. But today, it only takes a few minutes. A credit card gets approved instantly, personal loans are issued with a few taps, and buy now, pay later options are everywhere.
+
+Access to credit has never been easier than now. And in a way, it's a good thing. More access to credit means more consumption, more spending, and ultimately, more growth for the economy. It also brings first-time borrowers into the formal financial system, away from informal moneylenders. Ultimately, this gives people the flexibility to manage short-term needs without dipping into savings.
+
+Banks and NBFCs have also actively pushed these products because they are high-margin, require no collateral, and scale easily through digital channels. Let's take credit cards, for instance: the number of cards approved has been steadily increasing over the last few years. From FY12 to FY25, the number of active credit cards surged 5x, and by the end of December 2024, there were over 100 million active credit cards in India.
+
+And this is just credit cards. People have other kinds of loans, too. So, as the saying goes, too much of a good thing can also be a bad thing. Because when credit becomes this easy to access, it also becomes easy to overuse. And when millions of borrowers start taking on small loans at the same time, the risks don't show up immediately.
+
+They build up slowly in the background. And that's exactly what makes the current situation worth paying attention to. The Reserve Bank of India has already flagged this trend. It has tightened norms by increasing risk weights on unsecured loans, meaning banks have to set aside more capital for every rupee they lend.
+
+Yet despite these signals, credit growth in this segment has continued. Which raises a natural question: why are lenders still disbursing more loans? To understand that, it helps to look at how credit cycles typically unfold. In the early stages of a credit cycle, everything appears stable. Lending grows quickly, defaults remain low, and repayment behaviour looks strong.
+
+This creates confidence within the system, and banks expand further. In this stage, new borrowers enter the market, and credit becomes easier to access. But, as we mentioned earlier, risks in unsecured lending tend to build slowly. The true risk emerges 18 to 36 months after the loan is disbursed. Credit card NPAs (non-performing assets) - which is essentially where cardholders have failed to make interest or principal repayments - have jumped by about 73% in FY22 and another 28% in FY24.
+
+And what this indicates is that loans originated 2-3 years ago are now cracking under stress. This is because, unlike secured loans, there is no asset backing these loans. Repayment depends entirely on the borrower's income. And when credit grows too fast, especially among first-time borrowers, risks slowly begin to build in the background.
+
+So, when that stress starts to emerge, it often does so quickly, because multiple borrowers begin to struggle at the same time. (* couch couch * 2008 * cough cough *) There are early signs of that stress beginning to show. Retail lending, once considered one of the safer segments of banking, is now under pressure at the margins.
