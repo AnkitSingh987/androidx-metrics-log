@@ -1,0 +1,14 @@
+Category: Editorial
+Title: Roboadvisors vs humans Who wins Part Two
+
+Robo-advisors vs humans: Who wins?
+
+Humans are best for nuance, accountability, and decision shaped by income uncertainty, family responsibilities, taxes, health, and emotions. The future is likely to be a combined model. Will digital advice grow safely, or will it grow mechanically? If digital advice expands without strict rules, we risk replacing old style mis-selling with a new kind of opacity.
+
+However, if regulations insist on clear fee disclosure, transparent incentives, auditable suitability logic, and strong grievance redress, robo-advisors can help close the gap and push the market to grow. India is already moving rapidly towards a digital finance culture. The question is whether advisory models will match that speed with responsibility.
+
+Regulators should move from broad principles to practical standards. Making algorithm-based advice auditable, providing incentives, ensuring transparent partnerships, and fixing accountability when advice fails suitability checks will be helpful. Investment platforms must treat trust as part of their product design, not just marketing.
+
+The real question is not whether robo-advisors will outcompete traditional ones, but whether investors will get personalised advice that is easy to access and fully aligned with their intuition, risk appetite, and personal goals as well as being accountable and answerable. While algorithms must assess client risk profiles and ensure suitable recommendations, qualified human oversight adds value. In today's rapidly digitising economy, a blend of robo advice guided by humans is the need of the hour.
+
+By CS Mohapatra & Depannita Ghosh, Respectively IEPF Chair Professor and Research Analyst at the National Council of Applied Economic Research
