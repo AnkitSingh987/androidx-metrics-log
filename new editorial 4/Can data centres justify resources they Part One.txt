@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Can data centres justify resources they Part One
+
+Can data centres justify resources they consume?
+
+States while luring investments must undertake a cost-benefit exercise given the huge water, power requirements of these centres Global tech companies are set to invest nearly $60 billion in AI-driven data centres over the next few years, with States competing aggressively through subsidised land, power, water, fiscal incentives and faster approvals. Uttar Pradesh's new Data Centre Policy targets over ₹2 lakh crore in investments, while Andhra Pradesh and Telangana are emerging as strong challengers to established hubs.
+
+By 2030, Maharashtra is expected to remain the largest market with 4,376 MW of capacity, followed by Andhra Pradesh (2,753 MW) and Telangana (1,926 MW). The Centre has proposed a tax holiday till 2047 for eligible foreign cloud companies using Indian data centres to serve overseas customers. This enthusiasm is understandable.
+
+AI will need computing infrastructure. But before we celebrate every new data centre announcement, we must undertake a cost-benefit and risk analysis: what do we eventually gain? Today, almost every critical component inside an AI data centre  -  GPUs, servers, networking equipment, storage systems and cooling infrastructure  - is imported.
+
+The intellectual property belongs to global companies. India provides the land, electricity, data, water and incentives, while much of the value creation happens elsewhere. Job creation Unlike factories or IT campuses, data centres are not large job creators. Construction generates employment for civil works, electrical installation and engineering, but once operational these facilities are highly automated.
+
+They require relatively small teams to manage servers, cooling systems, security and maintenance. We therefore create some construction activity, a few permanent jobs and while the high-value addition remains overseas. Is this the right model fit for a country with India's unique demographic and economic needs?
+
+India is attractive because it offers abundant land, competitive construction costs, renewable energy potential and a rapidly growing AI market. But if our critical digital infrastructure increasingly runs on AWS, Google Cloud or Azure, our hospitals, banks, government platforms and AI applications also become dependent on foreign technology platforms and their commercial decisions. There is another issue that deserves greater attention.
+
+AI data centres are resource intensive. A gigawatt-scale facility can consume as much electricity as a mid-sized Indian city, besides requiring substantial water for cooling. When States commit renewable power and scarce water resources to these projects, we must ask whether the broader economic returns justify the public investment.
+
+The Ministry of Power estimates that AI data centres could add 26.3 GW of electricity load by 2031-32, equivalent to nearly 7 per cent of India's entire projected peak demand. A country still working to guarantee reliable power to every home and factory is simultaneously being set to power the world's AI ambitions. We need to look at the big picture holistically.
+
+What we need is a due consideration on the physical constraints of compute coupled with the implications. Social impact Every major AI data centre should be assessed not only for its financial investment but also for its environmental and social impact. Electricity demand, water availability, cooling technologies, land use, biodiversity and waste generation should all be evaluated before incentives are granted.
+
+Equally important is understanding who bears the costs and who receives the benefits. A project may consume only a small share of a State's water resources, yet place enormous pressure on a local watershed shared by farmers, households and industry. More importantly, India must ensure that these investments create domestic capabilities.
