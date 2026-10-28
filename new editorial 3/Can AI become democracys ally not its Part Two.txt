@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Can AI become democracys ally not its Part Two
+
+Can AI become democracy's ally, not its adversary?
+
+Speed compounds the problem. During the critical 48 hours before polling, coordinated AI-driven disinformation can flood swing constituencies faster than fact-checkers can respond. AI systems often carry biases from their training data. Voter verification tools, for instance, might flag minority names as suspicious more frequently.
+
+Immediate action requires establishing an AI Task Force within the Election Commission combining electoral expertise, data scientists, and cybersecurity specialists to monitor threats in real time and develop detection capabilities. Political parties should be required to cryptographically sign official communications, allowing voters to verify authenticity. Unsigned content claiming party origin should automatically be treated as unverified.
+
+Pilot programmes deploying deepfake detection and bot identification in select state elections could refine systems before nationwide deployment. Medium-term reforms must update the Representation of the People Act to define AI-generated content, establish disclosure requirements, create liability frameworks for deepfakes, and establish penalties for deploying AI tools for electoral manipulation. Long-term transformation requires redesigning electoral architecture, assuming that AI permeates all aspects  -  voter registration with built-in duplicate detection, campaign finance with continuous algorithmic oversight, and result verification incorporating statistical anomaly detection as standard protocol.
+
+Beyond technical solutions lies a philosophical challenge: What does democratic participation mean when AI mediates between citizens and candidates? When every voter receives personalised messages designed by algorithms exploiting their psychological vulnerabilities, is informed consent possible? Yet, rejecting AI entirely is neither possible nor desirable.
+
+The efficiency gains are real. The ability to detect fraud at scale could strengthen electoral integrity. The opportunity to reach millions in their own languages represents democratic inclusion. The challenge is developing an electoral ecosystem where AI serves democratic values rather than undermining them.
+
+This requires human-centred design where final decisions rest with humans accountable to democratic institutions. It demands transparency so citizens understand how AI shapes electoral processes. India has navigated previous electoral transformations successfully. The AI challenge is more complex but not insurmountable.
+
+It requires the same combination of technical excellence, institutional integrity, and public engagement that has made Indian elections the world's largest democratic exercise. The alternative  -  ignoring AI while others deploy it  -  would leave the Election Commission fighting sophisticated manipulation technology with inadequate tools. With appropriate safeguards, continuous vigilance, and commitment to democratic values, artificial intelligence can become democracy's ally rather than its adversary in India's ongoing electoral story.
+
+Written by: S Y Quraishi The writer is former chief election commissioner of India and the author of An Undocumented Wonder: The Making of the Great Indian Election
