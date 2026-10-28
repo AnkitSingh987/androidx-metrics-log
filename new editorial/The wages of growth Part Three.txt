@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The wages of growth Part Three
+
+The wages of growth
+
+None of this is unique to India, and that is the good news, because the rest of the world has already written the playbook. The idea everyone has landed on is simple: Do not fund a building that lasts 30 years and a chip that lasts three in the same way. Split them. When Meta built its Hyperion campus in Louisiana, it did not put $30 billion on its own books.
+
+It set up a separate company, kept 20%, let Blue Owl and a group of pension and insurance investors own the rest, and then leased the site back. Around $27 billion of debt sits in that vehicle, not on Meta's balance sheet. CoreWeave took the opposite route and funded the chips directly, pledging its GPUs and customer contracts as security for loans worth billions.
+
+Elon Musk's xAI is raising huge sums through a vehicle whose only job is to buy Nvidia chips and rent them back. Nvidia itself has pulled together a large group of investors to raise more than half a trillion dollars for exactly this kind of chip financing. The pattern repeats everywhere. The infrastructure that lasts decades gets patient capital, the kind a REIT or InvIT provides.
+
+The silicon that ages in a few years gets leasing, vendor finance, or loans raised against contracted cash flows. You put the building in a REIT or InvIT. You fund the GPU some other way. India is closer to this than it looks. It already has an established REIT and InvIT market, about 32 listed trusts holding close to `10 lakh crore in assets, with a combined market value of roughly `5 lakh crore.
+
+That is solid proof that Indian investors will happily buy stable, income-earning infrastructure. Indian data centre operators are now lining up to tap the public markets. The real question is whether investors will price them as steady, REIT-like cash machines or as jumpy, fast-growing tech stocks. The honest answer is that it deserves a specialist financing model.
+
+That is where GIFT City can finally prove its worth. The International Financial Services Centres Authority (IFSCA) has floated a proposal to treat the leasing of GPUs and related data centre equipment as a proper financial product inside the IFSC, the same move that made GIFT a credible home for aircraft and ship leasing. A quick lesson from history, is in order.
+
+In the late 1990s, telecom companies laid enormous amounts of fibre worldwide, certain that demand would show up. When the bubble burst, most of it sat unused for years. The industry called it dark fibre. GPUs bought with cheap borrowing against contracts that later vanish could become this cycle's dark fibre, only with an even faster fall in value.
+
+So whatever we build must reward real usage, not press releases. By Mitul Shah & Sunil Sanghai The writers are respectively Senior Vice President and Founder & CEO, NovaaOne Capital Pvt Ltd.
