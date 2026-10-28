@@ -1,0 +1,20 @@
+Category: Editorial
+Title: The race for low Earth orbit What the launch Part One
+
+The race for low Earth orbit: What the launch of Vikram-1 means for India
+
+What the launch of Vikram-1 means for India India's first privately developed orbital rocket has successfully placed multiple satellites in low Earth orbit. This is the zone immediately surrounding the planet where countries and private companies are increasingly crowding into. Here's why this zone matters, and where India stands in the race.
+
+India's first privately developed launch vehicle, Vikram-1, placed several technology demonstration satellites in Low Earth orbit (LEO) on Saturday (July 18) morning. The textbook launch from Sriharikota by Hyderabad-based Skyroot Aerospace -  the country's first space unicorn  -  makes India only the third country in the world to have private launch capability after the US and China. It comes after the government opened up the space sector to private companies in 2020 and formalised the framework under the Indian Space Policy of 2023.
+
+The launch of the Vikram-1  -  which can carry a payload of up to 350 kg to LEO -  is significant for more than the fact that a private company has now entered the Indian aerospace ecosystem. Its true significance lies in the region of space it aims for  -  where more and more countries are now looking to reserve their place. So what does LEO mean?
+
+Why is it such a crucial region of space? What are other countries doing in that region, and where is India in that race? We explain. What is Low Earth orbit? Low Earth orbit, or LEO, is the zone immediately surrounding our planet. It is typically defined as the region between 160 km and 2,000 km above Earth's surface.
+
+Satellites in LEO generally take between 90-120 minutes to circle the planet. The proximity to Earth makes this orbit preferable for satellites meant for communications as well as Earth observation and imaging because it helps reduce signal latency. This also makes LEO precious real estate. Why is Low Earth orbit important?
+
+"Today, orbital slots in the LEO work on a first-come-first served declaration. The only obligation a new entrant has is to not interfere with the previous occupants. This essentially makes it a literal gold rush." said Ashwin Prasad Rao, Staff Research Analyst at the Takshashila Institution's Outer Space programme, in a conversation with The Indian Express.
+
+Indeed, the International Telecommunication Union (ITU), the UN agency for information and communication technologies, simply manages radio frequencies and prevents harmful interference between two or more satellites. "The hurdle is that there is no way of distribution in the LEO  -  unlike geostationary orbit, the satellite is not tethered by our geographic boundaries and moves around constantly circling the Earth many times a day, complicating equitable benefit-sharing," Rao said. Under the 1967 Outer Space Treaty no nation or corporation can legally claim ownership over an orbit.
+
+"What states are actually competing for is access to preferred orbital shells and advantageous radio-frequency slots managed by the ITU," Khyati Singh, Research Analyst at the Manohar Parrikar Institute for Defence Studies and Analyses (MP-IDSA) told The Indian Express. An "orbital shell" is a layer of satellites at the same altitude and orbital inclination. Altitude is how high the satellite orbits above Earth's surface and inclination is the angle of the satellite's orbit relative to the equator.
