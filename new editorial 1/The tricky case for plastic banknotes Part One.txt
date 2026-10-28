@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The tricky case for plastic banknotes Part One
+
+The tricky case for plastic banknotes
+
+In today's Finshots, we tell you why plastic currency notes aren't really a no-brainer. The Story You've probably heard the news. The RBI is contemplating field trials of plastic notes. And the internet has been in a frenzy, with some people even spreading panic that all Indian currency notes will soon be made out of polymer.
+
+But hold on. That's not happening anytime soon. There are quite a few things you need to understand before assuming that you'll be carrying plastic notes in your wallet before you know it. To begin with, why do we even need to move to polymer notes? You may have already read about it, but let's quickly give you a rundown to set the context.
+
+See, right now, the currency notes we use are made from a special kind of paper that's made from a blend of 75% cotton and 25% linen. This paper can withstand around 4,000 double folds before it finally tears. But in a densely populated country like India, paper notes get soiled and damaged pretty quickly.
+
+Which means the RBI has to keep spending money collecting these worn-out notes, destroying or recycling them, and printing fresh ones to replace them. To put that into perspective, since the 2016 demonetisation, the RBI has spent roughly ₹4,000 - 5,000 crore every year printing new currency notes. Those costs haven't risen dramatically over the past decade, except in FY17, when it had to replace the demonetised ₹500 and ₹1,000 notes, and again in FY24 and FY25 after discontinuing the ₹2,000 note.
+
+So, if currency notes could simply last longer, the RBI could at least reduce the money it spends replacing soiled notes. And that's where polymer notes come in. They're generally believed to last 2.5 to 4 times longer than paper notes. They aren't indestructible, of course, but they're far more resistant to everyday wear and tear, dirt, and even moisture.
+
+And more durable currency notes could also help lower the carbon footprint. Think about it. If notes last longer, you don't have to keep growing as much cotton or use as much water, pesticides and chemicals to make the paper needed for replacement notes. At least that's what the Bank of England says.
+
+According to it, the carbon footprint of its polymer £5 note is 16% lower than that of its paper predecessor. There's another advantage too. Polymer notes are generally much harder to counterfeit. That's because polymer film is naturally transparent, allowing manufacturers to leave a small section completely ink-free and create a genuine see-through window in the note.
+
+That becomes a unique security feature that paper notes simply can't replicate easily. After all, if someone tries to photocopy or scan the note, they can't recreate that transparent window. Now, you might argue that counterfeiters could simply print fake notes on transparent film instead. But it's not that simple.
+
+Polymer notes aren't printed on just any plastic film. They're printed on a specially engineered polymer substrate that takes years of research and manufacturing precision to develop. And that market is dominated by just a handful of global companies, including Australia's CCL Secure and Britain's De La Rue.
