@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Ethics of AI and the edge of expression Part Two
+
+Ethics of AI and the edge of expression
+
+From the steam engines of the Industrial Revolution to the silicon chips of the digital era, technology has consistently redefined the boundaries of work, society, and identity. Today, we stand on the precipice of a far more profound shift, encircled by the ever-expanding rise of Artificial Intelligence (AI) and advanced robotics. No longer confined to executing pre-written code or mathematical scripts, modern AI models can reason, generate creative content, and systematically learn to replicate complex physical tasks.
+
+Yet, as AI deepens its roots into our daily workflows, it brings along an uncomfortable dynamic. The rapid deployment of these technologies has outpaced our legal framework and ethical vocabulary. We find ourselves balancing between an automated future of unprecedented productivity and a dystopian landscape characterized by labour exploitation, the erasure of individual agency, and a fundamental misunderstanding of what makes human expression unique.
+
+Beyond the immediate social and economic strains, the unchecked expansion of artificial intelligence faces a more volatile, physical constraint  -  that of geopolitics and energy. The narrative surrounding AI often paints it as an ethereal, weightless cloud of pure intellect. In reality, it is an immensely fragile physical infrastructure business that relies heavily on cheap, stable natural resources and highly concentrated supply chains.
+
+Recent global instability has exposed this reality. The US push on technology relies on huge, long-term investments, amounting to many billions of dollars from Middle Eastern state funds. But local political conflicts in that region have put those investments at risk. At the same time, data centres are hitting big energy shortages at home.
+
+In the US, about 40 per cent of server power comes from natural gas. As geopolitical tensions raise fuel prices, the cost of running these centres have gone up sharply. Beyond the hype, more than 80 per cent of corporate AI projects collapse before or immediately after the proof-of-concept stage because of poor data integration and huge upfront costs.
+
+Crucially, when algorithms leave structured digital sandboxes, such as code repositories, curated text databases, or predictable logistics grids and confront the chaotic, messy reality of physical, emotional human life, they fail spectacularly. A viral video from a "Future Era" robot store in Shenzhen captures this limitation. A multimillion-dollar humanoid robot took the stage to perform Michael Jackson's 1983 hit "Billie Jean." At first it managed a few preprogrammed, passable moves.
+
+But when it stepped onto a slightly raised edge of the stage, its balance system collapsed. The robot stumbled in jerky, mechanical contortions. The act ended not with applause but with a technician walking onstage, seizing the inert machine by its frame, and dragging it off like broken office equipment.
+
+It is implied that genuine artistic expression depends on subtle micro-dynamics  -  facial shifts, the intentional catching of breath, and the charged weight of silence. Those cues arise from an interior emotional life like grief, joy, defiance or v ulnerability. L acking inner consciousness, machines can only mimic such forms, producing an uncanny, hollow caricature or mimicry.
+
+Artificial intelligence is neither an omnipotent digital messiah nor a harmless, cute novelty designed for social media entertainment. It is a highly powerful, deeply flawed, and resource-intensive automation tool. If we are to build an ethical future, our regulatory priorities must shift away from abstract sci-fi worries of machine sentience and focus directly on tangible human protections.
