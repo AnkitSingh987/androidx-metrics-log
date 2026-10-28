@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Indias semiconductor mission must now build
+
+India's semiconductor mission must now build capability that turn manufacturing into technological resilience
+
+Must now build capability that turn manufacturing into technological resilience As projects such as the Tata Electronics-ASML Dholera fab advance, India's semiconductor strategy is shifting towards long-term resilience through supply-chain depth, talent development and technology ecosystems. India's semiconductor ambitions appear to be entering a more consequential phase. The recent Tata Electronics-ASML partnership for the Dholera fabrication plant and the gradual movement of several approved projects suggest that the shift from attracting investment to building capability is on track.
+
+The first phase of the government's semiconductor mission was straightforward: offer incentives, attract investors, and create the beginnings of a domestic ecosystem. By that measure, the effort has shown progress. Approved projects now span fabrication, assembly, testing, and packaging facilities, while investments running into more than Rs 1.5 lakh crore have been committed.
+
+For a country that had long remained largely absent from global semiconductor manufacturing conversations, the movement has been substantial. More importantly, it has moved the discussion from whether India can participate in the semiconductor value chain to where and how deeply it should participate. Yet the structure of these investments also reveals the practical choices the government has made.
+
+Much of the progress has come in assembly, testing, marking, and packaging facilities, alongside mature-node manufacturing rather than the most advanced chips. This is not necessarily a weakness. Semiconductor ecosystems have historically developed in stages. Even countries that today dominate the industry did not begin with the most advanced fabrication capabilities.
+
+The economics of the sector are daunting: front-end fabrication requires massive capital expenditure, specialised talent, and decades of accumulated expertise. Attempting to immediately compete at the technological frontier would have carried large financial risks and uncertain outcomes. The choice of beginning with relatively achievable segments therefore reflects pragmatic sequencing.
+
+It would have been difficult to justify a strategy that prioritised technological symbolism over commercial viability and execution. At the same time, early indications around the next phase of semiconductor policy suggest that the government recognises that manufacturing alone cannot be the end objective. Discussions around future support have increasingly pointed towards areas such as semiconductor equipment, materials, domestic intellectual property, design ecosystems, and deeper supply-chain capabilities.
+
+The shift is understandable because semiconductors differ from many manufacturing industries. Strategic influence is distributed across multiple layers involving design software, equipment suppliers, specialised chemicals, materials, and highly skilled talent. Even major economies remain dependent on international networks for different parts of the value chain.
+
+Dependence in semiconductors can therefore emerge in less visible forms, like reliance on imported lithography systems, external design tools, or foreign intellectual property frameworks. Measuring progress only by the number of factories created risks offering an incomplete picture of technological capability. For the government, therefore, the next challenge may not be attracting additional factories but deciding what comes after them.
+
+Calls for complete self-sufficiency in semiconductors may appear attractive in an era of economic nationalism and geopolitical uncertainty, but such ambitions can quickly become expensive and impractical. The more realistic objective is resilience, which means reducing vulnerabilities in critical areas without attempting to localise every element of the chain. This would require greater attention to domestic chip design, research ecosystems, advanced skill development, and support for firms building intellectual property and specialised technologies.
+
+It would also require maintaining international partnerships rather than viewing them as signs of dependence. Semiconductor policy should ultimately be judged not by whether India can produce everything on its own, but by whether disruptions in a few critical parts of the chain can leave the economy exposed. The first phase has brought factories.
+
+The next phase must create capabilities.
