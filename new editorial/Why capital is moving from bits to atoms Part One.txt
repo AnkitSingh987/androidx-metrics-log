@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Why capital is moving from bits to atoms Part One
+
+Why capital is moving from bits to atoms
+
+In today's Finshots, we take a look at how AI and advanced robotics are changing the economics of global manufacturing and what this transition means for India's industrial strategy. The Story History has a rather uncomfortable lesson about what happens when a society starts running out of people. Take the Roman Empire, for instance.
+
+At its peak, agricultural workers produced food, craftsmen manufactured goods, and merchants transported them across regional borders. Soldiers secured trade routes, and workers paid taxes that funded state infrastructure. Then Rome grappled with repeated shocks such as invasions, wars and food supply problems, that led to a population decline.
+
+Historians say these demographic contractions affected agricultural production, wages, prices, and government revenues. Because a smaller population meant that you had fewer people to cultivate the land, manufacture goods, and fewer taxpayers. This situation highlights the core problem of demographic decline.
+
+An economy doesn't just need money, but also needs people to create things, provide services, and consume what others produce. So, if a working-age population continues to shrink over several decades, the negative economic effects compound over time, across the entire system. Economists actually have a more formal version of this problem.
+
+Stanford economist Charles Jones argues that long-term growth ultimately depends partly on people producing new ideas. Fewer people can therefore mean not just fewer factory workers, but fewer researchers pushing the technological frontier forward. But now, AI introduces a strange possibility into that equation.
+
+If machines eventually become capable of performing research, managing production, and operating other machines, economic capacity could increasingly be manufactured like capital, shifting some of the constraint on growth away from population and toward things such as chips, factories, and energy. If that sounds like science fiction, wait until you look at what is happening in China. A couple of days ago, Chinese humanoid robot manufacturer Unitree Robotics debuted on the Shanghai Stock Exchange.
+
+The stock surged almost sixfold on its first day of trading, briefly valuing Unitree at more than $50 billion. For context, the company generated only about 1.7 billion yuan (~ USD 250 million at today's exchange rate) in revenue in 2025. Source: CGTN And the interesting part isn't the robots themselves, but what they could do to manufacturing.
+
+Chinese factories are already testing humanoid robots for inspection, sorting, assembly, and logistics. Over the last few decades, if a company wanted to manufacture something at scale, it went to a country where workers were cheap. In the 1970s, China became the world's factory because it had an enormous workforce, low wages, and a huge network of suppliers that could turn raw materials into everything from electronics to cars.
+
+But now, automation has started to change that equation. China has spent years building increasingly automated factories. Some have even gone so far that they are called dark factories, where manufacturing facilities can operate with very little human intervention. At BYD's Zhengzhou manufacturing complex, the company says that automated robots handle 98% of the welding, assembly, and quality inspection.
+
+And this isn't limited to China. Even in India, at Polymatech's semiconductor facility in Kancheepuram, robots assemble chips inside a cleanroom through the night while engineers largely just monitor operations from outside. But hyper-automation creates a different kind of vulnerability too. Polymatech's director estimates that a serious power fluctuation could destroy around $1 million worth of production.
