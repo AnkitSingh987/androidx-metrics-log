@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Roboadvisors vs humans Who wins Part One
+
+Robo-advisors vs humans: Who wins?
+
+A digital economy needs a blend of both: algorithms assess client risk profiles and ensure suitable recommendations, human oversight adds value The debate pitting robo-advisors against human advisors is often about competition and not so much about complementarity. Today, advice is free-floating.
+
+When it comes to financial advice, people prefer a second opinion as it matters to them and their family's future the most. Hence, it is imperative to take correct, timely, and appropriate decisions. The multiple channels of information, including suggestions from age-old trusted advisors or insurance agents coupled with low-cost algorithm-based robo advice, makes investors' decision difficult when they marry it with their personal needs, risk appetite, future sources, avenues of alternative investments, etc.
+
+As Philip Fischer observed, "The stock market is filled with individuals who know the price of everything but value of nothing." Which one is better, robo or traditional advice? While robo advice is mechanical, quick, precise, and information-based, human advisors, in addition to publicly available market information, amalgamate personal choice, feelings, and intuitive anticipation about the market, and assessment of other alternate investment avenues Robo-advisors may pass the test of technical audit in terms of quality and correct advice, but may fall short of meeting personal needs, risk appetite, choice, and intuitions that are guided by a set of information in the mind of the investors or human advisors. In a rising market, recent gains feel like proof and we start believing we cannot lose.
+
+In a falling market, fear feels like intelligence and we exit at the worst time. Many people buy after prices have already run up and sell after the fall has occurred. People also hold on to loss-making investment too long because selling feels painful. These patterns are repetitive. That is exactly why right advice matters.
+
+Robo-advisors undertake precise calculations and make predictions based on information in the public domain. For many new investors, the real alternative is not a senior wealth manager, but no advice at all, or advice from social media and friends. Digital platforms reduce this effort as they make it easier to start, diversify, and rebalance while helping investors avoid panic decisions.
+
+In India, the investor base is growing rapidly with the advent of digitalisation along with the rise in retail investment. The United Payments Interface processed about 21.70 billion transactions in January, worth roughly around `28.33 lakh crore, and the total demat accounts were reported at 21.6 crore at the end of December 2025. People are entering the digital market through apps for the first time with inadequate knowledge.
+
+Simple and low-cost guidance through robo-advisors becomes handy. Automation does not necessarily remove bias. It may shift bias into product design and platform incentives. Conflicts of interest can still exist through partnerships and revenue models, even if the user interface looks clean. This is where human advisors will continue to matter.
+
+It is not only about choosing between two funds, but also helping people during real-life situations such as job loss, medical emergencies, business shocks, etc. Personal finance is not just mechanical portfolio allocation but decisions that factor in context, judgement, and reassurance, especially when stress makes people abandon long-term plans. There is another added advantage that good human advisors bring - behaviour coaching.
+
+Many investors do not lose money because they chose the wrong product, but because they change plans too often. A good advisor acts like a brake - slowing decisions, explaining the trade-offs, yet keeping the focus on goals. Technology can rebalance a portfolio, not fear. So who wins? Technology is best for repeat tasks like onboarding, profiling, reporting, and rebalancing.
