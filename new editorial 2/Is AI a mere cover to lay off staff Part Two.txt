@@ -1,0 +1,26 @@
+Category: Editorial
+Title: Is AI a mere cover to lay off staff Part Two
+
+Is AI a mere cover to lay off staff?
+
+This is not displacement. It is the quiet removal of the lower rungs of the ladder. According to the International Labour Organization (ILO), roughly one in four workers globally now faces some generative AI exposure. Women are over-represented in the highest-risk category. The young, seeking their first high-skill job, face the steepest squeeze of all.
+
+This is not a job apocalypse. It is something subtler and more durable. It is the slow barricading of the door marked first decent job. It is here that the policy void becomes the policy choice. The American WARN Act requires advance notice of mass layoffs but does not require disclosure of AI as a cause.
+
+The European AI Act treats AI used in hiring and termination as high-risk, but does not yet govern the broader corporate claim that AI made a redundancy necessary. Most jurisdictions remain in soft-law mode. Guidelines. Ethics frameworks. Voluntary codes. Soft law is dignified in print. It tends to evaporate the moment it meets an earnings call.
+
+India has neither WARN-equivalent disclosure nor a comprehensive AI Act. The AI Governance and Economic Group (AIGEG) constituted earlier this month is institutional architecture, not statute. We have the Industrial Disputes Act of 1947, designed for an industrial economy that no longer reflects how most Indians earn their living.
+
+None of it asks the question that now matters most. Truth in attribution Was AI actually responsible? Or was AI the alibi? What governance now requires is not reinvention. It is resolve. Five moves are needed. Truth in attribution. Any layoff above a material threshold that cites AI, automation or transformation should trigger standardised disclosure, routed through the existing Ministry of Corporate Affairs (MCA) and Securities and Exchange Board of India (SEBI) corporate-disclosure architecture rather than a new regulator.
+
+Which functions. Which systems. Pilot or production. Which baseline metrics. What share via attrition versus dismissal. Misstatement or omission should attract civil penalties scaled to the size of the workforce action, drawing on the same architecture SEBI already operates against inaccurate corporate filings.
+
+Without disclosure, AI is not a cause. It is a brand. Evidence before elimination. Where AI is the stated rationale for major cuts, an independent audit of capability, task fit and human oversight should be a precondition, not a postscript. Where the audit finds that claimed productivity gain does not match proposed workforce reduction, regulatory disclosure and a mandatory consultation period should follow automatically.
+
+The IndiaAI Mission and NITI Aayog have already begun the institutional groundwork. We require this discipline of pharmaceuticals, banks and aircraft. An advisory audit is theatre. A binding one is governance. Transition duty, not merely notice duty. The architecture must move from passive notice to affirmative obligation on large employers.
+
+Funded redeployment. Apprenticeships. Wage insurance. The Ministry of Labour and Employment (MoLE), working alongside the Ministry of Skill Development and Entrepreneurship (MSDE), the National Skill Development Corporation (NSDC), and the Skill India architecture, has the rails. What is missing is the obligation to use them when AI is the stated cause of cuts.
+
+Protection for the entry-level pipeline. Where firms use AI to compress junior hiring, offsetting investment in graduate intake and apprenticeships in exposed occupations should be required. The long-run cost is not today's redundancy. It is the absent ladder for the next cohort. And a labour observatory worthy of the moment.
+
+India should build its own, tracking role-level exposure, hiring freezes, severance patterns and regional concentration in customer operations, finance back offices and early-career software roles. What is measured is governed. What is left to corporate discretion becomes, in time, somebody else's crisis.
