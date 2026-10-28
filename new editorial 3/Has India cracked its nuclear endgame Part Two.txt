@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Has India cracked its nuclear endgame Part Two
+
+Has India cracked its nuclear endgame?
+
+Things like running conventional reactors using uranium, and securing long-term fuel supplies through domestic reserves or international partnerships. And yet, India didn't back down from this pursuit. It stayed committed to breeder reactors because they were essential. This stage was never just about generating electricity.
+
+It was about creating the materials for the third and final stage. And that's what makes the PFBR milestone so significant. By achieving criticality, India has shown that it can run a reactor using plutonium-based fuel. This is the step that makes moving beyond uranium possible. But more importantly, it brings the country closer to something far bigger: the ability to expand its nuclear fuel base.
+
+If fast breeder reactors work as intended, they can produce more usable (fissible) material than they consume, effectively turning a scarce resource into more usable fuel. In the process, they don't just create more fuel. They also make better use of what would otherwise be treated as nuclear waste. And that's what unlocks the final stage of the plan: Thorium.
+
+Not as fuel on its own, but as a material that can be turned into Uranium-233, the fuel that powers stage three. Here's the tricky part though, because getting it right wasn't just about switching a reactor on. To begin with, the reactor uses what's called mixed oxide fuel (MOX) which is a combination of plutonium and uranium.
+
+This fuel had to be fabricated precisely, loaded into the reactor core, and arranged in a way that would allow a controlled chain reaction to begin. Unlike conventional reactors that use water as a coolant, the PFBR uses liquid sodium. This allows the reactor to operate at much higher temperatures and with fast-moving neutrons, both essential for breeding more fuel.
+
+But sodium comes with its own risks. It reacts violently with water and even air. So the entire cooling system has to be sealed, monitored, and engineered with extreme precision. Even a minor leak could be dangerous. And then there's the moment of criticality itself. Achieving criticality is a gradual process.
+
+Control rods which are used to absorb neutrons are slowly withdrawn. Think of control rods like brakes. They absorb neutrons and keep the reaction in check. As operators slowly pull them out, it's like easing off the brakes, and the reaction starts picking up pace. Step by step, it builds until it reaches a point where it sustains itself.
+
+If it's too fast, you risk instability and if it's too slow, the reaction won't sustain. Everything has to be balanced perfectly. It took decades, but despite all these risks, they were able to achieve criticality and open the next stage for India's nuclear programme. Reaching criticality is just the beginning.
+
+Over the next few months, the plant will go through a series of controlled tests before it can begin fully commercial operations. Because achieving criticality proves the science but it doesn't prove the economics. With an installed capacity of about 8.7 gigawatts, nuclear power accounts for just over 3% of India's total electricity generation.
+
+And that's quite small, especially when demand is only set to rise. If India wants to reduce its reliance on fossil fuel imports, mainly coal, and move towards energy independence, it needs more reliable sources of power. That's where nuclear comes in. It can complement intermittent renewables like solar and wind, while providing steady, 24/7 baseload power.
