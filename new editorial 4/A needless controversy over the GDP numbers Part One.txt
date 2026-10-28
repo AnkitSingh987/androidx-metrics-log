@@ -1,0 +1,22 @@
+Category: Editorial
+Title: A needless controversy over the GDP numbers Part One
+
+A needless controversy over the GDP numbers
+
+Japan Credit Rating Agency has raised India's sovereign rating to A- from BBB+, pointing to growth near 7 per cent and a financial system in better repair than it has been in years. apan Credit Rating Agency has raised India's sovereign rating to A- from BBB+, pointing to growth near 7 per cent and a financial system in better repair than it has been in years. Ratings do not create fundamentals.
+
+They notice them, usually late. What makes the timing awkward is that the upgrade has landed in the middle of a domestic argument insisting that the growth being cited is a statistical illusion. The claim is precise enough to be checked. India's real GDP grew 7.8 per cent in the June quarter and nominal GDP grew 10.3 per cent.
+
+A set of commentators has countered that nominal growth was in fact 2.6 per cent. They reach that figure by taking Rs 88.3 lakh crore, the June-2026 quarter measured on the new 2022-23 base, and dividing it by Rs 86.1 lakh crore, the June-2025 quarter figure as it was measured on the retired 2011-12 base. Two rulers, one division sign.
+
+The correct comparison uses the same ruler for both readings. On the new base, the June-2025 quarter is Rs 80.0 lakh crore, and Rs 88.3 lakh crore over Rs 80.0 lakh crore is 10.3 per cent. Take the most conservative internally consistent alternative available, the June- 2025 figure of Rs 80.4 lakh crore released in June, and nominal growth is 9.7 per cent, which after adjusting the deflator implies real growth of about 7.4 per cent.
+
+Whichever consistent pair you choose, the answer sits between 7 and 8 per cent. If mixing series were legitimate, it would have to be legitimate everywhere. Apply the same method to the annual numbers. FY26 real GDP was Rs 201 lakh crore under the old series and Rs 322 lakh crore under the new one. Nobody has announced that the economy grew 60 per cent in a year.
+
+Run it on nominal figures and it moves the other way: Rs 357 lakh crore under the old methodology against Rs 345 lakh crore under the new. Nobody has announced a contraction either. The method is used in exactly one place, in one direction, in one quarter. That selectivity matters because of what the rebasing actually did.
+
+It made India's nominal GDP about 4 per cent smaller, driven almost entirely by a downward revision to services, particularly trade, hotels, transport and communication, where the old series had over-estimated the informal economy's recovery after Covid. A statistical exercise designed to flatter the government would be an odd one to begin by shrinking the economy and making the Centre's debt-to-GDP target harder to hit. The new series is also the better instrument, which is the part of this argument that has gone missing.
+
+Manufacturing now uses double deflation, so output and inputs are deflated separately instead of being run through a single price index. Volume extrapolation replaces single deflation in mining and construction. GST returns, corporate filings and the enterprise and labour force surveys have displaced proxy indicators and inter-survey growth rates in estimating the household and quasi-corporate sector.
+
+Government spending is compiled from actual expenditure data rather than revised estimates. The results are visible: real growth is less volatile, the gap between GDP and GVA growth that caused years of argument has nearly closed, and statistical discrepancies now average zero against about minus 2 per cent of GDP earlier. None of this was sprung on anybody in August.
