@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Funding riddle for desi AI Part One
+
+Funding riddle for desi AI
+
+Re-routing portions of existing private and institutional pools into the capital-intensive layers of the AI pyramid is crucial to make any impact The dual shock (Claude Cowork and Citrini report) to the Indian IT sector on either side of the ides of February highlights the existential necessity - India should gear up to an IP-driven tech ecosystem. This transition requires massive financing. The government should provide strategic funding, not corporate charity.
+
+It should provide anchor capital to fund innovation and risk-taking. The temptation to dictate the technology arc should be resisted, as empirical evidence suggests government funding of start-ups leads to a weak and mediocre start-up ecosystem. The private sector has to pick up the mantle, but for the scale at which it is needed, the two questions are  -  can and will it?
+
+Four of the five layers of the AI pyramid (energy, chips, infrastructure, models) demand patient capital that, apart from the Centre, only a small set of domestic investor pools can credibly supply. Each of these have reasons to stay away. Domestic Capital Deficit First, Indian VCs are wired for capital-light and fast paybacks.
+
+They have successfully funded unicorns in consumer space, fintech, vertical SaaS, etc. that don't require ~10 years and $500 million+ patient capital. The ~2,000 VCs operating in India with a combined deployment of $16 billion (as against $285 billion in the US and $160 billion in China) lack the scale or structure for this kind of duration risk.
+
+Second, public equity markets in India reward profitability, not deep-tech moonshots. This attitude has produced many high-quality businesses, but is not suited to subsidising long-term spends. US companies can raise at $100 billion+ valuations on long-term theses that the market believes in. Indian analogues do not exist.
+
+A third, less-discussed source, is family-office investible wealth, arguably the most natural domestic source of long-duration capital  -  over $1 trillion is available from the top 1,000-odd families. They also have not shown the appetite for long-term moonshots and inclination for patient capital. Fourth, corporate investments have no natural incentive to deploy for tech moonshots without a deliberate structural nudge.
+
+Indian corporates manage their treasuries for liquidity, working-capital efficiency, and shareholder returns, not for strategic technology bets at the national capability layer. Where Indian corporates have moved, e.g., Reliance with JioBrain, Adani in Adani-Tower semiconductor JV, and Tata Electronics with Dholera fab, the scale pales compared to US hyperscalers  -  too small and too slow to anchor a national capability stack. Two levers can change this calculus and should be considered by policy planners charged with promoting deep-tech investments in India.
+
+First, tax incentives must be provided in the form of accelerated depreciation, weighted deduction, or capital gains relief on long-dated investments into qualifying deep-tech vehicles. If done well, this would convert some corporate treasury pool from pure return-seeking allocations into strategic co-investing alongside the government. Second, deep-tech investment in critical sovereign-capability technologies should be classified as a qualifying CSR head.
+
+This would allow the 2% mandatory CSR outlay of large corporates, a potentially multi-billion-dollar corpus, to flow productively into national-capability building. Advanced Economy Blueprint A possibly structurally cleaner fifth source of long-duration institutional capital is life insurance and pension funds. They have long liabilities (20-40 years) that align naturally with the gestation horizons of the four layers of the AI pyramid.
