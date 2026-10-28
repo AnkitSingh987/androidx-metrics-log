@@ -1,0 +1,18 @@
+Category: Editorial
+Title: Fake glitter
+
+Fake glitter
+
+Rajesh Exports yet again shows up shocking audit lapses Ordinarily, when Securities Exchange Board of India (SEBI) issues an order against a listed company for overstating its revenues by ₹15 lakh crore over five years, you would expect ripples in the stock market. However, SEBI's recent interim order, alleging that 99.8 per cent of Rajesh Exports' (REL) revenues of ₹15.45 lakh crore could not be verified, hasn't caused much of a furore. Most market players were hesitant to take the company's reported revenues at face value  -  which is why the stock traded at a market capitalisation of just ₹3,200 crore.
+
+The SEBI investigation has uncovered many accounting irregularities. One, though REL's revenues are derived mainly from its step-down Switzerland-based subsidiary Valcambi SA, there was a yawning mismatch between its own reported annual revenues of ₹2-5 lakh crore and Valcambi's revenues of less than ₹1,000 crore between FY21 and FY25. While the Swiss subsidiary, a gold refining company, recognised only its processing charges as revenue, REL has evaluated revenues at the gross value of gold refined in its consolidated P&L.
+
+Two, REL's subsidiary Global Gold Refineries AG which owns Valcambi and whose accounts were consolidated to arrive at these revenues, wasn't audited either in Switzerland or India. Three, the promoter's personal derivative trades were recorded as REL's. Related party transactions remained undisclosed.
+
+Though the company made provisions of over ₹1,000 crore towards investing in gold mines in Africa, there was no physical evidence of those gold mines. All this obviously flags gross negligence in the discharge of their duties by REL's statutory auditors. In view of these lapses, SEBI's penal actions in its interim order seem mild.
+
+Holding off monetary penalties, SEBI has merely restrained REL's promoters from dealing in the company's shares, directed REL to make true and fair disclosures of its financials, appointed a second forensic auditor to go into accounts and flagged audit-related issues to the National Financial Reporting Authority (NFRA) for further action. Whether SEBI decides to take more stringent action in its final order remains to be seen. The main lesson from the REL saga for retail investors seems to be that, when investing in under-researched small-cap companies, caveat emptor is the only rule that applies.
+
+Successive corporate governance scandals beginning with IL&FS, have shown that companies that operate through a labyrinth of subsidiaries are suspect. Statutory auditors of the holding company don't seem to take the audit of subsidiary accounts seriously. While the REL stock is not held by mutual funds, LIC (10.8 per cent stake) features as a key shareholder along with a few FIIs (14.2 per cent).
+
+It is indeed a mystery how LIC held on to REL for so long. It is also not clear how, despite being a past defaulter on bank dues, REL made the cut for the Production-Linked Incentive scheme for advanced chemical cell batteries. It has managed with its fake glitter for way too long.
