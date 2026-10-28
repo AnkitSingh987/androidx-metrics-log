@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Rollback of quality control orders is good Part One
+
+Rollback of quality control orders is good, but don't make haste
+
+Orders is good, but don't make haste Industrial policy cannot be built on abrupt shifts or opaque implementation After spending the past eight years erecting one of the world's most expansive regimes of mandatory product standards, the government has now begun dismantling a significant portion of it almost overnight. More than 20 quality control orders (QCOs) covering key textile, plastic and metal inputs have been withdrawn, with more rollbacks expected. This reset was overdue.
+
+But the way it is being done risks repeating the very errors that created the problem. India made haste in imposing nearly 700 QCOs with little preparation after 2017. It is now making haste in removing a quarter of them overnight, without consultation or transition time for the industries affected. What was once regulatory overreach may now become regulatory whiplash.
+
+Until 2014, QCOs were marginal in India's import system. The country relied mainly on tariffs, anti-dumping and safeguard duties to manage import flows. The 2017 Bureau of Indian Standards (BIS) Act changed this dramatically, giving ministries broad discretion to impose mandatory Indian standards. Since then, QCOs have proliferated across consumer goods, industrial materials and capital equipment.
+
+Some were justified on safety grounds  -  children's toys, pressure vessels, and domestic appliances. But a striking feature of India's approach was its decision to extend mandatory quality rules deep into the upstream value chain. About 25 per cent of QCOs covered raw materials and intermediates. Steel QCOs covered more than 1,300 grades.
+
+India is an outlier in regulating industrial inputs through mandatory factory-level certification. This choice created severe unintended consequences. MSMEs were hit by a double-certification trap: Both final products and every upstream input needed BIS approval. A June 2025 steel ministry order required every supplier to a BIS-certified foreign mill to be certified, too.
+
+For example, if a Thai company sold steel coils to an Indonesian mill, the Thai firm also needed BIS approval  -  otherwise, the Indonesian exporter, who is BIS-certified, couldn't sell steel to India. In the plastics industry, QCOs disrupted entire supply chains. India produces only a small share of the specialised polymer grades exporters need, yet foreign suppliers were still required to undergo expensive factory audits.
+
+Many refused because India was a tiny market. As imports fell, a few local firms gained significant pricing power, pushing prices above global levels and hurting MSMEs in packaging, auto parts, electricals, and medical devices. Textiles saw the same fate. QCOs on inputs, fibre, and yarns introduced in 2023 choked imports, raising Indian fibre prices above world prices.
+
+Synthetics account for 70 per cent of global apparel trade, but India's exporters found they could not obtain the exact blends required by international buyers. These QCOs had nothing to do with consumer safety  -  they choked India's participation in the fastest-growing segment of the global textile trade. Implementation failures worsened the problems.
+
+The steel ministry's no-objection certificate (NOC) regime became the worst example of licence raj. Although only 1,376 grades are formally covered by QCOs, NOCs were required for almost all steel imports, including grades not made in India. At ports such as Nhava Sheva and Mundra, containers sat for weeks pending approvals.
+
+Meanwhile, the BIS's foreign-factory audit system developed a reputation for inconsistency and opacity. Audits were slow, cancellations were frequent, and approvals were uneven: Some foreign suppliers linked to large Indian buyers moved quickly through the system; others waited indefinitely. In some countries, the BIS approved a single mill  -  effectively granting a monopoly to one Indian importer.
