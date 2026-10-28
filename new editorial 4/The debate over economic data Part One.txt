@@ -1,0 +1,22 @@
+Category: Editorial
+Title: The debate over economic data Part One
+
+The debate over economic data
+
+Changes in method for estimating GDP, employment have evoked criticisms. But these aren't convincing Criticisms of India's data and specially the national accounts, which became common after the base change to 2011-12, tend to be of four types. First, those that resist change and loss of comparability; second, those that selectively use data to support pre-conceptions; third, those that allege systematic biases and impute motivations; fourth, those that recognise the complexities of measurement in large, heterogeneous and rapidly changing societies and make feasible and constructive suggestions for improvement.
+
+Only the fourth deserve to be taken seriously, but since the first three have received a lot of attention we will discuss examples of each type. As India goes in for major base and other changes this year it may help to separate the substance from the noise in the commentary that is sure to follow. Status quoism The first set is motivated by resistance to change, perhaps because of familiarity or different types of investment in earlier methods.
+
+But change is inevitable with the economy. The upgrading to the United Nations System of National Accounts (SNA) 2008, in the 2011-12 rebasing, required shifting from the factory to the enterprise. The shift from to the MCA-21 database of 3-5 lakh firms from the RBI's sample of 2,500 firms was part of this, but was resisted on the ground that the Ministry of Corporate Affairs (MCA) included dummy firms.
+
+But a sample that captures only a tiny fraction of unrepresentative firms cannot continue to be adequate. India today has two million active firms. The MCA database, based on statutory filing, was cleaned-up and matured over time. Similarly, the shift from the five-yearly employment survey to the quarterly Periodic Labour Force Survey (PLFS) was criticised as leading to a loss of information.
+
+But more frequent unemployment data is essential for macroeconomic policy decisions. Those who protested now find they can do much more with the higher frequency data available on a range of labour market parameters. It has also proved more reliable than private estimates that were the only earlier alternatives.
+
+But that does not prevent the critics from calling a further shift to a monthly frequency unnecessary. The consumer expenditure surveys are said to be unusable since 'improvements' in methods made comparison with earlier surveys difficult. But they have been repeated in order to verify and benchmark.
+
+Selective data use GDP measurement is a complex exercise in any country but more so in ours. A number of scholars and analysts use issues in the Indian data to discredit official growth estimates. But since this tends to happen only when growth is high or exceeds forecasts it points to motivated preconceptions.
+
+If one configuration of data causes over-estimation the opposite implies underestimation. But only the first is highlighted. However flawed the data, forecasts cannot be a substitute for the detailed measurement that statistical agencies undertake. The absence of double deflation was said to over-estimate growth when WPI inflation is below CPI.
+
+But WPI exceeded CPI inflation over 2021, 2022 and both converged in 2025, implying growth was underestimated in these high growth years. In the 2010s aggregate credit growth fell due to a rise in bank non-performing assets. This was used as a 'smell test' to declare that growth was overestimated. But this variable was never used when both it and GDP rose together post-pandemic.
