@@ -1,0 +1,22 @@
+Category: Editorial
+Title: Who pays for Indias UPI revolution Part One
+
+Who pays for India's UPI revolution?
+
+India spent years making digital payments seamless to consumers. Scan a QR code, enter a PIN, and the transaction is done. India spent years making digital payments seamless to consumers. Scan a QR code, enter a PIN, and the transaction is done. Now, as UPI enters its next phase, people face a major dilemma: how do you keep a payment system affordable and innovative when the infrastructure behind it is not free to maintain?
+
+The government has opened the door to a Merchant Discount Rate (MDR) on a limited category of high-value UPI transactions, while assuring that Person-to-Person (P2P) payments will remain free. The Finance Ministry argues that rapidly rising transaction volumes require continued investment in cybersecurity, fraud prevention, and digital infrastructure, which cannot be sustained only by subsidies. There is a reasonable case for that approach.
+
+UPI has become one of India's most important components of digital structure. It processed 2,366 crore transactions worth nearly 29.9 lakh crore in July 2026 alone, according to the government. The success of UPI, however, was built on simplicity and low costs. Any change to its economics should therefore be judged not only by the revenue it generates, but by whether it preserves the competitive environment that made digital payments successful.
+
+That distinction matters because MDR is ultimately a cost of accepting payments. Even if consumers are not charged directly, merchants may have to bear the expense. The government has sought to limit this concern by saying that any MDR would apply only to a limited set of transactions above a threshold, while small merchants and ordinary users would remain protected.
+
+But a cost that enters the payment ecosystem does not necessarily disappear simply because it is not displayed on the consumer's screen. India's UPI shows why pricing matters. MDR was set to zero for UPI and RuPay debit card transactions in January 2020 to encourage digital-payment adoption. Since then, UPI has become deeply embedded in everyday commerce, with total annual transactions increasing 12,000-fold since FY 2016-17.
+
+The zero-MDR model clearly helped create the conditions for rapid adoption. The question now is not whether the zero-MDR model delivered results. It clearly did. The question is whether a carefully calibrated revenue model can fund the next stage of growth without undermining the affordability that made UPI successful in the first place.
+
+This does not mean India should preserve a zero-cost model regardless of its consequences. Payment providers need viable business models if they're expected to invest in better technology and security infrastructure. The government's argument that the ecosystem must become more financially sustainable should be taken seriously.
+
+The real question is where to strike a balance: adequate revenue to sustain investment and coverage and enough competition to keep platforms innovative while protecting consumers from hidden costs. PhonePe and Google Pay still account for roughly 79 per cent of UPI transaction volumes, although their combined share has recently fallen below 80 per cent as smaller platforms such as Navi and super.money gain more ground. That is encouraging, but it also shows how cluttered the market is.
+
+A payment ecosystem that relies heavily on a few platforms should be careful not to create economic conditions that make it harder for new players to enter, experiment, and attract consumers. This is where UPI's next chapter could be different from its first. India's digital payments revolution succeeded because consumers were given a system that was convenient, interoperable, and inexpensive.
