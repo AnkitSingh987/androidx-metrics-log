@@ -1,0 +1,14 @@
+Category: Editorial
+Title: The AI apocalypse is a marketing trick And Part Two
+
+The AI apocalypse is a marketing trick. And it's all about the money
+
+But even more sophisticated, if lesser-known AI systems follow this pattern  -  they are data-driven pattern-recognisers or generators. Given this, AI, when applied to economic or social tasks, is an accelerator of extant social and economic problems by automating past patterns. Similarly, computer scientist Arvind Narayanan, a professor at Princeton, characterises AI as a "Normal Technology" as opposed to a frontier technology.
+
+This does not mean it is not "powerful" in the tasks it can do when correctly used, but that there are real limits of what the technology can do and it is often used incorrectly. Often, the threat of AI is what causes job displacement or wage depression rather than the actual ability to automate. Why, then, is there such a high degree of blatant misrepresentation?
+
+In short, over the last six years, the amount of money invested in the data centre and LLM industry has reached a trillion dollars. Revenue numbers are still in the hundreds of billions, and most of it is from chipmakers like Nvidia, whose customers are everyone else in the arena. Even where revenue exists, scholars have pointed out significant amounts of outright fraud; for example, the pseudoscientific "emotion detection" tech is nearly a billion-dollar industry.
+
+Given this degree of hype, developing nations are being conned into technological lock-ins, spending tax money blindly on buying immense amounts of data centres and compute without building the foundational academic base of AI research. The (cooked-up) profit motive and the marketing of a fantasy are pushing policy abandonment in favour of the industry. Also pushed are the serious harms of using statistical, error-prone artefacts in public domains, making exploitative wage relations worse, depressing wages by threatening automation, centralising wealth, and destroying privacy to feed an unending data hunger.
+
+If anything is a threat, it is the economics of this industry. It is high time we question its premises and regulate this technology like we do any other. Written by: Anupam Guha The writer is assistant professor, working on AI and Policy, at the Ashank Desai Centre for Policy Studies at IIT Bombay
