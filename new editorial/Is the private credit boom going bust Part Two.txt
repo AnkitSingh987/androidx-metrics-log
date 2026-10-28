@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Is the private credit boom going bust Part Two
+
+Is the private credit boom going bust?
+
+Bermuda Triangle strategy To boost returns, these firms employ what industry analysts call the "Bermuda Triangle" strategy, whereby a single sponsor controls three interlinked entities: a life insurer, an asset manager, and an offshore reinsurer. The insurer gathers premiums; the asset manager channels those funds into private credit deals it originates and prices; and the reinsurer  -  typically based in Bermuda or the Cayman Islands  -  assumes the insurer's liabilities under looser capital requirements than those imposed by US regulators. The system is already showing signs of strain.
+
+Software companies, long a favoured target for private-equity buyouts because of their steady revenues and low capital expenditures, are being repriced as AI threatens widespread disruption. Private credit funds' exposure to the sector is an estimated $600-750 billion, fuelling liquidity pressures. Blue Owl recently restricted withdrawals from a $1.7 billion retail fund, and Blackstone's BCRED has recorded its largest net outflows since its inception.
+
+The shares of publicly traded alternative-asset managers have also fallen sharply. These developments highlight a deeper structural problem. When the same firm originates a loan, holds it in a fund it manages, values it using its own models, and reports that value to an insurer it owns, the result is unlikely to reflect what an independent buyer would pay.
+
+Whether turmoil in private credit markets could trigger a broader financial crisis is impossible to know in advance, but that uncertainty is itself part of the risk. Before 2008, few observers understood how vulnerabilities in the US subprime-mortgage market could cascade through the global financial system. There is no reason to assume that we have a better view of the risks in private credit markets today.
+
+To be sure, none of this means a financial crisis is inevitable. But it does suggest that risk has migrated into less transparent structures, subject to lighter regulation yet still tied to government guarantees. The gains accrue to Wall Street, while the potential losses may once again fall on retirees and state insurance systems.
+
+In that sense, the echoes of 2008 are becoming hard to ignore. By Brian Judge The writer is Research Director of the Program on Finance and Democracy at the University of California, Berkeley.
