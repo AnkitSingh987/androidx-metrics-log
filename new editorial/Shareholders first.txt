@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Shareholders first
+
+Shareholders first
+
+SEC's proposal to make quarterly earnings reporting optional could tilt the balance away from investors The proposal by the US Securities and Exchange Commission (SEC) to allow listed companies to opt for semi-annual rather than quarterly earnings reporting has reignited an old debate on the balance between transparency and corporate flexibility. SEC Chairman Paul S Atkins has argued that existing rules are excessively prescriptive. Supporters of the move, especially corporates, believe quarterly disclosures encourage unhealthy short-termism by forcing managements to focus on immediate earnings targets instead of long-term investments in innovation and strategic transformation.
+
+They also point to the heavy compliance burden associated with frequent reporting. Preparing detailed disclosures every quarter consumes managerial bandwidth and imposes significant audit and administrative costs. There is also a broader argument that excessively frequent reporting can become counterproductive.
+
+Bi-monthly or ultra-frequent disclosures may increase transparency, but they can also amplify market volatility by encouraging investors to overreact to temporary fluctuations. Cost of Information Asymmetry Yet the counterargument remains equally compelling. Frequent disclosures are central to investor confidence because they provide a steady and predictable flow of information about a company's financial health.
+
+Quarterly reporting allows investors and analysts to detect operational weaknesses, declining profitability, or cash-flow stress at an early stage. Longer gaps between disclosures, critics warn, could increase speculation, widen information asymmetry, and create fertile ground for rumour-driven volatility. Governance experts also argue that reducing disclosure frequency may disproportionately hurt minority shareholders.
+
+Many shareholder-friendly companies may voluntarily continue with quarterly disclosures even if the rules are relaxed. But weaker governance standards elsewhere could exploit the flexibility. The debate has also revived criticism of "quarterly capitalism"  -  the idea that relentless pressure to deliver immediate returns discourages companies from investing in future technologies and long-term capabilities.
+
+Critics often point to segments of India's information technology industry, where companies allegedly prioritised shareholder payouts over investments in technologies such as artificial intelligence. Enforcement Divergence For India, however, adopting a similar framework would appear premature. Unlike the US, a mature market that introduced quarterly reporting requirements in 1970, India made quarterly disclosures mandatory only in 2000.
+
+As a growing market still strengthening governance standards, India arguably requires stronger checks and balances rather than fewer. A major concern is the difference in enforcement capabilities between the SEC and the Securities and Exchange Board of India (Sebi). The SEC possesses significantly stronger investigative powers, including the ability to rely on wiretap evidence in insider-trading investigations.
+
+One frequently cited example is the SEC's use of such evidence in the 2012 case involving Rajat Gupta. Sebi neither possesses similar powers nor can such evidence be easily relied upon in Indian courts. In such circumstances, reducing the frequency of disclosures could increase the scope for insider trading and widen the information gap between insiders and ordinary investors.
+
+Ultimately, the debate boils down to a fundamental regulatory choice. There is merit in the argument that companies should not be burdened with excessive reporting obligations that encourage short-term thinking and divert managerial attention from long-term growth. But transparency remains the cornerstone of market confidence, particularly in emerging markets where governance standards and enforcement mechanisms are still evolving.
+
+Frequent disclosures may occasionally amplify volatility, but they also act as an important discipline on managements and help preserve investor trust. In markets such as India, where information asymmetry remains a serious concern and regulatory enforcement is relatively limited, reducing disclosure frequency could create more problems than it solves. For now, the stronger argument remains in favour of preserving a regular and predictable flow of information.
