@@ -1,0 +1,24 @@
+Category: Editorial
+Title: From assistants to adversaries Part One
+
+From assistants to adversaries
+
+Anthropic's decision to withhold mythos signals that our preparation time for such tech is finite The large language model (LLM) was supposed to be an assistant. We expected a tool that would tidy up prose, summarise the sludge of corporate reports, and perhaps produce serviceable computer code. For a moment, that seemed like the ceiling.
+
+Executives glimpsed a way to speed up the treadmill without changing the machine. That assumption is now breaking. We are moving away from systems that help and toward software that operates. Take Anthropic's Claude Mythos AI, supposedly withheld because it is "too powerful" and can cause a cybersecurity catastrophe.
+
+If you insist on viewing artificial intelligence (AI) as a conversational interface, you have already missed the point. Its significance lies not in what it says, but in what it does. It does not merely suggest how a system might be compromised; it attempts the compromise. The sceptics in the security community - those who have spent decades in offensive security - argue that none of this is new.
+
+They say all we are seeing is a sophisticated PR exercise. A skilled human attacker can already execute these sequences with more creativity and intuition than any current model. To them, a system like Mythos looks like a faster script, another tool in an already crowded arsenal. If a human can already find the zero-day or social-engineer the administrator, why does this shift matter?
+
+The answer lies in the movement from the artisanal to the industrial. A human attacker, no matter how gifted, is a constrained resource. They are limited by attention, by fatigue, and by the scarcity of their own expertise. You cannot replicate a top-tier exploit developer at will. A model, however, can be copied.
+
+The defining feature of Mythos is not that it surpasses human expertise in every dimension, but that it combines autonomy with scale. The traditional language model is bound by interaction - prompt, response, done. Mythos extends this into a loop - plan, act, observe, revise, repeat. In controlled environments, it has shown the ability to execute multi-step operations - reconnaissance, entry, escalation, persistence - where each failure informs the next attempt.
+
+Earlier models stalled after one or two moves. Mythos continues. The enabling mechanism is integration. Mythos writes and executes code, probes environments, interprets outputs, and adjusts its approach. The boundary between reasoning and action is eroding. A suggestion becomes an experiment; an experiment, if successful, becomes dangerous access.
+
+Cybersecurity is simply where this becomes visible first. When software can autonomously discover vulnerabilities, the economics of defense change. What once needed a skilled human working over several days can be compressed into minutes of compute. Financial institutions have noticed. Goldman Sachs has acknowledged both the capability and the risk, choosing to engage rather than dismiss.
+
+The logic is straightforward - if such systems exist, they will be used. The only question is by whom. Regulators are arriving at a similar position. The concern is not merely that vulnerabilities can be found faster, but that they can be found exhaustively. A human attacker is constrained by sequential effort; an automated system is not.
+
+Once scale enters, the character of the threat shifts. Thousands of systems can be probed in parallel. Weakness becomes less an anomaly and more a statistical probability. It is tempting to treat this as better tooling - a faster scanner or a more capable debugger. That framing understates the change.
