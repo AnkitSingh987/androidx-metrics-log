@@ -1,0 +1,24 @@
+Category: Editorial
+Title: Cybersecurity ostrich has a problem Part One
+
+Cybersecurity 'ostrich' has a problem
+
+Cyber breaches expose failures of capability, disclosure, governance, and regulatory accountability; after digital scale India's next test is institutional depth We have become remarkably comfortable with the language of digital transformation. Yet when this digital architecture fails, institutional responses too often retreat into silence, containment, or limited disclosure. CERT-In recorded 29.44 lakh cybersecurity incidents in 2025, higher than the previous years.
+
+The pattern is visible across sectors. AIIMS's 2022 ransomware attack disrupted critical hospital systems, while the C-Edge ransomware incident disrupted payment services in many small banks. boAt faced a reported breach involving data of 7.5 million customers, WazirX suffered a cyberattack in which about $235 million in digital assets were stolen, and BSNL faced reports of sensitive customer and network data being exposed.
+
+AI and cyber have become staples of corporate, regulatory, and bureaucratic conversations, as well as the conference circuit, even as many institutions are yet to scratch the surface of their own resilience capabilities. In the cyber era, authority without understanding is itself a risk. The recent incident involving one of India's leading listed banks is instructive.
+
+The bank said an employee's email account had been compromised, resulting in unauthorised access to certain data, while its core banking systems were neither accessed nor affected. Not surprisingly, cybersecurity researchers and media reports pointed to nearly 1 TB of data allegedly circulating on the dark web, including claims involving customer information, identification documents, loan papers, and internal audit records. The episode offers lessons for stakeholders across sectors.
+
+First, capability. Did the institution possess the competence to secure what it collected and retained? Were sensitive data sets properly segmented? Did management act on vulnerabilities identified by audits? Did the board receive an honest assessment of cyber risk, or another reassuring dashboard of controls and compliance?
+
+Cyber resilience rests on capability, architecture, culture, and governance. Business scale without corresponding capability simply creates a larger damage-radius. Identity documents, photos, account-opening records, loan files, financial relationships, and audit information can become a toolkit for impersonation, fraud, and social engineering.
+
+Second, disclosure and institutional response. Every serious data incident ultimately raises a more uncomfortable question than how the breach occurred: what did the institution do once it knew? The institution may not know the extent of the compromise. Management, finding the full facts inconvenient, may prefer stoic silence to control the narrative.
+
+Or the organisation may simply lack the forensic capability to establish quickly what happened. These circumstances can coexist. None should become a standing justification for opacity. In today's digital environment, cyber expertise does not arrive with age, designation, or institutional rank. Every external voice pointing to a gap cannot be dismissed as anti-institutional.
+
+Some may be offering an early warning that the institution itself missed. The "ostrich" mentality has little place in the cyber era. Institutions must overcome biases, and the comforting assumption that appointing a consulting firm amounts to having cyber capability. When cyber work is repeatedly subcontracted, as one sees in market practice, accountability can become so diffused that the institution itself loses sight of who actually understands and owns the risk.
+
+The consumer bears the consequences long after the incident disappears from the headlines. This is where India's emerging data-protection regime becomes important. The DPDP Rules require affected individuals to be notified without delay and the Data Protection Board to be informed without delay, with detailed information to follow within 72 hours or such longer period as may be permitted.
