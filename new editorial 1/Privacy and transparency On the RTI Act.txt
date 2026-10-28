@@ -1,0 +1,16 @@
+Category: Editorial
+Title: Privacy and transparency On the RTI Act
+
+Privacy and transparency: On the RTI Act amendment, petitions
+
+The RTI Act amendment, petitions There must be no information asymmetry between state and citizens On Monday, the Supreme Court of India referred a series of petitions challenging the amendment to Section 8(1)(j) of the Right to Information (RTI) Act by Section 44(3) of the Digital Personal Data Protection (DPDP) Act, 2023, to a Constitution Bench, recognising its "constitutional sensitivity". The Chief Justice of India even remarked that the Court might "have to lay down what is meant by 'personal information'". The RTI Act, 2005 was enacted to create an informed citizenry and ensure state accountability, which is vital for a democracy.
+
+Over two decades later, the DPDP Act has delivered a body blow by diluting one of its foundational sections. Section 8(1)(j) originally allowed the withholding of personal information only if it had no relationship to any public activity or interest, or if its disclosure resulted in an unwarranted invasion of privacy. Crucially, the section included a "public interest override" as an integral feature of the 2005 Act, permitting disclosure if a Public Information Officer was satisfied that the larger public interest justified it.
+
+The DPDP amendment removes this override and prohibits the disclosure of "any information which relates to personal information", amounting to a blanket ban. This enables rejecting requests concerning officials, procurement records, audit reports or public spending. In its campaign for the RTI, the Internet Freedom Foundation has highlighted a "legitimate uses" paradox here: while Section 7 of the DPDP Act allows the state to process personal data without consent, the RTI amendment prevents citizens from using similar principles to seek transparency from the state.
+
+Thus, while the government can monitor the citizen, the citizen is denied the ability to scrutinise the government. This amendment also creates a severe "chilling effect" on the press. As argued in one of the writ petitions by The Reporters' Collective, journalists could be classified as "data fiduciaries" under the DPDP Act and its Rules when collecting information for investigative reports.
+
+Non-compliance with the Act can attract fines up to ₹250 crore. Such a legal framework threatens reducing journalism to just publishing government releases. It is ironic that the DPDP Act provides exemptions to startups but omits similar protections for journalism. This is in sharp contrast with the European Union's General Data Protection Regulation (GDPR), which balances privacy and transparency to ensure accountability.
+
+The Constitution Bench must refer to the judgment, Central Public Information Officer (2019), which held that personal information should remain private unless disclosure is necessary for the larger public interest. It is known that the RTI has significantly reduced state-citizen (this includes the poor) information asymmetry over two decades. Ensuring its survival is essential for a responsive government.
