@@ -1,0 +1,20 @@
+Category: Editorial
+Title: Mapping states fiscal health Part One
+
+Mapping states' fiscal health
+
+Raising tax revenue and improving user charges emerge as key drivers of states' fiscal sustainability State finances depend on the instruments used, resources raised, and their allocation to different sectors consistent with the population  and priorities. States have significant autonomy in allocation of available resources; however, the availability of resources to a considerable extent is exogenously determined. Tax transfers from the Union are governed by the Finance Commission (FC), which recommends vertical sharing of tax resources of the Union with the states and horizontal sharing of the divisible pool among the states.
+
+Further, the Union also provides grants. Fiscal consolidation (exclusively in the states' domain) includes raising tax resources, improving user charges for the services, maintaining current expenditure to the level of its revenue receipt, and prioritising expenditure consistent with citizens' aspirations. We use six parameters, each an average of the past 10 years, comprising the award period of the 14th and 15th (FCs) to develop a composite index of fiscal health based on the ratio of state revenue to total revenue, ratio of states' tax revenue to GSDP (STRG), development expenditure as percentage to total expenditure, ratio of total revenue to total expenditure (RE), and user charges for the economic and social services.
+
+The figures reveal that STRG varies from a low of 3.32% for Mizoram to a high of 7.73% for Telengana. While most north-eastern States have a very low STRG, it exceeds 6% for Tamil Nadu, Punjab, Haryana, Andhra Pradesh, Madhya Pradesh, Karnataka, Odisha, Rajasthan, Maharashtra, Goa, Chhattisgarh, Uttar Pradesh, and Telengana. Gujarat (5.3) and West Bengal (5.7) have a relatively low STRG.
+
+State tax and non-tax revenue together indicate the degree of dependence on transfers. While transfers from the FC have usually been biased in favour of poorer states, grants have been discretionary. Overall, states were able to raise 56% revenue through their own sources, but it has been below 20% for Manipur, Nagaland, Arunachal Pradesh, Mizoram, and Tripura, all north-eastern states.
+
+The ratio exceeds 70% for Goa, Gujarat, Tamil Nadu, Karnataka, Maharashtra, Telengana, and Haryana. A ratio below 25% can indicate extreme vulnerability and dependence on central transfers. States should meet their revenue expenditure from the available non-debt receipts. Revenue surplus is considered a key criterion for fiscal health.
+
+Overall, states were able to meet 97% of their current expenditure from the same. Some states, particularly Punjab, Haryana, Kerala, Andhra Pradesh, Tamil Nadu, Rajasthan, and West Bengal were in a significant deficit, with revenue receipts meeting less than 90% of expenditure. Meanwhile, 14 of 28 states had a revenue surplus (figures in brackets are revenue receipt to expenditure ratio) - Goa (105); Sikkim (105); Nagaland (106); Meghalaya (107); Mizoram (107); Jharkhand (110); Uttar Pradesh (111); Odisha (116); Manipur (116); Arunachal Pradesh (127).
+
+There is hardly any relation between prosperous states (states with high percentage of revenue in revenue surplus). States allocate resources per their priorities within their budget. Development expenditure is considered virtuous as it improves the states' capacity for accelerated growth. The states' overall development expenditure has been around 63% of total revenue expenditure.
+
+However, for Kerala, Punjab, Nagaland, Manipur, Uttarakhand, Uttar Pradesh, Tamil Nadu and Tripura, it has been lower than 60%, and it exceeds 70% for Arunachal Pradesh, Odisha, and Chhattisgarh. States' non-tax revenue usually consists of administrative recoveries and user charges for the social and economic services provided. User charges for economic services had the widest divergence across states, with a cost recovery of less than 1% for Manipur to 87% for Odisha.
